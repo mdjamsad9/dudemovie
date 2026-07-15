@@ -1,0 +1,23 @@
+{
+  "id": "702cd3cf-e4e0-4cb1-808c-e8ac501dc05e",
+  "title": "Distant",
+  "slug": "distant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dFDbRalg7BpDWvzaqR0KsDTK66U.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 5,
+  "rating": 10,
+  "description": "A grieving man leaves voicemails for his girlfriend, but fleeting visions and a haunting dream force him to confront the truth about her absence.",
+  "created_at": "2026-07-09T16:54:23.659Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Distant.2024.1080p.WEBRip.x264%20%5BDDN%5D/Distant.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1a9a1972-1a25-4c2b-8786-e8d1a407202b",
+  "title": "Keedam",
+  "slug": "keedam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oc47AJXpj7Kof6Hqi7fNfMkfNy0.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 106,
+  "rating": 6.2,
+  "description": "Radhika Balan, a smart cyber-security expert, advocates the use of the technology for the good but her life is turned upside down when she falls prey to a cyber-stalking incident and her privacy gets compromised",
+  "created_at": "2026-07-09T17:54:33.157Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Keedam%20(2022)%C2%A0Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Keedam%20(2022)%c2%a0Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

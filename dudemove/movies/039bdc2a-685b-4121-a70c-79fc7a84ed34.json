@@ -1,0 +1,27 @@
+{
+  "id": "039bdc2a-685b-4121-a70c-79fc7a84ed34",
+  "title": "Iravatham",
+  "slug": "iravatham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2OCZWu1rnhonkW142xmSIwzXaFs.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 7,
+  "description": "A mysterious white camera turns a beautician's life into a waking nightmare, especially when she watches herself dying in the videos shoots with it.",
+  "created_at": "2026-07-09T17:48:00.300Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Iravatham%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Iravatham%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "298d9561-acb7-4552-80db-e15d5f351c21",
+  "title": "Madhi",
+  "slug": "madhi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iHxOsBelhu83n9Be39Ih0DD05Ig.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 139,
+  "rating": null,
+  "description": "Abhimanyu, aka Abhi and Madhu, two next-door youngsters, are deeply in love with each other. Madhu’s father gets her married to someone from their caste. In a salvaging effort, Madhu and Abhi decide to continue their love story even after her marriage.",
+  "created_at": "2026-07-09T17:48:22.615Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Madhi%20(2022)%20Telugu%C2%A0Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Madhi%20(2022)%20Telugu%c2%a0Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "fc708740-19cd-4a59-8b10-30cd5d508311",
+  "title": "Saturday Night",
+  "slug": "saturday-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 109,
+  "rating": 6.674,
+  "description": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television forever. This is the story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live.",
+  "created_at": "2026-07-09T17:09:53.154Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Saturday.Night.2024.1080p.WEBRip.x264%20%5BDDN%5D/Saturday.Night.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

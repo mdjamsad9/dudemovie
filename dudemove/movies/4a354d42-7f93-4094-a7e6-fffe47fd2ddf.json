@@ -1,0 +1,31 @@
+{
+  "id": "4a354d42-7f93-4094-a7e6-fffe47fd2ddf",
+  "title": "Vikram",
+  "slug": "vikram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 174,
+  "rating": 7.55,
+  "description": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+  "created_at": "2026-07-09T17:54:24.731Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vikram%20(2022)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vikram%20(2022)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

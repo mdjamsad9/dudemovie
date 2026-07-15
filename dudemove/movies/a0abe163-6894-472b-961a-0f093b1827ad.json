@@ -1,0 +1,23 @@
+{
+  "id": "a0abe163-6894-472b-961a-0f093b1827ad",
+  "title": "Maamanithan",
+  "slug": "maamanithan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/msEQk4DTWcPVbHrGKOo4xrCTnBo.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 5,
+  "description": "A humble auto driver is forced to go on the run, leaving his wife and two kids behind, after being cheated by a fraudster. Will he be able to save his family.",
+  "created_at": "2026-07-09T17:54:14.957Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Maamanithan%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Maamanithan%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

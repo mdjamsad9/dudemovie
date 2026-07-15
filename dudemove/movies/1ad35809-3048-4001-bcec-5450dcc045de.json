@@ -1,0 +1,31 @@
+{
+  "id": "1ad35809-3048-4001-bcec-5450dcc045de",
+  "title": "Amsterdam",
+  "slug": "amsterdam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2022,
+  "duration": 134,
+  "rating": 6.068,
+  "description": "In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history.",
+  "created_at": "2026-07-09T17:48:29.783Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Amsterdam.2022.1080p.WEBRip.x264%20%5BDDN%5D/Amsterdam.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

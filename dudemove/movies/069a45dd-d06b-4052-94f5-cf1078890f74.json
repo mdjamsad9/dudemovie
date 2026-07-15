@@ -1,0 +1,27 @@
+{
+  "id": "069a45dd-d06b-4052-94f5-cf1078890f74",
+  "title": "Empire of Light",
+  "slug": "empire-of-light",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 6.6,
+  "description": "The duty manager of a seaside cinema, who is struggling with her mental health, forms a relationship with a new employee on the south coast of England in the 1980s.",
+  "created_at": "2026-07-09T17:44:38.508Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Empire.Of.Light.2022.1080p.WEBRip.x264%20%5BDDN%5D/Empire.Of.Light.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

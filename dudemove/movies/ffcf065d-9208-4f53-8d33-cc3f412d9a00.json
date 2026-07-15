@@ -1,0 +1,31 @@
+{
+  "id": "ffcf065d-9208-4f53-8d33-cc3f412d9a00",
+  "title": "Pakka Commercial",
+  "slug": "pakka-commercial",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lJ8inMWG3TyPILtK5h4YRj45vH8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 160,
+  "rating": 4,
+  "description": "Son of retired judge Suryanarayana, Lucky is a talented lawyer who will argue for anyone with money. But is he really as ‘pakka commercial’ as he seems?",
+  "created_at": "2026-07-09T17:48:15.477Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pakka%20Commercial%202022%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pakka%20Commercial%202022%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

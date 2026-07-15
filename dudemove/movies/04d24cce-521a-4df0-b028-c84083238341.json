@@ -1,0 +1,27 @@
+{
+  "id": "04d24cce-521a-4df0-b028-c84083238341",
+  "title": "Jayamma Panchayathi",
+  "slug": "jayamma-panchayathi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7YaK8gaAInlBizx0BDkZ7piKVH9.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 121,
+  "rating": 7,
+  "description": "A fierce Jayamma hails from a well off family but she needs funds for her husband’s heart surgery. Will she manage to get what she seeks?",
+  "created_at": "2026-07-09T17:55:19.089Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jayamma%20Panchayathi%20(2022)%20Telugu%20Real%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Jayamma%20Panchayathi%20(2022)%20Telugu%20Real%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

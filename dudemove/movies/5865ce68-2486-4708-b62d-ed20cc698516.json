@@ -1,0 +1,27 @@
+{
+  "id": "5865ce68-2486-4708-b62d-ed20cc698516",
+  "title": "Bhairathi Ranagal",
+  "slug": "bhairathi-ranagal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ghA56IEkZ1FwJVDWWEihtVnRYvZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 8.3,
+  "description": "The story revolves around the life of Bhairathi Ranagal's journey from being a law-abiding responsible lawyer to the benevolent crime boss of Karnataka.",
+  "created_at": "2026-07-09T17:07:24.540Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bhairathi%20Ranagal%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhairathi%20Ranagal%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

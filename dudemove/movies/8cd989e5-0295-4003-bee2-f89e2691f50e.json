@@ -1,0 +1,27 @@
+{
+  "id": "8cd989e5-0295-4003-bee2-f89e2691f50e",
+  "title": "Padaiyappa Oonjal",
+  "slug": "padaiyappa-oonjal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/neCQsKHXr4UhCQ9BLrS12oaXmsg.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 105,
+  "rating": null,
+  "description": "This story involves a mission to be accomplished by 4 men; three cousins and a newly found acquaintance Thayalan.",
+  "created_at": "2026-07-09T17:09:59.084Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Padaiyappa%20Oonjal%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Padaiyappa%20Oonjal%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2e104fc0-7a6c-47bf-af3b-17778c6967c0",
+  "title": "Smile",
+  "slug": "smile",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 6.671,
+  "description": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain.",
+  "created_at": "2026-07-09T17:48:12.503Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Smile.2022.1080p.WEBRip.x264%20%5BDDN%5D/Smile.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

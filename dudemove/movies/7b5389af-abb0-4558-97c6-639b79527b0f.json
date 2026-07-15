@@ -1,0 +1,31 @@
+{
+  "id": "7b5389af-abb0-4558-97c6-639b79527b0f",
+  "title": "Jiivi 2",
+  "slug": "jiivi-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b6fAIyYBA0gUluwg8whx7DJfFIQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 109,
+  "rating": 6.3,
+  "description": "Saravanan restarts his life by marrying Kavitha, the daughter of his house owner, and takes up the job of a share-auto driver. As Mani, his friend, comes back into his life, the cycle of events start again putting Saravanan's life in a challenging situation.",
+  "created_at": "2026-07-09T17:52:37.316Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jiivi%202%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jiivi%202%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

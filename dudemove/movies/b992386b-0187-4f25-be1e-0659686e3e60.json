@@ -1,0 +1,35 @@
+{
+  "id": "b992386b-0187-4f25-be1e-0659686e3e60",
+  "title": "Mayan",
+  "slug": "mayan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2Bph1WfxncY1pdcWYXzfcwctI9r.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 110,
+  "rating": null,
+  "description": "A man is imbued with ancient powers which give him the ability to foresee and prepare himself for the end of the world.",
+  "created_at": "2026-07-09T17:07:27.464Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mayan%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Mayan%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2cd12dd4-2806-49cb-b2d3-7fbff0283963",
+  "title": "Pushpa 2 - The Rule",
+  "slug": "pushpa-2-the-rule",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bhxZj3y59cK7JtGdV285dhDRaMe.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 201,
+  "rating": 6.316,
+  "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+  "created_at": "2026-07-09T17:06:41.230Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pushpa%202%20The%20Rule%20(2024)%20Hindi%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Pushpa%202%20The%20Rule%20(2024)%20Hindi%201080p%20HDRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

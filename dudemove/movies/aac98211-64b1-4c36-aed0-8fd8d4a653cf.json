@@ -1,0 +1,31 @@
+{
+  "id": "aac98211-64b1-4c36-aed0-8fd8d4a653cf",
+  "title": "Anand Sreebala",
+  "slug": "anand-sreebala",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gnt2GVTgwbiY63HQtIE5VsFQNxU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 134,
+  "rating": 6.3,
+  "description": "Follows the missing person case of Merin Joy and how an ordinary man with a tragic past gets wrapped in the investigation.",
+  "created_at": "2026-07-09T17:09:20.124Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Anand%20Sreebala%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anand%20Sreebala%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

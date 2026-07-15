@@ -1,0 +1,31 @@
+{
+  "id": "ed0f5736-896a-4327-a5ce-6957a8deaf09",
+  "title": "Samaritan",
+  "slug": "samaritan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 102,
+  "rating": 6.654,
+  "description": "Thirteen year old Sam Cleary suspects that his mysteriously reclusive neighbor Mr. Smith is actually the legendary vigilante Samaritan, who was reported dead 25 years ago. With crime on the rise and the city on the brink of chaos, Sam makes it his mission to coax his neighbor out of hiding to save the city from ruin.",
+  "created_at": "2026-07-09T17:52:19.820Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Samaritan.2022.1080p.WEBRip.x264%20%5BDDN%5D/Samaritan.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

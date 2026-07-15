@@ -1,0 +1,31 @@
+{
+  "id": "e47644f0-b372-4abe-a91e-bf7ee1480924",
+  "title": "Pathonpatham Noottandu",
+  "slug": "pathonpatham-noottandu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tL1pf85mtn1SEHODLetoHRGdxnN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 156,
+  "rating": 5,
+  "description": "Arattupuzha Velayudha Panicker, a 19th century fiery social reformer and his unswerving fight against the dominant caste oppressions by the upper classes.",
+  "created_at": "2026-07-09T17:48:37.644Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pathonpatham%20Noottandu%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20%5BDDN%5D/Pathonpatham%20Noottandu%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

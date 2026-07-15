@@ -1,0 +1,31 @@
+{
+  "id": "6a6854b4-403c-429c-9bd4-5bbeaaaea18a",
+  "title": "Zombivli",
+  "slug": "zombivli",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g6cOvmJvOg5cZr6YgkMTxgw14ve.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Marathi",
+  "release_year": 2022,
+  "duration": 134,
+  "rating": 6.667,
+  "description": "In the suburban neighborhood of Mumbai, a wall separates the haves and the have-nots. Sudhir and Seema, a newly married middle class couple, live a life without hardship while Vishwas, a slum dweller, dreams of dignity for his people. Their lives collide as post nightfall the town fills up with ominous cries and moans that don't belong to people - they belong to zombies.",
+  "created_at": "2026-07-09T17:55:12.898Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Zombivli%202022%20Marathi%201080p%20WebRip%20x264%20AAC%20ESubs%20%5BDDN%5D/Zombivli%202022%20Marathi%201080p%20WebRip%20x264%20AAC%20ESubs%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

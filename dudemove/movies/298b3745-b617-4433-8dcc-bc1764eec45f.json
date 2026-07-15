@@ -1,0 +1,23 @@
+{
+  "id": "298b3745-b617-4433-8dcc-bc1764eec45f",
+  "title": "Darja",
+  "slug": "darja",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gnqybDXJFHn3HjNrPjLlbJnOiYW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": 5,
+  "description": "Kanaka Mahalaksmi is a local don, who does liquor business in Bandhar city and known for her ruthlessness. She sets her sights to rule the Bandhar port. As everyone including the police are terrified by her, ACP Shiva Shankar is transferred to the same city to get the crimes under control. The face off and the clash between these two powerful characters makes the rest of the story.",
+  "created_at": "2026-07-09T17:53:31.939Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Darja%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Darja%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
