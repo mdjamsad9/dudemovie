@@ -1,0 +1,27 @@
+{
+  "id": "9cdea9be-8f5e-4b36-aedb-85c5625bc9bb",
+  "title": "Gustaakh Ishq",
+  "slug": "gustaakh-ishq",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eEl28LCW1DsXTRhmdlo2vjuaP5X.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 128,
+  "rating": 7.167,
+  "description": "On a pursuit to save his father's printing press in the heart of Purani Delhi, a man becomes a disciple of a revered poet and falls in love with his daughter. Torn between his love and honoring his mentor, he must make a choice that could change his life forever.",
+  "created_at": "2026-07-09T16:42:59.985Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Gustaakh%20Ishq%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gustaakh%20Ishq%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

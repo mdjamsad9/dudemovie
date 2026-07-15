@@ -1,0 +1,35 @@
+{
+  "id": "4e5b6b9b-fe88-4d4a-924d-1c19bee70aa8",
+  "title": "Katharbasha Endra Muthuramalingam",
+  "slug": "katharbasha-endra-muthuramalingam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/72ZO0zs9NuEAEsLOMnoPcKnW6sm.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 153,
+  "rating": 5.7,
+  "description": "An arrogant yet righteous man decides to get married to a woman, who has been suffering at the hands of her relatives. Little does he realize that an enmity from his past is going to invite trouble in his personal life.",
+  "created_at": "2026-07-09T17:38:51.855Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kathar%20Basha%20Endra%20Muthuramalingam%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Kathar%20Basha%20Endra%20Muthuramalingam%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

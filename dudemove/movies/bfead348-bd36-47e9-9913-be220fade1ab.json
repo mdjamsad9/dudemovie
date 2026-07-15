@@ -1,0 +1,27 @@
+{
+  "id": "bfead348-bd36-47e9-9913-be220fade1ab",
+  "title": "My Big Fat Greek Wedding 3",
+  "slug": "my-big-fat-greek-wedding-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8yO8okCs9iohJ0iDVls6QYfu6l6.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 5.884,
+  "description": "Following the death of their patriarch Gus, the Portokalos family travels to Greece for a family reunion, and to deliver Gus' journal to his old friends.",
+  "created_at": "2026-07-09T17:33:30.472Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/My.Big.Fat.Greek.Wedding.3.2023.1080p.WEBRip.x264%20%5BDDN%5D/My.Big.Fat.Greek.Wedding.3.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

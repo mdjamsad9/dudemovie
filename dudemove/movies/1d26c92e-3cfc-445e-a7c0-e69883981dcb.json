@@ -1,0 +1,23 @@
+{
+  "id": "1d26c92e-3cfc-445e-a7c0-e69883981dcb",
+  "title": "Frida",
+  "slug": "frida",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 87,
+  "rating": 6.744,
+  "description": "An intimately raw and magical journey through the life, mind, and heart of iconic artist Frida Kahlo. Told through her own words for the very first time — drawn from her diary, revealing letters, essays, and print interviews — and brought vividly to life by lyrical animation inspired by her unforgettable artwork.",
+  "created_at": "2026-07-09T17:25:00.746Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Frida.2024.1080p.WEBRip.x264%20%5BDDN%5D/Frida.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

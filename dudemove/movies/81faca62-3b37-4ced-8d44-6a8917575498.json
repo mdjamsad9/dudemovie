@@ -1,0 +1,35 @@
+{
+  "id": "81faca62-3b37-4ced-8d44-6a8917575498",
+  "title": "Bank Of Bhagyalakshmi",
+  "slug": "bank-of-bhagyalakshmi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": null,
+  "rating": 2,
+  "description": "A crew of five amateur thieves reunite for one final score in a village brimming with elections. With no experience and only a reckless plan, things dont go as expected.  Will they make it out, or will the village remember them only as five fools who gambled with fate?",
+  "created_at": "2026-07-09T16:43:39.601Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bank%20of%20Bhagyalakshmi%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bank%20of%20Bhagyalakshmi%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

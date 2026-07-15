@@ -1,0 +1,31 @@
+{
+  "id": "11148964-47c9-43f4-8129-6bd8101039bd",
+  "title": "Alpha",
+  "slug": "alpha-hindi-movie",
+  "thumbnail_url": "https://c.ndtvimg.com/2026-06/ul1k8gsg_alpha_625x300_12_June_26.png?im=FaceCrop,algorithm=dnn,width=773,height=435",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 135,
+  "rating": 6.4,
+  "description": "Alpha is a 2026 Indian Hindi-language action thriller film directed by Shiv Rawail in his feature film debut, and produced by Aditya Chopra under Yash Raj Films. Based on a script written by Soumil Shukla, Shridhar Raghavan and Ishita Moitra and Uday Chopra. It is the seventh installment in the YRF Spy Universe. It stars Alia Bhatt, Sharvari, Anil Kapoor and Bobby Deol in the lead roles.[4] The film follows a highly trained assassin raised in isolation as a super-soldier by a rogue commander, when she discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program. Following a title announcement in July 2024, principal photography began in the same month, taking place in Mumbai, Kashmir, and Valladolid",
+  "created_at": "2026-06-28T08:21:13.536Z",
+  "genres": [
+    {
+      "name": "All Genres",
+      "slug": "all-genres"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Alpha%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Alpha%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

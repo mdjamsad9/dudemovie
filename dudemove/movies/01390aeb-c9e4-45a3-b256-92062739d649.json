@@ -1,0 +1,31 @@
+{
+  "id": "01390aeb-c9e4-45a3-b256-92062739d649",
+  "title": "Vallan",
+  "slug": "vallan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jchLUV0Ohm2sQKIOJjW95zNQYTW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 122,
+  "rating": null,
+  "description": "A suspended cop investigates a businessman’s murder that links to his missing fiancée. The case reveals money laundering through religious trusts and a hidden truth about a child’s death.",
+  "created_at": "2026-07-09T17:03:05.657Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vallan%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Vallan%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

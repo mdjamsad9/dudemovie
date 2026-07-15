@@ -1,0 +1,27 @@
+{
+  "id": "f5feaf4f-6b54-4312-bc1c-4563b2d4ff95",
+  "title": "Gargi",
+  "slug": "gargi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3gN32gdxdXd96Usl1vEzg7RFMQ7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 137,
+  "rating": 7.25,
+  "description": "When a schoolteacher's father is arrested for the rape of a 10-year-old girl, the media storm surrounding the case has lawyers reluctant about defending the accused. An inexperienced advocate with a speech disability agrees to take up the case despite the stiff opposition and ridicule from his association. It is now up to them to build their defence and prove that the man accused of committing the crime did not do it.",
+  "created_at": "2026-07-09T17:52:53.349Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

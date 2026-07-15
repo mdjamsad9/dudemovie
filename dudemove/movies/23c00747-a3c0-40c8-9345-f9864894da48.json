@@ -1,0 +1,27 @@
+{
+  "id": "23c00747-a3c0-40c8-9345-f9864894da48",
+  "title": "A Time for Bravery",
+  "slug": "a-time-for-bravery",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2025,
+  "duration": 107,
+  "rating": 7.471,
+  "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances.",
+  "created_at": "2026-07-09T16:45:39.413Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/A%20Time%20For%20Bravery%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Time%20For%20Bravery%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

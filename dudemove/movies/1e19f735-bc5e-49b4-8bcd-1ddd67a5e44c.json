@@ -1,0 +1,31 @@
+{
+  "id": "1e19f735-bc5e-49b4-8bcd-1ddd67a5e44c",
+  "title": "Home Team",
+  "slug": "home-team",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Czech",
+  "release_year": 2022,
+  "duration": 95,
+  "rating": 6.637,
+  "description": "Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.",
+  "created_at": "2026-07-09T17:56:19.536Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2022/Home.Team.2022.1080p.WEBRip.x264%20%5BDDN%5D/Home.Team.2022.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

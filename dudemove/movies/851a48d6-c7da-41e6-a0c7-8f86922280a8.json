@@ -1,0 +1,31 @@
+{
+  "id": "851a48d6-c7da-41e6-a0c7-8f86922280a8",
+  "title": "F3: Fun and Frustration",
+  "slug": "f3-fun-and-frustration",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c6yJv8fyNONChZ6bSAGsLEnvDKt.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 148,
+  "rating": 4.4,
+  "description": "Venky and Varun Yadav are ordinary guys with ordinary lives. Their struggle is all about money. One day they hear about a wealthy industrialist in Vijayanagaram who is looking for his heir. What happens when Venky, Varun and the gang arrive at his doorsteps pretending to be his heir.",
+  "created_at": "2026-07-09T17:33:42.342Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dd8b34c6-d94a-406d-8a4d-71776ace538e",
+  "title": "Slingshot",
+  "slug": "slingshot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 109,
+  "rating": 6.1,
+  "description": "An elite trio of astronauts aboard a years-long, possibly compromised mission to Saturn's moon, Titan, gears up for a highly dangerous slingshot manoeuvre that will either catapult them to Titan or into deep space.",
+  "created_at": "2026-07-09T17:13:16.866Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Slingshot.2024.1080p.WEBRip.x264%20%5BDDN%5D/Slingshot.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

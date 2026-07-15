@@ -1,0 +1,31 @@
+{
+  "id": "a73edf5f-73f8-4708-b51d-6bb82fcdf857",
+  "title": "In the Lost Lands",
+  "slug": "in-the-lost-lands",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 101,
+  "rating": 6.366,
+  "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+  "created_at": "2026-07-09T17:00:06.555Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/In.The.Lost.Lands.2025.1080p.WEBRip.x264%20%5BDDN%5D/In.The.Lost.Lands.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5d3ee829-1639-4c22-9737-a1641d8f8a1b",
+  "title": "Predator: Killer of Killers",
+  "slug": "predator-killer-of-killers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 85,
+  "rating": 7.8,
+  "description": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+  "created_at": "2026-07-09T16:57:05.558Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Predator.Killer.Of.Killers.2025.1080p.WEBRip.x264%20%5BDDN%5D/Predator.Killer.Of.Killers.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f0fbdbf7-8ab4-4dc5-910c-e5e66d8bdf3f",
+  "title": "120 Bahadur",
+  "slug": "120-bahadur",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fdxf02vUous6fty6O4nollyuo4m.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 137,
+  "rating": 6.4,
+  "description": "Valiant Indian soldiers fight against Chinese troops during the 1962 Sino-Indian War, preventing a potential occupation of Ladakh region in the Battle of Rezang La.",
+  "created_at": "2026-07-09T16:44:10.201Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/120%20Bahadur%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/120%20Bahadur%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

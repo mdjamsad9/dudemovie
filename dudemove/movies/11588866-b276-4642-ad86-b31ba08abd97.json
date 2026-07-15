@@ -1,0 +1,23 @@
+{
+  "id": "11588866-b276-4642-ad86-b31ba08abd97",
+  "title": "Vattara Vazhakku",
+  "slug": "vattara-vazhakku",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sfUGrdvbjWLyxdAAk415cVzCXBj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-09T17:05:27.837Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vattara%20Vazhaku%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vattara%20Vazhaku%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

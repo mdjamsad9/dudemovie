@@ -1,0 +1,27 @@
+{
+  "id": "507abb10-a2b3-496d-b32c-5329a7fbbef6",
+  "title": "Ward-126",
+  "slug": "ward-126",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yM6yjkJSLbyprN8a4WhSDeUGxzc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 142,
+  "rating": 5.5,
+  "description": "The investigation over an IT professional's death faces twists and turns as truths about the victim start coming out and he is found to have had multiple marital relationships.",
+  "created_at": "2026-07-09T17:53:05.449Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

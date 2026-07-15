@@ -1,0 +1,31 @@
+{
+  "id": "9443d300-ed08-4317-a004-a176e13cf727",
+  "title": "Nachindi Girl Friendu",
+  "slug": "nachindi-girl-friendu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kOyQqVenAMDjzXxOCYAVrMF4Cjh.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": null,
+  "description": "Raja Ram aka Raja, a confident youngster who has just completed his graduation, heads out with a friend to join a finance course. On the way, he falls in love with Sandhya aka Sandy, a software developer who heads an IT firm. From that instance, his life takes several mysterious turns in a few hours.",
+  "created_at": "2026-07-09T17:36:29.786Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

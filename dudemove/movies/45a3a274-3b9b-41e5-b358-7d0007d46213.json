@@ -1,0 +1,27 @@
+{
+  "id": "45a3a274-3b9b-41e5-b358-7d0007d46213",
+  "title": "UI",
+  "slug": "ui",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWoeysV4ro6wn4TE0QgqMuo6Val.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 5.1,
+  "description": "Set in a fictional world, the story is about the psychological conflict between a king in a town and an extraordinary man, and how that man, through his cunning and master minded plans takes over everything, takes control of the entire town, becomes a dictator.",
+  "created_at": "2026-07-09T17:05:53.095Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/UI%202024%20HDTC%201080p%20Hindi%20Kannada%20x264%20%5BDDN%5D/UI%202024%20HDTC%201080p%20Hindi%20Kannada%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

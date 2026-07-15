@@ -1,0 +1,27 @@
+{
+  "id": "474fd7d2-9b67-44bb-8bb3-a6e3dd6a8f99",
+  "title": "Gandharwa",
+  "slug": "gandharwa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fsF3xnKYWYYWU4oNza9JMwP623D.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": null,
+  "description": "Captain Avinash marries Amulya in 1971 and immediately called to duty by the Army headquarters. Unfortunately Avinash disappears in a deep valley while chasing the enemy. Somehow Avinash  wakes up in 2021 but his attire and age remains as he was in 1971.",
+  "created_at": "2026-07-09T17:46:52.396Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gandharwa%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gandharwa%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

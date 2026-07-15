@@ -1,0 +1,31 @@
+{
+  "id": "abea80a5-a2ba-4513-9afc-e11be7197a42",
+  "title": "Emily the Criminal",
+  "slug": "emily-the-criminal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Arabic",
+  "release_year": 2022,
+  "duration": 97,
+  "rating": 6.659,
+  "description": "Desperate for income, Emily takes a shady gig buying goods with stolen credit cards supplied by a charismatic middleman named Youcef. Seduced by the quick cash and illicit thrills, they hatch a plan to take their business to the next level.",
+  "created_at": "2026-07-09T17:51:33.165Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Emily.the.Criminal.2022.1080p.WEBRip.x264%20%5BDDN%5D/Emily.the.Criminal.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

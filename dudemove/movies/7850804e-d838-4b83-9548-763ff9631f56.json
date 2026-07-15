@@ -1,0 +1,23 @@
+{
+  "id": "7850804e-d838-4b83-9548-763ff9631f56",
+  "title": "Balan - The Boy",
+  "slug": "balan-the-boy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 147,
+  "rating": 6,
+  "description": "A teenage boy searches for his missing mother following a turbulent childhood and her subsequent disappearance, exploring his search for closure and the truth about his past.",
+  "created_at": "2026-07-09T16:32:39.172Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Balan%20The%20Boy%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Balan%20The%20Boy%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

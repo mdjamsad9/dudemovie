@@ -1,0 +1,27 @@
+{
+  "id": "66b4b92b-1643-4191-b09d-f7e31234a695",
+  "title": "Route Map",
+  "slug": "route-map",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fSKyZ2GxWjQJBR479r3PHmIWNZX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "ml",
+  "release_year": 2022,
+  "duration": null,
+  "rating": null,
+  "description": "The story is based on the events that took place in a flat during Covid-19.",
+  "created_at": "2026-07-09T17:45:24.202Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Route%20Map%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Route%20Map%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

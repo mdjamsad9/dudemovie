@@ -1,0 +1,27 @@
+{
+  "id": "f69972ff-671d-4835-ad6a-5f54c60c0463",
+  "title": "Thudikkum Karangal",
+  "slug": "thudikkum-karangal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/faIsrr19gXnAYWkhii3MlOE4Crv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 5,
+  "description": "Balu works as a clerk in Ramesh's estate and is very loyal to him. However, when Ramesh accidentally kills Balu, the victim's brother Gopi becomes furious and decides to avenge his death.",
+  "created_at": "2026-07-09T17:32:09.255Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thudikkum%20Karangal%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Thudikkum%20Karangal%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

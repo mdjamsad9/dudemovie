@@ -1,0 +1,23 @@
+{
+  "id": "cca4b0d3-cb3c-4158-973a-0248e595e3da",
+  "title": "Janaka Aithe Ganaka",
+  "slug": "janaka-aithe-ganaka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aAMn1DhI9lRlKNoLrLMTh3kU6iB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 138,
+  "rating": 6.5,
+  "description": "When his wife announces a surprise pregnancy, a man decides to sue the condom company he deems responsible.",
+  "created_at": "2026-07-09T17:11:06.334Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Janaka%20Aithe%20Ganaka%20(2024)%20Telugu%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Janaka%20Aithe%20Ganaka%20%282024%29%20Telugu%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

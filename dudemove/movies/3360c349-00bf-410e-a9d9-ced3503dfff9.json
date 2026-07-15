@@ -1,0 +1,31 @@
+{
+  "id": "3360c349-00bf-410e-a9d9-ced3503dfff9",
+  "title": "Confess, Fletch",
+  "slug": "confess-fletch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h2oyiPu7aql1s1mLDoKBNAH7p3B.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 99,
+  "rating": 6.218,
+  "description": "The roguishly charming and endlessly troublesome Fletch becomes the prime suspect in a murder case while searching for a stolen art collection. The only way to prove his innocence? Find out which of the long list of suspects is the culprit - from the eccentric art dealer and a missing playboy to a crazy neighbor and Fletch’s Italian girlfriend. Crime, in fact, has never been this disorganized.",
+  "created_at": "2026-07-09T17:51:17.240Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Confess.Fletch.2022.1080p.WEBRip.x264%20%5BDDN%5D/Confess.Fletch.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

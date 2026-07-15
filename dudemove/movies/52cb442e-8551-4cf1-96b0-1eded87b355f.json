@@ -1,0 +1,27 @@
+{
+  "id": "52cb442e-8551-4cf1-96b0-1eded87b355f",
+  "title": "Vishwak",
+  "slug": "vishwak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1CKETl9p1gR9FgwHnzfNHEQgvsE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 159,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-09T17:38:47.645Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cbcd1f06-c780-47f7-9f5e-29f3588e28ad",
+  "title": "Thirteen Lives",
+  "slug": "thirteen-lives",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Thai",
+  "release_year": 2022,
+  "duration": 147,
+  "rating": 7.838,
+  "description": "Based on the true nail-biting mission that captivated the world. Twelve boys and the coach of a Thai soccer team explore the Tham Luang cave when an unexpected rainstorm traps them in a chamber inside the mountain. Entombed behind a maze of flooded cave tunnels, they face impossible odds. A team of world-class divers navigate through miles of dangerous cave networks to discover that finding the boys is only the beginning.",
+  "created_at": "2026-07-09T17:53:12.712Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

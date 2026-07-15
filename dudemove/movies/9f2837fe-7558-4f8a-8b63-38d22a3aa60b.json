@@ -1,0 +1,31 @@
+{
+  "id": "9f2837fe-7558-4f8a-8b63-38d22a3aa60b",
+  "title": "97 Minutes",
+  "slug": "97-minutes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eYGyR8xF8emNs9AJAJSyLXu56kR.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 4.659,
+  "description": "A hijacked 767 will crash in just 97 minutes when its fuel runs out. Against the strong will of NSA Deputy Toyin, NSA Director Hawkins prepares to have the plane shot down before it does any catastrophic damage on the ground, leaving the fate of the innocent passengers in the hands of Tyler, one of the alleged hijackers on board who is an undercover Interpol agent - or is he?",
+  "created_at": "2026-07-09T17:38:23.374Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/97.Minutes.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/97.Minutes.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

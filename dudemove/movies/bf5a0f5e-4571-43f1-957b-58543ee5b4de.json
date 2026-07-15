@@ -1,0 +1,27 @@
+{
+  "id": "bf5a0f5e-4571-43f1-957b-58543ee5b4de",
+  "title": "Intinti Ramayanam",
+  "slug": "intinti-ramayanam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/me4Ie36Y6pKD2y7BkDhTrMW3gcw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 130,
+  "rating": 7,
+  "description": "Set in a backdrop against Karimnagar, Telangana, When a theft happens, 50-year-old Ramulu and his the close-knit family torn between chasing the thief or begin to doubt each other, and their hidden motivations and ambitions surface.",
+  "created_at": "2026-07-09T17:38:15.472Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Intinti%20Ramayanam%20(2023)%20Telugu%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Intinti%20Ramayanam%20(2023)%20Telugu%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

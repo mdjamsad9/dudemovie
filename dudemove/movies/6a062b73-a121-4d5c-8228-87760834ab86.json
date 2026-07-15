@@ -1,0 +1,31 @@
+{
+  "id": "6a062b73-a121-4d5c-8228-87760834ab86",
+  "title": "Maruthi Nagar Police Station",
+  "slug": "maruthi-nagar-police-station",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Tamil",
+  "release_year": 2023,
+  "duration": 117,
+  "rating": 4.5,
+  "description": "A group of four youngsters band together to eliminate a police officer and a notorious gangster who are responsible for the death of their friend. But they are left baffled when someone else does the job for them.",
+  "created_at": "2026-07-09T16:32:20.842Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Maruthi%20Nagar%20Police%20Station%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Maruthi%20Nagar%20Police%20Station%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

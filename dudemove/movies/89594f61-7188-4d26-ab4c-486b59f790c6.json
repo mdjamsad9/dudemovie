@@ -1,0 +1,23 @@
+{
+  "id": "89594f61-7188-4d26-ab4c-486b59f790c6",
+  "title": "K-13",
+  "slug": "k-13",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o4RQopmnovt3oBDs25FK3XqO29o.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6,
+  "description": "While partying with his friends on a night, a young man bumps into a beautiful young woman. What first looks like a one night stand soon turns into a night that he cannot forget.",
+  "created_at": "2026-07-09T17:26:18.928Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/K-13%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/K-13%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

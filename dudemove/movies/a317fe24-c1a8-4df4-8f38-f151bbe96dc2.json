@@ -1,0 +1,27 @@
+{
+  "id": "a317fe24-c1a8-4df4-8f38-f151bbe96dc2",
+  "title": "Razakar",
+  "slug": "razakar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Vl8vo99Ao5uQerwf5yXNENlnw1.jpg",
+  "is_premium": false,
+  "country": "Bangladesh",
+  "language": "Bengali",
+  "release_year": 2025,
+  "duration": 21,
+  "rating": 10,
+  "description": "\"Razakar\" is a period drama set in pre-Bangladesh-separation Pakistan, exploring the political tensions of the time. The story follows Jamal, an aspiring Bengali actor, as he grapples with the challenges posed by his uncompromising director, mirroring the larger socio-political conflicts unfolding around them. Through personal struggles and political subtext, the film raises poignant questions about identity and division.",
+  "created_at": "2026-07-09T17:25:49.029Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Razakar%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Razakar%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

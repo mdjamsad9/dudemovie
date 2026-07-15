@@ -1,0 +1,27 @@
+{
+  "id": "f19832b0-2223-43b5-b808-187472c72e38",
+  "title": "Kinda Pregnant",
+  "slug": "kinda-pregnant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 98,
+  "rating": 5.623,
+  "description": "When Lainy's plan to settle down and start a family falls apart, she puts on a fake baby bump, tells a lie — and accidentally falls for her dream guy.",
+  "created_at": "2026-07-09T17:02:49.694Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Kinda.Pregnant.2025.1080p.WEBRip.x264%20%5BDDN%5D/Kinda.Pregnant.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1453c009-b2a5-4279-b889-9e189a1c4193",
+  "title": "Blue Star",
+  "slug": "blue-star",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8agxJ2Wv8EitO1xwF2HgxnyloCI.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 7.8,
+  "description": "The captains of two rival village cricket teams must put their longstanding grudge aside in order to take on the bullies threatening their right to play.",
+  "created_at": "2026-07-09T17:26:30.263Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Blue%20Star%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Blue%20Star%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

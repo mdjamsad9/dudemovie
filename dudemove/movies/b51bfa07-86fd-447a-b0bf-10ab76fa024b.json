@@ -1,0 +1,27 @@
+{
+  "id": "b51bfa07-86fd-447a-b0bf-10ab76fa024b",
+  "title": "Waltair Veerayya",
+  "slug": "waltair-veerayya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g4mx225pbBH5i0KSjc3t1pO5hIy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 160,
+  "rating": 5.484,
+  "description": "A notorious smuggler Waltair Veerayya is hired by a CI Seethapathi, reaches Malaysia with the ostensible mission of kidnapping a drug mafia leader named Solomon, who escaped India after wreaking havoc on the RAW agents and local policemen. Veerayya manages to pummel Solomon, who is fiercely protected by his ruthless gang-lord brother Kaala. Tables are turned, when Veerayya reveals that he shares a turbulent past with Kaala & an ACP Vikram Sagar who is hell-bent on ending his smuggling activities.",
+  "created_at": "2026-07-09T17:35:24.230Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Waltair%20Veerayya%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Waltair%20Veerayya%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3e646cf2-3dcc-479e-a4be-5469af6ff440",
+  "title": "Thaanara",
+  "slug": "thaanara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jdhzrBTqDThVeOSyQwrBP9UiJkq.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 118,
+  "rating": 5,
+  "description": "A thief, a politician and a singer find themselves in a precarious position in a city mansion.",
+  "created_at": "2026-07-09T17:05:24.053Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thaanara%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thaanara%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

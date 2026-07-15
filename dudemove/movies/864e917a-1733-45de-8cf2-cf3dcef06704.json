@@ -1,0 +1,31 @@
+{
+  "id": "864e917a-1733-45de-8cf2-cf3dcef06704",
+  "title": "Blood for Dust",
+  "slug": "blood-for-dust",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nvaCnkl8RilLhVAQXPFei0tqkqW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 98,
+  "rating": 5.928,
+  "description": "Reckless Ricky makes serious money dealing illegal weapons throughout the tri-state area and loves to flaunt it. Traveling salesman Cliff, covers the same territory Ricky runs guns through. Desperate to find some financial relief for his struggling family, Cliff agrees to partner with Ricky, to commit cross-state drug and gun deliveries for a mid-level American cartel boss John. When a simple exchange turns into a bloodbath after Ricky kills everyone in a territory grab, the pair find themselves in a pressure cooker situation where unlikely drug dealer Cliff must fight as hard as he can to stay alive.",
+  "created_at": "2026-07-09T17:24:48.866Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Blood.For.Dust.2023.1080p.WEBRip.x264%20%5BDDN%5D/Blood.For.Dust.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

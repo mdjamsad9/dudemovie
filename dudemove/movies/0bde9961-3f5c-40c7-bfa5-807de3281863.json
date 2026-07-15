@@ -1,0 +1,23 @@
+{
+  "id": "0bde9961-3f5c-40c7-bfa5-807de3281863",
+  "title": "Grimcutty",
+  "slug": "grimcutty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5z6EinMhVtBUAcFwA3UNnfxeWAn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 101,
+  "rating": 5.081,
+  "description": "A suburban teen girl and her little brother must stop a terrifying internet meme brought to life by the hysteria of their parents.",
+  "created_at": "2026-07-09T17:49:53.317Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Grimcutty.2022.1080p.WEBRip.x264%20%5BDDN%5D/Grimcutty.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

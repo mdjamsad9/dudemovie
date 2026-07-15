@@ -1,0 +1,23 @@
+{
+  "id": "3965075a-4686-41c9-9926-104b8ec3f3bc",
+  "title": "Talk to Me",
+  "slug": "talk-to-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9t7gUKSxXjvQpgHdC7VUhJ1BTBK.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Arabic",
+  "release_year": 2022,
+  "duration": 21,
+  "rating": null,
+  "description": "Farid, who works abroad, locks himself on the last day of his stay in Beirut in his son Rawad's room, to find what he is hiding there. Separated by a locked door, the dysfunctional dynamic between them intensifies, and the past resurfaces.",
+  "created_at": "2026-07-09T17:34:34.274Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

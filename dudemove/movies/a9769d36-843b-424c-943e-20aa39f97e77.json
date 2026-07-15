@@ -1,0 +1,31 @@
+{
+  "id": "a9769d36-843b-424c-943e-20aa39f97e77",
+  "title": "Bandra",
+  "slug": "bandra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k5gnPQBFThLWRr4SzOzgl6mXSWz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 155,
+  "rating": 4,
+  "description": "A woman uncovers a dark tale when she investigates the mysterious death of a famous actress.",
+  "created_at": "2026-07-09T17:31:13.641Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bandra%20(2023)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Bandra%20(2023)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

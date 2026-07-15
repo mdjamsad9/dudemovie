@@ -1,0 +1,31 @@
+{
+  "id": "a086dbf5-ebdd-4985-b124-b89e7d4edb83",
+  "title": "The Last Kingdom: Seven Kings Must Die",
+  "slug": "the-last-kingdom-seven-kings-must-die",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 111,
+  "rating": 7.217,
+  "description": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+  "created_at": "2026-07-09T17:41:04.167Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Last.Kingdom.Seven.Kings.Must.Die.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

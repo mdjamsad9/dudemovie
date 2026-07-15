@@ -1,0 +1,31 @@
+{
+  "id": "c450b080-0b34-40ec-bb03-968ba118f4bf",
+  "title": "Dada",
+  "slug": "dada",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x7C2u4oXoMFQBaSJqqcyU3qpwKy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 135,
+  "rating": 7.2,
+  "description": "Manikandan and Sindhu, final year college students, become parents accidentally. Situations separate them, forcing Manikandan to raise his child, Adhithya, as a single parent. What follows is a beautiful tale of a father and son and their journey against all odds.",
+  "created_at": "2026-07-09T17:39:03.537Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dada%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Dada%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

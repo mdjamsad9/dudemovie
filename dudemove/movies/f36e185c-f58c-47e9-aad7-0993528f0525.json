@@ -1,0 +1,31 @@
+{
+  "id": "f36e185c-f58c-47e9-aad7-0993528f0525",
+  "title": "Playdate",
+  "slug": "playdate",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 93,
+  "rating": 6.108,
+  "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
+  "created_at": "2026-07-09T16:49:16.898Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Playdate.2025.1080p.WEBRip.x264%20%5BDDN%5D/Playdate.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

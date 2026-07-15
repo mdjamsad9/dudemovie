@@ -1,0 +1,31 @@
+{
+  "id": "120a6bef-2b97-40d1-a65a-4bb540aeece5",
+  "title": "Lingoccha",
+  "slug": "lingoccha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kjfAeJoitZawNW2wmoJaceT5Z1P.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 139,
+  "rating": null,
+  "description": "A man who moved to Dubai, visits his old barber in India after many years and wants to know about the famous love story which he missed. So the barber narrates Shiva and Noorjahan`s story.",
+  "created_at": "2026-07-09T17:31:38.043Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Lingoccha%20(2023)%20Telugu%C2%A0HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Lingoccha%20(2023)%20Telugu%c2%a0HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

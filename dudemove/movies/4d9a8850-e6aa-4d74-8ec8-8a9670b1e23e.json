@@ -1,0 +1,27 @@
+{
+  "id": "4d9a8850-e6aa-4d74-8ec8-8a9670b1e23e",
+  "title": "Thankamani",
+  "slug": "thankamani",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8zczB45kmJLgunEVkNSDrH1lHN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 154,
+  "rating": null,
+  "description": "In October 1986, a dispute erupted between students of Thankamani village and a private bus owner over service to the area which didn't have proper roads.",
+  "created_at": "2026-07-09T17:26:16.942Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thankamani%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Thankamani%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

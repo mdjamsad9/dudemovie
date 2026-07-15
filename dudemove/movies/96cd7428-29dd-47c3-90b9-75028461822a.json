@@ -1,0 +1,23 @@
+{
+  "id": "96cd7428-29dd-47c3-90b9-75028461822a",
+  "title": "Double Engine",
+  "slug": "double-engine",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vlqGqeci40kKOrSqavtM8GwRAJ4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 105,
+  "rating": 7,
+  "description": "Ambitious auto rickshaw driver Danny is lured into the black market of superstition, in search of a  non poisonous two-headed snake, locally referred with the secret code ‘double engine'.",
+  "created_at": "2026-07-09T17:25:29.075Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Double%20Engine%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Double%20Engine%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

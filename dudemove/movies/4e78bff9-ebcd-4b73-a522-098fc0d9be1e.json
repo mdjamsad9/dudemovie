@@ -1,0 +1,27 @@
+{
+  "id": "4e78bff9-ebcd-4b73-a522-098fc0d9be1e",
+  "title": "Oppenheimer",
+  "slug": "oppenheimer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Dutch",
+  "release_year": 2023,
+  "duration": 181,
+  "rating": 8.025,
+  "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+  "created_at": "2026-07-09T17:31:23.024Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Oppenheimer.2023.1080p.BluRay.x264%20%5BDDN%5D/Oppenheimer.2023.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

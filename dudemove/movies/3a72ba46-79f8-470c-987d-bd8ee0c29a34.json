@@ -1,0 +1,23 @@
+{
+  "id": "3a72ba46-79f8-470c-987d-bd8ee0c29a34",
+  "title": "Dhoom Dhaam",
+  "slug": "dhoom-dhaam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 109,
+  "rating": 6.908,
+  "description": "On their wedding night, an oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious \"Charlie.\"",
+  "created_at": "2026-07-09T17:02:39.701Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Dhoom.Dhaam.2025.Hindi.720p.WEBRip.x264%20%5BDDN%5D/Dhoom.Dhaam.2025.Hindi.720p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

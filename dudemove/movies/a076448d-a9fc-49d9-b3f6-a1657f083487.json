@@ -1,0 +1,23 @@
+{
+  "id": "a076448d-a9fc-49d9-b3f6-a1657f083487",
+  "title": "Vamanan",
+  "slug": "vamanan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k262nB7xt8T9QgUyzCp5d9xirOo.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 5.5,
+  "description": "Anand, an aspiring actor who watches people for material, takes an interest in a thief, who takes him under his wing. But when a woman is murdered and Anand is blamed, he realizes that he has been framed.",
+  "created_at": "2026-07-09T17:38:08.474Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

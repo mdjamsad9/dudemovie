@@ -1,0 +1,23 @@
+{
+  "id": "6a730cfa-31dd-4a92-b72b-48ff95f9c24b",
+  "title": "TAYLOR SWIFT | THE ERAS TOUR",
+  "slug": "taylor-swift-the-eras-tour",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 169,
+  "rating": 8.2,
+  "description": "A concert film documenting Taylor Swift's record-breaking Eras Tour (2023-2024). Filmed during the Los Angeles shows, the film captures the tour's ten acts, each representing a different musical era from Swift's career. The film showcases over 40 songs, elaborate stage productions, and Swift's performance.",
+  "created_at": "2026-07-09T17:29:56.381Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Taylor.Swift.The.Eras.Tour.2023.EXTENDED.1080p.WEBRip.x264%20%5BDDN%5D/Taylor.Swift.The.Eras.Tour.2023.EXTENDED.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

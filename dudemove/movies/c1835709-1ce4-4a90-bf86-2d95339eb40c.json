@@ -1,0 +1,31 @@
+{
+  "id": "c1835709-1ce4-4a90-bf86-2d95339eb40c",
+  "title": "Miller's Girl",
+  "slug": "miller-s-girl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ieU0zUj7WhE0GrgpgofRH0sNjbI.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 93,
+  "rating": 6.312,
+  "description": "A talented young writer embarks on a creative odyssey when her teacher assigns a project that entangles them both.",
+  "created_at": "2026-07-09T17:26:55.893Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Millers.Girl.2024.1080p.WEBRip.x264%20%5BDDN%5D/Millers.Girl.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

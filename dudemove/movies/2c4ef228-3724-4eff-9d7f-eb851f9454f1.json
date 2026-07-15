@@ -1,0 +1,27 @@
+{
+  "id": "2c4ef228-3724-4eff-9d7f-eb851f9454f1",
+  "title": "Agents",
+  "slug": "agents",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xvdkVb070AqZZpTBOZzbrnsGL3d.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 82,
+  "rating": 3.3,
+  "description": "When the chief of the Secret Intelligence Agency is suspended due to a false implication in a failed mission, his son takes matters in his own hands to restore his father's honor.",
+  "created_at": "2026-07-09T17:01:38.738Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Agents.2024.1080p.WEBRip.x264%20%5BDDN%5D/Agents.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

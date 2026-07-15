@@ -1,0 +1,23 @@
+{
+  "id": "d1b5e679-95d8-41f3-bf41-b0265f73772e",
+  "title": "Somante Krithavu",
+  "slug": "somante-krithavu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tPF7kbtBmxCkzpzILWpd6dChtoN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 121,
+  "rating": 5.2,
+  "description": "Soman who takes charge as the village agriculture officer. His naturalist way of living often makes him a laughingstock in the village. He is often at loggerheads with the panchayat president for his forthright and honest personality.",
+  "created_at": "2026-07-09T17:30:15.872Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Somante%20Krithavu%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Somante%20Krithavu%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

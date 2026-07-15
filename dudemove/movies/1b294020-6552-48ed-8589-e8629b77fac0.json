@@ -1,0 +1,31 @@
+{
+  "id": "1b294020-6552-48ed-8589-e8629b77fac0",
+  "title": "Idli Kadai",
+  "slug": "idli-kadai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9ViF6UTWMh14gx77RvFALe5R6AL.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 147,
+  "rating": 6.6,
+  "description": "A simple man's search for success leads him to rediscover his roots.",
+  "created_at": "2026-07-09T16:50:21.961Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Idli%20Kadai%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Idli%20Kadai%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

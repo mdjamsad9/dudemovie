@@ -1,0 +1,31 @@
+{
+  "id": "be66a9f2-a644-4835-8864-4b3c2545dac4",
+  "title": "Bheemla Nayak",
+  "slug": "bheemla-nayak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/14KeWSkgzTbfJmmD4bXT9mwkaYz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 145,
+  "rating": 5.7,
+  "description": "A sub-inspector and the egoistic son of an ex-MP get in an egotistical war when the former arrests the latter for bringing in liquor from Telangana to AP.",
+  "created_at": "2026-07-09T17:49:02.796Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bheemla%20Nayak%202022%201080p%20WEBRip%20Hindi%20Telugu%20x264%20ESub%20%5BDDN%5D/Bheemla%20Nayak%202022%201080p%20WEBRip%20Hindi%20Telugu%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

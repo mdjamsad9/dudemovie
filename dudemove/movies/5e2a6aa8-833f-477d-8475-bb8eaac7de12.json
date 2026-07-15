@@ -1,0 +1,31 @@
+{
+  "id": "5e2a6aa8-833f-477d-8475-bb8eaac7de12",
+  "title": "Azrael",
+  "slug": "azrael",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 86,
+  "rating": 5.893,
+  "description": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+  "created_at": "2026-07-09T17:02:21.766Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Azrael.2024.1080p.BluRay.x264%20%5BDDN%5D/Azrael.2024.1080p.BluRay.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "80616ef6-329b-45f8-9b0e-1fafb36207aa",
+  "title": "Otta",
+  "slug": "otta",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dVpulXqZPQxJoElqiyHwhDGtFTW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 147,
+  "rating": null,
+  "description": "Otta is the thrilling saga of two young men and their unexpected journey towards an unforeseen future. Amidst the tumultuous relationship with their parents, Hari and Ben embark on a personal journey where actions and reactions spiral out of control.",
+  "created_at": "2026-07-09T17:31:44.726Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Otta%20(2023)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Otta%20(2023)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

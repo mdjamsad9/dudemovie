@@ -1,0 +1,27 @@
+{
+  "id": "92b48348-c4b7-49d3-b213-79ba4f885acf",
+  "title": "Handmade - A Tale of Stop-motion",
+  "slug": "handmade-a-tale-of-stop-motion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aLRfzBNNF5pMRSKKlgnyiIRNiIW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Estonian",
+  "release_year": 2023,
+  "duration": 58,
+  "rating": 10,
+  "description": "A documentary about an old animation technique and the film studio that tries to carry on the legacy. The worlds oldest animation studio still making film with stop motion technique is Nukufilm located in Tallinn, Estland. Here we can follow the work in the studio which was founded in the Soviet era and has survived heavy censorship and global competition.",
+  "created_at": "2026-07-09T17:25:54.692Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Stopmotion.2023.1080p.WEBRip.x264%20%5BDDN%5D/Stopmotion.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

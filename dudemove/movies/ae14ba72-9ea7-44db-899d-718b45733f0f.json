@@ -1,0 +1,31 @@
+{
+  "id": "ae14ba72-9ea7-44db-899d-718b45733f0f",
+  "title": "Love Untangled",
+  "slug": "love-untangled",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e7jStO2xfBUAUK37LbINHd1qtgy.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2025,
+  "duration": 121,
+  "rating": 8.299,
+  "description": "A lovestruck teen plans to win the school heartthrob by going from curly to straight hair — until a new transfer student changes everything.",
+  "created_at": "2026-07-09T16:53:28.611Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Love%20Untangled%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Love%20Untangled%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

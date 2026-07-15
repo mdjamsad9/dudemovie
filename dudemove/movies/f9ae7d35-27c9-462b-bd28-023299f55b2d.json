@@ -1,0 +1,27 @@
+{
+  "id": "f9ae7d35-27c9-462b-bd28-023299f55b2d",
+  "title": "N4",
+  "slug": "n4",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lptPcvmtiE1XriB421EWIjeCrio.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 142,
+  "rating": 9,
+  "description": "The lives of different sets of people residing in Kasimedu change irreversibly overnight after an unforeseen incident. What happens next and how does karma play a major role in their lives?",
+  "created_at": "2026-07-09T17:41:17.251Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/N4%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/N4%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

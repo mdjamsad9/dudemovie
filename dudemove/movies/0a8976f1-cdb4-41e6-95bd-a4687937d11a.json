@@ -1,0 +1,31 @@
+{
+  "id": "0a8976f1-cdb4-41e6-95bd-a4687937d11a",
+  "title": "Kota Bommali PS",
+  "slug": "kota-bommali-ps",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/esOhIVHSs0Bi3pZtfDcK9MWKbpS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 7,
+  "description": "A police officer finds himself on the run after being framed by a politician for a crime.",
+  "created_at": "2026-07-09T17:28:14.897Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kotabommali%20PS%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kotabommali%20PS%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

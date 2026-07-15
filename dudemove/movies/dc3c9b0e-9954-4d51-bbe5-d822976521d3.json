@@ -1,0 +1,31 @@
+{
+  "id": "dc3c9b0e-9954-4d51-bbe5-d822976521d3",
+  "title": "Kannappa",
+  "slug": "kannappa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6LhE7IwhXgaNi33l0ltYahIB91i.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 182,
+  "rating": 5.091,
+  "description": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+  "created_at": "2026-07-09T16:55:11.928Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kannappa%20(2024)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kannappa%20%282024%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

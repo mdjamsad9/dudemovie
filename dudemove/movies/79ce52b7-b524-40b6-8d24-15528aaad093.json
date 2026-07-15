@@ -1,0 +1,35 @@
+{
+  "id": "79ce52b7-b524-40b6-8d24-15528aaad093",
+  "title": "High Heat",
+  "slug": "high-heat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 84,
+  "rating": 5.556,
+  "description": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+  "created_at": "2026-07-09T17:46:41.171Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/High.Heat.2022.1080p.WEBRip.x264%20%5BDDN%5D/High.Heat.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

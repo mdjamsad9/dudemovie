@@ -1,0 +1,31 @@
+{
+  "id": "838e2769-68b2-47f0-9eed-90593fe74a2c",
+  "title": "Sunny Sanskari Ki Tulsi Kumari",
+  "slug": "sunny-sanskari-ki-tulsi-kumari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h3lncTnK86R8XylpXgpe0JfU1wm.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 5.842,
+  "description": "Two former lovers in Delhi try to rekindle old flames, leading to amusing mix-ups and deceptions. As chaos unfolds, a new unexpected romance blooms. Who will find their happy ending amid the confusion?",
+  "created_at": "2026-07-09T16:49:00.068Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Sunny%20Sanskari%20ki%20Tulsi%20Kumari%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sunny%20Sanskari%20ki%20Tulsi%20Kumari%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

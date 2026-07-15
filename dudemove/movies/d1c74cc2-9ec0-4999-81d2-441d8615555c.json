@@ -1,0 +1,27 @@
+{
+  "id": "d1c74cc2-9ec0-4999-81d2-441d8615555c",
+  "title": "Uru",
+  "slug": "uru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vMsw7AD27eux4RmdjU9daKxauL7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 4.667,
+  "description": "A writer, whose writing is considered outdated due to the changing writing trends, leaves for Megamalai in search of solitude and wanting to write a new book. Upon arriving at Megamalai, a string of unfortunate events take place around him & his wife. Little does he know that it's not only his life that he's endangering.",
+  "created_at": "2026-07-09T17:34:36.539Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Uru%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Uru%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

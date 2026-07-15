@@ -1,0 +1,31 @@
+{
+  "id": "0ed3e426-930f-4efe-8fa7-ad55b2ac40ed",
+  "title": "Lokah Chapter 1: Chandra",
+  "slug": "lokah-chapter-1-chandra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg",
+  "is_premium": false,
+  "country": "Bangladesh",
+  "language": "Bengali",
+  "release_year": 2025,
+  "duration": 151,
+  "rating": 7.3,
+  "description": "The story follows Chandra, a mysterious, goth-influenced woman who has just moved to Bangalore and begins working night shifts at a café. Across the road from her apartment live Sunny and Venu, two aimless bachelors. Sunny becomes infatuated with Chandra, observing her odd routines, strange visitors, and reclusive nature. Their dynamic changes when Sunny gets a glimpse of Chandra in her act.",
+  "created_at": "2026-07-09T16:53:20.665Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Lokah.Chapter-1.2025.720p.HDTS.Hindi.Multi.x264%20%5BDDN%5D/Lokah.Chapter-1.2025.720p.HDTS.Hindi.Multi.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

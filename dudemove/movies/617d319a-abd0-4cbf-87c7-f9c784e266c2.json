@@ -1,0 +1,27 @@
+{
+  "id": "617d319a-abd0-4cbf-87c7-f9c784e266c2",
+  "title": "Tu Meri Main Tera Main Tera Tu Meri",
+  "slug": "tu-meri-main-tera-main-tera-tu-meri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uLO7ByOKZbRmA4r9ONEHWHZ6HIX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 144,
+  "rating": 4.5,
+  "description": "When a carefree NRI wedding planner and a headstrong novelist collide during a wild summer in Croatia, sparks fly in ways neither expected. What begins as playful clashes soon transforms into something deeper – only to be tested when love, family, and tradition pull them in opposite directions.",
+  "created_at": "2026-07-09T16:42:12.866Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Tu%20Meri%20Main%20Tera%20Main%20Tera%20Tu%20Meri%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Tu%20Meri%20Main%20Tera%20Main%20Tera%20Tu%20Meri%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

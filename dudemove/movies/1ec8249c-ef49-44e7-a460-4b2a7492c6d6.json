@@ -1,0 +1,23 @@
+{
+  "id": "1ec8249c-ef49-44e7-a460-4b2a7492c6d6",
+  "title": "Jarhead: Law of Return",
+  "slug": "jarhead-law-of-return",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Hebrew",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 6.527,
+  "description": "Major Ronan Jackson, an accomplished fighter pilot for the Israel Defense Forces and son of a U.S. Senator, is shot down while flying through Syrian airspace. After miraculously surviving the crash, Jackson is taken captive by a group of Hezbollah militiamen. A squad of elite soldiers, led by Gunnery Sergeant Dave Torres, risk their own lives in the hopes of saving an ally they've never met.",
+  "created_at": "2026-07-09T17:57:59.382Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Jarhead.Law.Of.Return.2019.1080p.WEBRip.x264%20%5BDDN%5D/Jarhead.Law.Of.Return.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

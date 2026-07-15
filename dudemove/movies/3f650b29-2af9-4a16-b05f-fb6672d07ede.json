@@ -1,0 +1,27 @@
+{
+  "id": "3f650b29-2af9-4a16-b05f-fb6672d07ede",
+  "title": "No Hard Feelings",
+  "slug": "no-hard-feelings",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 103,
+  "rating": 6.68,
+  "description": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
+  "created_at": "2026-07-09T17:35:38.722Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/No.Hard.Feelings.2023.1080p.WEBRip.x264%20%5BDDN%5D/No.Hard.Feelings.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

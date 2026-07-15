@@ -1,0 +1,31 @@
+{
+  "id": "691d9a96-8d82-4eb0-a6ee-831318317abc",
+  "title": "Manodrome",
+  "slug": "manodrome",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 96,
+  "rating": 5.071,
+  "description": "Ralphie is an Uber driver and aspiring bodybuilder who is inducted into a libertarian masculinity cult and loses his grip on reality when his repressed desires are awakened.",
+  "created_at": "2026-07-09T17:30:58.972Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Manodrome.2023.1080p.WEBRip.x264%20%5BDDN%5D/Manodrome.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

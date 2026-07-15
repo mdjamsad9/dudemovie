@@ -1,0 +1,27 @@
+{
+  "id": "a2ce36c8-ed71-4dc3-b4c9-a481df37c51c",
+  "title": "A Good Person",
+  "slug": "a-good-person",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 128,
+  "rating": 7,
+  "description": "Allison's life falls apart following her involvement in a fatal accident. The unlikely relationship she forms with her would-be father-in-law helps her live a life worth living.",
+  "created_at": "2026-07-09T17:41:22.635Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/A.Good.Person.2023.1080p.WEBRip.x264%20%5BDDN%5D/A.Good.Person.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

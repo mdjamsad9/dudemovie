@@ -1,0 +1,27 @@
+{
+  "id": "c5e7d5e9-a643-48d2-82d7-1f3dab9a9213",
+  "title": "Orphan: First Kill",
+  "slug": "orphan-first-kill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 99,
+  "rating": 6.597,
+  "description": "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.",
+  "created_at": "2026-07-09T17:52:41.506Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Orphan.First.Kill.2022.1080p.WEBRip.x264%20%5BDDN%5D/Orphan.First.Kill.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

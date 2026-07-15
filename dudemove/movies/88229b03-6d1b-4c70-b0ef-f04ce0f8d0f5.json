@@ -1,0 +1,27 @@
+{
+  "id": "88229b03-6d1b-4c70-b0ef-f04ce0f8d0f5",
+  "title": "Sundarakanda",
+  "slug": "sundarakanda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/40dBLbqZunJXjEkXVqIvw8OoYDM.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 138,
+  "rating": 4.6,
+  "description": "A man born under the Mula Nakshatra faces misfortune and failed relationships, exploring his journey to win over his ideal match.",
+  "created_at": "2026-07-09T16:52:30.836Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sundarakanda%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sundarakanda%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

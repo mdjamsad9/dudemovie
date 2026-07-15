@@ -1,0 +1,31 @@
+{
+  "id": "2ac666da-3966-4131-a23d-8376dc2dc0d1",
+  "title": "Jules",
+  "slug": "jules",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 87,
+  "rating": 7.123,
+  "description": "A flying saucer lands in the backyard of an elderly suburbanite with memory problems, who forms a bond with the scared alien inside.",
+  "created_at": "2026-07-09T17:34:31.123Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Jules.2023.1080p.WEBRip.x264%20%5BDDN%5D/Jules.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

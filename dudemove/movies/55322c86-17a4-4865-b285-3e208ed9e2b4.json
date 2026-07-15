@@ -1,0 +1,31 @@
+{
+  "id": "55322c86-17a4-4865-b285-3e208ed9e2b4",
+  "title": "Hamnet",
+  "slug": "hamnet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 125,
+  "rating": 7.7,
+  "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+  "created_at": "2026-07-09T16:42:17.440Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Hamnet.2025.1080p.WEBRip.x264%20%5BDDN%5D/Hamnet.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

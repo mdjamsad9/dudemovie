@@ -1,0 +1,31 @@
+{
+  "id": "19dc8e49-665f-4c0e-8928-16a7894db58f",
+  "title": "Dharmaveer",
+  "slug": "dharmaveer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x5kqbaZflZRJ7Jg8XZxzUAKyq9t.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Marathi",
+  "release_year": 2022,
+  "duration": 178,
+  "rating": 7.7,
+  "description": "A biopic on life of a Hindu nationalist leader Anand Dighe, through various incidents narrated by his close aides.",
+  "created_at": "2026-07-09T17:49:57.213Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dharmaveer.Mukkam.Post.Thane.2022.Hindi-Marathi.1080p.WEBRip.x264%20%5BDDN%5D/Dharmaveer.Mukkam.Post.Thane.2022.Hindi-Marathi.1080p.WEBRip.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

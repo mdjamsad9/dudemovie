@@ -1,0 +1,31 @@
+{
+  "id": "0824380c-1cf6-4287-a6aa-9aa822d64fd0",
+  "title": "The Rabbit House",
+  "slug": "the-rabbit-house",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xjJ2FFIlGikLLaSY6kuEftqvJTj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 8,
+  "description": "A newlywed couple checks into a mysterious house in Himachal Pradesh. When the wife disappears, the husband is suspected. As the investigation unfolds, the house unveils shocking secrets.",
+  "created_at": "2026-07-09T16:41:51.341Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/The%20Rabbit%20House%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Rabbit%20House%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

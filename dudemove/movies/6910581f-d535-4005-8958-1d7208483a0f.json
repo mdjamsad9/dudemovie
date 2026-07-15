@@ -1,0 +1,31 @@
+{
+  "id": "6910581f-d535-4005-8958-1d7208483a0f",
+  "title": "Predator: Badlands",
+  "slug": "predator-badlands",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 107,
+  "rating": 7.799,
+  "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+  "created_at": "2026-07-09T16:44:04.267Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Predator-BadLands.2025.720p.WEBRip.x264%20%5BDDN%5D/Predator-BadLands.2025.720p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dd9b668f-711f-4c84-9f2b-2cce8e4b3c8c",
+  "title": "Gabriel's Redemption: Part I",
+  "slug": "gabriel-s-redemption-part-i",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9juGLYYestTDvzP6TUXGCLEpuJG.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 110,
+  "rating": 7.207,
+  "description": "After leaving his prestigious post at the University of Toronto, Gabriel embarks on a new journey with Julia, and he is eager to become a father.  However, Gabriel's idyllic vision is jeopardized when Julia's intensive program becomes all consuming. When Julia is granted a prestigious opportunity to deliver an academic lecture at Oxford, Gabriel challenges her about the subject of her presentation, which clashes with his own research.  In Oxford, their past resurfaces, including an old nemesis determined to humiliate Julia and expose one of Gabriel's well-guarded secrets. Emotions run high, alliances are tested, and the couple must confront the shadows of their shared history in a battle for love, truth, and redemption.",
+  "created_at": "2026-07-09T17:37:26.691Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Gabriels.Redemption.Part.One.2023.1080p.WEBRip.x264%20%5BDDN%5D/Gabriels.Redemption.Part.One.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

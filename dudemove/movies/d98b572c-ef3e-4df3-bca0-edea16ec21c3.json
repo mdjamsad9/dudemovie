@@ -1,0 +1,27 @@
+{
+  "id": "d98b572c-ef3e-4df3-bca0-edea16ec21c3",
+  "title": "Chief of Station",
+  "slug": "chief-of-station",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 93,
+  "rating": 6.207,
+  "description": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+  "created_at": "2026-07-09T17:24:23.801Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Chief.Of.Station2024.1080p.WEBRip.x264%20%5BDDN%5D/Chief.Of.Station2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

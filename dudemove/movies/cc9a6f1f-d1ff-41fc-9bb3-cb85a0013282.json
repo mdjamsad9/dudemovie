@@ -1,0 +1,31 @@
+{
+  "id": "cc9a6f1f-d1ff-41fc-9bb3-cb85a0013282",
+  "title": "Indian 2: Zero Tolerance",
+  "slug": "indian-2-zero-tolerance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fPoiIfqmVfNYZRVUtfTSyuAj8Tw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 178,
+  "rating": 3.089,
+  "description": "As corruption becomes rampant in the country, a group of idealistic youngsters attract attention of freedom fighter-turned-vigilante Senapathy through social media, who returns to his homeland to finish what he started.",
+  "created_at": "2026-07-09T17:15:06.667Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Indian%202%20(2024)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Indian%202%20(2024)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

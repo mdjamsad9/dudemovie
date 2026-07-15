@@ -1,0 +1,35 @@
+{
+  "id": "5fb89f32-9ca2-4850-944c-8fac3d09de0e",
+  "title": "True History of the Kelly Gang",
+  "slug": "true-history-of-the-kelly-gang",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eVyESHnWiTY1el8DEWbYMVW3K5k.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Latin",
+  "release_year": 2019,
+  "duration": 125,
+  "rating": 5.932,
+  "description": "Set against the badlands of Australia where the English rule with a bloody fist and the Irish endure, Ned Kelly discovers he comes from a line of Irish rebels — an uncompromising army of cross dressing bandits immortalised for terrorising their oppressors back in Ireland. Fuelled by the unfair arrest of his mother, Kelly recruits a wild bunch of warriors to plot one of the most audacious attacks of anarchy and rebellion the country has ever seen.",
+  "created_at": "2026-07-09T17:57:29.383Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/True.History.of.the.Kelly.Gang.2019.1080p.WEBRip.x264%20%5BDDN%5D/True.History.of.the.Kelly.Gang.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

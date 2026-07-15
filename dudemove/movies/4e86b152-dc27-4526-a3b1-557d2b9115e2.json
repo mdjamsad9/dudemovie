@@ -1,0 +1,27 @@
+{
+  "id": "4e86b152-dc27-4526-a3b1-557d2b9115e2",
+  "title": "Yaadhum Oore Yaavarum Kelir",
+  "slug": "yaadhum-oore-yaavarum-kelir",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i8broKyZelH6nKk92ucxMd7Y9M2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 150,
+  "rating": 5.2,
+  "description": "A refugee struggles hard to find an identity for himself in order to accomplish his dreams.",
+  "created_at": "2026-07-09T17:32:11.658Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Yaadhum%20Oore%20Yaavarum%20Kelir%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Yaadhum%20Oore%20Yaavarum%20Kelir%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

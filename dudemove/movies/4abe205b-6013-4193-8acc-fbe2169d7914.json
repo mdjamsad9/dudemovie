@@ -1,0 +1,27 @@
+{
+  "id": "4abe205b-6013-4193-8acc-fbe2169d7914",
+  "title": "Gangster Gangaraju",
+  "slug": "gangster-gangaraju",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mR2jQQe4MmrLbxFRZ1AjV36F0E7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 132,
+  "rating": 6,
+  "description": "Apart from wanting to win the girl he loves, Gangaraju, a good-for-nothing guy, becomes a Gangster to save his village.",
+  "created_at": "2026-07-09T17:49:12.445Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gangster%20Gangaraju%202022%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gangster%20Gangaraju%202022%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

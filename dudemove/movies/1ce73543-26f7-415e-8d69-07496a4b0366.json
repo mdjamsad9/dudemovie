@@ -1,0 +1,27 @@
+{
+  "id": "1ce73543-26f7-415e-8d69-07496a4b0366",
+  "title": "Udumbu",
+  "slug": "udumbu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/djeofABsuGo2KzOfJ2BYrF8BKUs.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6,
+  "description": "Simittu Ani, who is married to Hima, works for Bharathan, a notorious man who is involved in anti-social activities. Ani's life takes a dramatic turn when he is held guilty of murder.",
+  "created_at": "2026-07-09T17:19:04.726Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Udumbu%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Udumbu%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "de9d421f-4b82-4bc9-b9d0-a4f08d8e6620",
+  "title": "Utsavam",
+  "slug": "utsavam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qcw0LshYV3qdfOlo9yP3gKhz4ks.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 138,
+  "rating": null,
+  "description": "The course of true love is strewn with misunderstandings and unwanted drama for a young couple from theatre families.",
+  "created_at": "2026-07-09T17:11:10.219Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Utsavam%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Utsavam%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

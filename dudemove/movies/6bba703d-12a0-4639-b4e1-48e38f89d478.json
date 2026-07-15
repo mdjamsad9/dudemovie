@@ -1,0 +1,27 @@
+{
+  "id": "6bba703d-12a0-4639-b4e1-48e38f89d478",
+  "title": "Krishna Vrinda Vihari",
+  "slug": "krishna-vrinda-vihari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9R9YMJLhOtAEtK7SwNrI27GUUu7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 139,
+  "rating": 5,
+  "description": "Krishna falls for Vrinda and tells a white lie at home to ensure they’re married. But what happens when it leads to unnecessary misunderstandings?",
+  "created_at": "2026-07-09T17:35:39.555Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

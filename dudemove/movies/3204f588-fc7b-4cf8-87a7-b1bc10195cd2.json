@@ -1,0 +1,27 @@
+{
+  "id": "3204f588-fc7b-4cf8-87a7-b1bc10195cd2",
+  "title": "Su from So",
+  "slug": "su-from-so",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 135,
+  "rating": 7.389,
+  "description": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+  "created_at": "2026-07-09T16:53:03.942Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Su%20From%20So%20(2025)%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Su%20From%20So%20%282025%29%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

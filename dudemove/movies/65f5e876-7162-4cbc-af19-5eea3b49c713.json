@@ -1,0 +1,23 @@
+{
+  "id": "65f5e876-7162-4cbc-af19-5eea3b49c713",
+  "title": "Katha Kamamishu",
+  "slug": "katha-kamamishu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/foRB1VjqluPwsYA953YrePBq8ZY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 110,
+  "rating": null,
+  "description": "The movie is about a family in a small town and how a small issue changes their relationships...",
+  "created_at": "2026-07-09T17:04:51.162Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Katha%20Kamamishu%20(2024)%20Telugu%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Katha%20Kamamishu%20(2024)%20Telugu%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e05b65d2-5330-4bfc-bedd-6d38e96988e1",
+  "title": "The Blackening",
+  "slug": "the-blackening",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 97,
+  "rating": 5.88,
+  "description": "Seven black friends go away for the weekend, only to find themselves trapped in a cabin with a killer who has a vendetta. They must pit their street smarts and knowledge of horror movies against the murderer to stay alive.",
+  "created_at": "2026-07-09T17:37:02.825Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/The.Blackening.2022.1080p.WEBRip.x264%20%5BDDN%5D/The.Blackening.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

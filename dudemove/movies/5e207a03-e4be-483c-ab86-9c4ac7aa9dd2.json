@@ -1,0 +1,23 @@
+{
+  "id": "5e207a03-e4be-483c-ab86-9c4ac7aa9dd2",
+  "title": "Inheritance",
+  "slug": "inheritance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gfsQ7Guq6VJbdxDTwuyDEPAH13b.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Malay",
+  "release_year": 2001,
+  "duration": null,
+  "rating": null,
+  "description": "An estranged son returns to his ailing father and discovers a deadly pact with a vengeful force, forcing him to choose between inheriting the nightmare or destroying his family.",
+  "created_at": "2026-07-09T16:46:38.202Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Baran.2001.1080p.WEBRip.x265%20%5BDDN%5D/Baran.2001.1080p.WEBRip.x265%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

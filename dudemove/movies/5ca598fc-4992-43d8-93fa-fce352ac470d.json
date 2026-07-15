@@ -1,0 +1,35 @@
+{
+  "id": "5ca598fc-4992-43d8-93fa-fce352ac470d",
+  "title": "Retro",
+  "slug": "retro",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pJPK57REXsaLydpOPgHwWAQMdqz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 162,
+  "rating": 6.341,
+  "description": "A man with a violent past seeks a fresh start, but the life he left behind resurfaces, forcing him to face old conflicts and redefine his future.",
+  "created_at": "2026-07-09T16:59:29.440Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Retro.2025.720p.PreDVD.Hindi.x264%20%5BDDN%5D/Retro.2025.720p.PreDVD.Hindi.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

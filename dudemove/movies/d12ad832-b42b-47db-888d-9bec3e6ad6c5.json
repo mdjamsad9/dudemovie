@@ -1,0 +1,27 @@
+{
+  "id": "d12ad832-b42b-47db-888d-9bec3e6ad6c5",
+  "title": "Ottu",
+  "slug": "ottu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2cTDIaG9Hz5UaBFkwvXsrtXPdpZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 5.4,
+  "description": "Kichu takes up an assignment to befriend a gangster David, who has lost his memories to learn about a valuable gold shipment that has gone missing. Will Kichu pull off the task, or end up waking the monster in the gangster?",
+  "created_at": "2026-07-09T17:50:19.166Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ottu%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ottu%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

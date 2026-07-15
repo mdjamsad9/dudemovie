@@ -1,0 +1,31 @@
+{
+  "id": "08a3af01-6b61-4d6e-9c7c-fe056525d6ae",
+  "title": "Guy Ritchie's The Covenant",
+  "slug": "guy-ritchie-s-the-covenant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 123,
+  "rating": 7.72,
+  "description": "After an ambush, Afghan interpreter Ahmed goes to Herculean lengths to save US Army Sergeant John Kinley's life. When Kinley learns that Ahmed and his family were not given safe passage to America as promised, he must return to the war zone and repay his debt.",
+  "created_at": "2026-07-09T17:40:03.987Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Guy.Ritchies.The.Covenant.2023.1080p.WEBRip.x264%20%5BDDN%5D/Guy.Ritchies.The.Covenant.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

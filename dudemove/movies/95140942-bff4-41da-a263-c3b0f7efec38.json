@@ -1,0 +1,27 @@
+{
+  "id": "95140942-bff4-41da-a263-c3b0f7efec38",
+  "title": "Alluri",
+  "slug": "alluri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eBUEJZbHzTjBpSwgCb512DK5NiE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 169,
+  "rating": 4.5,
+  "description": "Iqbal, the son of a retired police constable, is keen to become a cop too but fails to take charge of his ambition. In need of motivation, Iqbal’s father sets his son on a mission to trace the journey arc of an inspirational police officer, Alluri Sita Rama Raju. The journey takes Iqbal to Kothavalasa, Dharakonda, Vizag and Hyderabad, all the places where Alluri discharged his duties and left an indelible mark on eliminating corruption and crime.",
+  "created_at": "2026-07-09T17:49:55.514Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Alluri%20(2022)%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Alluri%20(2022)%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

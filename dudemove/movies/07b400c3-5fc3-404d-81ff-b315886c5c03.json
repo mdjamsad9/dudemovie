@@ -1,0 +1,43 @@
+{
+  "id": "07b400c3-5fc3-404d-81ff-b315886c5c03",
+  "title": "Minions & Monsters",
+  "slug": "minions-monsters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+  "is_premium": false,
+  "country": "Hollywood",
+  "language": "English Hindi",
+  "release_year": 2026,
+  "duration": 90,
+  "rating": 6.8,
+  "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+  "created_at": "2026-07-04T06:22:29.581Z",
+  "genres": [
+    {
+      "name": "All Genres",
+      "slug": "all-genres"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Minions%20and%20Monsters%20(2026)%20English%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Minions%20and%20Monsters%20%282026%29%20English%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

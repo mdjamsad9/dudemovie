@@ -1,0 +1,31 @@
+{
+  "id": "a73abeaa-0c51-4b11-8034-3d4c57046645",
+  "title": "Appudo Ippudo Eppudo",
+  "slug": "appudo-ippudo-eppudo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tzpZlcdCfyLFzSXotkzrpYWuvNM.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 122,
+  "rating": 3,
+  "description": "Rishi falls in love with a girl named Tara, a budding racer, due to a mistake made by his friend Yaji... Rishi and Tara who were meant to be close get separated. Rishi works as an intern in the racing circuit in London due to the suggestion given by Yaji.",
+  "created_at": "2026-07-09T17:09:46.478Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Appudo%20Ippudo%20Eppudo%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Appudo%20Ippudo%20Eppudo%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

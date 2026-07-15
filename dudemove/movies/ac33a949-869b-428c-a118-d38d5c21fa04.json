@@ -1,0 +1,35 @@
+{
+  "id": "ac33a949-869b-428c-a118-d38d5c21fa04",
+  "title": "Master Gardener",
+  "slug": "master-gardener",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pmcYL7mgjVlWhFyNCc05mFTt6at.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 111,
+  "rating": 6.018,
+  "description": "Narvel Roth is a meticulous horticulturist who is devoted to tending the grounds of a beautiful estate and pandering to his employer, the wealthy dowager Mrs. Haverhill. When she demands that he take on her wayward and troubled niece, it unlocks dark secrets from a buried violent past.",
+  "created_at": "2026-07-09T17:38:36.022Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Master.Gardener.2022.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Master.Gardener.2022.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

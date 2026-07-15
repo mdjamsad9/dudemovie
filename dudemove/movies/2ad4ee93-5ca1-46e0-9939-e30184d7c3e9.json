@@ -1,0 +1,31 @@
+{
+  "id": "2ad4ee93-5ca1-46e0-9939-e30184d7c3e9",
+  "title": "Ticket to Paradise",
+  "slug": "ticket-to-paradise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Indonesian",
+  "release_year": 2022,
+  "duration": 104,
+  "rating": 6.424,
+  "description": "Divorced couple Georgia and David find themselves on a shared mission: they team up and travel to Bali to stop their daughter Lily from making the same mistake they once made 25 years ago.",
+  "created_at": "2026-07-09T17:49:20.453Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Ticket.to.Paradise.2022.1080p.WEBRip.x264%20%5BDDN%5D/Ticket.to.Paradise.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

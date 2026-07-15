@@ -1,0 +1,31 @@
+{
+  "id": "687f4f90-ff13-416b-a857-32527ecf71b1",
+  "title": "Crescent City",
+  "slug": "crescent-city",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 103,
+  "rating": 6.159,
+  "description": "When a ruthless serial killer terrorizes a small Southern town, everyone becomes a suspect -- including local authorities. As the body count rises and the dark mystery deepens, the chief detective becomes haunted by the horrors of his past.",
+  "created_at": "2026-07-09T17:14:52.055Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Crescent.City.2024.1080p.WEBRip.x264%20%5BDDN%5D/Crescent.City.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

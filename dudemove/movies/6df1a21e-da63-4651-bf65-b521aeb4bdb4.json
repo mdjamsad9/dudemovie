@@ -1,0 +1,31 @@
+{
+  "id": "6df1a21e-da63-4651-bf65-b521aeb4bdb4",
+  "title": "Mukhachitram",
+  "slug": "mukhachitram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j7WpuYoWoyZ0ZtGcCJTD424aKvj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 7,
+  "description": "Dr. Rajkumar, a plastic surgeon marries Mahati, a shy & traditional village girl , leaving his his childhood love Maya Fernandez heartbroken.  A tragedy strikes the couple, months after  their marraige, which leads to a plastic surgery later, Maya 'becomes' Mahati.",
+  "created_at": "2026-07-09T17:43:58.629Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mukhachitram%20(2022)%20Multi%20Audio%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mukhachitram%20(2022)%20Multi%20Audio%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

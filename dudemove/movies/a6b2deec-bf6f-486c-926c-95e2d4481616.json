@@ -1,0 +1,31 @@
+{
+  "id": "a6b2deec-bf6f-486c-926c-95e2d4481616",
+  "title": "Amar Prem Ki Prem Kahani",
+  "slug": "amar-prem-ki-prem-kahani",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3CasKHr8RtkbIwK2FkYmQGlQbap.jpg",
+  "is_premium": false,
+  "country": "Bangladesh",
+  "language": "Bengali",
+  "release_year": 2024,
+  "duration": 118,
+  "rating": 5.5,
+  "description": "Follows a freshly-engaged Amar who goes on a trip to London and falls heads-over-heels with Prem, a handsome man whose charm threatens to put Amar's marriage in danger.",
+  "created_at": "2026-07-09T17:12:26.050Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Amar%20Prem%20Ki%20Prem%20Kahani%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Amar%20Prem%20Ki%20Prem%20Kahani%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

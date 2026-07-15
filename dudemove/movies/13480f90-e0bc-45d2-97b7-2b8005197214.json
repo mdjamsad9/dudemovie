@@ -1,0 +1,27 @@
+{
+  "id": "13480f90-e0bc-45d2-97b7-2b8005197214",
+  "title": "Black & White",
+  "slug": "black-white",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d7WB5nyj9jYFyjuRrZCFNO9ZJdu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "Nazism was born in Europe, but raised in South America. After World War II, thousands of Nazi criminals found safe shelter in Brazil and Argentina. His legacy of horror, however, remained hidden... until now.",
+  "created_at": "2026-07-09T17:23:44.390Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Black%20\\u0026%20White%C2%A0(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Black%20\\u0026%20White%c2%a0(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

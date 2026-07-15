@@ -1,0 +1,35 @@
+{
+  "id": "55217dbe-859d-436d-bf63-d599c8563e3a",
+  "title": "Angels Fallen: Warriors of Peace",
+  "slug": "angels-fallen-warriors-of-peace",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 103,
+  "rating": 6.2,
+  "description": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
+  "created_at": "2026-07-09T17:15:21.203Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Angels.Fallen.Warriors.Of.Peace.2024.1080p.WEBRip.x264%20%5BDDN%5D/Angels.Fallen.Warriors.Of.Peace.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

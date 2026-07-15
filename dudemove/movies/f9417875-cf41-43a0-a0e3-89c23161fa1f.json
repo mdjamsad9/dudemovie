@@ -1,0 +1,27 @@
+{
+  "id": "f9417875-cf41-43a0-a0e3-89c23161fa1f",
+  "title": "Caught by Love",
+  "slug": "caught-by-love",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vuYeFhJn6MfrPJ36OF7mT0sE360.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 84,
+  "rating": 6.5,
+  "description": "While on a journey of self-discovery, a resort guest gets swept into an undercover investigation for stolen jewels that turns into an unexpected and adventurous romance.",
+  "created_at": "2026-07-09T16:43:07.123Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Caught.By.Love.2026.1080p.WEBRip.x264%20%5BDDN%5D/Caught.By.Love.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

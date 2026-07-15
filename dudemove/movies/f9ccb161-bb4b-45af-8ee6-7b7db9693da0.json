@@ -1,0 +1,27 @@
+{
+  "id": "f9ccb161-bb4b-45af-8ee6-7b7db9693da0",
+  "title": "Mura",
+  "slug": "mura",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7UOVrVNUK1fYqOVcapM0cJz1l8A.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 129,
+  "rating": 5.2,
+  "description": "In Trivandrum, four inseperable friends, from raw, rustic background Anandhu, Saji, Manu, and Manaf plan the ultimate heist, their one shot at turning dreams into reality. But as they dive deeper, shadows from the past surface, unraveling hidden motives and testing loyalties in ways they never saw coming. When friendship clashes with ambition, how far will they go for revenge?",
+  "created_at": "2026-07-09T17:05:50.304Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mura%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mura%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

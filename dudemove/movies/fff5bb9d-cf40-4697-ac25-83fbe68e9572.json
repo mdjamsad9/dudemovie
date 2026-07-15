@@ -1,0 +1,27 @@
+{
+  "id": "fff5bb9d-cf40-4697-ac25-83fbe68e9572",
+  "title": "Thekku Vadakku",
+  "slug": "thekku-vadakku",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eo2LPxEXIK3ZnjPHo89XPUnItAf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 129,
+  "rating": 6,
+  "description": "Two rivals, a retired engineer and a rice mill owner, engage in a fierce competition. Their feud entertains the town as they battle to determine the ultimate victor and whether the loser accepts defeat gracefully.",
+  "created_at": "2026-07-09T17:12:40.067Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thekku%20Vadakku%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Thekku%20Vadakku%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

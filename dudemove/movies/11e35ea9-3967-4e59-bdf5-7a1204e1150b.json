@@ -1,0 +1,35 @@
+{
+  "id": "11e35ea9-3967-4e59-bdf5-7a1204e1150b",
+  "title": "Spy Kids: Armageddon",
+  "slug": "spy-kids-armageddon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 94,
+  "rating": 5.958,
+  "description": "When the children of the world’s greatest secret agents unwittingly help a powerful game developer unleash a computer virus that gives him control of all technology, they must become spies themselves to save their parents and the world.",
+  "created_at": "2026-07-09T17:33:50.138Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Spy.Kids.Armageddon.2023.1080p.WEBRip.x264%20%5BDDN%5D/Spy.Kids.Armageddon.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

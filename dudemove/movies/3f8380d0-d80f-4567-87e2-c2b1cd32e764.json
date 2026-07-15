@@ -1,0 +1,27 @@
+{
+  "id": "3f8380d0-d80f-4567-87e2-c2b1cd32e764",
+  "title": "Family Swap",
+  "slug": "family-swap",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qXeJkpKnG5wl2UqnudHapIEjyaY.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Turkish",
+  "release_year": 2021,
+  "duration": 92,
+  "rating": 5.911,
+  "description": "Husband does not understand his wife? Conflict with children? Do you want to be heard and stood in your place? Be afraid of your desires. In this family, everything changed places, including grandmother.",
+  "created_at": "2026-07-09T16:53:10.177Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Family.Swap.2020.1080p.BluRay.x264%20%5BDDN%5D/Family.Swap.2020.1080p.BluRay.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

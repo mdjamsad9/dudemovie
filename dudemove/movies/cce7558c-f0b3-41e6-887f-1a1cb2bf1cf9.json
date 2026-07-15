@@ -1,0 +1,31 @@
+{
+  "id": "cce7558c-f0b3-41e6-887f-1a1cb2bf1cf9",
+  "title": "The Unholy Trinity",
+  "slug": "the-unholy-trinity",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 95,
+  "rating": 6.325,
+  "description": "Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.",
+  "created_at": "2026-07-09T16:55:49.930Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Unholy.Trinity.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Unholy.Trinity.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

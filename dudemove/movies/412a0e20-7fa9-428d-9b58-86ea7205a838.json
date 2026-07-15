@@ -1,0 +1,27 @@
+{
+  "id": "412a0e20-7fa9-428d-9b58-86ea7205a838",
+  "title": "Dominic and the Ladies' Purse",
+  "slug": "dominic-and-the-ladies-purse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kbydhHW7IYMcdvn9jO9BdW4eUwk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 151,
+  "rating": 5.944,
+  "description": "Dominic, a disgraced ex-cop turned detective, takes on a seemingly simple case to locate a purse's owner, which unveils a dark web of missing persons, murder, a stalker and the mysterious dancer Nandhita.",
+  "created_at": "2026-07-09T16:43:21.019Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Dominic.and.The.Ladies.Purse.2025.720p.WEBRip.Hindi.HQ-Studio.Dub.x264%20%5BDDN%5D/Dominic.and.The.Ladies.Purse.2025.720p.WEBRip.Hindi.HQ-Studio.Dub.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

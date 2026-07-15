@@ -1,0 +1,27 @@
+{
+  "id": "766cf844-61c2-4ad6-9a2e-0cee83307fc1",
+  "title": "Sathyam Mathrame Bodhippikku",
+  "slug": "sathyam-mathrame-bodhippikku",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y67EEmSwHycEDgOnM2HXAUDxifm.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 126,
+  "rating": 5,
+  "description": "An IPS officer investigates the murder of a leading criminal lawyer in the city. Things become further suspicious when a middle-aged person named Mathews becomes the witness.",
+  "created_at": "2026-07-09T17:56:10.055Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sathyam%20Mathrame%20Bhodhippikku%20(2022)%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sathyam%20Mathrame%20Bhodhippikku%20(2022)%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

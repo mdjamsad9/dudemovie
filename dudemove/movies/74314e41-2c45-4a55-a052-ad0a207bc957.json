@@ -1,0 +1,31 @@
+{
+  "id": "74314e41-2c45-4a55-a052-ad0a207bc957",
+  "title": "Vettaiyan",
+  "slug": "vettaiyan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yEEyhQaW7cEb0IDJstoMBmEtPND.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 161,
+  "rating": 6.237,
+  "description": "A sought-after Supercop gets caught in a series of unexpected events when he encounters a suspect who is accused of being involved in a murder case.",
+  "created_at": "2026-07-09T17:10:09.088Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vettaiyan%20(2024)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vettaiyan%20%282024%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

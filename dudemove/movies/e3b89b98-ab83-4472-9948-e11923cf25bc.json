@@ -1,0 +1,27 @@
+{
+  "id": "e3b89b98-ab83-4472-9948-e11923cf25bc",
+  "title": "Visithiran",
+  "slug": "visithiran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aN2bLSiywApPAnEv4FXXYGBxI6l.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 123,
+  "rating": 7.5,
+  "description": "Following the death of his ex-wife, a retired police officer, who is known for his investigative prowess, unexpectedly gets pulled into a criminal case involving organ harvesting.",
+  "created_at": "2026-07-09T17:55:10.254Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Visithiran%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESubs%20%5BDDN%5D/Visithiran%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESubs%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

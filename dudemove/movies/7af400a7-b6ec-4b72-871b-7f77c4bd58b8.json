@@ -1,0 +1,23 @@
+{
+  "id": "7af400a7-b6ec-4b72-871b-7f77c4bd58b8",
+  "title": "Hostel Hudugaru Bekagiddare",
+  "slug": "hostel-hudugaru-bekagiddare",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qUOYHFerIeMGrQWREX3UDrr3AaC.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2023,
+  "duration": 136,
+  "rating": 7,
+  "description": "When the warden of their hostel takes his own life, a group of students conspire to make it look like an accident for fear that they will be blamed.",
+  "created_at": "2026-07-09T17:34:24.587Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Hostel%20Hudugaru%20Bekagiddare%20(2023)%C2%A0Kannada%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hostel%20Hudugaru%20Bekagiddare%20(2023)%c2%a0Kannada%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

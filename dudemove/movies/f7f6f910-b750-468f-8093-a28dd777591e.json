@@ -1,0 +1,31 @@
+{
+  "id": "f7f6f910-b750-468f-8093-a28dd777591e",
+  "title": "The Primevals",
+  "slug": "the-primevals",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mGfRWFJEybNVxxJUa9hYk8VQJFC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 6.3,
+  "description": "Deep in the Himalayas, a group of sherpas kills a gigantic humanoid creature. Convinced that it is the legendary Yeti, Dr. Claire Collier organizes an expedition with her former student Matt Connor and hunter Rondo Montana, among others, to search for more specimens. But what awaits them is something that none of them could have imagined. A colorful fusion of real image and stop-motion that is reminiscent of fantastic films from the 1980s.",
+  "created_at": "2026-07-09T17:18:54.767Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Primevals.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Primevals.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f90641d1-f752-482d-ae37-c5d8925543a7",
+  "title": "DSP Dev 2",
+  "slug": "dsp-dev-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/85TcTWInOY8eO2JACpCJW7w0CXt.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": null,
+  "release_year": 2026,
+  "duration": 134,
+  "rating": 3,
+  "description": "A disgraced cop gets one last shot at redemption by busting a major black money ring. The twist? His targets aren't typical criminals but women and children concealing something far more sinister than financial crimes.",
+  "created_at": "2026-07-09T16:33:40.940Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/DSP%20Dev%202%20(2026)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/DSP%20Dev%202%20(2026)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

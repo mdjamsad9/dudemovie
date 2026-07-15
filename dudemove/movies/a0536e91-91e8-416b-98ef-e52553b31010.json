@@ -1,0 +1,27 @@
+{
+  "id": "a0536e91-91e8-416b-98ef-e52553b31010",
+  "title": "Handsome Guys",
+  "slug": "handsome-guys",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x8QdSeTe02X8f1EcO7yk90lTGNi.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2024,
+  "duration": 102,
+  "rating": 6.8,
+  "description": "Brothers Jae-pil and Sang-gu move into their dream rustic-style house in the woods. When unwanted visitors arrive and awaken a sealed evil spirit in the basement, a dark aura begins to envelop the house.",
+  "created_at": "2026-07-09T16:55:08.309Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Handsome%20Guys%20(2024)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Handsome%20Guys%20%282024%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

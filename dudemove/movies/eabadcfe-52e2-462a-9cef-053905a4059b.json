@@ -1,0 +1,23 @@
+{
+  "id": "eabadcfe-52e2-462a-9cef-053905a4059b",
+  "title": "Usiru",
+  "slug": "usiru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 135,
+  "rating": null,
+  "description": "A troubled police officer returns to his full potential when he finds out that his wife is being targeted, travel with him in his journey of saving his wife.",
+  "created_at": "2026-07-09T16:35:36.101Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Usiru%202025)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Usiru%202025)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

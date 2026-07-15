@@ -1,0 +1,27 @@
+{
+  "id": "a24bec98-22ba-438b-ac0d-06bc6941c761",
+  "title": "Dochevaarevarura",
+  "slug": "dochevaarevarura",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zhAHXgtD0XzJq6RUQEGblOrOtko.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 116,
+  "rating": null,
+  "description": "Siddhu along with a small kid passes time posing as good samaritans, one among them stealing and the other returning the same to the owners and getting something in return. They meet a beautiful girl named Lakshmi, but when they try to help her, all of them land in trouble.",
+  "created_at": "2026-07-09T17:42:35.085Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dochevaarevarura%20(2023)%20Telugu%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Dochevaarevarura%20(2023)%20Telugu%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

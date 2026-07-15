@@ -1,0 +1,27 @@
+{
+  "id": "cdffa7ca-43e1-4a84-96e2-56fc0d1638fc",
+  "title": "35 Chinna Katha Kaadu",
+  "slug": "35-chinna-katha-kaadu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Wssy3WJYeF3QFu6E5c1iW74YjQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 8.6,
+  "description": "A young mother faces challenges when her son fails to secure passing marks in mathematics, inciting events that test the family's resilience and unity.",
+  "created_at": "2026-07-09T17:12:48.201Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/35%20Chinna%20Katha%20Kaadu%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/35%20Chinna%20Katha%20Kaadu%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

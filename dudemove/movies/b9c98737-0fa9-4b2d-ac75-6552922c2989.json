@@ -1,0 +1,31 @@
+{
+  "id": "b9c98737-0fa9-4b2d-ac75-6552922c2989",
+  "title": "Love Again",
+  "slug": "love-again",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/koswMk0y7jGcyofV1sBccnNtY0B.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 104,
+  "rating": 6.736,
+  "description": "Mira Ray, dealing with the loss of her fiancé, John, sends a series of romantic texts to his old cell phone number… not realizing the number was reassigned to Rob Burns' new work phone. Rob, a journalist, is captivated by the honesty in the beautifully confessional texts. When he’s assigned to write a profile of megastar Céline Dion, he enlists her help in figuring out how to meet Mira in person and win her heart.",
+  "created_at": "2026-07-09T17:39:12.804Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Love.Again.2023.1080p.WEBRip.x264%20%5BDDN%5D/Love.Again.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

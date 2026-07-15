@@ -1,0 +1,27 @@
+{
+  "id": "92cacce1-3ae6-4ad1-9448-cea385089cea",
+  "title": "Poker Face",
+  "slug": "poker-face",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 94,
+  "rating": 5.566,
+  "description": "A yearly high-stakes poker game between childhood friends turns into chaos when the tech billionaire host unveils an elaborate scheme to seek revenge for the ways they've betrayed him over the years. But as his plans unfold, a group of thieves hatch plans of their own breaking into the mansion thinking it is empty. The old friends quickly band together and the years of playing the game help them win their way through a night of terror.",
+  "created_at": "2026-07-09T17:48:17.566Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Poker.Face.2022.1080p.WEBRip.x264%20%5BDDN%5D/Poker.Face.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

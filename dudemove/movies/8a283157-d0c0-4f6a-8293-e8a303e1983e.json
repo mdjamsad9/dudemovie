@@ -1,0 +1,31 @@
+{
+  "id": "8a283157-d0c0-4f6a-8293-e8a303e1983e",
+  "title": "Yaaro",
+  "slug": "yaaro",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kpQuH0PCGrUeZ1zpLgwAtjxwupc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 102,
+  "rating": 9,
+  "description": "John is a loner, who is being framed for a series of murders; himself becomes a target of an unknown murderer who is dangerous and insanely brutal. As the murderer’s presence is felt everywhere, he must accept one of the greatest psychological and physical challenges on his ability to unravel the mystery of murders around him.",
+  "created_at": "2026-07-09T17:31:49.791Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "65f32829-66be-472a-8961-dd1a8ee9991c",
+  "title": "I Love Boosters",
+  "slug": "i-love-boosters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 113,
+  "rating": 5.8,
+  "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+  "created_at": "2026-07-09T16:32:53.313Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/I%20Love%20Boosters%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/I%20Love%20Boosters%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

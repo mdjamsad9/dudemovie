@@ -1,0 +1,31 @@
+{
+  "id": "eb055628-b5e5-4231-8a50-0b359bd38f9b",
+  "title": "Thiruchitrambalam",
+  "slug": "thiruchitrambalam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pBRkO5GHJqDB9D0fbumL5235JfJ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 133,
+  "rating": 7.397,
+  "description": "A guy-next-door tries to find romance in his life while also dealing with his personal problems. How long will it be before he realises what he is looking for is right next to him?",
+  "created_at": "2026-07-09T17:51:01.345Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thiruchitrambalam%C2%A0(2022)%20Tamil%201080p%20WEBRip%20x264%20HC-ESub%20%5BDDN%5D/Thiruchitrambalam%c2%a0(2022)%20Tamil%201080p%20WEBRip%20x264%20HC-ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

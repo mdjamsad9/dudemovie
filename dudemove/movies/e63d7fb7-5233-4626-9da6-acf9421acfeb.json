@@ -1,0 +1,27 @@
+{
+  "id": "e63d7fb7-5233-4626-9da6-acf9421acfeb",
+  "title": "Genie",
+  "slug": "genie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 6.534,
+  "description": "Flora, a genie trapped for more than 2,000 years inside an antique jewelry box, is accidentally called to service by Bernard, whose life is unraveling around him.",
+  "created_at": "2026-07-09T17:30:45.375Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Genie.2023.1080p.WEBRip.x264%20%5BDDN%5D/Genie.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

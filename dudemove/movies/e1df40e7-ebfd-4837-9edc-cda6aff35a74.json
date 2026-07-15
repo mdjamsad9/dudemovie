@@ -1,0 +1,27 @@
+{
+  "id": "e1df40e7-ebfd-4837-9edc-cda6aff35a74",
+  "title": "The Bell Keeper",
+  "slug": "the-bell-keeper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m37w2WJrmEWnFSjyQylIYfYAzMj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 3.9,
+  "description": "A group of friends travel to a secluded campsite to film a documentary. What they find is something much more sinister than they could have ever imagined.",
+  "created_at": "2026-07-09T17:32:17.724Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Bell.Keeper.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Bell.Keeper.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

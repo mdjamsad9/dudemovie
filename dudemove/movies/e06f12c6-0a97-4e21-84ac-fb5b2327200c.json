@@ -1,0 +1,31 @@
+{
+  "id": "e06f12c6-0a97-4e21-84ac-fb5b2327200c",
+  "title": "Soodhu Kavvum 2: Nadum Naatu Makkalum...",
+  "slug": "soodhu-kavvum-2-nadum-naatu-makkalum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bGf8gAI99KDm53Buwb9hf3ygf4o.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 129,
+  "rating": 3.5,
+  "description": "A gang of kidnappers find they have bitten off more than they can chew.",
+  "created_at": "2026-07-09T17:06:03.654Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Soodhu%20Kavvum%202%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Soodhu%20Kavvum%202%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9a872971-8880-4f65-8d0f-0428163c3374",
+  "title": "Mahira",
+  "slug": "mahira",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPDizMoLN3yvT5vPxmjx3w0Prrw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 148,
+  "rating": 2.7,
+  "description": "Maya and Adya, a mother-daughter duo, live a happy existence in a coastal Karnataka town, running their beach cafe. Though, this idyllic life is disrupted when both police and some criminals set out in the hunt of Maya. What is Maya's real identity? Why are these people after her?",
+  "created_at": "2026-07-09T17:52:30.130Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mahira%20(2019)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mahira%20(2019)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

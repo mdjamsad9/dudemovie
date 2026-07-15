@@ -1,0 +1,35 @@
+{
+  "id": "270d706b-c57f-42d2-aa96-99aa5840b87c",
+  "title": "Wonder Women",
+  "slug": "wonder-women",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fxTFSLmbqRa8p8RiXNTEdZFh7QK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tagalog",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 4.7,
+  "description": "Dr. Tsu is a brilliant surgeon with her own exotic island off the coast of Manila. Using her sexy, all-girl army of martial-arts experts, Tsu kidnaps some of the world's greatest athletes. She is able to transplant any body part, so she uses the athletes for spare parts to sell to the world's richest men. Mike Harber is a womanizing, wise-cracking insurance investigator for Lloyd's of London sent to Manila to investigate the disappearance of a jai-alai player, and becomes involved with Dr. Tsu's mad mission.",
+  "created_at": "2026-07-09T17:47:56.673Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Wonder%20Women%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Wonder%20Women%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

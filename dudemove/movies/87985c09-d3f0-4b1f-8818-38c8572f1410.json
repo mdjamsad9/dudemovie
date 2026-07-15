@@ -1,0 +1,23 @@
+{
+  "id": "87985c09-d3f0-4b1f-8818-38c8572f1410",
+  "title": "Mastiii 4",
+  "slug": "mastiii-4",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/99rpDOk540UDaCMlJSonpSvQCPm.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 142,
+  "rating": 6,
+  "description": "Three frustrated husbands seek freedom from their dull marriages. A wild idea promises escape and excitement. But what follows is anything but expected.",
+  "created_at": "2026-07-09T16:43:10.891Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Mastiii%204%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mastiii%204%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

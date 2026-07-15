@@ -1,0 +1,27 @@
+{
+  "id": "3c11e5e6-e56c-4a0d-a075-ab06a94dfcb8",
+  "title": "Bad Education",
+  "slug": "bad-education",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/du716YH0PKiL2kZgIPLkEblgHLX.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Latin",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 7.356,
+  "description": "When an old friend brings filmmaker Enrique Goded a semi-autobiographical script chronicling their adolescence, Enrique is forced to relive his youth spent at a Catholic boarding school. Weaving through past and present, the script follows a transvestite performer who reconnects with a grade school sweetheart. Spurred on by this chance encounter, the character reflects on her childhood sexual victimization and the trauma of closeting her sexual orientation.",
+  "created_at": "2026-07-09T17:56:59.078Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Bad.Education.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D/Bad.Education.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

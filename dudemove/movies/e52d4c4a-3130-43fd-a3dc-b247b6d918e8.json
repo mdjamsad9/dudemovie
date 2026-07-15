@@ -1,0 +1,31 @@
+{
+  "id": "e52d4c4a-3130-43fd-a3dc-b247b6d918e8",
+  "title": "Antony",
+  "slug": "antony",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vzDLiiQ7Yyux1Rx1OlAru78hWxc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 145,
+  "rating": 5.4,
+  "description": "Antony is a ruthless gangster in a town and has a close-knit group, which includes Ann Maria, a college student trained in MMA. Maria and Antony soon get into trouble due to unforeseen circumstances and they set out to solve the issues in violent ways",
+  "created_at": "2026-07-09T17:19:55.329Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Antony%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Antony%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

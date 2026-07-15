@@ -1,0 +1,31 @@
+{
+  "id": "e0a06d53-230c-4909-8d79-4d911b340f4b",
+  "title": "The Portable Door",
+  "slug": "the-portable-door",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/49NQGuvaMWYeAD22h135tFd2Grs.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 116,
+  "rating": 6.513,
+  "description": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional – they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
+  "created_at": "2026-07-09T17:41:36.033Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Portable.Door.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Portable.Door.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

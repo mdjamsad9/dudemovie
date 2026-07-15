@@ -1,0 +1,27 @@
+{
+  "id": "78fac980-0793-4ea1-8648-1dcf7fcc51a4",
+  "title": "Operation Laila",
+  "slug": "operation-laila",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5LjepL2VheteoBLeMRcciesRMYo.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 124,
+  "rating": null,
+  "description": "Surya, a sincere police officer, has a twin brother, Ravi, who becomes a beloved Drill Master at a school. Ravi falls in love with teacher Anjali. They encounter a ghost named Laila, seeking revenge for her murder. As Laila targets the school's staff, Surya must stop her or risk losing more lives.",
+  "created_at": "2026-07-09T17:25:17.361Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Operation%20Laila%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Operation%20Laila%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

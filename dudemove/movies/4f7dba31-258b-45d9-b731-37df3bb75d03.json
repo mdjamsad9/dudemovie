@@ -1,0 +1,31 @@
+{
+  "id": "4f7dba31-258b-45d9-b731-37df3bb75d03",
+  "title": "The Devil on Trial",
+  "slug": "the-devil-on-trial",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qqPIhVKPHePyGqQxbo4gpznsJsA.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2023,
+  "duration": 81,
+  "rating": 5.842,
+  "description": "Explore the first – and only – time “demonic possession” has officially been used as a defense in a U.S. murder trial. Including firsthand accounts of alleged devil possession and a shocking murder, this extraordinary story forces reflection on our fear of the unknown.",
+  "created_at": "2026-07-09T17:32:03.339Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Devil.On.Trial.2023.Hindi-English.1080p.WEBRip.x264%20%5BDDN%5D/The.Devil.On.Trial.2023.Hindi-English.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

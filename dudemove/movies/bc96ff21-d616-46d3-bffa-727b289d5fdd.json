@@ -1,0 +1,31 @@
+{
+  "id": "bc96ff21-d616-46d3-bffa-727b289d5fdd",
+  "title": "Bhaag Saale",
+  "slug": "bhaag-saale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lwNl9RgchwamLNnU75pXc9VelWW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 121,
+  "rating": 6,
+  "description": "A smart and young chap knots into a big trouble: he must defy a big time goon, to retrieve something priceless and gain back his love.",
+  "created_at": "2026-07-09T17:35:53.650Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bhaag%20Saale%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhaag%20Saale%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

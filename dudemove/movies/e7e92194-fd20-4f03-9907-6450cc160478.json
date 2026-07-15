@@ -1,0 +1,23 @@
+{
+  "id": "e7e92194-fd20-4f03-9907-6450cc160478",
+  "title": "Bottle Radha",
+  "slug": "bottle-radha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/25xAm0e2Ez5RpTFqd5i2LISD1C3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 149,
+  "rating": 6,
+  "description": "When his wife sends him to rehab for his alcohol addiction without consent, Radha's world shatters, fuelling his desperate escape plan. Loneliness and estrangement from his family follow as he returns to his old ways.",
+  "created_at": "2026-07-09T17:03:12.121Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bottle%20Radha%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Bottle%20Radha%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

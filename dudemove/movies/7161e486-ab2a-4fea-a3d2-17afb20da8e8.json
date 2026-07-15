@@ -1,0 +1,27 @@
+{
+  "id": "7161e486-ab2a-4fea-a3d2-17afb20da8e8",
+  "title": "Unhuman",
+  "slug": "unhuman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a0YCxxFhZSczKrw3FHDV0nTyHb5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 87,
+  "rating": 5.314,
+  "description": "After their school bus crashes, a group of high school students is thrown into a terrifying fight for survival as they try to take down a group of unhuman savages… before they kill each other first.",
+  "created_at": "2026-07-09T17:50:07.853Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Unhuman.2022.1080p.WEBRip.x264%20%5BDDN%5D/Unhuman.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

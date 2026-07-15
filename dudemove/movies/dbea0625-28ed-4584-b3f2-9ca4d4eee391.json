@@ -1,0 +1,31 @@
+{
+  "id": "dbea0625-28ed-4584-b3f2-9ca4d4eee391",
+  "title": "Love Lies Bleeding",
+  "slug": "love-lies-bleeding",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 104,
+  "rating": 6.6,
+  "description": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Las Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou’s criminal family.",
+  "created_at": "2026-07-09T17:24:37.698Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Love.Lies.Bleeding.2024.1080p.WEBRip.x264%20%5BDDN%5D/Love.Lies.Bleeding.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

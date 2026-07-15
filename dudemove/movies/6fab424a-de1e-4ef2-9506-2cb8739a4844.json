@@ -1,0 +1,27 @@
+{
+  "id": "6fab424a-de1e-4ef2-9506-2cb8739a4844",
+  "title": "Breakout",
+  "slug": "breakout",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 85,
+  "rating": 5.1,
+  "description": "Having taken control of a maximum security prison, a criminal mastermind faces off against a retired Black Ops agent who had been visiting his incarcerated son.",
+  "created_at": "2026-07-09T17:40:37.601Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Breakout.2023.1080p.WEBRip.x264%20%5BDDN%5D/Breakout.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

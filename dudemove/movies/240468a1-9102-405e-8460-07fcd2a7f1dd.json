@@ -1,0 +1,31 @@
+{
+  "id": "240468a1-9102-405e-8460-07fcd2a7f1dd",
+  "title": "Bommai",
+  "slug": "bommai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/edrf1p9Twd9LyelkjzGyUDJHBMH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 145,
+  "rating": 3,
+  "description": "Raj Kumar, a painter in a mannequin factory with troubled past, falls in love with a mannequin reminds him of his high-school sweetheart Nandini and imagines it to be real. But things get messy when the factory owner exports it to a showroom.",
+  "created_at": "2026-07-09T17:38:02.138Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bommai%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Bommai%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e0796ab8-a3d7-4ddc-affa-9c8b4af6e184",
+  "title": "Peddi",
+  "slug": "peddi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2026,
+  "duration": 192,
+  "rating": 8,
+  "description": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+  "created_at": "2026-07-09T16:34:03.786Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Peddi%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Peddi%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a9d2852d-e19c-49d9-b60d-dd1906b3a1d8",
+  "title": "Hide N Seek",
+  "slug": "hide-n-seek",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z2FrBmADAwy49fY7LuAv20GPWR3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "The plot revolves around the relationship between a young drifter and an abused housewife.",
+  "created_at": "2026-07-09T16:41:27.790Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Hide%20N%20Seek%20(2024)%20Hindi%20Telugu1080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hide%20N%20Seek%20(2024)%20Hindi%20Telugu1080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "91ee8c31-4dc1-4108-a669-c8976aa21446",
+  "title": "Avatar: The Way of Water",
+  "slug": "avatar-the-way-of-water",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 192,
+  "rating": 7.594,
+  "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+  "created_at": "2026-07-09T17:41:56.469Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Avatar.The.Way.of.Water.2022.1080p.WEBRip.x264%20%5BDDN%5D/Avatar.The.Way.of.Water.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

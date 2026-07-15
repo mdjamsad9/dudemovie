@@ -1,0 +1,31 @@
+{
+  "id": "20c4868d-52a1-4b44-a03e-754f56823325",
+  "title": "2018",
+  "slug": "2018",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uz9qc6lNGyqS2xvuXUfpJh2eP6b.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 150,
+  "rating": 7.5,
+  "description": "A disaster film set during the 2018 Kerala Floods where people from all walks of life faced catastrophic consequences and put in collective efforts to survive the calamity.",
+  "created_at": "2026-07-09T17:38:40.158Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/2018%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/2018%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

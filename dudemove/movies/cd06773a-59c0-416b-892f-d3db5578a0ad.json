@@ -1,0 +1,23 @@
+{
+  "id": "cd06773a-59c0-416b-892f-d3db5578a0ad",
+  "title": "Prathibha Tutorials",
+  "slug": "prathibha-tutorials",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5o0eTjCIkVcSdhiilx8iBI3VR2R.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 111,
+  "rating": 2,
+  "description": "The film's premise centres on the intriguing events surrounding the reopening of a parallel college that was previously operating successfully.",
+  "created_at": "2026-07-09T17:11:19.251Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Prathibha%20Tutorials%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prathibha%20Tutorials%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

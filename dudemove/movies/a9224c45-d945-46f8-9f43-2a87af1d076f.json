@@ -1,0 +1,23 @@
+{
+  "id": "a9224c45-d945-46f8-9f43-2a87af1d076f",
+  "title": "Space Cadet",
+  "slug": "space-cadet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7QUOIldN6ShKj1LdLhO26a8QXND.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 110,
+  "rating": 5.5,
+  "description": "Tiffany \"Rex\" Simpson has always dreamed of going to space, and her \"doctored\" application lands her in NASA's ultra-competitive astronaut training program. In over her head, can this Florida girl rely on her quick wits, moxie and determination to get through training and into the cosmos before she blows her cover?",
+  "created_at": "2026-07-09T17:16:44.493Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Space.Cadet.2024.1080p.WEBRip.x264%20%5BDDN%5D/Space.Cadet.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

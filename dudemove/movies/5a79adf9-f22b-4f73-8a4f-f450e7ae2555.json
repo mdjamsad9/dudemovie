@@ -1,0 +1,23 @@
+{
+  "id": "5a79adf9-f22b-4f73-8a4f-f450e7ae2555",
+  "title": "Quicksand",
+  "slug": "quicksand",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tJVkEKiiy1QZuPhc6WPANH4RPrZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 7,
+  "description": "An unexpected discovery rears its ugly head and threatens to unravel Sally’s secret sex addiction. Sally is now forced to take drastic measures to protect her double life.",
+  "created_at": "2026-07-09T17:31:55.041Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Quicksand.2023.Hindi-English.1080p.WEBRip.x264%20%5BDDN%5D/Quicksand.2023.Hindi-English.1080p.WEBRip.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

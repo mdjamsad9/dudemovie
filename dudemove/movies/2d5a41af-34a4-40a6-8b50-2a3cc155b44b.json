@@ -1,0 +1,27 @@
+{
+  "id": "2d5a41af-34a4-40a6-8b50-2a3cc155b44b",
+  "title": "Conjuring Kannappan",
+  "slug": "conjuring-kannappan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rtyWDHQZElXYVETNZ4r8Wb6OZ2U.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 6.167,
+  "description": "A man begins to have nightmares where he experiences things in sleep have an effect on him in real life, too. But as his derangement spreads across his family and friends, they decide to go to the root of the cause.",
+  "created_at": "2026-07-09T17:15:24.848Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Conjuring%20Kannappan%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Conjuring%20Kannappan%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

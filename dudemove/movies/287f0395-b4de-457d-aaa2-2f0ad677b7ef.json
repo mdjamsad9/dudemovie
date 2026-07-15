@@ -1,0 +1,27 @@
+{
+  "id": "287f0395-b4de-457d-aaa2-2f0ad677b7ef",
+  "title": "PT Sir",
+  "slug": "pt-sir",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1nTKDDzcU0M0I4PonmbjAHkIyQE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 129,
+  "rating": 8.1,
+  "description": "The film follows a Physical Training teacher who inspires his students to realize their potential and pursue their aspirations. As he navigates various challenges within the school environment, his mentorship plays a crucial role in their journey of self-discovery and personal growth.",
+  "created_at": "2026-07-09T17:18:05.984Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/PT%20Sir%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/PT%20Sir%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

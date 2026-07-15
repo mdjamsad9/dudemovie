@@ -1,0 +1,31 @@
+{
+  "id": "47bac030-592a-4ab7-b762-151eb65907c5",
+  "title": "The Creator",
+  "slug": "the-creator",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+  "is_premium": false,
+  "country": "Japan",
+  "language": "Japanese",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": 7.04,
+  "description": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+  "created_at": "2026-07-09T17:31:11.426Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Creator.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Creator.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

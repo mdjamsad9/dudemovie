@@ -1,0 +1,35 @@
+{
+  "id": "2047f397-4d01-4920-9085-152111f32aa0",
+  "title": "The Shadow's Edge",
+  "slug": "the-shadow-s-edge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2025,
+  "duration": 142,
+  "rating": 7.762,
+  "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+  "created_at": "2026-07-09T16:42:42.881Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/The.Shadows.Edge.2025.1080p.BluRay.x264%20%5BDDN%5D/The.Shadows.Edge.2025.1080p.BluRay.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

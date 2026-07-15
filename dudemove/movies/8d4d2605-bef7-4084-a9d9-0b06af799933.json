@@ -1,0 +1,31 @@
+{
+  "id": "8d4d2605-bef7-4084-a9d9-0b06af799933",
+  "title": "Pyaar Prema Kaadhal",
+  "slug": "pyaar-prema-kaadhal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pZAdJFNTsVGM7ydUGNZs4D6udFs.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 144,
+  "rating": 5.2,
+  "description": "Two lovers, who are different in almost all ways, get into a live-in relationship. They go through tough times as their approach towards life do not match with each other's.",
+  "created_at": "2026-07-09T17:28:23.275Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pyaar%20Prema%20Kaadhal%20(2018)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pyaar%20Prema%20Kaadhal%20(2018)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

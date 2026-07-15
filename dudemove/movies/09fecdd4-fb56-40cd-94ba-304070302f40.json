@@ -1,0 +1,27 @@
+{
+  "id": "09fecdd4-fb56-40cd-94ba-304070302f40",
+  "title": "Junior",
+  "slug": "junior-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/75C9BmSkGWghozqjQF0fgX48lGz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Telugu",
+  "release_year": 2025,
+  "duration": 151,
+  "rating": 4.1,
+  "description": "A free-spirited young man suffocated by his father’s obsessive love escapes to the city in search of freedom, but his carefree attitude soon puts him at odds with his emotionally distant corporate boss. He embarks on a heartwarming journey of redemption and connection discovering the true depth of sacrifice love and the fleeting nature of time.",
+  "created_at": "2026-07-09T16:33:02.932Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Junior%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Junior%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "15673c93-d42c-4de8-9791-3dd969e17f5e",
+  "title": "Nadaaniyan",
+  "slug": "nadaaniyan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vQsGkLx68lmAdGwNapaaq3qqwKn.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 119,
+  "rating": 5.909,
+  "description": "A privileged Delhi socialite hires a middle-class student to pose as her boyfriend to maintain her social status. Their pretense becomes complicated when genuine feelings develop between them.",
+  "created_at": "2026-07-09T17:01:41.825Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nadaaniyan%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nadaaniyan%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

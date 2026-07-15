@@ -1,0 +1,31 @@
+{
+  "id": "b42607fd-4414-492f-aad3-bd5db11bd829",
+  "title": "Shambhala",
+  "slug": "shambhala-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/toCKv7aKlAzYh0vyrrBZjuWGIMD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 143,
+  "rating": 6,
+  "description": "When a meteor crashes into the highly superstitious village of Shambhala in the 1980s, strange supernatural events unfold, forcing an atheist scientist to face an ancient horror-one that science can't explain or escape.",
+  "created_at": "2026-07-09T16:43:03.441Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aadi%20Shambhala%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aadi%20Shambhala%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

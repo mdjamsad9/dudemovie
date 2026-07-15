@@ -1,0 +1,31 @@
+{
+  "id": "12b4fe1a-9a24-42dd-b809-d979f9b8df3b",
+  "title": "Appan",
+  "slug": "appan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r9JNFwuy86q0jutO8qXP758k5sN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": 8.4,
+  "description": "A cruel womaniser, who cheated death and has been bedridden for ages, harasses his wife and son out of spite. As his family waits for him to die, the villagers form a mob demanding to kill him because of his actions. When he tricks his wife into allowing him to spend time alone with another woman, his family faces a hard decision that could alter their lives forever.",
+  "created_at": "2026-07-09T17:49:11.152Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Appan%20(2022)%20HIndi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Appan%20(2022)%20HIndi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

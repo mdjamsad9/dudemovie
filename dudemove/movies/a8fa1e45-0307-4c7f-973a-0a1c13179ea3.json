@@ -1,0 +1,23 @@
+{
+  "id": "a8fa1e45-0307-4c7f-973a-0a1c13179ea3",
+  "title": "Koozhangal",
+  "slug": "koozhangal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8BkWrWP1L9xbIJMwqwuLb17gYOZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 6.2,
+  "description": "A young boy follows his violent and alcoholic father on a quest to find his mother, who has run away from his abuse.",
+  "created_at": "2026-07-09T17:31:46.257Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Koozhangal%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Koozhangal%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

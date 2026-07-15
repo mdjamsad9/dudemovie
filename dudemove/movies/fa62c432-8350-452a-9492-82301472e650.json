@@ -1,0 +1,23 @@
+{
+  "id": "fa62c432-8350-452a-9492-82301472e650",
+  "title": "Kanakarajyam",
+  "slug": "kanakarajyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ydcI3wSSjvjYt9X99tLUVDos9qi.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 124,
+  "rating": 5,
+  "description": "The relationship between two people, their complexes and pride.",
+  "created_at": "2026-07-09T17:05:40.441Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kanakarajyam%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kanakarajyam%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

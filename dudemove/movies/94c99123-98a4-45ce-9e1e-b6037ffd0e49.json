@@ -1,0 +1,23 @@
+{
+  "id": "94c99123-98a4-45ce-9e1e-b6037ffd0e49",
+  "title": "Three Hours in the Life of a Woman",
+  "slug": "three-hours-in-the-life-of-a-woman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6KWwgKIf9nq7mD6SCvumf7lSpOY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2023,
+  "duration": 25,
+  "rating": null,
+  "description": "Elementary school teacher Xuan-ying is paid a visit by Yue-jie, a student of hers from 12 years ago. During the three hours they spend together in the classroom, Xuan-ying slowly steps away from her former disaffection with the world and once again witnesses what it means to be alive.",
+  "created_at": "2026-07-09T17:11:56.983Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Woman.Of.The.Hour.2023.1080p.WEBRip.x264%20%5BDDN%5D/Woman.Of.The.Hour.2023.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

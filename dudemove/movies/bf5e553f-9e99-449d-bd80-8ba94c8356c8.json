@@ -1,0 +1,27 @@
+{
+  "id": "bf5e553f-9e99-449d-bd80-8ba94c8356c8",
+  "title": "Pakalum Paathiravum",
+  "slug": "pakalum-paathiravum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/siuB01WPTW7f8Vb3TAd32QP8hHO.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 120,
+  "rating": 3.6,
+  "description": "Michael, a wildlife photographer travelling to Mysore, stops at a farmer's house for the night when his bike breaks down. What happens when Mercy, the farmer's daughter, finds a gun in Michael's bag?",
+  "created_at": "2026-07-09T17:40:35.885Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pakalum%20Paathiravum%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pakalum%20Paathiravum%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "51b46615-550f-42fe-bcce-e3df7cdb3ce4",
+  "title": "Naan Kadavul Illai",
+  "slug": "naan-kadavul-illai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zPIAZUHwtwQssdA7MyfHeU6NkYA.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 138,
+  "rating": null,
+  "description": "Uma, A little orphan girl writes a letter to God requesting new clothes, Mr. Jothilingam, a businessman, who receives the letter by chance and fulfills her request. When Uma again writes a letter to God to save her family from evil. Will God grant her request?",
+  "created_at": "2026-07-09T17:31:04.347Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Naan%20Kadavul%20Illai%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Naan%20Kadavul%20Illai%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

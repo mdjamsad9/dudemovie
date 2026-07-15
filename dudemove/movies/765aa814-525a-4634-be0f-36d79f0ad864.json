@@ -1,0 +1,27 @@
+{
+  "id": "765aa814-525a-4634-be0f-36d79f0ad864",
+  "title": "Kangaroo Valley",
+  "slug": "kangaroo-valley",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8T4Zp0b9hSSJkuavEYGF2h7omf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 76,
+  "rating": 6.95,
+  "description": "Journey to a secret valley in Australia, where a nervous baby kangaroo named Mala faces hungry dingoes and winter snows in this coming-of-age adventure.",
+  "created_at": "2026-07-09T17:46:48.111Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Kangaroo.Valley.2022.1080p.WEBRip.x264%20%5BDDN%5D/Kangaroo.Valley.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

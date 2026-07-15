@@ -1,0 +1,27 @@
+{
+  "id": "bebfc28d-b64a-467d-840c-37d4137c6714",
+  "title": "Rudramambapuram",
+  "slug": "rudramambapuram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kDqP7JsgwgghzaFhTEo0mYlvvIF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 125,
+  "rating": null,
+  "description": "Two rival fishermen clash on the burning issue of using ring nets. With politics adding fuel to the fire, how will the fisher folk resolve their conflict?",
+  "created_at": "2026-07-09T17:37:08.284Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Rudramambapuram%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Rudramambapuram%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

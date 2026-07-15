@@ -1,0 +1,27 @@
+{
+  "id": "b59b2283-5016-47f5-97f8-2db8312ef315",
+  "title": "Godday Godday Chaa",
+  "slug": "godday-godday-chaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ueDhV51AWT6Hvgts1F2GbzM2NKr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2023,
+  "duration": 130,
+  "rating": 4.7,
+  "description": "During 1990s, women were not allowed to accompany men to baraats, and the groom's mother was not allowed to attend pheras. Rani intends to put an end to this ritual and starts building a team with other women, fights for women's rights.",
+  "created_at": "2026-07-09T17:37:18.468Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Godday.Godday.Chaa.2023.1080p.WEBRip.x264%20%5BDDN%5D/Godday.Godday.Chaa.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

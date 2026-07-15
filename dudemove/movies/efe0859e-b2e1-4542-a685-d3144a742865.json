@@ -1,0 +1,27 @@
+{
+  "id": "efe0859e-b2e1-4542-a685-d3144a742865",
+  "title": "Rogue Agent",
+  "slug": "rogue-agent",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 6.3,
+  "description": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+  "created_at": "2026-07-09T17:53:01.749Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

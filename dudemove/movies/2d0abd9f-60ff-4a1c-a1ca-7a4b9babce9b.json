@@ -1,0 +1,27 @@
+{
+  "id": "2d0abd9f-60ff-4a1c-a1ca-7a4b9babce9b",
+  "title": "HAIKYU!! The Dumpster Battle",
+  "slug": "haikyu-the-dumpster-battle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
+  "is_premium": false,
+  "country": "Japan",
+  "language": "Japanese",
+  "release_year": 2024,
+  "duration": 84,
+  "rating": 7.724,
+  "description": "Shoyo Hinata joins Karasuno High's volleyball club to be like his idol, a former Karasuno player known as the 'Little Giant'. But Hinata soon learns that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles form a surprising weapon, but can their newfound teamwork defeat their rival Nekoma High in the highly anticipated 'Dumpster Battle', the long awaited ultimate showdown between two opposing underdog teams?",
+  "created_at": "2026-07-09T16:52:44.332Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Haikyu%20The%20Dumpster%20Battle%20(2024)%20Hindi%20English%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/Haikyu%20The%20Dumpster%20Battle%20%282024%29%20Hindi%20English%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

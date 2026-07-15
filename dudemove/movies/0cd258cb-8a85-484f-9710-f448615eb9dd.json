@@ -1,0 +1,27 @@
+{
+  "id": "0cd258cb-8a85-484f-9710-f448615eb9dd",
+  "title": "Aakasha Veedhullo",
+  "slug": "aakasha-veedhullo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bIY17t5PhFqJ7j6FYCTQ251vCwd.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 146,
+  "rating": 3,
+  "description": "Siddhu, a simple guy, falls for Nisha and gets attached to her. A series of events leads to their separation and Siddhu becomes a Rockstar. Why did they separate? What went wrong between them?",
+  "created_at": "2026-07-09T17:38:21.539Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

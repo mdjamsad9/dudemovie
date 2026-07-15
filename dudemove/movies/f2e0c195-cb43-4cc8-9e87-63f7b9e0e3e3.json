@@ -1,0 +1,23 @@
+{
+  "id": "f2e0c195-cb43-4cc8-9e87-63f7b9e0e3e3",
+  "title": "Cheekatilo",
+  "slug": "cheekatilo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2026,
+  "duration": 126,
+  "rating": 4.5,
+  "description": "When crime anchor Sandhya’s best friend is found dead under suspicious circumstances, she embarks on a dangerous investigation that collides with a dark past. As secrets unravel, Sandhya must face her trauma and rise as a fearless voice for the silenced.",
+  "created_at": "2026-07-09T16:43:12.215Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Cheekatilo%20(2026)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Cheekatilo%20(2026)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

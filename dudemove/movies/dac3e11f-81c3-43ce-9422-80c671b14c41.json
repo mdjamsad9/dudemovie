@@ -1,0 +1,31 @@
+{
+  "id": "dac3e11f-81c3-43ce-9422-80c671b14c41",
+  "title": "The Bunker Game",
+  "slug": "the-bunker-game",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FGenj5LnApAsJVLbd5Ehmn16XV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 92,
+  "rating": 4.652,
+  "description": "Laura, 25, is an actress in a L.A.R.P. (Live Action Role Playing) Game, where the participants play the survivors of an atomic war who live underground in a sealed bunker. After several mysterious accidents, the game is interrupted and the players leave the bunker while the staff remain behind to investigate the disappearance of Greg, the mastermind of the game. They soon find themselves trapped inside and in peril as they begin to die in mysterious ways and the group realizes that someone or something paranormal is playing a twisted game with them which quickly plunges into a terrifying fight for survival.",
+  "created_at": "2026-07-09T17:41:37.631Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

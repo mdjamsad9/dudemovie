@@ -1,0 +1,27 @@
+{
+  "id": "97d7d172-6297-42f5-9cc0-eb3140c2e6a2",
+  "title": "Back in Action",
+  "slug": "back-in-action",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 114,
+  "rating": 6.427,
+  "description": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+  "created_at": "2026-07-09T17:03:57.156Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Back.In.Action.2025.1080p.WEBRip.x264%20%5BDDN%5D/Back.In.Action.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

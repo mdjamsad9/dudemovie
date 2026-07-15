@@ -1,0 +1,35 @@
+{
+  "id": "bfda2756-7bf9-4fc2-80b9-c15c4e037794",
+  "title": "DJ Tillu",
+  "slug": "dj-tillu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2XKg3VhpFDXdAktwKvFMSuIneE3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 5.708,
+  "description": "When a local DJ and his affair with a young woman put him square in the middle of a crime, he must do his best to get out of the predicament he’s in.",
+  "created_at": "2026-07-09T17:47:30.877Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/DJ%20Tillu%202022%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/DJ%20Tillu%202022%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

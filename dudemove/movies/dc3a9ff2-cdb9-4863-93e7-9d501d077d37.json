@@ -1,0 +1,27 @@
+{
+  "id": "dc3a9ff2-cdb9-4863-93e7-9d501d077d37",
+  "title": "Rakshakudu",
+  "slug": "rakshakudu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/852gvRFHLxlzM51kEYc5hnziffV.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 7.667,
+  "description": "A girl falls for a violent man, who keeps taking law in his hands and beats people up. She wants to marry to him and eventually even he says yes, but her father has a condition that he should control his anger and work with him in his factory.",
+  "created_at": "2026-07-09T17:26:48.469Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Rakshakudu%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Rakshakudu%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

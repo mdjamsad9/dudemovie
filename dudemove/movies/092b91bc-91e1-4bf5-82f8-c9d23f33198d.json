@@ -1,0 +1,27 @@
+{
+  "id": "092b91bc-91e1-4bf5-82f8-c9d23f33198d",
+  "title": "Aval Peyar Rajni",
+  "slug": "aval-peyar-rajni",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rk0ZrneTX8vvHIb5KrOlOBsbKSb.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 5.7,
+  "description": "Siblings Naveen and Gowri find themselves entangled in a web of chaos and danger with a looming life threat, the story unravels a mysterious quest to uncover the enigmatic identity of Rajni.",
+  "created_at": "2026-07-09T17:26:38.046Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aval%20Peyar%20Rajni%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aval%20Peyar%20Rajni%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

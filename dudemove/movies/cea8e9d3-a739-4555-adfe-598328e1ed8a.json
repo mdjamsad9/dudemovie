@@ -1,0 +1,27 @@
+{
+  "id": "cea8e9d3-a739-4555-adfe-598328e1ed8a",
+  "title": "About Fate",
+  "slug": "about-fate",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fabZkaVHYJ67KbZx7oFoitauX34.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 99,
+  "rating": 7.473,
+  "description": "Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve.",
+  "created_at": "2026-07-09T17:51:38.318Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/About.Fate.2022.1080p.WEBRip.x264%20%5BDDN%5D/About.Fate.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

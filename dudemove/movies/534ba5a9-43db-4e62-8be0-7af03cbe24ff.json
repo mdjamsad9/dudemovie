@@ -1,0 +1,27 @@
+{
+  "id": "534ba5a9-43db-4e62-8be0-7af03cbe24ff",
+  "title": "D3",
+  "slug": "d3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mGHnzn564AGAsCTRrJWrGRqSHdH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 126,
+  "rating": null,
+  "description": "Vikram, an inspector from Kutralam, stumbles upon a string of bizarre accidents that all seem to follow a strange pattern. But as he digs deeper, he uncovers a medical crime that sends shockwaves through the place.",
+  "created_at": "2026-07-09T17:41:26.533Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/D3%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/D3%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

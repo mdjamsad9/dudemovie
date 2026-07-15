@@ -1,0 +1,31 @@
+{
+  "id": "70f73831-8a9d-4973-a3a6-63fa1f4d914b",
+  "title": "Taylor Swift | The Eras Tour | The Final Show",
+  "slug": "taylor-swift-the-eras-tour-the-final-show",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 207,
+  "rating": 7.878,
+  "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
+  "created_at": "2026-07-09T16:44:19.316Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Taylor.Swift.The.Eras.Tour.The.Final.Show.2025.720p.WEBRip.x264%20%5BDDN%5D/Taylor.Swift.The.Eras.Tour.The.Final.Show.2025.720p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

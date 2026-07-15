@@ -1,0 +1,31 @@
+{
+  "id": "eacd9f6a-551b-46ca-bd2c-d9d9046564b4",
+  "title": "Agrinai",
+  "slug": "agrinai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7P1sCuOM294qvvTNZglg1UpY0c.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "Three most wanted killers have managed to escape from a secret experiment lab and they start to kill the villagers.",
+  "created_at": "2026-07-09T17:15:29.717Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Agrinai%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Agrinai%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

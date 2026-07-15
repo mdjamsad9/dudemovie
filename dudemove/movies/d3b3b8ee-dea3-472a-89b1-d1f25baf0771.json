@@ -1,0 +1,27 @@
+{
+  "id": "d3b3b8ee-dea3-472a-89b1-d1f25baf0771",
+  "title": "Subhedar",
+  "slug": "subhedar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vnM26ChrGes8dlT106LK9g3kaQu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Marathi",
+  "release_year": 2023,
+  "duration": 154,
+  "rating": 7,
+  "description": "Jay Shivaray In 'Subhedar', one will experience the thrilling feat of a mighty warrior who sacrifices his life to build the victory pylon of Swarajya on the summit of the fort, setting aside the marriage of his son.",
+  "created_at": "2026-07-09T16:50:07.029Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Subhedar%20(2023)%20Hindi%20Marathi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Subhedar%20(2023)%20Hindi%20Marathi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

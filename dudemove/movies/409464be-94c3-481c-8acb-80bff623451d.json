@@ -1,0 +1,27 @@
+{
+  "id": "409464be-94c3-481c-8acb-80bff623451d",
+  "title": "Padakkalam",
+  "slug": "padakkalam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9m4lvnqvwppA4BIoxqcWsWna5is.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": 7.3,
+  "description": "Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.",
+  "created_at": "2026-07-09T16:57:01.977Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Padakkalam%20(2025)%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Padakkalam%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

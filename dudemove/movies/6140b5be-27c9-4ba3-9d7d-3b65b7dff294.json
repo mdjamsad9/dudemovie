@@ -1,0 +1,23 @@
+{
+  "id": "6140b5be-27c9-4ba3-9d7d-3b65b7dff294",
+  "title": "Imani",
+  "slug": "imani",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/to4cAjZoTBjCHLq81UtElEZiP7T.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 3.5,
+  "description": "A year after what she thinks was a car accident, a seemingly normal wife and mother slowly recovers from amnesia, only to learn that she actually is a highly sought-after Army Special Ops Lieutenant who holds a secret that would blow the lid on a widespread government conspiracy.",
+  "created_at": "2026-07-09T17:45:18.983Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Imani.2023.1080p.WEBRip.x264%20%5BDDN%5D/Imani.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

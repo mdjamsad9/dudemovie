@@ -1,0 +1,27 @@
+{
+  "id": "fa5c9a68-f046-4990-9437-9fa85bfaac88",
+  "title": "Sharper",
+  "slug": "sharper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 115,
+  "rating": 6.8,
+  "description": "A small, wealthy family in New York City gets progressively torn apart by secrets, lies, and the theft that orchestrates all of it.",
+  "created_at": "2026-07-09T17:43:48.008Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Sharper.2023.1080p.WEBRip.x264%20%5BDDN%5D/Sharper.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

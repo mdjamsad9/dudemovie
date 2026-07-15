@@ -1,0 +1,31 @@
+{
+  "id": "0c0d781f-a970-4761-93b3-88d71916f0a6",
+  "title": "Mission: Impossible - The Final Reckoning",
+  "slug": "mission-impossible-the-final-reckoning",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 170,
+  "rating": 7.169,
+  "description": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+  "created_at": "2026-07-09T16:58:35.891Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Mission%20Impossible%20The%20Final%20Reckoning%20(2025)%20720p%20HDTS%20x264%20%5BDDN%5D/Mission%20Impossible%20The%20Final%20Reckoning%20%282025%29%20720p%20HDTS%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

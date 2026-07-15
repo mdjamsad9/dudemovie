@@ -1,0 +1,31 @@
+{
+  "id": "5ef4ece2-056c-40ed-a930-90b7b9078de4",
+  "title": "Adulthood",
+  "slug": "adulthood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a40Gi0Zq4Ecqu3obmOp6TSgEne1.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 97,
+  "rating": 6.005,
+  "description": "The lives of two siblings are completely upended when they discover a dead body, long buried in their parent’s basement, sending them down a rabbit hole of crime and murder.",
+  "created_at": "2026-07-09T16:51:55.796Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Adulthood.2025.1080p.WEBRip.x264%20%5BDDN%5D/Adulthood.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

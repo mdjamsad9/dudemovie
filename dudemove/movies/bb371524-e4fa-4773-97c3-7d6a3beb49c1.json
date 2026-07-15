@@ -1,0 +1,23 @@
+{
+  "id": "bb371524-e4fa-4773-97c3-7d6a3beb49c1",
+  "title": "Ajey: The Untold Story of a Yogi",
+  "slug": "ajey-the-untold-story-of-a-yogi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dW4rKpAMTYSw9YvBrTX2FaKIQpv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 148,
+  "rating": 3,
+  "description": "Follows the personal and spiritual journey of Ajay Mohan Singh Bisht, detailing his transformation into one of India's most influential political leaders.",
+  "created_at": "2026-07-09T16:52:39.247Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ajey%20The%20Untold%20Story%20of%20a%20Yogi%20(2025)%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Ajey%20The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

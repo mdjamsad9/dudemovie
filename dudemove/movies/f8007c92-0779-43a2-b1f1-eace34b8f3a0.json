@@ -1,0 +1,23 @@
+{
+  "id": "f8007c92-0779-43a2-b1f1-eace34b8f3a0",
+  "title": "Malli Pelli",
+  "slug": "malli-pelli",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "Janardhanarao Panthulu has his 6-year-old daughter Lalitha married to an old man who dies shortly after. Lalitha is brought up by her father under the strictures of widowhood.",
+  "created_at": "2026-07-09T17:39:05.851Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Malli%20Pelli%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Malli%20Pelli%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

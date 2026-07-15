@@ -1,0 +1,27 @@
+{
+  "id": "6c84fc70-f9f5-43c1-9a48-27ff42d91123",
+  "title": "The Best Man",
+  "slug": "the-best-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 5.973,
+  "description": "Mercenaries seize control of a remote resort hotel during a wedding and it's up to the best man, the groom and their drunken best friend to stop the terrorists and save the hostages.",
+  "created_at": "2026-07-09T17:39:53.811Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Best.Man.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Best.Man.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

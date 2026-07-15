@@ -1,0 +1,31 @@
+{
+  "id": "b16c1d5c-477b-4f03-9267-f3bdc404630b",
+  "title": "Retreat to You",
+  "slug": "retreat-to-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ldGWlZ7W9IXKWTtv4Wf94t7MfaW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 84,
+  "rating": 7,
+  "description": "Abby and Sean were best friends in high school until they had a falling out at their graduation party. Years later, when Abby’s friend Rachel brings her to a wilderness retreat, she is shocked to run into Sean. This chance reconnection only results in the old friends butting heads even more. However, when the pair becomes separated from the group on a hiking trip, they must work together to find their way back to the campsite. As the walls come down, they'll face the reality of why their friendship and their lives fell apart and come to learn that maybe the way forward is together.",
+  "created_at": "2026-07-09T17:33:33.550Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Retreat.To.You.2023.1080p.WEBRip.x264%20%5BDDN%5D/Retreat.To.You.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

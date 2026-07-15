@@ -1,0 +1,27 @@
+{
+  "id": "a1746015-2260-4c92-a637-7966afa71bdd",
+  "title": "Maurh",
+  "slug": "maurh",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iquQ6ihPM2WhHhUnJPc5CfGT1x1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2023,
+  "duration": 141,
+  "rating": 5.8,
+  "description": "In the 1800s in colonial-era Punjab, Jeona Maurh takes up arms to avenge his bandit brother's death. He gradually takes on the land tax mafia working in cahoots with the native kings and the British.",
+  "created_at": "2026-07-09T17:36:25.204Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Maurh%20(2023)%20Hindi%20Punjabi%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Maurh%20(2023)%20Hindi%20Punjabi%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

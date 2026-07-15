@@ -1,0 +1,23 @@
+{
+  "id": "c8839fb0-b9b2-41c0-886b-27f53184ee81",
+  "title": "The Akaali",
+  "slug": "the-akaali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tP2PeEBybZC8orlVve96DeS7DcY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 145,
+  "rating": 5,
+  "description": "A newly appointed I.O. who finds herself digging into the past regarding a 7-year-old case where occult gangs and forces have been responsible for a series of satanic killings in the city. With the help of an ex-cop, can she race against time, hierarchy and sanity to stop a rituals and solve the case?",
+  "created_at": "2026-07-09T17:15:42.649Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/The%20Akaali%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Akaali%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

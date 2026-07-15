@@ -1,0 +1,31 @@
+{
+  "id": "8ab8a175-84bf-44e4-a070-370419fbe0bf",
+  "title": "The Bengal Files",
+  "slug": "the-bengal-files",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3gbZh1S735CLz7NwFRb7bycUWkP.jpg",
+  "is_premium": false,
+  "country": "Bangladesh",
+  "language": "Bengali",
+  "release_year": 2025,
+  "duration": 205,
+  "rating": 5.125,
+  "description": "A criminal investigator uncovers a web of corruption during a missing person investigation, while a figure connected to the case reflects on the communal violence which broke out ahead of India's partition.",
+  "created_at": "2026-07-09T16:49:06.248Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/The%20Bengal%20Files%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Bengal%20Files%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

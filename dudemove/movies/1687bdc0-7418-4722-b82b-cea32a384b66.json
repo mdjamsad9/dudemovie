@@ -1,0 +1,27 @@
+{
+  "id": "1687bdc0-7418-4722-b82b-cea32a384b66",
+  "title": "The Tomorrow Job",
+  "slug": "the-tomorrow-job",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 105,
+  "rating": 4.519,
+  "description": "A team of thieves use a time travel drug to trade places with their future selves to execute the ultimate heist. When interrupted on a job the team must fix their past mistakes to prevent disastrous consequences.",
+  "created_at": "2026-07-09T17:40:33.653Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Tomorrow.Job.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Tomorrow.Job.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

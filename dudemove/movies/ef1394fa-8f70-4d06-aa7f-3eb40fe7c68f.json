@@ -1,0 +1,27 @@
+{
+  "id": "ef1394fa-8f70-4d06-aa7f-3eb40fe7c68f",
+  "title": "Vash Level 2",
+  "slug": "vash-level-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uTZU5eG5Afs0CLO9DlYVDW5pnfS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Gujarati",
+  "release_year": 2025,
+  "duration": 103,
+  "rating": 6.696,
+  "description": "Twelve years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to save her once more.",
+  "created_at": "2026-07-09T16:50:43.662Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vash%20Level%202%20(2025)%20Hindi%20Gujarati%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vash%20Level%202%20%282025%29%20Hindi%20Gujarati%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

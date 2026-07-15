@@ -1,0 +1,31 @@
+{
+  "id": "2803a93a-1a1e-4ff6-bb22-5f1b8bfff052",
+  "title": "Chaaver",
+  "slug": "chaaver",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jtKAARhtxOyAwqibPxfNexWkIWO.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 5,
+  "description": "It chronicles the tale of two competing gangs that are constantly at odds with one another in the Kerala area.",
+  "created_at": "2026-07-09T17:30:48.574Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Chaaver%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Chaaver%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

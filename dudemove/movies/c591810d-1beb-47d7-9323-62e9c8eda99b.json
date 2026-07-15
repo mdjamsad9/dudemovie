@@ -1,0 +1,31 @@
+{
+  "id": "c591810d-1beb-47d7-9323-62e9c8eda99b",
+  "title": "Ishq Vishk Rebound",
+  "slug": "ishq-vishk-rebound",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bJ9fGn0t9XO2Mjz1P05OQh76AaI.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 106,
+  "rating": 3,
+  "description": "When friendship turns into love for two newly singles, it threatens to destroy their wider friendship circle.",
+  "created_at": "2026-07-09T16:56:39.187Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ishq%20Vishk%20Rebound%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ishq%20Vishk%20Rebound%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

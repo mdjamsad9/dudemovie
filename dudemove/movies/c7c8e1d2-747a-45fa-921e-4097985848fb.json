@@ -1,0 +1,31 @@
+{
+  "id": "c7c8e1d2-747a-45fa-921e-4097985848fb",
+  "title": "Viduthalai: Part II",
+  "slug": "viduthalai-part-ii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l2LVYzhCuwfPfN80v6lic55DIAc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 172,
+  "rating": 6.95,
+  "description": "Troubles worsen for Kumaresan after the capture of Perumal, and soon he is confronted with having to make a choice between performing his duties as a police constable, or taking a stand for what is right.",
+  "created_at": "2026-07-09T17:05:41.284Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Viduthalai%20Part%202%20(2024)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Viduthalai%20Part%202%20(2024)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

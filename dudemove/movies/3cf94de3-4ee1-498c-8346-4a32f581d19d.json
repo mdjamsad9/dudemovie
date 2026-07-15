@@ -1,0 +1,27 @@
+{
+  "id": "3cf94de3-4ee1-498c-8346-4a32f581d19d",
+  "title": "Kaaval The Movie",
+  "slug": "kaaval-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i9NgqtybXbVaR81XkQBoLQWDfke.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "Based on the police drama series Kaaval which aired four seasons on TV2 (2014-2021).  Due to the increasing crime rate in the city, ASP Lawrence and his team Inspector Allena, Inspector Thivya and Inspector Agho work together to catch the criminals and gangs involved. After a long investigation, they are able to identify certain gangs and group leaders involved in drug trafficking and human trafficking. Meanwhile Karthik and Kaviya are college students who are very much in love and Karthik seeks help from his brother Thillai to talk to Kaviya's father for the approval of their relationship. Kaviya's father Barathan is a famous scrap metal business owner but few know about his past. Barathan is very unhappy with Karthik. Lucy and Martin have instead asked their gang members to get young girls kidnapped and to be sold in Thailand.",
+  "created_at": "2026-07-09T17:34:28.110Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kaaval%20The%20Movie%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kaaval%20The%20Movie%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

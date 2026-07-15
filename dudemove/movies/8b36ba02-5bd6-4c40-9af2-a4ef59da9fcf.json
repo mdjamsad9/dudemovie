@@ -1,0 +1,27 @@
+{
+  "id": "8b36ba02-5bd6-4c40-9af2-a4ef59da9fcf",
+  "title": "Ambajipeta Marriage Band",
+  "slug": "ambajipeta-marriage-band",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2e27GW5Lp5zBo1A24ZDvCSWcovt.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 130,
+  "rating": 5.5,
+  "description": "In a small village during the early 2000s, twins Mallikarjuna and Padma find their lives changing on their 25th birthday.",
+  "created_at": "2026-07-09T17:27:30.487Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ambajipeta%20Marriage%20Band%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Ambajipeta%20Marriage%20Band%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

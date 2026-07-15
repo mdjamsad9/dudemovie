@@ -1,0 +1,31 @@
+{
+  "id": "f9c554a1-64bf-4afb-be90-c80f79312af3",
+  "title": "Expend4bles",
+  "slug": "expend4bles",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Arabic",
+  "release_year": 2023,
+  "duration": 103,
+  "rating": 6.061,
+  "description": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+  "created_at": "2026-07-09T17:32:20.580Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Expend4bles.2023.1080p.WEBRip.x264%20%5BDDN%5D/Expend4bles.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "64e502c8-1677-4704-832b-ca9c39748bdb",
+  "title": "Manada Kadalu",
+  "slug": "manada-kadalu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wgRQJ7iPWRNbElfyIFraJJKgWnR.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 154,
+  "rating": null,
+  "description": "\"Manada Kadalu\" is a coming-of-age love story. Sumukha, an MBBS dropout, pursues love interest Rashika. However, friend Anjali's influence leads him to self-discovery and reevaluating life's value.",
+  "created_at": "2026-07-09T16:56:42.808Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Manada%20Kadalu%20(2025)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Manada%20Kadalu%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

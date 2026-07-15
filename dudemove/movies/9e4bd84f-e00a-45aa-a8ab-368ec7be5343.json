@@ -1,0 +1,27 @@
+{
+  "id": "9e4bd84f-e00a-45aa-a8ab-368ec7be5343",
+  "title": "Passenger",
+  "slug": "passenger",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2026,
+  "duration": 94,
+  "rating": 6.2,
+  "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+  "created_at": "2026-07-09T16:32:05.389Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Passenger%20(2026)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Passenger%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

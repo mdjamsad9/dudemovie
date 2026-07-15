@@ -1,0 +1,27 @@
+{
+  "id": "7e8e570b-d47f-43f5-93d7-407a85eebea6",
+  "title": "Now You See Me: Now You Don't",
+  "slug": "now-you-see-me-now-you-don-t",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 112,
+  "rating": 6.499,
+  "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+  "created_at": "2026-07-09T16:47:56.879Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Now.You.See.Me-Now.You.Dont.2025.720p.WEBRip.x264%20%5BDDN%5D/Now.You.See.Me-Now.You.Dont.2025.720p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "60550e81-59e4-4460-a06d-f5a9f2c8e3e9",
+  "title": "Love 911",
+  "slug": "love-911",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aB1zGc5BNHSaQlEhOSni4ts8DrL.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2012,
+  "duration": 120,
+  "rating": 7.239,
+  "description": "A doctor tries to woo a grieving, widowed firefighter in her attempt to get him to testify on her behalf in a medical malpractice case.",
+  "created_at": "2026-07-09T17:10:54.849Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Love%20911%20(2012)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Love%20911%20%282012%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

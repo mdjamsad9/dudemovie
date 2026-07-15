@@ -1,0 +1,31 @@
+{
+  "id": "2fa5f3d9-8d98-4dab-9f33-993628c3e865",
+  "title": "Dust Bunny",
+  "slug": "dust-bunny",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 106,
+  "rating": 6.7,
+  "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
+  "created_at": "2026-07-09T16:43:27.771Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Dust.Bunny.2025.1080p.WEBRip.x264%20%5BDDN%5D/Dust.Bunny.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

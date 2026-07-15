@@ -1,0 +1,27 @@
+{
+  "id": "284f17e3-fe15-4277-b8e9-2618b67a85e1",
+  "title": "Marshmallow",
+  "slug": "marshmallow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qZseaOw1BgLkJsfiEmNpS1KhH8d.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 93,
+  "rating": 6.07,
+  "description": "At a secluded summer camp, timid and introverted 12-year-old Morgan is thrust into a waking nightmare when a once-fabled campfire tale becomes real. As a mysterious figure descends upon the camp, Morgan and his newfound friends must embark on a treacherous journey and uncover a sinister reality buried beneath the surface.",
+  "created_at": "2026-07-09T16:56:36.824Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Marshmallow.2025.1080p.WEBRip.x264%20%5BDDN%5D/Marshmallow.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "f7e9cf85-3f3c-4e75-8b32-b1df0e21f294",
+  "title": "Sinam",
+  "slug": "sinam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/insaaYkngspFTbOuBgZItmsl9Fx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 4.9,
+  "description": "Sub-inspector Pari Venkat faces a huge tragedy putting him on an investigation to seek revenge.",
+  "created_at": "2026-07-09T17:51:20.021Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sinam%20(2022)%20Tamil%C2%A0PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Sinam%20(2022)%20Tamil%c2%a0PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

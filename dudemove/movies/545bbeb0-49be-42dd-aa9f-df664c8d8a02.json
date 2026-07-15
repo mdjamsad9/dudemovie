@@ -1,0 +1,31 @@
+{
+  "id": "545bbeb0-49be-42dd-aa9f-df664c8d8a02",
+  "title": "Black Panther: Wakanda Forever",
+  "slug": "black-panther-wakanda-forever",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 162,
+  "rating": 7.005,
+  "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+  "created_at": "2026-07-09T17:44:57.948Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Black.Panther.Wakanda.Forever.2022.1080p.BluRay.H264.AAC%20%5BDDN%5D/Black.Panther.Wakanda.Forever.2022.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

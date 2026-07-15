@@ -1,0 +1,27 @@
+{
+  "id": "abb54d60-7f4c-427d-8325-e7fcd41e1d49",
+  "title": "Nickel Boys",
+  "slug": "nickel-boys",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 140,
+  "rating": 6.6,
+  "description": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
+  "created_at": "2026-07-09T17:02:46.418Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Nickel.Boys.2024.1080p.WEBRip.x264%20%5BDDN%5D/Nickel.Boys.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

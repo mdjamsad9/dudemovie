@@ -1,0 +1,23 @@
+{
+  "id": "d521a3dc-51b8-4924-a17c-217427508231",
+  "title": "On Sacred Ground",
+  "slug": "on-sacred-ground",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3kC2EXrjIgTxAP8EvwqVKGf1rET.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 114,
+  "rating": 5.3,
+  "description": "Based on the true events during the 2016 construction of the Dakota Access Pipeline that runs through the Standing Rock Indian Reservation in North Dakota on land that is owned by the Lakota “Sioux” Tribe. The film follows Daniel, a journalist and Afghanistan War military veteran, and Elliot, an oil company executive, who find themselves on opposite sides of the fight during the construction of the contentious pipeline.",
+  "created_at": "2026-07-09T17:38:13.041Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/On.Sacred.Ground.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/On.Sacred.Ground.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

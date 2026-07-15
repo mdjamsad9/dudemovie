@@ -1,0 +1,23 @@
+{
+  "id": "c573cbfb-bb42-4645-9ed6-3ae77006990d",
+  "title": "Pilot",
+  "slug": "pilot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lqyXcutZbbTsBrETstMl7XLMgOF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Korean",
+  "release_year": 2024,
+  "duration": 111,
+  "rating": 7.4,
+  "description": "Han Jung-woo, a pilot with top-class skills, is flying high and even appears on a famous TV show. But everything comes crashing down when a careless mistake causes him to lose everything, even his job. Blacklisted in the industry, no airline is willing to hire him. Desperate with no other choice, Han Jung-woo transforms completely into his younger sister's identity and succeeds in landing a job as a pilot.",
+  "created_at": "2026-07-09T16:32:23.466Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Pilot%20(2024)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D%20(1)/Pilot%20%282024%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

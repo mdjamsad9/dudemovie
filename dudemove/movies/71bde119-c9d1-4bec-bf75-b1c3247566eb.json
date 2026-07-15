@@ -1,0 +1,31 @@
+{
+  "id": "71bde119-c9d1-4bec-bf75-b1c3247566eb",
+  "title": "Kotigobba 3",
+  "slug": "kotigobba-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sm1fiwP8ecOIyB5nO5Dc9l7DGd4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2021,
+  "duration": 140,
+  "rating": 5.8,
+  "description": "Sathya, a philanthropist who now runs an orphanage, has to go to Poland for the treatment of young Janu. While there, an international criminal named Ghost carries out heists. Who is Ghost? And what has Sathya got to do with it all?",
+  "created_at": "2026-07-09T17:44:39.483Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kotigobba%203%202021%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kotigobba%203%202021%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

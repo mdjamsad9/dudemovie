@@ -1,0 +1,27 @@
+{
+  "id": "4a537706-d879-468a-8a4d-9f3228b26e16",
+  "title": "Samara",
+  "slug": "samara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pn1Ce6cYs2GoXUOFyg5ZrtZ2y2T.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 118,
+  "rating": 6,
+  "description": "Set in Himachal Pradesh, when two murders happen in the valley, Anthony comes to the scene to investigate the killings and another team of police officials led by Senthil IPS also arrives there. Ex-military Dr. Alan is in a quest to save his infected daughter Jaani and unravels a deadly virus outbreak with officer Anthony.",
+  "created_at": "2026-07-09T17:31:02.656Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Samara%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Samara%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

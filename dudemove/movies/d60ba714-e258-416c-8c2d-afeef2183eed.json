@@ -1,0 +1,27 @@
+{
+  "id": "d60ba714-e258-416c-8c2d-afeef2183eed",
+  "title": "Pavi Caretaker",
+  "slug": "pavi-caretaker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4somiLSdtTbF4XaH3jKmNiFAPRF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 150,
+  "rating": 5.9,
+  "description": "A stubborn bachelor with his own rule book to life . A humorous ride through love, life and laughter . 'Pavi', a caretaker in a residential flat navigates through life and its hurdles, as an unforeseen companionship turns his life around .An unexpected breath of fresh air adds a dash of colour to his life.",
+  "created_at": "2026-07-09T17:13:46.113Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pavi%20Caretaker%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pavi%20Caretaker%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f1e29153-42c8-42f4-a4be-896b8ed3df31",
+  "title": "Veetla Vishesham",
+  "slug": "veetla-vishesham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ulg3XRanMIZpVtDHIk4K4zCWxWz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": 7,
+  "description": "While Elango struggles to accept the news of his middle-aged mother's pregnancy, the situation jeopardises his relationship with his girlfriend, Sowmya, and his parents face social ridicule.",
+  "created_at": "2026-07-09T17:54:11.161Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

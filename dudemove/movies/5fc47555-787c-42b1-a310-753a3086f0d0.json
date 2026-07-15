@@ -1,0 +1,31 @@
+{
+  "id": "5fc47555-787c-42b1-a310-753a3086f0d0",
+  "title": "Dacoit",
+  "slug": "dacoit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2026,
+  "duration": 150,
+  "rating": 6.3,
+  "description": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
+  "created_at": "2026-07-09T16:34:04.664Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dacoit%20Ek%20Prem%20Katha%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d/Dacoit%20Ek%20Prem%20Katha%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

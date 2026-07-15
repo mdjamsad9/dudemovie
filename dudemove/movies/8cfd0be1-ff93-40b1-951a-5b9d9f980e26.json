@@ -1,0 +1,23 @@
+{
+  "id": "8cfd0be1-ff93-40b1-951a-5b9d9f980e26",
+  "title": "Primate Visions; Macaque Macabre",
+  "slug": "primate-visions-macaque-macabre",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9gjZX7Y4bgzRC545owkw7A3o9aM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 33,
+  "rating": null,
+  "description": "Set in a dystopian future, the film Primate Visions: Macaque Macabre (2024) opens with the fictional character Imago Organella, an experimental primatologist specializing in studying simians, apes and monkeys. Along with their companions, Xenomorphia and Madame Chauffeur, they free two yakis from captivity. Together, they embark on a surreal journey: they gather at a peculiar dinner where they eat a mysterious pudding elixir, visit an experimental biology facility, and explore each other’s subconscious as they traverse a prehistoric cave. Along the way, they celebrate the strange and unpredictable nature of evolution and knowledge, culminating in their return to Minahasa, where they face the reality of freedom.",
+  "created_at": "2026-07-09T16:41:47.636Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Primate.2025.1080p.WEBRip.x264%20%5BDDN%5D/Primate.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

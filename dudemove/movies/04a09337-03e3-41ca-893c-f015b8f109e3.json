@@ -1,0 +1,23 @@
+{
+  "id": "04a09337-03e3-41ca-893c-f015b8f109e3",
+  "title": "Puzhu",
+  "slug": "puzhu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mGUnMfifZlM4Vf9bZK0xzzEPTRB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 10,
+  "description": "Love is deception. Love is a performance. Arjun and Tara, two aspiring actors, are the most ideal couple at university. But at what cost?",
+  "created_at": "2026-07-09T17:55:22.073Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Puzhu.2022.1080p.WEBRip.Hindi.Malayalam.x264%20%5BDDN%5D/Puzhu.2022.1080p.WEBRip.Hindi.Malayalam.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

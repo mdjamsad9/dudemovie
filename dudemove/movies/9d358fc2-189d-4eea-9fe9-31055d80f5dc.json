@@ -1,0 +1,31 @@
+{
+  "id": "9d358fc2-189d-4eea-9fe9-31055d80f5dc",
+  "title": "One Battle After Another",
+  "slug": "one-battle-after-another",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 162,
+  "rating": 7.352,
+  "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+  "created_at": "2026-07-09T16:49:23.065Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/One.Battle.After.Another.2025.1080p.WEBRip.x264%20%5BDDN%5D/One.Battle.After.Another.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

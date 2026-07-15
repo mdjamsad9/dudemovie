@@ -1,0 +1,27 @@
+{
+  "id": "cdbe7e8f-d541-4356-aa23-71375637a91a",
+  "title": "Second Case of Seetharam",
+  "slug": "second-case-of-seetharam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/89Tuu93NTJVef2Y4iATRwlyAO37.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2026,
+  "duration": 120,
+  "rating": null,
+  "description": "Inspector Seetharam, hoping to reunite with his estranged sister after years apart, must track down a brutal, psychotic serial killer terrorising the town of Anegadde.",
+  "created_at": "2026-07-09T16:33:20.901Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Second%20Case%20of%20Seetharam%20(2026)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Second%20Case%20of%20Seetharam%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

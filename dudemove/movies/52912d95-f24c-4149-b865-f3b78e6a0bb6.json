@@ -1,0 +1,31 @@
+{
+  "id": "52912d95-f24c-4149-b865-f3b78e6a0bb6",
+  "title": "The Present",
+  "slug": "the-present",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mRXPjCNFbXVXmaqHItMHDUPaxvK.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 87,
+  "rating": 6.074,
+  "description": "A brilliant boy discovers he can manipulate time using an enchanted family heirloom, then teaming up with his siblings to go back to the eve of their parents’ separation in hopes of changing the outcome. As their schemes become more elaborate, the siblings will learn about family bonds and what they can and can’t control.",
+  "created_at": "2026-07-09T17:17:10.590Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Present.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Present.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

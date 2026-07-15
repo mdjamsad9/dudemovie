@@ -1,0 +1,31 @@
+{
+  "id": "9793a9b2-4667-48d8-92c3-304133869954",
+  "title": "Sarkeet",
+  "slug": "sarkeet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": 5,
+  "description": "In a distant land, Balu and Stephy struggle to balance work, parenting their spirited son with ADHD, and holding their relationship together. When a worn-out stranger enters their lives, a fleeting connection sparks unexpected change in just one day.",
+  "created_at": "2026-07-09T16:52:25.330Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sarkeet%20(2025)%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sarkeet%20%282025%29%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

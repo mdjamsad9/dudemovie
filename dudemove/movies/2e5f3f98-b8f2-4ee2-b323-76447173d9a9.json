@@ -1,0 +1,27 @@
+{
+  "id": "2e5f3f98-b8f2-4ee2-b323-76447173d9a9",
+  "title": "The Perfect Neighbor",
+  "slug": "the-perfect-neighbor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 97,
+  "rating": 6.805,
+  "description": "Police bodycam footage reveals how a long-running neighborhood dispute turned fatal in this documentary about fear, prejudice and Stand Your Ground laws.",
+  "created_at": "2026-07-09T16:50:42.662Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Perfect.Neighbor.2025.1080p.WEBRip.x264%20%5BDDN/The.Perfect.Neighbor.2025.1080p.WEBRip.x264%20%5BDDN.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

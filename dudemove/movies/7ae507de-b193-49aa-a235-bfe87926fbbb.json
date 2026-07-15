@@ -1,0 +1,31 @@
+{
+  "id": "7ae507de-b193-49aa-a235-bfe87926fbbb",
+  "title": "Har Har Mahadev",
+  "slug": "har-har-mahadev",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hnSPawPoBmtcd6vCTIncY3QAesD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Marathi",
+  "release_year": 2022,
+  "duration": 161,
+  "rating": 8,
+  "description": "The young Shivaji Shahaji Bhosale is building the foundation of Hindavi Swarajya. This is the beginning of a memorable journey for the man who will go on to be known as Chhatrapati Shivaji Maharaj. But to turn this dream of Swarajya into reality, he must unite the Watandars.",
+  "created_at": "2026-07-09T17:46:54.385Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Har%20Har%20Mahadev%20(2022)%20Hindi-Marathi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Har%20Har%20Mahadev%20(2022)%20Hindi-Marathi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

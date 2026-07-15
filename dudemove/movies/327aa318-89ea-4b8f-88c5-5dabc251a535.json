@@ -1,0 +1,31 @@
+{
+  "id": "327aa318-89ea-4b8f-88c5-5dabc251a535",
+  "title": "Happy Patel: Khatarnak Jasoos",
+  "slug": "happy-patel-khatarnak-jasoos",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tZJBXGNyDanSne6a2TLRU45Uhwu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Marathi",
+  "release_year": 2026,
+  "duration": 122,
+  "rating": 6.792,
+  "description": "Chronically unsuccessful MI7 operative Happy Patel is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.",
+  "created_at": "2026-07-09T16:36:45.941Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Happy%20Patel%20Khatarnak%20Jasoos%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Happy%20Patel%20Khatarnak%20Jasoos%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5db0fab3-c86b-47c6-bf89-8c80469f97ea",
+  "title": "Pinocchio",
+  "slug": "pinocchio",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 6.276,
+  "description": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+  "created_at": "2026-07-09T17:51:40.277Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Pinocchio.2022.1080p.WEBRip.x264%20%5BDDN%5D/Pinocchio.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

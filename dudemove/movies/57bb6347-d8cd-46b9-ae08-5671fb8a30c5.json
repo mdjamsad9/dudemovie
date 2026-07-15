@@ -1,0 +1,35 @@
+{
+  "id": "57bb6347-d8cd-46b9-ae08-5671fb8a30c5",
+  "title": "The Great Lillian Hall",
+  "slug": "the-great-lillian-hall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2ogNnNAmteEYlhf8iW4rPXgfYNW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 111,
+  "rating": 7.089,
+  "description": "Lillian Hall, a Broadway actress, has never missed a performance throughout her long, illustrious career. Yet in rehearsals for a new play her confidence is challenged. People and events conspire to take away her ability to do what she loves most.",
+  "created_at": "2026-07-09T17:03:26.704Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Great.Lillian.Hall.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Great.Lillian.Hall.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

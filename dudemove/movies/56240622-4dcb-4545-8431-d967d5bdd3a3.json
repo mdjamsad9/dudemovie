@@ -1,0 +1,31 @@
+{
+  "id": "56240622-4dcb-4545-8431-d967d5bdd3a3",
+  "title": "Grizzly Night",
+  "slug": "grizzly-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4NESS9cK1CVBrmI87GS2JtJG28q.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 93,
+  "rating": 6.4,
+  "description": "On August 12, 1967, in Montana's Glacier National Park, the unthinkable happened: that same night, nine miles apart, there were not one—but two—fatal grizzly bear attacks.",
+  "created_at": "2026-07-09T16:42:23.346Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Grizzly.Night.2026.1080p.WEBRip.x264%20%5BDDN%5D/Grizzly.Night.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

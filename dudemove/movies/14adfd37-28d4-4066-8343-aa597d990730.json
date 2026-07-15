@@ -1,0 +1,27 @@
+{
+  "id": "14adfd37-28d4-4066-8343-aa597d990730",
+  "title": "HUNGRY",
+  "slug": "hungry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 93,
+  "rating": 7,
+  "description": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+  "created_at": "2026-07-09T16:32:34.643Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Hungry%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hungry%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1d3cd1f1-322e-4959-9da2-4d3bc1f91ace",
+  "title": "Kadamaiyai Sei",
+  "slug": "kadamaiyai-sei",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zpI5T7Eiq4s5sWHnyQeGZXL0JH8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 155,
+  "rating": 7,
+  "description": "A civil engineer who has lost his job meets a tragic accident when he is about to reveal a shocking truth that will save countless lives.",
+  "created_at": "2026-07-09T17:51:21.287Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kadamaiyai%20Sei%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Kadamaiyai%20Sei%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

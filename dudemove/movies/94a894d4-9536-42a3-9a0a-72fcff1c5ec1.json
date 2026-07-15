@@ -1,0 +1,27 @@
+{
+  "id": "94a894d4-9536-42a3-9a0a-72fcff1c5ec1",
+  "title": "Nuremberg",
+  "slug": "nuremberg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 149,
+  "rating": 7.6,
+  "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+  "created_at": "2026-07-09T16:44:24.216Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Nuremberg.2025.1080p.WEBRip.x264%20%5BDDN%5D/Nuremberg.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

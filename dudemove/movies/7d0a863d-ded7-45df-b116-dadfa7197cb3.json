@@ -1,0 +1,23 @@
+{
+  "id": "7d0a863d-ded7-45df-b116-dadfa7197cb3",
+  "title": "GOD-SE",
+  "slug": "god-se",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8CogkpNrtcYyMfAXxmfUEu5WEXC.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7.5,
+  "description": "How far will Apple go to break free from the warped belief system plaguing her since birth?",
+  "created_at": "2026-07-09T17:53:59.826Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

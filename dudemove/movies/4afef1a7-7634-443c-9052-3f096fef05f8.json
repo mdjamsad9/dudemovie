@@ -1,0 +1,35 @@
+{
+  "id": "4afef1a7-7634-443c-9052-3f096fef05f8",
+  "title": "Gajaana",
+  "slug": "gajaana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4T15krfH63uSTk9wI4yIN7YcqkZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 125,
+  "rating": 4.5,
+  "description": "A group of greedy people were entering enchanted Forest in search of treasure and unexpectedly they over come hurdles in a mysterious way. did they find the solution and did escape from the hurdles in the forest",
+  "created_at": "2026-07-09T16:57:20.642Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Gajaana%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gajaana%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

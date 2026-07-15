@@ -1,0 +1,31 @@
+{
+  "id": "a54a06ba-91a6-4a35-8186-e09015b39fd9",
+  "title": "Mazaka",
+  "slug": "mazaka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IhyDGQAyP1hE9FMMBFNb8RhXBF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 128,
+  "rating": 7,
+  "description": "The path to true love does not run smoothly when a father and son seek marriage at the same time.",
+  "created_at": "2026-07-09T17:02:12.179Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mazaka%20(2025)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Mazaka%20(2025)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

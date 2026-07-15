@@ -1,0 +1,31 @@
+{
+  "id": "7c6f973f-e781-4dfe-b96b-79570ea07143",
+  "title": "GOAT",
+  "slug": "goat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 100,
+  "rating": 8.113,
+  "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+  "created_at": "2026-07-09T16:37:02.445Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/GOAT.2026.1080p.WEBRip.x264%20%5BDDN%5D/GOAT.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

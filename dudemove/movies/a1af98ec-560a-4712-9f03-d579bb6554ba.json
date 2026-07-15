@@ -1,0 +1,27 @@
+{
+  "id": "a1af98ec-560a-4712-9f03-d579bb6554ba",
+  "title": "Do Patti",
+  "slug": "do-patti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wbXSE68cDwqUPsHJcpdu7I5kSLK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 128,
+  "rating": 6.875,
+  "description": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love.",
+  "created_at": "2026-07-09T17:11:32.649Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Do%20Patti%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Do%20Patti%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

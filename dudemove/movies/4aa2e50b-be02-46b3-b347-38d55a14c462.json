@@ -1,0 +1,27 @@
+{
+  "id": "4aa2e50b-be02-46b3-b347-38d55a14c462",
+  "title": "Till",
+  "slug": "till",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 131,
+  "rating": 7.3,
+  "description": "The true story of Mamie Till Mobley's relentless pursuit of justice for her 14-year-old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.",
+  "created_at": "2026-07-09T17:47:38.003Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Till.2022.1080p.WEBRip.x264%20%5BDDN%5D/Till.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

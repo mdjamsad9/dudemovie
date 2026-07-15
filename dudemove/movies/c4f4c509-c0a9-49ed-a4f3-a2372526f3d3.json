@@ -1,0 +1,31 @@
+{
+  "id": "c4f4c509-c0a9-49ed-a4f3-a2372526f3d3",
+  "title": "Mafia Mamma",
+  "slug": "mafia-mamma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hqFZqZFWWEDRCTtbTJqvrIitEKB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Italian",
+  "release_year": 2023,
+  "duration": 101,
+  "rating": 6.062,
+  "description": "A suburban American woman inherits her grandfather’s Mafia empire and, guided by the Firm’s trusted consigliere, defies everyone’s expectations, including her own, as the new head of the family business.",
+  "created_at": "2026-07-09T17:40:17.071Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Mafia.Mamma.2023.1080p.WEBRip.x264%20%5BDDN%5D/Mafia.Mamma.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

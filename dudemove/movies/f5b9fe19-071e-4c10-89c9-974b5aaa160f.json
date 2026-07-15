@@ -1,0 +1,27 @@
+{
+  "id": "f5b9fe19-071e-4c10-89c9-974b5aaa160f",
+  "title": "Varalaru Mukkiyam",
+  "slug": "varalaru-mukkiyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Tx51gugSzdDcZUPnSg8JgR7TDb.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 155,
+  "rating": 5.333,
+  "description": "Karthik is an aspiring YouTuber, who wants to be famous and his friend Adaikalam aspires to be a politician. Karthik falls in love with Yamuna, his new Malayali neighbour but Jamuna, sister of his love interest falls in love with Karthik.",
+  "created_at": "2026-07-09T17:45:43.385Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Varalaru%20Mukkiyam%202022%20Hindi%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Varalaru%20Mukkiyam%202022%20Hindi%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

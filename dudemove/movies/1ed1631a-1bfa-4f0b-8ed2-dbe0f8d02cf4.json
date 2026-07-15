@@ -1,0 +1,27 @@
+{
+  "id": "1ed1631a-1bfa-4f0b-8ed2-dbe0f8d02cf4",
+  "title": "Thaggedhe Le",
+  "slug": "thaggedhe-le",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3TQJwWUwwGLDcD5z353PzijEfKv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 128,
+  "rating": 7,
+  "description": "Inspector Chellappa is on the verge of busting the drug mafia in the city and waits for the right moment. Meanwhile, a corporate man gets entangled with the world of drugs and later becomes a suspect in a murder case. Simultaneously, the D-gang from Dandupalyam returns with a vengeance.",
+  "created_at": "2026-07-09T17:26:30.843Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thaggedhe%20Le%20(2022)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thaggedhe%20Le%20(2022)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

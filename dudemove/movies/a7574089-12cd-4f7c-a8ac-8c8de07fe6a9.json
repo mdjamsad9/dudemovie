@@ -1,0 +1,27 @@
+{
+  "id": "a7574089-12cd-4f7c-a8ac-8c8de07fe6a9",
+  "title": "Lou",
+  "slug": "lou",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 6.492,
+  "description": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+  "created_at": "2026-07-09T17:50:52.347Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Lou.2022.1080p.WEBRip.x264%20%5BDDN%5D/Lou.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

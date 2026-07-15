@@ -1,0 +1,31 @@
+{
+  "id": "e3e4c83e-0706-4693-aadd-14e35520140c",
+  "title": "Natchathiram Nagargiradhu",
+  "slug": "natchathiram-nagargiradhu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/un3wdT8dfRXcGgxSUwTrGwy4Y2F.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 170,
+  "rating": 6.9,
+  "description": "Love and politics collide when modern day individuals working as theatre artists in fall in love while making a play about love. They realize that it's the social structure that determines their values and thoughts, and for their love to succeed, they have to go against it.",
+  "created_at": "2026-07-09T17:52:09.797Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

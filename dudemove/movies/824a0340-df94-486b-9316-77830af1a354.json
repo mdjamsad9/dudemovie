@@ -1,0 +1,27 @@
+{
+  "id": "824a0340-df94-486b-9316-77830af1a354",
+  "title": "Bring Him Back Dead",
+  "slug": "bring-him-back-dead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wlwNJAITz7l6S1dKD8doncOJzNZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 85,
+  "rating": 4.455,
+  "description": "A team of thieves regroup at a rural cabin after a diamond heist goes bad, resulting in many deaths. One of them, for reasons known only to him, poisons the others and runs off with the loot as well as the boss's daughter. The boss orders the others to go after them and bring back the diamonds and his daughter alive, but as for the man, \"bring him back dead.\"",
+  "created_at": "2026-07-09T17:53:21.143Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

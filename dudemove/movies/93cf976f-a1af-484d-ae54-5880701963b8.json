@@ -1,0 +1,27 @@
+{
+  "id": "93cf976f-a1af-484d-ae54-5880701963b8",
+  "title": "Naalam Mura",
+  "slug": "naalam-mura",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p6vcJLB9GmSEzPeHpND79hrRwlu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 108,
+  "rating": 4.5,
+  "description": "Jayesh, an expatriate, is picked up by a bunch of crime-branch officers as soon as he lands at the airport. They take him to an isolated facility to interrogate him for a murder case that has not been solved for years now. Is Jayesh the culprit or are the cops trying to pin the murder on him?",
+  "created_at": "2026-07-09T17:46:22.548Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Naalam%20Mura%20(2022)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Naalam%20Mura%20(2022)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

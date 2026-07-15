@@ -1,0 +1,31 @@
+{
+  "id": "7b5e2171-2bc0-4ea0-a3d6-be61ee4e9be3",
+  "title": "Lucky Lakshman",
+  "slug": "lucky-lakshman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cByGL5KOrSifhiDcY2ELy0Ie0Gv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 132,
+  "rating": 6.2,
+  "description": "Lakshman, a middle class youth, struggling in every aspect of his life has strained relationships with his girlfriend, parents, and friends. In a twist of fate, Lakshman is faced with a situation that turns his life upside down.",
+  "created_at": "2026-07-09T17:46:14.765Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Lucky%20Lakshman%20(2022)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Lucky%20Lakshman%20(2022)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

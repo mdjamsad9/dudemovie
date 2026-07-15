@@ -1,0 +1,27 @@
+{
+  "id": "c6bc2ef8-f13c-4759-8dd0-cb2bd37a89c5",
+  "title": "Are You Ok Baby",
+  "slug": "are-you-ok-baby",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3eLw2weWLeVyWw6s1CVWIlEVlj5.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "A heart-wrenching tale of adoption unfolds, pitting adoptive parents against the biological mother. Media intervention escalates the issue to legal consequences and emotional turmoil, finally leading  to a gripping courtroom climax.",
+  "created_at": "2026-07-09T17:31:39.487Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Are%20You%20Ok%20Baby%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Are%20You%20Ok%20Baby%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

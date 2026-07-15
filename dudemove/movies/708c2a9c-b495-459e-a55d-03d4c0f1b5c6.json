@@ -1,0 +1,31 @@
+{
+  "id": "708c2a9c-b495-459e-a55d-03d4c0f1b5c6",
+  "title": "Sitting in Bars with Cake",
+  "slug": "sitting-in-bars-with-cake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGENInUWI9tRVg4ae8XAVgAWpEi.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 119,
+  "rating": 6.959,
+  "description": "Extrovert Corinne convinces Jane, a shy, talented baker, to commit to a year of bringing cakes to bars, to help her meet people and build confidence. But when Corinne receives a life-altering diagnosis, the pair faces a challenge unlike anything they've experienced before.",
+  "created_at": "2026-07-09T17:34:37.677Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Sitting.In.Bars.With.Cake.2023.1080p.WEBRip.x264%20%5BDDN%5D/Sitting.In.Bars.With.Cake.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

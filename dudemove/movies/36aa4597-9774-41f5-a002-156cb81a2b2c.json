@@ -1,0 +1,27 @@
+{
+  "id": "36aa4597-9774-41f5-a002-156cb81a2b2c",
+  "title": "Pulimada",
+  "slug": "pulimada",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sTlba6RSP80H2Dx7wy2jqIjxDaq.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 108,
+  "rating": 5.7,
+  "description": "In a serene village near the wilderness, news of a man-eating tiger terrifies the community. The once peaceful atmosphere turns tense leading to a curfew and unrest. Vincent, an unmarried police constable awaits his marriage with great excitement. On the wedding day, a shocking revelation shatters Vincent's world. Fueled by rage and anger, Vincent embarks on a dangerous journey for companionship through the village that is still grappling with the looming threat of the man-eating tiger.",
+  "created_at": "2026-07-09T17:30:47.223Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pulimada%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pulimada%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

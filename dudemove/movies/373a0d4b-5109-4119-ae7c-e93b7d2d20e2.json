@@ -1,0 +1,27 @@
+{
+  "id": "373a0d4b-5109-4119-ae7c-e93b7d2d20e2",
+  "title": "It Ends with Us",
+  "slug": "it-ends-with-us",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 131,
+  "rating": 6.945,
+  "description": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+  "created_at": "2026-07-09T17:13:10.086Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/It.Ends.With.Us.2024.1080p.WEBRip.x264%20%5BDDN%5D/It.Ends.With.Us.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

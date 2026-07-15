@@ -1,0 +1,27 @@
+{
+  "id": "d96eb069-9df7-41ed-9774-0e356460edd7",
+  "title": "The Strangers: Chapter 3",
+  "slug": "the-strangers-chapter-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dWi4D1rUX1Pg4MaafpwwssqJ9lv.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 92,
+  "rating": 5.772,
+  "description": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+  "created_at": "2026-07-09T16:40:37.569Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Strangers.Chapter.3.2026.1080p.WEBRip.x264%20%5BDDN%5D/The.Strangers.Chapter.3.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

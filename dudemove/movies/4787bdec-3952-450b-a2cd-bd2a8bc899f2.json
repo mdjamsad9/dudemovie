@@ -1,0 +1,31 @@
+{
+  "id": "4787bdec-3952-450b-a2cd-bd2a8bc899f2",
+  "title": "Do Deewane Seher Mein",
+  "slug": "do-deewane-seher-mein",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 137,
+  "rating": 6.75,
+  "description": "Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+  "created_at": "2026-07-09T16:35:57.178Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Do%20Deewane%20Seher%20Mein%20(2026)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Do%20Deewane%20Seher%20Mein%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "96885142-47c2-4402-9c52-3e4c1b14560b",
+  "title": "Ayalvaashi",
+  "slug": "ayalvaashi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5N2a5q0Qum83OPaJZyAXvCU08U4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 7.25,
+  "description": "A petty misunderstanding changes Thajudheen and Benny's relationship from friends to foes. Thajudheen goes above and beyond to prove his innocence but ends up making things worse for his loved ones.",
+  "created_at": "2026-07-09T17:39:20.535Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ayalvaashi%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ayalvaashi%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

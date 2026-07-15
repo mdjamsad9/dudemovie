@@ -1,0 +1,31 @@
+{
+  "id": "6d18e672-1428-441a-8655-df7052f0f6de",
+  "title": "Saakini Daakini",
+  "slug": "saakini-daakini",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ggD6ddmE2Uz2AVgbF48vMZvg3sf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 5.7,
+  "description": "Two trainee female police officers find themselves in an endless race against time after they witness a kidnapping and decide to use their knowledge.",
+  "created_at": "2026-07-09T17:51:14.990Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Saakini%20Daakini%20(2022)%20Telugu%C2%A0Pre-DVD%20-%201080p%C2%A0-%20x264%20%5BDDN%5D/Saakini%20Daakini%20(2022)%20Telugu%c2%a0Pre-DVD%20-%201080p%c2%a0-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

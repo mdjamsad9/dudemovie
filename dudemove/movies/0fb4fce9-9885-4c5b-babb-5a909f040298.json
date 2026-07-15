@@ -1,0 +1,35 @@
+{
+  "id": "0fb4fce9-9885-4c5b-babb-5a909f040298",
+  "title": "Avatara Purusha 2",
+  "slug": "avatara-purusha-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qNNoxTqBjXJvxiDjC6R3PVH0XoQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 3.6,
+  "description": "In a battle of mantras, Dharka and Brahma vie for the Trishanku Mani. But when Jois is found dead, the disturbed Ashta Dhigbandana alerts Dharka to the stone`s presence in the house. Now, a junior artist posing as the long-lost son must fight to save the family from the real son`s dark magic",
+  "created_at": "2026-07-09T17:24:32.830Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Avatara%20Purusha%202%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avatara%20Purusha%202%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

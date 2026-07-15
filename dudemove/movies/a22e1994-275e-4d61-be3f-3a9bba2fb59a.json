@@ -1,0 +1,27 @@
+{
+  "id": "a22e1994-275e-4d61-be3f-3a9bba2fb59a",
+  "title": "The Botanist",
+  "slug": "the-botanist",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6lBR3uDf0uOHrBmNf4NSaxtkhlX.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2026,
+  "duration": 96,
+  "rating": 5,
+  "description": "In a remote village in Xinjiang, a young Kazakh boy named Arsin, who finds solace in the company of plants. He soon meets Meiyu, a spirited Han girl whose unpredictable nature reminds him of a rare, otherworldly plant. As their friendship blossoms, it deepens into a delicate, dreamlike allegory that blurs the lines between reality and the enchanting world of botany.",
+  "created_at": "2026-07-09T16:34:28.900Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/The%20Botanist%20(2026)%20Hindi%20Kazakh%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Botanist%20%282026%29%20Hindi%20Kazakh%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

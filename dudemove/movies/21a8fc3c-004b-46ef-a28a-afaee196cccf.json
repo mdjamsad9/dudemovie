@@ -1,0 +1,27 @@
+{
+  "id": "21a8fc3c-004b-46ef-a28a-afaee196cccf",
+  "title": "Raja Vikramarka",
+  "slug": "raja-vikramarka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t715SsMHG6tF3Jd25xLyBIZgswd.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2021,
+  "duration": 139,
+  "rating": 7.2,
+  "description": "Vikram is a newly recruit N.I.A. Officer who is getting accustomed with the nuances of his new job, has to handle his first major case due to ironic circumstances, during the course of which his life takes a drastic turn in all aspects.",
+  "created_at": "2026-07-09T17:54:16.600Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raja%20Vikramarka%20(2021)%20Hindi%20-%20Telugu%20720p%20WEBRip%20x264%20%5BDDN%5D/Raja%20Vikramarka%20(2021)%20Hindi%20-%20Telugu%20720p%20WEBRip%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

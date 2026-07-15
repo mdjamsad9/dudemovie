@@ -1,0 +1,47 @@
+{
+  "id": "74aa76cb-2dc8-4594-9e86-c31dec2a1ef4",
+  "title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+  "slug": "z-o-m-b-i-e-s-4-dawn-of-the-vampires",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6rGsqBxI4r1YkS9FuraovWi465w.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 86,
+  "rating": 6.98,
+  "description": "A new adventure dawns for Zed and Addison when their summer road trip takes an unexpected detour, landing them in the middle of yet another monster rivalry: Daywalkers vs. Vampires. Tensions flare when Zed and Addison find themselves acting as camp counselors between the two opposing supernatural factions. With the help of Eliza and Willa, they must convince sworn enemies Nova and Victor to try to unite their warring worlds before an even greater threat endangers them all.",
+  "created_at": "2026-07-09T16:55:34.609Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Zombies.4.Dawn.Of.The.Vampires.2025.1080p.WEBRip.x264%20%5BDDN%5D/Zombies.4.Dawn.Of.The.Vampires.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

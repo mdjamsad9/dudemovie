@@ -1,0 +1,27 @@
+{
+  "id": "144fd311-f853-499b-a1b4-50bf33887fbe",
+  "title": "I Am: Celine Dion",
+  "slug": "i-am-celine-dion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v0zvMBdwzgSAj9xCufxDuq1WoJO.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2024,
+  "duration": 103,
+  "rating": 7.667,
+  "description": "A raw and honest behind-the-scenes look at the iconic superstar's struggle with a life-altering illness. Serving as a love letter to her fans, this inspirational documentary highlights the music that has guided her life while also showcasing the resilience of the human spirit.",
+  "created_at": "2026-07-09T17:17:57.949Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/I.Am.Celine.Dion.2024.1080p.WEBRip.x264%20%5BDDN%5D/I.Am.Celine.Dion.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

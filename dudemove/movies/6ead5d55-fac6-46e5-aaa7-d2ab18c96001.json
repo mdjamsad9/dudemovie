@@ -1,0 +1,27 @@
+{
+  "id": "6ead5d55-fac6-46e5-aaa7-d2ab18c96001",
+  "title": "Aakhri Sawal",
+  "slug": "aakhri-sawal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 150,
+  "rating": 1,
+  "description": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
+  "created_at": "2026-07-09T16:34:48.512Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Aakhri%20Sawal%202026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Aakhri%20Sawal%202026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

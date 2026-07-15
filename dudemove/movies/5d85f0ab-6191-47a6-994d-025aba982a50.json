@@ -1,0 +1,23 @@
+{
+  "id": "5d85f0ab-6191-47a6-994d-025aba982a50",
+  "title": "Joy Ride",
+  "slug": "joy-ride",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2023,
+  "duration": 94,
+  "rating": 6.512,
+  "description": "When Audrey's business trip to Asia goes sideways, she enlists the aid of Lolo, her irreverent, childhood best friend who also happens to be a hot mess; Kat, her college friend turned Chinese soap star; and Deadeye, Lolo's eccentric cousin. Their no-holds-barred, epic experience becomes a journey of bonding, friendship, belonging, and wild debauchery that reveals the universal truth of what it means to know and love who you are.",
+  "created_at": "2026-07-09T17:36:03.770Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Joy.Ride.2023.1080p.WEBRip.x264%20%5BDDN%5D/Joy.Ride.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

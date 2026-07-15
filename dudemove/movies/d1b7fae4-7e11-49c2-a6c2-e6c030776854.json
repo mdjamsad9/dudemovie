@@ -1,0 +1,31 @@
+{
+  "id": "d1b7fae4-7e11-49c2-a6c2-e6c030776854",
+  "title": "Rebel Moon - Part One: A Child of Fire",
+  "slug": "rebel-moon-part-one-a-child-of-fire",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": 6.215,
+  "description": "When the ruthless forces of the Motherworld threaten a quiet farming village on a distant moon, a mysterious outsider becomes its best hope for survival.",
+  "created_at": "2026-07-09T17:28:48.226Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.1080p.WEBRip.x264%20%5BDDN%5D/Rebel.Moon.Part.One.A.Child.of.Fire.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

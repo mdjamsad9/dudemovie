@@ -1,0 +1,23 @@
+{
+  "id": "6d2b60dd-1a14-4179-b035-b6896bd8edf2",
+  "title": "Do Not Enter",
+  "slug": "do-not-enter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 91,
+  "rating": 5.436,
+  "description": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
+  "created_at": "2026-07-09T16:38:11.035Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Do.Not.Enter.2026.1080p.WEBRip.x264%20%5BDDN%5D/Do.Not.Enter.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

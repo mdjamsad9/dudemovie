@@ -1,0 +1,23 @@
+{
+  "id": "77ea2f2d-70bf-46aa-b991-6e869d6ce4cc",
+  "title": "Spark",
+  "slug": "spark",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zEvcGq7AsCJ7oCXVvtATTweE05o.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 170,
+  "rating": null,
+  "description": "Jay's love for Ananya leads to a deadly chain of events while Lekha's dreams collide with a stranger named Arya. As suicide killings grip the nation, a sinister force entwines their lives.",
+  "created_at": "2026-07-09T17:30:01.795Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Spark%20L.I.F.E%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Spark%20L.I.F.E%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

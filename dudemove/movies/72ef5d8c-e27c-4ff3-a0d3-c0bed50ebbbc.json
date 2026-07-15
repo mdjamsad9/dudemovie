@@ -1,0 +1,23 @@
+{
+  "id": "72ef5d8c-e27c-4ff3-a0d3-c0bed50ebbbc",
+  "title": "Lost in the Jungle",
+  "slug": "lost-in-the-jungle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/im9oE8b6yAXNGTVwSYFZ5TmXgkc.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2025,
+  "duration": 96,
+  "rating": 7.364,
+  "description": "After a deadly plane crash strands four young siblings deep within the Colombian rainforest, a dramatic rescue mission unfolds, uniting Indigenous trackers and the military in a race against time. For the first time ever, this documentay offers the exclusive account of this incredible true story directly from the children themselves and the rescuers who scoured the Amazon rainforest for a grueling 40 days and nights to find them.",
+  "created_at": "2026-07-09T16:52:46.032Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Lost.In.The.Jungle.2025.1080p.WEBRip.x264%20%5BDDN%5D/Lost.In.The.Jungle.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cdbb1a81-62b1-4be9-a282-380b2ccdfde1",
+  "title": "Odum Kuthira Chadum Kuthira",
+  "slug": "odum-kuthira-chadum-kuthira",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A7tcEl28jq2dOm3iU2WqGVzGnTP.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 153,
+  "rating": 5.5,
+  "description": "Jilted at his wedding, Aby encounters a reserved woman needing help. As they heal together, his ex returns with newfound insight into his dreams. A hidden truth leads Aby to find peace.",
+  "created_at": "2026-07-09T16:52:18.970Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Odum%20Kuthira%20Chadum%20Kuthira%20(2024)%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Odum%20Kuthira%20Chadum%20Kuthira%20%282024%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

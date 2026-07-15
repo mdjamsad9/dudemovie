@@ -1,0 +1,27 @@
+{
+  "id": "7dc5d3d4-7fa8-4b84-b9ec-2706716d01f4",
+  "title": "Man with No Past",
+  "slug": "man-with-no-past",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yLkxfnWMeI2cT2iePD0G8E3l1Ov.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 103,
+  "rating": 6.5,
+  "description": "Waking up in an unfamiliar city, a man with no memory must confront the mysteries of his own identity. However, his desperate search to uncover the past pits him against a powerful enemy, leading to a showdown that ultimately reveals the truth.",
+  "created_at": "2026-07-09T17:03:58.555Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Man.With.No.Past.2025.1080p.WEBRip.x264%20%5BDDN%5D/Man.With.No.Past.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

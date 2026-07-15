@@ -1,0 +1,31 @@
+{
+  "id": "58a38fea-aa2b-4e4b-8efe-7a64a98e3413",
+  "title": "Haunted Mansion",
+  "slug": "haunted-mansion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 123,
+  "rating": 6.429,
+  "description": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
+  "created_at": "2026-07-09T17:33:01.107Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Haunted.Mansion.2023.1080p.WEBRip.x264%20%5BDDN%5D/Haunted.Mansion.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

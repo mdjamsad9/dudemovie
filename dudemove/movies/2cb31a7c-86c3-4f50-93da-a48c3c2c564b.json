@@ -1,0 +1,27 @@
+{
+  "id": "2cb31a7c-86c3-4f50-93da-a48c3c2c564b",
+  "title": "A Different Man",
+  "slug": "a-different-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 112,
+  "rating": 6.9,
+  "description": "Aspiring actor Edward undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare.",
+  "created_at": "2026-07-09T17:10:10.371Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/A.Different.Man.2024.1080p.WEBRip.x264%20%5BDDN%5D/A.Different.Man.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

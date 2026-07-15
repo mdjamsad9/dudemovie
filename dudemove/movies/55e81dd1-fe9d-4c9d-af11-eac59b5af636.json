@@ -1,0 +1,31 @@
+{
+  "id": "55e81dd1-fe9d-4c9d-af11-eac59b5af636",
+  "title": "The Old Way",
+  "slug": "the-old-way",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2023,
+  "duration": 95,
+  "rating": 5.717,
+  "description": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he killed years ago arrives to take his revenge.",
+  "created_at": "2026-07-09T17:45:46.799Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Old.Way.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Old.Way.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

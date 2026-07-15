@@ -1,0 +1,27 @@
+{
+  "id": "6baa826c-de82-45de-8d36-db132bbd1544",
+  "title": "The Unholy",
+  "slug": "the-unholy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bShgiEQoPnWdw4LBrYT5u18JF34.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Latin",
+  "release_year": 2021,
+  "duration": 99,
+  "rating": 6.556,
+  "description": "Alice is a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.",
+  "created_at": "2026-07-09T17:56:34.167Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2021/The.Unholy.2021.1080p.BluRay.H264.AAC%20%5BDDN%5D/The.Unholy.2021.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

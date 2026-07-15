@@ -1,0 +1,27 @@
+{
+  "id": "ad2c072b-8b4f-4715-b17c-907c326cd852",
+  "title": "Virgin Story",
+  "slug": "virgin-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lFmjAAKZAbU5oRmORRqfUfeAfrW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7,
+  "description": "In the present world of less attention span and instant gratification, can the time consuming emotion of love survive or fade away.",
+  "created_at": "2026-07-09T17:40:47.809Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Virgin%20Story%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Virgin%20Story%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

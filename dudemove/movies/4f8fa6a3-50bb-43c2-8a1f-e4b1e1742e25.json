@@ -1,0 +1,31 @@
+{
+  "id": "4f8fa6a3-50bb-43c2-8a1f-e4b1e1742e25",
+  "title": "The Enforcer",
+  "slug": "the-enforcer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/72V1r1G8S87ELagVxjqAUdChMCt.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 91,
+  "rating": 7.027,
+  "description": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he’s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he’s spent his life building.",
+  "created_at": "2026-07-09T17:50:53.495Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/The.Enforcer.2022.1080p.WEBRip.x264%20%5BDDN%5D/The.Enforcer.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

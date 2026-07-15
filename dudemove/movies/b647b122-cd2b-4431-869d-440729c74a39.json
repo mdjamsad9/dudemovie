@@ -1,0 +1,31 @@
+{
+  "id": "b647b122-cd2b-4431-869d-440729c74a39",
+  "title": "Shotgun Wedding",
+  "slug": "shotgun-wedding",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 101,
+  "rating": 6.247,
+  "description": "Darcy and Tom gather their families for the ultimate destination wedding but when the entire party is taken hostage, “’Til Death Do Us Part” takes on a whole new meaning. Now, Darcy and Tom must save their loved ones—if they don’t kill each other first.",
+  "created_at": "2026-07-09T17:45:15.831Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Shotgun.Wedding.2022.1080p.WEBRip.x264%20%5BDDN%5D/Shotgun.Wedding.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

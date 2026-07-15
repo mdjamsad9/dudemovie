@@ -1,0 +1,27 @@
+{
+  "id": "35d4e1da-9ea8-4d7d-bbc7-b4c3de520969",
+  "title": "Viraaji",
+  "slug": "viraaji",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/djqzmdCGaBsyXvbGq0uhG6EeXnN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 97,
+  "rating": null,
+  "description": "A stand-up comic, gynecologist, hotel manager, police officer and a drug addict, among others reach an abandoned mental asylum by a mysterious host, who informs them that they would all be dead by dawn for their past sins and proceeds killing. Will they live to see another day?",
+  "created_at": "2026-07-09T17:14:13.267Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Viraaji%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Viraaji%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

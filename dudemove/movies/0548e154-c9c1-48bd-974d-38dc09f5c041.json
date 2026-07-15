@@ -1,0 +1,27 @@
+{
+  "id": "0548e154-c9c1-48bd-974d-38dc09f5c041",
+  "title": "My Dear Lisa",
+  "slug": "my-dear-lisa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wfgY5QxiT9tfcT9nIU8aBlxnJRK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 108,
+  "rating": null,
+  "description": "In a remote locality, A spirit is out to seek revenge. During the run, a lot of deaths happen around. Can the revenge be fulfilled or will the spirit be captured?",
+  "created_at": "2026-07-09T17:49:38.760Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/My%20Dear%20Lisa%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/My%20Dear%20Lisa%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "f31a430f-57ab-49ec-912c-3d902898d282",
+  "title": "Samajavaragamana",
+  "slug": "samajavaragamana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fuyNHfcDJVwLfhgjHYmXlQZyK93.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 129,
+  "rating": 7.167,
+  "description": "Balu, a determined middle-class man who finds himself at a crossroads when Sarayu enters his life, rekindling his long-lost desire for romantic relationships. Balu must try his best to stop his cousin’s marriage in order to save his own love life.",
+  "created_at": "2026-07-09T17:00:00.341Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Samajavaragamana%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Samajavaragamana%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

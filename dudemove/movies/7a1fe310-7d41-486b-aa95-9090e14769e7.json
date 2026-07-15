@@ -1,0 +1,35 @@
+{
+  "id": "7a1fe310-7d41-486b-aa95-9090e14769e7",
+  "title": "Chainsaw Man - The Movie: Reze Arc",
+  "slug": "chainsaw-man-the-movie-reze-arc",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4IS7CHfTYDx8RZAXG7hU9J1ZcQy.jpg",
+  "is_premium": false,
+  "country": "Japan",
+  "language": "Japanese",
+  "release_year": 2025,
+  "duration": 100,
+  "rating": 8.417,
+  "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+  "created_at": "2026-07-09T16:48:20.175Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Chainsaw%20Man%20The%20Movie%20Reze%20Arc%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Chainsaw%20Man%20The%20Movie%20Reze%20Arc%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

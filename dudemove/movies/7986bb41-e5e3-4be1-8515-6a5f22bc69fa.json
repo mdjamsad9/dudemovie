@@ -1,0 +1,31 @@
+{
+  "id": "7986bb41-e5e3-4be1-8515-6a5f22bc69fa",
+  "title": "Ayalaan",
+  "slug": "ayalaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8nryykQqfU7yqTz4FD7uEBjseZp.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 156,
+  "rating": 5.8,
+  "description": "A lost alien seeks help from four friends to get back to his home planet, while a group of hostile scientists tries to capture it.",
+  "created_at": "2026-07-09T16:52:33.005Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ayalaan%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ayalaan%20(2024)%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

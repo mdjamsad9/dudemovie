@@ -1,0 +1,27 @@
+{
+  "id": "df1ece70-37a8-4a39-941b-1c019c676c8b",
+  "title": "Godse",
+  "slug": "godse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cR9NesoY99WGQtQPViwbbthAWnt.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 142,
+  "rating": 4.6,
+  "description": "Vyshali, the assistant superintendent of police, is forcefully tasked to deal with unknown kidnapper Godse, who holds some high-profile personalities as hostages. Why did he kidnap them, what are his demands, and what does he want to achieve?",
+  "created_at": "2026-07-09T17:53:26.256Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

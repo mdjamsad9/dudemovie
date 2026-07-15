@@ -1,0 +1,35 @@
+{
+  "id": "77a48fdc-5650-446a-b226-208aad0293b0",
+  "title": "Cult Killer",
+  "slug": "cult-killer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jSR06FpV1H36OmW0jfEmvG73l2r.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 105,
+  "rating": 6.375,
+  "description": "A private investigator is forced into a dangerous alliance with a killer in order to uncover a quiet town’s grisly criminal underbelly and clear the name of her mentor, who is implicated in the crimes.",
+  "created_at": "2026-07-09T17:27:13.544Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Cult.Killer.2024.1080p.WEBRip.x264%20%5BDDN%5D/Cult.Killer.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

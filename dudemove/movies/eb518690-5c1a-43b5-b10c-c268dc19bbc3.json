@@ -1,0 +1,27 @@
+{
+  "id": "eb518690-5c1a-43b5-b10c-c268dc19bbc3",
+  "title": "Reminders of Him",
+  "slug": "reminders-of-him",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 114,
+  "rating": 7.732,
+  "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+  "created_at": "2026-07-09T16:36:20.073Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Reminders.Of.Him.2026.1080p.WEBRip.x264%20%5BDDN%5D/Reminders.Of.Him.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

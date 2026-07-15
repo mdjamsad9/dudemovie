@@ -1,0 +1,23 @@
+{
+  "id": "fd96032e-5607-41d0-bdb5-4b776e24c408",
+  "title": "Hello.. Meera..!",
+  "slug": "hello-meera",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2xUheapnQ5E5awCuQfxnbO8kGYW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 5.8,
+  "description": "Meera, an IT employee in Hyderabad, returns to her hometown Vijayawada for her marriage. An Instagram tag by her ex-boyfriend, Sudheer and a call from the police turn her world upside down and push her into a physical and emotional rollercoaster.",
+  "created_at": "2026-07-09T17:38:27.792Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Hello%20Meera%20(2023)%20Tamil-Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hello%20Meera%20(2023)%20Tamil-Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

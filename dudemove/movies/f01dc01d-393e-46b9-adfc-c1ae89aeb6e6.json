@@ -1,0 +1,27 @@
+{
+  "id": "f01dc01d-393e-46b9-adfc-c1ae89aeb6e6",
+  "title": "Raja the Great",
+  "slug": "raja-the-great",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJCAmTsphSfPiYQc4LsYKpdAhTK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 149,
+  "rating": 5.857,
+  "description": "Raja is a blind man who's trained by his head constable mother to use his disability to his advantage. Lucky is the pampered daughter of a police officer and they're each other's whole world. What happens when Lucky's world is shaken by a goon Deva? How does Raja fit into this picture?",
+  "created_at": "2026-07-09T17:54:19.378Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raja%20The%20Great%202017%20Hindi%20-%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raja%20The%20Great%202017%20Hindi%20-%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

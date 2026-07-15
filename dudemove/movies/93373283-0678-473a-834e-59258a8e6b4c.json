@@ -1,0 +1,35 @@
+{
+  "id": "93373283-0678-473a-834e-59258a8e6b4c",
+  "title": "Raat Akeli Hai - The Bansal Murders",
+  "slug": "raat-akeli-hai-the-bansal-murders",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nBhae2KNhk0R6cvVppoCo389gs6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 6.12,
+  "description": "When members of the Bansal family are found murdered, Inspector Jatil Yadav uncovers a trail of greed, betrayal and secrets tied to a deadly conspiracy.",
+  "created_at": "2026-07-09T16:44:45.913Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e578b5aa-78bd-4e3f-834a-7661c94a2172",
+  "title": "Romancham",
+  "slug": "romancham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9p8ux2AGYn3U2mEAbKmizAh6PL1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 132,
+  "rating": 7.3,
+  "description": "Set in 2007, in the outskirts of Bengaluru, A game of Ouija board goes hilariously wrong when seven bachelors unexpectedly invite a spirit and try to make the best out of the situation.",
+  "created_at": "2026-07-09T17:41:29.217Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Romancham%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Romancham%20(2023)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

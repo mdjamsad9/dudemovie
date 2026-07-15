@@ -1,0 +1,27 @@
+{
+  "id": "ae9356a1-67e0-4d72-ab5b-ac27787bb520",
+  "title": "Chitra Vichitram",
+  "slug": "chitra-vichitram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/avOWMYunLKq02nmlvVtEhFb6mZZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 27,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-09T17:39:59.920Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

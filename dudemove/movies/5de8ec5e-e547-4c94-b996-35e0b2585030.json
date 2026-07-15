@@ -1,0 +1,31 @@
+{
+  "id": "5de8ec5e-e547-4c94-b996-35e0b2585030",
+  "title": "Odela Railway Station",
+  "slug": "odela-railway-station",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3gjt6oKDHccysnj30dj5nik8wem.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 93,
+  "rating": 4.2,
+  "description": "A string of murders terrorise the people of Odela village, and every newly wed girl in the village is the murder’s target. A bright young police officer is determined to find the culprit and stop the next murder from happening while anxious villagers await closure. But, unfortunately, everyone’s a suspect, and the clock is ticking.",
+  "created_at": "2026-07-09T16:56:37.829Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

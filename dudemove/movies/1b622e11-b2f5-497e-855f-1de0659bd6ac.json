@@ -1,0 +1,31 @@
+{
+  "id": "1b622e11-b2f5-497e-855f-1de0659bd6ac",
+  "title": "Project Gutenberg",
+  "slug": "project-gutenberg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aJv81P9fEsArYmEL1IGYNTYQLni.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Cantonese",
+  "release_year": 2018,
+  "duration": 130,
+  "rating": 7.196,
+  "description": "The Hong Kong police is hunting a counterfeiting gang led by a mastermind code-named \"Painter\" . The gang possesses exceptional counterfeiting skills which makes it difficult to distinguish the authenticity of its counterfeit currency. The scope of their criminal activities extends globally and greatly attracts the attention of the police. In order to crack the true identity of \"Painter\", the police recruits a painter named Lee Man to assist in solving the case.",
+  "created_at": "2026-07-09T17:11:47.932Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Project.Gutenberg.2018.1080p.BluRay.x264%20%5BDDN%5D/Project.Gutenberg.2018.1080p.BluRay.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "624ed3b8-aa1c-49ba-a9da-af5ff04773b8",
+  "title": "She Said",
+  "slug": "she-said",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": 7.179,
+  "description": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation — a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+  "created_at": "2026-07-09T17:47:08.495Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/She.Said.2022.1080p.WEBRip.x264%20%5BDDN%5D/She.Said.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

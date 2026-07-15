@@ -1,0 +1,31 @@
+{
+  "id": "3b6b94aa-b366-45df-986f-3510fa9771a1",
+  "title": "The Tutor",
+  "slug": "the-tutor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 6.068,
+  "description": "When a professional tutor takes a job at a remote manor, he soon finds himself battling his disturbed student’s obsessions, which threaten to expose his darkest secrets and unravel his carefully crafted persona.",
+  "created_at": "2026-07-09T17:41:12.287Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Tutor.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Tutor.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

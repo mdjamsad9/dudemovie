@@ -1,0 +1,31 @@
+{
+  "id": "7ee63bb2-5f42-4262-bbf0-0bde4cdae87f",
+  "title": "Ek Deewane Ki Deewaniyat",
+  "slug": "ek-deewane-ki-deewaniyat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eQGzsELM0n6FOngNRGEIx9nqDwV.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 141,
+  "rating": 5.432,
+  "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
+  "created_at": "2026-07-09T16:44:30.737Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ek%20Deewane%20Ki%20Deewaniyat%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

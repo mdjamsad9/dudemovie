@@ -1,0 +1,35 @@
+{
+  "id": "feede508-73a7-4451-a34e-3f34ae411387",
+  "title": "Ponniyin Selvan: Part II",
+  "slug": "ponniyin-selvan-part-ii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1fMM5yjLYJNfO3CSQBpfC1kqeIK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 164,
+  "rating": 6.2,
+  "description": "968 AD. The Pandyan assassins gather once again to destroy the Chola dynasty. Now the mighty Chola princes must fight the Pandyas, the Rashtrakutas and other Chola enemies who have joined forces. Also, at play are the rumours of Ponniyin Selvan’s death at sea, the powerful Pazhuvettarayar’s betrayal, and the tragic destiny of Aditha Karikalan, whose heart was long lost to the vengeful Nandini.",
+  "created_at": "2026-07-09T17:50:36.262Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ponniyin%20Selvan%20(2022)%20Hindi%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Ponniyin%20Selvan%20(2022)%20Hindi%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "52fb9779-c827-4f26-81ec-f0bf5f3e4e02",
+  "title": "Mishan Impossible",
+  "slug": "mishan-impossible",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2uUectWqZTzpTtfwq4hGeY5v2l1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": 6.4,
+  "description": "Three little kids from Vadamalapeta want to hunt down Dawood Ibrahim and claim prize money. An investigative reporter and her sidekicks want to bring down a child trafficking nexus. How does this motley crew cross paths?",
+  "created_at": "2026-07-09T17:55:37.521Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mishan%20Impossible%20(2022)%20Telugu%C2%A0720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mishan%20Impossible%20(2022)%20Telugu%c2%a0720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

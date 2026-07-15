@@ -1,0 +1,31 @@
+{
+  "id": "f0abd7e3-6b55-4430-b92f-a14f78aa82e9",
+  "title": "Shefeekkinte Santhosham",
+  "slug": "shefeekkinte-santhosham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iBLOC8FpCehImg7ih3yUdqDZRCA.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 128,
+  "rating": 5,
+  "description": "Shefeek, an expatriate, is a good samaritan who is loved by everybody around him. During his short visit to his hometown for his wedding, he gets into an issue which brings out the true colours of his kith and kin.",
+  "created_at": "2026-07-09T17:46:03.911Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Shefeekkinte%20Santhosham%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Shefeekkinte%20Santhosham%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

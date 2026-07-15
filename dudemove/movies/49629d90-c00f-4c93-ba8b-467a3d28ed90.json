@@ -1,0 +1,23 @@
+{
+  "id": "49629d90-c00f-4c93-ba8b-467a3d28ed90",
+  "title": "The Deepest Breath",
+  "slug": "the-deepest-breath",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4gKAn4npGEBi0HZAbwFZ77reLBR.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Russian",
+  "release_year": 2023,
+  "duration": 108,
+  "rating": 7.605,
+  "description": "Bonded by their love of freediving, a record-setting champion and a heroic safety diver try to make history with a remarkable feat, ready to risk it all.",
+  "created_at": "2026-07-09T17:36:28.801Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Deepest.Breath.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/The.Deepest.Breath.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "20caded3-09b0-473b-8097-8898d98c6bf1",
+  "title": "Halloween Ends",
+  "slug": "halloween-ends",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 111,
+  "rating": 6.025,
+  "description": "Four years after the events of Halloween in 2018, Laurie has decided to liberate herself from fear and rage and embrace life. But when a young man is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can’t control, once and for all.",
+  "created_at": "2026-07-09T17:49:42.615Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Halloween.Ends.2022.1080p.WEBRip.x264%20%5BDDN%5D/Halloween.Ends.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

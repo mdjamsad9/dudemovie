@@ -1,0 +1,31 @@
+{
+  "id": "21551124-d421-47b9-9057-7b2fb204572b",
+  "title": "The Last Days of American Crime",
+  "slug": "the-last-days-of-american-crime",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Danish",
+  "release_year": 2020,
+  "duration": 148,
+  "rating": 6.5,
+  "description": "In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.",
+  "created_at": "2026-07-09T17:57:21.132Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/The.Last.Days.of.American.Crime.2020.1080p.WEBRip.x264%20%5BDDN%5D/The.Last.Days.of.American.Crime.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

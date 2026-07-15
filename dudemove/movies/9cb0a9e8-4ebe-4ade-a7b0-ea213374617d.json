@@ -1,0 +1,23 @@
+{
+  "id": "9cb0a9e8-4ebe-4ade-a7b0-ea213374617d",
+  "title": "Intersect",
+  "slug": "intersect",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rdccpJjmc0mI9AirltDUQAUx5n7.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 2.5,
+  "description": "Victoria, a high school student, goes on a long-awaited camping trip with her father only to find out that he is bringing his new 20 year old girlfriend along for the ride.",
+  "created_at": "2026-07-09T17:57:06.620Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Intersect.2020.1080p.WEBRip.x264%20%5BDDN%5D/Intersect.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "983aad8c-288b-4443-ba76-53ca4c18d427",
+  "title": "Rust",
+  "slug": "rust",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tVOPgMZFjrMneDH7uk2QytB04bQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 38,
+  "rating": null,
+  "description": "Jimmie, plagued by a restless boredom, kills time with buddies in his hometown of Lorain, Ohio. Sudden news makes him contemplate moving away.",
+  "created_at": "2026-07-09T16:59:25.516Z",
+  "genres": [],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Rust.2024.1080p.WEBRip.x264%20%5BDDN%5D/Rust.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

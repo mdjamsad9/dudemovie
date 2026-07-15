@@ -1,0 +1,27 @@
+{
+  "id": "a6451103-9bbd-4af6-bdc7-1695f3a6ee8c",
+  "title": "Devil on Campus: The Larry Ray Story",
+  "slug": "devil-on-campus-the-larry-ray-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1kKhcAqaFEPzbReXqIf3a2IW7xx.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 86,
+  "rating": 5.2,
+  "description": "Larry Ray moves into daughter's dorm, manipulates her friends by exploiting insecurities, promises personal transformations through disturbing psychological tactics aimed at gaining control over vulnerable students.",
+  "created_at": "2026-07-09T17:16:50.049Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Devil.On.Campus.The.Larry.Ray.Story.2024.1080p.WEBRip.x264%20%5BDDN%5D/Devil.On.Campus.The.Larry.Ray.Story.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

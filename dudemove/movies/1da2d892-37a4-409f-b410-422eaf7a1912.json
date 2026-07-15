@@ -1,0 +1,31 @@
+{
+  "id": "1da2d892-37a4-409f-b410-422eaf7a1912",
+  "title": "Blast",
+  "slug": "blast",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Tamil",
+  "release_year": 2026,
+  "duration": 143,
+  "rating": 7,
+  "description": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+  "created_at": "2026-07-09T16:32:47.172Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Blast%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Blast%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

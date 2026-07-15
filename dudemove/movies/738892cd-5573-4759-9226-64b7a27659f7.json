@@ -1,0 +1,27 @@
+{
+  "id": "738892cd-5573-4759-9226-64b7a27659f7",
+  "title": "Bhari Taraganam",
+  "slug": "bhari-taraganam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8p7fE5ALn7yriv77hTAJ4PFe6M3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "A woman utilises her acting skills to persuade the powerful to aid underprivileged women. They discover that acting is not simply a job or a hobby, but also a skill that can be utilised to help overcome their problems.",
+  "created_at": "2026-07-09T17:26:03.741Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bhari%20Taraganam%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhari%20Taraganam%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

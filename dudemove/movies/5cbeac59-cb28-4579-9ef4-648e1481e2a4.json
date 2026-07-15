@@ -1,0 +1,27 @@
+{
+  "id": "5cbeac59-cb28-4579-9ef4-648e1481e2a4",
+  "title": "Murderbaad",
+  "slug": "murderbaad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/70kbo9qJ3i98CRVyKP0DfYQoJLe.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 153,
+  "rating": null,
+  "description": "A Jaipur tour guide's romance with an NRI unravels when a fellow tourist goes missing. As suspicion mounts, he vanishes-sparking a nationwide hunt that leads to one of modern India's most shocking crime twists.",
+  "created_at": "2026-07-09T16:51:41.362Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Murderbaad%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Murderbaad%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

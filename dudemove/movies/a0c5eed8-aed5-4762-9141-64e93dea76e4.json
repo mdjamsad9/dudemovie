@@ -1,0 +1,27 @@
+{
+  "id": "a0c5eed8-aed5-4762-9141-64e93dea76e4",
+  "title": "Pothanur Thabal Nilayam",
+  "slug": "pothanur-thabal-nilayam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/urw2ifoIBGjGOJpJv7Ak8Q6jwHk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 126,
+  "rating": 6.5,
+  "description": "Praveen, an ambitious entrepreneur, is pushed to race against the clock and find the stolen money within the next 36 hours to save his father’s reputation and his family. Will the family survive this life-threatening situation?",
+  "created_at": "2026-07-09T17:55:04.505Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pothanur%20Thabal%20Nilayam%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESubs%20%5BDDN%5D/Pothanur%20Thabal%20Nilayam%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESubs%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

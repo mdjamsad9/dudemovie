@@ -1,0 +1,31 @@
+{
+  "id": "4d3fcf4b-ff4f-4eb2-bd4c-5a2ce5908de8",
+  "title": "Butcher's Crossing",
+  "slug": "butcher-s-crossing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 105,
+  "rating": 5.89,
+  "description": "In the 1870s, a young Harvard dropout seeks his destiny out West by tying his fate to a team of buffalo hunters led by a man named Miller. Together, they embark on a harrowing journey risking life and sanity.",
+  "created_at": "2026-07-09T17:31:12.541Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Butchers.Crossing.2022.1080p.WEBRip.x264%20%5BDDN%5D/Butchers.Crossing.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

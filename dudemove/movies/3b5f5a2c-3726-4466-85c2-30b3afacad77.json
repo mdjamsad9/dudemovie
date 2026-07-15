@@ -1,0 +1,27 @@
+{
+  "id": "3b5f5a2c-3726-4466-85c2-30b3afacad77",
+  "title": "Thandatti",
+  "slug": "thandatti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/avhTPLXG3Gedvu5nc7nFt2eXTNy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 128,
+  "rating": 7,
+  "description": "A constable, takes up a case that requires him to find a pair of gold earrings that belonged to a dead woman.",
+  "created_at": "2026-07-09T17:36:43.021Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thandatti%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Thandatti%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

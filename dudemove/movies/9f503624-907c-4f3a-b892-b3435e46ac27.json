@@ -1,0 +1,27 @@
+{
+  "id": "9f503624-907c-4f3a-b892-b3435e46ac27",
+  "title": "My Best Friend Daadu",
+  "slug": "my-best-friend-daadu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fqpYmcdxx0v5ayK3Llxjk9e16A5.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Gujarati",
+  "release_year": 2023,
+  "duration": 126,
+  "rating": null,
+  "description": "In pursuit of career, parents prefer to leave the joint family to live in a nuclear family. A ten-year-old child knocks on the door of court against his own parents.This film received five awards from the Government of Gujarat in 2025.",
+  "created_at": "2026-07-09T17:45:44.700Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/My%20Best%20Friend%20Daadu%202023%20PreDvd%201080p%20Gujarati%20%20x264%20%5BDDN%5D/My%20Best%20Friend%20Daadu%202023%20PreDvd%201080p%20Gujarati%20%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

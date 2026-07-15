@@ -1,0 +1,27 @@
+{
+  "id": "9dc9cc83-9c34-461d-90df-c5794198acdf",
+  "title": "3BHK",
+  "slug": "3bhk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/njq3p81KoTVd0lWqGeudId7WwUn.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 139,
+  "rating": 7,
+  "description": "A middle-class family battles financial hurdles and personal setbacks while pursuing their dream of owning a home in the bustling city.",
+  "created_at": "2026-07-09T16:53:33.343Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/3BHK%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/3BHK%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

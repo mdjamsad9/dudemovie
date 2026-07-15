@@ -1,0 +1,27 @@
+{
+  "id": "7bb3d59c-9391-405a-b777-5cb6ee92ac5d",
+  "title": "Iraivan",
+  "slug": "iraivan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zRusAvFszxi96hzBfAQWezqnUQl.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 152,
+  "rating": 5.2,
+  "description": "Arjun, a tough cop along with his friend Andrew embark on a mission to track down a truly gruesome psychopathic killer called Bhramma a.k.a The Smiley Man. They eventually manage to apprehend Bhramma at the cost of losing Andrew makes Arjun resign from the police force. However, tragedy hits home when Bhramma escapes from prison and resumes his killing spree.",
+  "created_at": "2026-07-09T17:31:50.838Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Iraivan%20(2023)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Iraivan%20(2023)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

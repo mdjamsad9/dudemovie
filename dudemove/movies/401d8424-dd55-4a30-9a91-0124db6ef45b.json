@@ -1,0 +1,23 @@
+{
+  "id": "401d8424-dd55-4a30-9a91-0124db6ef45b",
+  "title": "Viddikalude Maash",
+  "slug": "viddikalude-maash",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dfI0SI0yv7hgCdwofh4cVRLbRzs.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 121,
+  "rating": 5.3,
+  "description": "Viddikalude Mashu is a family drama film about a boy who faces difficulties in life as a result of his inferiority complex. The film portrays how he overcomes numerous obstacles in his life and eventually achieves his life ambition.",
+  "created_at": "2026-07-09T17:45:41.654Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Viddikalude%20Maash%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Viddikalude%20Maash%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2ac13cee-90a9-4fe4-8aa7-6c879033a46c",
+  "title": "Shadowplay",
+  "slug": "shadowplay",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r0EurK0b7mMeBsyqdxItHZHstKg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Malay",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 2.6,
+  "description": "When a private eye takes a case to find a missing university student, he must explore the deep dark depths of his own mind to uncover the truth around his own childhood disappearance as he tracks down the missing girl.",
+  "created_at": "2026-07-09T17:58:05.112Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Shadowplay.2019.1080p.WEBRip.x264%20%5BDDN%5D/Shadowplay.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

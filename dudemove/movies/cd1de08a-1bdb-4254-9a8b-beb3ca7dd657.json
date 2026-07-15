@@ -1,0 +1,27 @@
+{
+  "id": "cd1de08a-1bdb-4254-9a8b-beb3ca7dd657",
+  "title": "Speak No Evil",
+  "slug": "speak-no-evil-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 110,
+  "rating": 7.118,
+  "description": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+  "created_at": "2026-07-09T17:12:49.004Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Speak.No.Evil.2024.1080p.WEBRip.x264%20%5BDDN%5D/Speak.No.Evil.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

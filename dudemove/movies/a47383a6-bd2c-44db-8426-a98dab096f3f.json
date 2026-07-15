@@ -1,0 +1,31 @@
+{
+  "id": "a47383a6-bd2c-44db-8426-a98dab096f3f",
+  "title": "Scream VI",
+  "slug": "scream-vi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 123,
+  "rating": 6.943,
+  "description": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+  "created_at": "2026-07-09T17:40:40.421Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Scream.VI.2023.1080p.WEBRip.x264%20%5BDDN%5D/Scream.VI.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

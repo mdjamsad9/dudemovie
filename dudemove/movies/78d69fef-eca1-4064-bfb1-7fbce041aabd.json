@@ -1,0 +1,27 @@
+{
+  "id": "78d69fef-eca1-4064-bfb1-7fbce041aabd",
+  "title": "Ariyavan",
+  "slug": "ariyavan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wQCa5Wfj4W8jxP2x9vxkcEYxTVI.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 9,
+  "description": "Jeeva, a kabaddi player rescues Jessie, a friend of his fiancée after she is taken advantage of by the gang. As Jeeva tries to protect other girls and subdue the gang, he is compelled to confront brutal and dreaded gangster Thuraipandi.",
+  "created_at": "2026-07-09T17:41:51.056Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ariyavan%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ariyavan%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

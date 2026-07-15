@@ -1,0 +1,31 @@
+{
+  "id": "6968c9c0-77e0-4320-9717-35ab5e44e84b",
+  "title": "Detective Knight: Rogue",
+  "slug": "detective-knight-rogue",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 6.013,
+  "description": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+  "created_at": "2026-07-09T17:49:29.282Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Detective.Knight.Rogue.2022.1080p.WEBRip.x264%20%5BDDN%5D/Detective.Knight.Rogue.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

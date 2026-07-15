@@ -1,0 +1,27 @@
+{
+  "id": "99bf7659-bacf-44c9-91af-8e3c75044b74",
+  "title": "Thathsama Thathbhava",
+  "slug": "thathsama-thathbhava",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ahGHs5lu7d4f4n9BcCpdVh5Ws4T.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2023,
+  "duration": 115,
+  "rating": 3,
+  "description": "A seasoned police inspector delves into a perplexing missing person's investigation that reveals a web of secrets, lies, and mystery.",
+  "created_at": "2026-07-09T17:32:08.424Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thathsama%20Thathbhava%20(2023)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thathsama%20Thathbhava%20(2023)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

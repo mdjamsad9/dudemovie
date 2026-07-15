@@ -1,0 +1,31 @@
+{
+  "id": "6cb1fdbf-5aac-4ce4-9a9c-eeeadf715cee",
+  "title": "Transformers: Rise of the Beasts",
+  "slug": "transformers-rise-of-the-beasts",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Quechua",
+  "release_year": 2023,
+  "duration": 127,
+  "rating": 7.169,
+  "description": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+  "created_at": "2026-07-09T17:36:49.238Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Transformers.Rise.Of.The.Beasts.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Transformers.Rise.Of.The.Beasts.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

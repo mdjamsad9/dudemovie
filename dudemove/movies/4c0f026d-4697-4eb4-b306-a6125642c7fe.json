@@ -1,0 +1,31 @@
+{
+  "id": "4c0f026d-4697-4eb4-b306-a6125642c7fe",
+  "title": "Kondraal Paavam",
+  "slug": "kondraal-paavam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lA5o8XFUlk1MvtuISjuSfs8bKxD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 108,
+  "rating": 6,
+  "description": "A fortune teller tells a poverty-stricken family that their fate will change overnight when a mysterious traveler visits there home to stay overnight.",
+  "created_at": "2026-07-09T17:37:49.419Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kondraal%20Paavam%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Kondraal%20Paavam%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

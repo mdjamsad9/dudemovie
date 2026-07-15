@@ -1,0 +1,23 @@
+{
+  "id": "56af3a78-c31b-468c-a4fd-1ae20178dfe8",
+  "title": "Saachi",
+  "slug": "saachi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3jVf4F72z9ZpkiJMpF0nRwQMGC6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 118,
+  "rating": null,
+  "description": "Saachi is in high school when her father gets diagnosed with a brain tumor. Unfortunately, she doesn't get any help from the family or the community. She then decides to run her family-owned barbershop business. Can she manage it all? Will her father survive?",
+  "created_at": "2026-07-09T17:28:17.481Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Saachi%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Saachi%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "06fef240-2b90-4c76-bb37-8affc64a2443",
+  "title": "Perfect Addiction",
+  "slug": "perfect-addiction",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ucO3NFIvMff71cBRR5EgYXPKWMC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 97,
+  "rating": 6.754,
+  "description": "A female boxing trainer discovers that her champion cage-fighter boyfriend has been cheating on her with her sister and decides to seek revenge by training up his arch-rival to challenge him.",
+  "created_at": "2026-07-09T17:42:01.614Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Perfect.Addiction.2023.1080p.WEBRip.x264%20%5BDDN%5D/Perfect.Addiction.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "b5db5df3-5b4f-4dfe-aaf6-0941337f21c0",
+  "title": "Haraa",
+  "slug": "haraa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AwoWCdx0udqe0PCTuvG9RtVIpqr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 138,
+  "rating": 6,
+  "description": "Ram (a) Ibrahim, who is grieving the loss of his daughter after she dies by suicide. He goes on a mission to uncover secrets and avenge her death.",
+  "created_at": "2026-07-09T17:16:51.230Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Haraa%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Haraa%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

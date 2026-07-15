@@ -1,0 +1,35 @@
+{
+  "id": "5380579e-363a-4247-81cc-9891901e1ded",
+  "title": "Mavka: The Forest Song",
+  "slug": "mavka-the-forest-song",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Ukrainian",
+  "release_year": 2023,
+  "duration": 99,
+  "rating": 7.2,
+  "description": "Mavka, a Soul of the Forest, faces an impossible choice between love and her duty as Guardian of the Heart of the Forest when she falls for a human, a talented young musician named Lukas.",
+  "created_at": "2026-07-09T17:37:21.322Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Mavka.The.Forest.Song.2023.1080p.WEBRip.x264%20%5BDDN%5D/Mavka.The.Forest.Song.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

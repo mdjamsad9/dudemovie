@@ -1,0 +1,27 @@
+{
+  "id": "814bb81a-5348-4aea-b125-a48c01572942",
+  "title": "Clerks III",
+  "slug": "clerks-iii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 100,
+  "rating": 6,
+  "description": "After narrowly surviving a massive heart attack, Randal enlists his old friend Dante to help him make a movie immortalizing their youthful days at the little convenience store that started it all.",
+  "created_at": "2026-07-09T17:49:48.795Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Clerks.III.2022.1080p.WEBRip.x264%20%5BDDN%5D/Clerks.III.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2fea7f74-6f68-4a22-a53f-3da7ad7e7d41",
+  "title": "Hurry Up Tomorrow",
+  "slug": "hurry-up-tomorrow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 105,
+  "rating": 5.061,
+  "description": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
+  "created_at": "2026-07-09T16:56:59.043Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Hurry.Up.Tomorrow.2025.1080p.WEBRip.x264%20%5BDDN%5D/Hurry.Up.Tomorrow.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

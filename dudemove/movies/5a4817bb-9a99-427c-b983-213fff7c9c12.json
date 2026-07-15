@@ -1,0 +1,39 @@
+{
+  "id": "5a4817bb-9a99-427c-b983-213fff7c9c12",
+  "title": "Under the Boardwalk",
+  "slug": "under-the-boardwalk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pJzk88QM8USoEY6VWAEQFoubkFd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 87,
+  "rating": 7.335,
+  "description": "Two crabs embark on an epic journey to get home after a storm sweeps them away. Their courage soon unites their families, paving the way for great summers to come.",
+  "created_at": "2026-07-09T17:31:24.773Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Under.The.Boardwalk.2023.1080p.WEBRip.x264%20%5BDDN%5D/Under.The.Boardwalk.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bcc99ad2-59ec-4d56-b2f7-09202ecd286f",
+  "title": "Azhagiya Kanne",
+  "slug": "azhagiya-kanne",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ymiQvCnAs8Pg1Gxic5XYdcrEnEE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 10,
+  "description": "Azhagiya Kanne is a 1982 Tamil-language film written and directed by J. Mahendran. The film's score and soundtrack are composed by Ilaiyaraaja.",
+  "created_at": "2026-07-09T17:18:50.439Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Azhagiya%20Kanne%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDDN%5D/Azhagiya%20Kanne%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

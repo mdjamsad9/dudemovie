@@ -1,0 +1,31 @@
+{
+  "id": "462adb4a-1742-4b46-9ee6-427e7f05a1c5",
+  "title": "Prakashan Parakkatte",
+  "slug": "prakashan-parakkatte",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cxdKrnyYHv5Y0oxpvDvuK1Y6p4k.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 127,
+  "rating": 3.2,
+  "description": "Das, who regularly bunks school, is unhappy with his family as they admire his brother for doing well at school. Tragedy strikes when an accident takes place, and at the same time, Das falls in love.",
+  "created_at": "2026-07-09T17:54:39.841Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Prakashan%20Parakkatte%20(2022)%20Malayalam%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Prakashan%20Parakkatte%20(2022)%20Malayalam%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

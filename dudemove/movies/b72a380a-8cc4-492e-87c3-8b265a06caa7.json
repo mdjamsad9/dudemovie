@@ -1,0 +1,27 @@
+{
+  "id": "b72a380a-8cc4-492e-87c3-8b265a06caa7",
+  "title": "Byri",
+  "slug": "byri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6zzasZEwoFn5cnhYLTJSjglxHB2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "In a small town in Nagercoil, pigeon racing is a matter of pride for hot-headed youngsters and adults. Rajalingam, a young man, whose mother desperately wishes to see as a graduate, gets sucked into this vortex, and earns the enmity of a rowdy-sheeter, putting his life and that of his close friend in danger.",
+  "created_at": "2026-07-09T17:26:38.865Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Byri%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Byri%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

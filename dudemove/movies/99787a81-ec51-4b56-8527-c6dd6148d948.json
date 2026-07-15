@@ -1,0 +1,27 @@
+{
+  "id": "99787a81-ec51-4b56-8527-c6dd6148d948",
+  "title": "Ikk Kudi",
+  "slug": "ikk-kudi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sHuAznqwfhqxbk0SYb4ISPMdzFH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": null,
+  "description": "In a family where love stories always end in heartbreak, Simis arranged marriage is seen as a longoverdue new beginning. Her fiancé is charming, successful, and everything her parents hoped for. But just days before the wedding, a whisper of doubt creeps into Simi’s mind — and it refuses to leave.",
+  "created_at": "2026-07-09T16:48:42.364Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ikk%20Kudi%20(2025)%20Punjabi%201080p%20HDTS%20x264%20%5BDDN%5D/Ikk%20Kudi%20(2025)%20Punjabi%201080p%20HDTS%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

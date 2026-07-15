@@ -1,0 +1,27 @@
+{
+  "id": "bd888ecd-9628-4130-a66b-d8b7a2d30814",
+  "title": "Theal",
+  "slug": "theal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qFl6aoRnpgfxWMMooYoznjG6Dtj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 6,
+  "description": "A woman walks into the life of a debt collector, who works for a loan shark, claiming to be his mother. He tries to turn over a new leaf moved by her affection, but can he do so after having ruined the lives of so many people?",
+  "created_at": "2026-07-09T17:56:14.824Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Theal%20(2022)%20Tamil%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Theal%20(2022)%20Tamil%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

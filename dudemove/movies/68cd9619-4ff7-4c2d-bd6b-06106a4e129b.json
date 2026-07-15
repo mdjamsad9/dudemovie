@@ -1,0 +1,23 @@
+{
+  "id": "68cd9619-4ff7-4c2d-bd6b-06106a4e129b",
+  "title": "Shukrana",
+  "slug": "shukrana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bBX5xHDmk07pVbsUNruBiV5JAQj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2024,
+  "duration": 117,
+  "rating": 4,
+  "description": "A close-knit family living in a rural community navigate marriage proposals and pregnancies, alongside a tragedy which threatens to tear them apart.",
+  "created_at": "2026-07-09T17:04:40.506Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Shukrana%20(2024)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Shukrana%20(2024)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

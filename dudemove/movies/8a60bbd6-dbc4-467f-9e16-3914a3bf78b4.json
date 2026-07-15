@@ -1,0 +1,31 @@
+{
+  "id": "8a60bbd6-dbc4-467f-9e16-3914a3bf78b4",
+  "title": "LEGO Marvel Avengers: Code Red",
+  "slug": "lego-marvel-avengers-code-red",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rDzig50dj7VpLwJ7SThbamETK1G.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 48,
+  "rating": 6.525,
+  "description": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
+  "created_at": "2026-07-09T17:31:09.889Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Lego.Marvel.Avengers.Code.Red.2023.1080p.WEBRip.x264%20%5BDDN%5D/Lego.Marvel.Avengers.Code.Red.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "178cadc8-53fb-4a8f-810b-6e34891110fb",
+  "title": "Power: The Downfall of Huw Edwards",
+  "slug": "power-the-downfall-of-huw-edwards",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/41eSBYpZFN1HR3x191hVdmBw7CW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 90,
+  "rating": 5.667,
+  "description": "Docudrama following the downfall of BBC Presenter Huw Edwards.",
+  "created_at": "2026-07-09T16:36:52.331Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Power.The.Downfall.Of.Huw.Edwards.2026.1080p.WEBRip.x264%20%5BDDN%5D/Power.The.Downfall.Of.Huw.Edwards.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

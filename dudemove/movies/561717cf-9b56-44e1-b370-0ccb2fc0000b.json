@@ -1,0 +1,27 @@
+{
+  "id": "561717cf-9b56-44e1-b370-0ccb2fc0000b",
+  "title": "Anybody Seen My Girl?",
+  "slug": "anybody-seen-my-girl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IajQm1FifS6YmH5X8rQFHqqwAb.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Russian",
+  "release_year": 2021,
+  "duration": 100,
+  "rating": 6.2,
+  "description": "Sergei and Kira were considered the most beautiful bohemian couple among cinema lovers of Saint Petersburg in the early 90’s. Their fantastic love affair ended with Kira leaving town, fleeing for new life, new relationship. Sergei has died shortly after. Only after a few years does Kira realize that she never stopped loving Sergei. And that she’s doomed to stay in a neverending dialogue with a dead lover.",
+  "created_at": "2026-07-09T16:49:55.870Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Anybody%20Seen%20My%20Girl%20(2020)%20Hindi%20Russian%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anybody%20Seen%20My%20Girl%20%282020%29%20Hindi%20Russian%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

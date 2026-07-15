@@ -1,0 +1,31 @@
+{
+  "id": "49301fa2-1ceb-4bf7-8b17-5052a72462a3",
+  "title": "A Royal Christmas Crush",
+  "slug": "a-royal-christmas-crush",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/znk6frNlEd90QATu40qsh997KvU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 84,
+  "rating": 5.8,
+  "description": "Ava accepts the opportunity of a lifetime to work at the Royal Ice Hotel which leads her to a surprise whirlwind romance with the most important guest of all, the Royal Prince himself.",
+  "created_at": "2026-07-09T17:36:54.676Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/A.Royal.Christmas.Crush.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/A.Royal.Christmas.Crush.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

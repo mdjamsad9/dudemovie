@@ -1,0 +1,31 @@
+{
+  "id": "717216aa-0fde-4105-9cc4-0442b37d37e0",
+  "title": "Leave the World Behind",
+  "slug": "leave-the-world-behind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 140,
+  "rating": 6.375,
+  "description": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door.",
+  "created_at": "2026-07-09T17:30:02.643Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Leave.The.World.Behind.2023.1080p.WEBRip.x264%20%5BDDN%5D/Leave.The.World.Behind.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

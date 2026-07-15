@@ -1,0 +1,35 @@
+{
+  "id": "a1312f31-096a-4dbb-b622-0d04e6f0fb2a",
+  "title": "Red Sonja",
+  "slug": "red-sonja",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 111,
+  "rating": 5.676,
+  "description": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
+  "created_at": "2026-07-09T16:53:43.810Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Red.Sonja.2025.1080p.WEBRip.x264%20%5BDDN%5D/Red.Sonja.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4fb8d452-f7cd-40fe-a997-64fed0da1fd5",
+  "title": "Two Men",
+  "slug": "two-men",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v3jEWGYqDZfbRborRmjm5q7AquS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 10,
+  "description": "- I met the first man when I was on my way to an event at Veteran's of Foreign Wars Hall. Was helped out from the party by two good friends. I had forgotten all about those guys.",
+  "created_at": "2026-07-09T17:52:57.682Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

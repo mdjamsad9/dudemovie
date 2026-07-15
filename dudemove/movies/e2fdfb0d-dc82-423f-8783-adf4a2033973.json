@@ -1,0 +1,27 @@
+{
+  "id": "e2fdfb0d-dc82-423f-8783-adf4a2033973",
+  "title": "Glassmates",
+  "slug": "glassmates",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yxynatDWA34YLk6SXeDvi3MmcZf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 126,
+  "rating": null,
+  "description": "Two drinking buddies join detox but make their physician an alcoholic too, sparking mayhem locally.",
+  "created_at": "2026-07-09T17:11:22.248Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Glassmates%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Glassmates%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

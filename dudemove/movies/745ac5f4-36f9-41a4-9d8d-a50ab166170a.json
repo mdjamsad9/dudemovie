@@ -1,0 +1,31 @@
+{
+  "id": "745ac5f4-36f9-41a4-9d8d-a50ab166170a",
+  "title": "Dead Sea",
+  "slug": "dead-sea",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ohisXa9ArEoV05ajLfX2T5D6NNF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 88,
+  "rating": 6.3,
+  "description": "Stranded in the open sea after a fatal accident, a young woman and her two friends are rescued by a fishing vessel's captain, unaware that the ship harbors a chilling secret.",
+  "created_at": "2026-07-09T17:15:55.726Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Dead.Sea.2024.1080p.WEBRip.x264%20%5BDDN%5D/Dead.Sea.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

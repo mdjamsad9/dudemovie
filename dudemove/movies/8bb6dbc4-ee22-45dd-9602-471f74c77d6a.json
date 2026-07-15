@@ -1,0 +1,31 @@
+{
+  "id": "8bb6dbc4-ee22-45dd-9602-471f74c77d6a",
+  "title": "Renegades",
+  "slug": "renegades",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7QvhJsoFbcWsrY0iXGhZTKQaQAr.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 91,
+  "rating": 5.49,
+  "description": "When a retired Green Beret soldier is murdered by an Albanian drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+  "created_at": "2026-07-09T17:46:46.865Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Renegades.2022.1080p.BluRay.H264.AAC%20%5BDDN%5D/Renegades.2022.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

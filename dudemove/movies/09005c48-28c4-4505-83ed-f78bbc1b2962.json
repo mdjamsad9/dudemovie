@@ -1,0 +1,31 @@
+{
+  "id": "09005c48-28c4-4505-83ed-f78bbc1b2962",
+  "title": "Jothi",
+  "slug": "jothi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9chJkm4KFIXnucL34A3WMdUXSO4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 7,
+  "description": "A pregnant woman's baby is stolen from her womb. Can a cop find the culprits behind such a heinous crime?",
+  "created_at": "2026-07-09T17:52:16.869Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jothi%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jothi%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

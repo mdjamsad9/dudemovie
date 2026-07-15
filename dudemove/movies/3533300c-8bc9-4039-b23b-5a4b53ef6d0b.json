@@ -1,0 +1,31 @@
+{
+  "id": "3533300c-8bc9-4039-b23b-5a4b53ef6d0b",
+  "title": "Gaganachari",
+  "slug": "gaganachari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qTrGkS3Khx2Vj7Z3IplpiDqBkwv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 114,
+  "rating": 7.5,
+  "description": "A dystopian comedy that takes place in the 2040's, where an apartment inhabited by three problematic bachelors soon becomes a haven for an extra-terrestrial female fugitive.",
+  "created_at": "2026-07-09T17:10:40.350Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Gaganachari%20(2024)%20-%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gaganachari%20%282024%29%20-%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

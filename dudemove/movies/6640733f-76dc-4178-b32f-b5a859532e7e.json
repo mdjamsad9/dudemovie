@@ -1,0 +1,27 @@
+{
+  "id": "6640733f-76dc-4178-b32f-b5a859532e7e",
+  "title": "Red, White & Royal Blue",
+  "slug": "red-white-royal-blue",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 118,
+  "rating": 7.931,
+  "description": "After an altercation between Alex, the president's son, and Britain's Prince Henry at a royal event becomes tabloid fodder, their long-running feud now threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
+  "created_at": "2026-07-09T17:35:27.925Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Red.White.Royal.Blue.2023.1080p.WEBRip.x264%20%5BDDN%5D/Red.White.Royal.Blue.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

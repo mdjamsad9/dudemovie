@@ -1,0 +1,35 @@
+{
+  "id": "d18a5840-b8d3-420a-acc2-aa28cff21952",
+  "title": "Reindeer in Here",
+  "slug": "reindeer-in-here",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yV05wa4khW51sAqqfzVnHBYNQbn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 42,
+  "rating": 7.7,
+  "description": "The story of how Blizzard (Blizz)—a young reindeer living at the North Pole who has an unusual trait: one antler that is significantly smaller than the other—and his unique group of friends band together to save the future of Christmas.",
+  "created_at": "2026-07-09T17:47:09.642Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Reindeer.in.Here.2022.1080p.WEBRip.x264%20%5BDDN%5D/Reindeer.in.Here.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

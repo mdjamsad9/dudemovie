@@ -1,0 +1,31 @@
+{
+  "id": "6c54f626-49d9-49a7-88ef-2365667b49a4",
+  "title": "Chidiya",
+  "slug": "chidiya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mj5Vq4O6O27vuzlhJHW5iTjaIG5.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 115,
+  "rating": 5.3,
+  "description": "Three restless cousins search for a way to achieve their dream of playing badminton in a little Indian town, overcoming obstacles such like the lack of a play area, the necessary equipment, having to go to work all day and dealing with a single mother and stuck-up neighbors.",
+  "created_at": "2026-07-09T16:49:37.247Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Chidiya%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Chidiya%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3439ccf6-7bda-4362-9f0f-50d0adb0a6cb",
+  "title": "Peddha Kapu - 1",
+  "slug": "peddha-kapu-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ktAzHRoehu3YC2g9MrfBLbrpT8j.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 147,
+  "rating": 7.2,
+  "description": "Villagers revolt against their rich political leaders.",
+  "created_at": "2026-07-09T17:31:47.923Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Peddha%20Kapu%201%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Peddha%20Kapu%201%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

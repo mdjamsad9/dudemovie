@@ -1,0 +1,27 @@
+{
+  "id": "9868e43f-8e38-4068-9231-49ed1bc9a618",
+  "title": "The Dive",
+  "slug": "the-dive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1aLFglfGkTFG5p6KQg9o07EN3rl.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 6.268,
+  "description": "Two sisters go diving at a beautiful, remote location. One of the sisters is struck by a rock, leaving her trapped 28 meters below. With dangerously low levels of oxygen and cold temperatures, it is up to her sister to fight for her life.",
+  "created_at": "2026-07-09T17:32:00.272Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Dive.2023.1080p.BluRay.x264%20%5BDDN%5D/The.Dive.2023.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "983c43fe-e20e-41ba-9c40-9946369b6d84",
+  "title": "The Retirement Plan",
+  "slug": "the-retirement-plan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 103,
+  "rating": 5.896,
+  "description": "When Ashley and her young daughter Sarah get caught up in a criminal enterprise that puts their lives at risk, she turns to the only person who can help: her estranged father Matt, currently living the life of a retired beach bum in the Cayman Islands. Their reunion is fleeting as they are soon tracked down on the island by crime boss Donnie and his lieutenant Bobo. As Ashley, Sarah, and Matt become entangled in an increasingly dangerous web, Ashley quickly learns her father had a secret past that she knew nothing about and that there is more to her father than meets the eye.",
+  "created_at": "2026-07-09T17:33:45.936Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Retirement.Plan.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Retirement.Plan.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

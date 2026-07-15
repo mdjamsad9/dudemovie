@@ -1,0 +1,27 @@
+{
+  "id": "7bf42339-e438-44dd-aa9f-42c67ff236a0",
+  "title": "Eesho",
+  "slug": "eesho",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d32p3MUaItOPiRUlYiGyE8I1cSh.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 6,
+  "description": "While working the night at an ATM, a security guard, who is the prime witness in the case against a powerful industrialist, happens across a mysterious man named Eesho. They engage in a conversation and the guard pours his heart out to the stranger before realising that Eesho may not be a friend. Who is Eesho and what does he want?",
+  "created_at": "2026-07-09T17:50:26.333Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Eesho%202022%201080p%20WEBRip%20Hindi%20Malayalam%20x264%20%5BDDN%5D/Eesho%202022%201080p%20WEBRip%20Hindi%20Malayalam%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

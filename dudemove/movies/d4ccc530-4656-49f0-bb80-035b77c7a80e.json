@@ -1,0 +1,27 @@
+{
+  "id": "d4ccc530-4656-49f0-bb80-035b77c7a80e",
+  "title": "Love Reddy",
+  "slug": "love-reddy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A6JcxUu70P1ylx77BjoJdq98GSD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 138,
+  "rating": 4,
+  "description": "Narayana Reddy who finds himself entangled in a web of emotions as his uncertain love life takes unexpected turns.",
+  "created_at": "2026-07-09T17:11:17.267Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Love%20Reddy%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Love%20Reddy%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

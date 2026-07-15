@@ -1,0 +1,31 @@
+{
+  "id": "9cffbb13-2735-4793-a5bd-4ae461a1a652",
+  "title": "Knights of the Zodiac",
+  "slug": "knights-of-the-zodiac",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",
+  "is_premium": false,
+  "country": "Japan",
+  "language": "Japanese",
+  "release_year": 2023,
+  "duration": 112,
+  "rating": 6.293,
+  "description": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+  "created_at": "2026-07-09T17:37:35.604Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Knights.Of.The.Zodiac.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Knights.Of.The.Zodiac.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

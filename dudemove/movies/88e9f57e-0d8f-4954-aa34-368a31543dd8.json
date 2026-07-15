@@ -1,0 +1,27 @@
+{
+  "id": "88e9f57e-0d8f-4954-aa34-368a31543dd8",
+  "title": "Adharma Kadhaigal",
+  "slug": "adharma-kadhaigal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7fWjMAffZhe2b8ecDkFwbQpkuKw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 131,
+  "rating": 3,
+  "description": "Four anthologies about revenge explore the need for vengeance, the effects of self-harm, and forgiveness through the lives of different people.",
+  "created_at": "2026-07-09T17:10:04.264Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Adharma%20Kadhaigal%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Adharma%20Kadhaigal%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

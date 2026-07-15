@@ -1,0 +1,27 @@
+{
+  "id": "6d6d5d38-538f-457a-995b-719c9c92f6b8",
+  "title": "Mangalyam",
+  "slug": "mangalyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4drMy0PHyocz1bTR0jVKtM64atu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 120,
+  "rating": null,
+  "description": "Dorababu, a contract killer and Lawyer by profession, never trusts in love and Marriage system, because of his love failure in the past. What factors make Dorababu to gain back the trust on love and marriage",
+  "created_at": "2026-07-09T17:31:03.452Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

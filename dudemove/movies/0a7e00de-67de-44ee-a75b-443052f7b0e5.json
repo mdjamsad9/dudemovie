@@ -1,0 +1,27 @@
+{
+  "id": "0a7e00de-67de-44ee-a75b-443052f7b0e5",
+  "title": "The Parenting",
+  "slug": "the-parenting",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5lMu14IMuHo0hKYCwCIogt7IioX.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 94,
+  "rating": 6.022,
+  "description": "Boyfriends Josh and Rohan plan a weekend getaway to introduce their parents, only to discover that their rental is home to an ancient demon.",
+  "created_at": "2026-07-09T17:01:14.207Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Parenting.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Parenting.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

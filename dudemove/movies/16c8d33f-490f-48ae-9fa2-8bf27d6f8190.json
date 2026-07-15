@@ -1,0 +1,31 @@
+{
+  "id": "16c8d33f-490f-48ae-9fa2-8bf27d6f8190",
+  "title": "Whitney Houston: I Wanna Dance with Somebody",
+  "slug": "whitney-houston-i-wanna-dance-with-somebody",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 144,
+  "rating": 7.021,
+  "description": "The joyous, emotional, heartbreaking celebration of the life and music of Whitney Houston, the greatest female R&B pop vocalist of all time. Tracking her journey from obscurity to musical superstardom.",
+  "created_at": "2026-07-09T17:44:37.434Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Whitney.Houston.I.Wanna.Dance.with.Somebody.2022.1080p.WEBRip.x264%20%5BDDN%5D/Whitney.Houston.I.Wanna.Dance.with.Somebody.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

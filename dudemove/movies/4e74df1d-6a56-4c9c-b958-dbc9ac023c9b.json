@@ -1,0 +1,27 @@
+{
+  "id": "4e74df1d-6a56-4c9c-b958-dbc9ac023c9b",
+  "title": "Gurumoorthi",
+  "slug": "gurumoorthi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9dk8KkPuYmt65mTjXPQVAfsQjLT.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 7,
+  "description": "An honest cop tries to track down a suitcase filled with ₹5 crore worth of unaccounted cash that belongs to a businessman. With at least a dozen individuals after it, can he recover it before it falls into the wrong hands?",
+  "created_at": "2026-07-09T17:45:42.233Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gurumoorthy%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Gurumoorthy%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

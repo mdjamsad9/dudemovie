@@ -1,0 +1,23 @@
+{
+  "id": "9ad7ce2b-5333-4389-8d48-1d6fe5bdbaf5",
+  "title": "Matriarch",
+  "slug": "matriarch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eyr8okTqsFTUVW3DD1edTMsWc3u.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 85,
+  "rating": 4.825,
+  "description": "Afflicted with a mysterious disease after surviving an overdose, a woman returns to her childhood home to confront her personal demons but instead discovers a real one.",
+  "created_at": "2026-07-09T17:49:31.245Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Matriarch.2022.1080p.WEBRip.x264%20%5BDDN%5D/Matriarch.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

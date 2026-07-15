@@ -1,0 +1,39 @@
+{
+  "id": "3266a2f0-07e1-41dc-90fd-928ca2b39493",
+  "title": "Scooby-Doo! and Krypto, Too!",
+  "slug": "scooby-doo-and-krypto-too",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 79,
+  "rating": 7.4,
+  "description": "When the Justice League goes missing and villains overrun Metropolis, there's only one team that can solve this mystery: Scooby-Doo and the gang! But wait, there's a new dog in town – Krypto – Superman's Superdog with Super Powers. Mystery Inc. will need all the help it can get when phantoms menace the Justice League's headquarters.",
+  "created_at": "2026-07-09T17:33:37.319Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Scooby-Doo.And.Krypto.Too.2023.1080p.WEBRip.x264%20%5BDDN%5D/Scooby-Doo.And.Krypto.Too.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

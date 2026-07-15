@@ -1,0 +1,35 @@
+{
+  "id": "25c9ef6f-36a2-43fd-a45f-e7ec1a7867b4",
+  "title": "Barroz: Guardian of Treasures",
+  "slug": "barroz-guardian-of-treasures",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uv0MQn1EYH9qK7bO8jZG0Cu8R4P.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 154,
+  "rating": 1.7,
+  "description": "Barroz has been protecting D' Gama's treasure for 400 years and has been entrusted to hand over the treasure to a true descendant of D' Gama. One day, a boy comes in search of Barroz, claiming that he is a descendant of Vasco da Gama. Barroz sets on a journey to find out the boy's true ancestors and history.",
+  "created_at": "2026-07-09T17:05:05.525Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Barroz%20(2024)%20Hindi%201080p%20WEBRip%20x264%20%5BDDN%5D/Barroz%20(2024)%20Hindi%201080p%20WEBRip%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

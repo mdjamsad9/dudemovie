@@ -1,0 +1,23 @@
+{
+  "id": "0812147b-aa54-45f1-b2db-83177a963715",
+  "title": "Eleanor the Great",
+  "slug": "eleanor-the-great",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 98,
+  "rating": 6.9,
+  "description": "94-year-old Eleanor Morgenstein tries to rebuild her life after the death of her best friend. As a result, she moves back to New York City after living in Florida for decades.",
+  "created_at": "2026-07-09T16:50:13.111Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Eleanor.The.Great.2025.1080p.WEBRip.x264%20%5BDDN%5D/Eleanor.The.Great.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

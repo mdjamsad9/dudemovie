@@ -1,0 +1,23 @@
+{
+  "id": "9206596d-0eec-42d1-8039-8f3bc698c5d4",
+  "title": "Prathinidhi 2",
+  "slug": "prathinidhi-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qSXmUTXfRaJxfQ1r5qPbPFqUT4A.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6,
+  "description": "Sequel of 2014's Political Drama \"Prathinidhi\".",
+  "created_at": "2026-07-09T17:13:01.392Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Prathinidhi%202%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prathinidhi%202%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

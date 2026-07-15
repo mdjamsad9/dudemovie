@@ -1,0 +1,31 @@
+{
+  "id": "832767ca-cd36-44d7-8522-31784ad66354",
+  "title": "Jatadhara",
+  "slug": "jatadhara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/91aJa79gHiTUWh86XFRMaD2MGjj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 135,
+  "rating": 4,
+  "description": "Shiva, a rational ghost hunter, man of science and reason—is drawn back to the mystery of a powerful guardian spirit named Dhanapisachi, pulled into a world where his beliefs are tested.",
+  "created_at": "2026-07-09T16:48:30.110Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jatadhara%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jatadhara%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "146ff16e-16bd-478d-9c74-7f24805783b1",
+  "title": "Vaazhai",
+  "slug": "vaazhai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4AAd41LHVUxTmLwcPXRpPxpZW3v.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 134,
+  "rating": 7.4,
+  "description": "A twelve-year-old bright schoolboy, Sivanandhan, his mother, sister, and with his friend Sekhar works during his school holidays carrying banana stalks, a task he dreads. As he navigates life's challenges, poverty, friendship, and the challenges of growing up, Sivanandhan’s determination is tested by the harsh realities of life.",
+  "created_at": "2026-07-09T17:11:47.355Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vaazhai%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vaazhai%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

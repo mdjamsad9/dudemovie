@@ -1,0 +1,23 @@
+{
+  "id": "410ea8d4-3628-45c7-a04b-7d72dfa2e7c9",
+  "title": "God's Creatures",
+  "slug": "god-s-creatures",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4xjkwZ8EwDzZ3dsQRvyW1fntqXT.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Irish",
+  "release_year": 2022,
+  "duration": 101,
+  "rating": 6.121,
+  "description": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community.",
+  "created_at": "2026-07-09T17:50:39.725Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Gods.Creatures.2022.1080p.WEBRip.x264%20%5BDDN%5D/Gods.Creatures.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

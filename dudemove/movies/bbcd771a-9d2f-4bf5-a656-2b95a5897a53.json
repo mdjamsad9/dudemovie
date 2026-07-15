@@ -1,0 +1,27 @@
+{
+  "id": "bbcd771a-9d2f-4bf5-a656-2b95a5897a53",
+  "title": "Thank You Dear",
+  "slug": "thank-you-dear",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kgFwTGoEAUJEwSQTJ2cMgLflPta.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 124,
+  "rating": 5.5,
+  "description": "Satyam, an aspiring director, and Priya, a strong-willed real estate agent, starts building a new life together amidst love and conflict. But their world is profoundly shaken by a tragic incident, forcing them into unexpected responsibility.",
+  "created_at": "2026-07-09T16:42:15.973Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Thank%20You%20Dear%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thank%20You%20Dear%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

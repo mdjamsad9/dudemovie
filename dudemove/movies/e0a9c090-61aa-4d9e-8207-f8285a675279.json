@@ -1,0 +1,27 @@
+{
+  "id": "e0a9c090-61aa-4d9e-8207-f8285a675279",
+  "title": "Pavane",
+  "slug": "pavane",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2026,
+  "duration": 113,
+  "rating": 7.194,
+  "description": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
+  "created_at": "2026-07-09T16:41:10.516Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Pavane%20(2026)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pavane%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

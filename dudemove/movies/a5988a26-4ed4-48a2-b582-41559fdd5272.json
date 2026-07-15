@@ -1,0 +1,27 @@
+{
+  "id": "a5988a26-4ed4-48a2-b582-41559fdd5272",
+  "title": "Vendetta",
+  "slug": "vendetta",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 96,
+  "rating": 6.045,
+  "description": "When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug's brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.",
+  "created_at": "2026-07-09T17:53:02.605Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

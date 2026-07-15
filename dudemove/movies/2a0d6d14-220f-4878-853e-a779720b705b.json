@@ -1,0 +1,27 @@
+{
+  "id": "2a0d6d14-220f-4878-853e-a779720b705b",
+  "title": "Mangalavaaram",
+  "slug": "mangalavaaram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 143,
+  "rating": 5.667,
+  "description": "Fear engulfs a village as murders pile up mysteriously. Shailu, a young woman, is the heart of the story and the enigmatic tale unravels with a suspenseful cinematic journey.",
+  "created_at": "2026-07-09T17:15:22.632Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mangalavaaram%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mangalavaaram%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

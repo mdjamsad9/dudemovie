@@ -1,0 +1,27 @@
+{
+  "id": "aef20111-a929-4151-86db-9737ed3e2255",
+  "title": "Red Sandal Wood",
+  "slug": "red-sandal-wood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e3mAfFdiKrdhQ3lHtzGRYBWDggj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 8.2,
+  "description": "Prabha , a boxer and an aspiring police officer from North Madras, goes to Renigunta looking for his Girlfriend's missing brother, only to gets entangled in Red Sandalwood smuggling and unravels the scandal regarding the same in the forest of Andhra Pradesh.",
+  "created_at": "2026-07-09T17:32:10.125Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Red%20Sandal%20Wood%20(2023)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Red%20Sandal%20Wood%20(2023)%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

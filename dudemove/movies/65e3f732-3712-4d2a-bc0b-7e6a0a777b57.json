@@ -1,0 +1,23 @@
+{
+  "id": "65e3f732-3712-4d2a-bc0b-7e6a0a777b57",
+  "title": "Sarileru Neekevvaru",
+  "slug": "sarileru-neekevvaru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/66MSawKC7nkqjD1BMlQHXl6y3C.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 169,
+  "rating": 6,
+  "description": "A tough army major is deployed to Kurnool on a mission to keep the country safe from external threats.",
+  "created_at": "2026-07-09T17:52:45.788Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sarileru%20Neekevvaru%202020%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sarileru%20Neekevvaru%202020%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

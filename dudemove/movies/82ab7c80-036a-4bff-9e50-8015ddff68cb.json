@@ -1,0 +1,31 @@
+{
+  "id": "82ab7c80-036a-4bff-9e50-8015ddff68cb",
+  "title": "Enkilum Chandrike",
+  "slug": "enkilum-chandrike",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j2FTzkIFskLXRoEPorfaJcGRsv2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 119,
+  "rating": 4.3,
+  "description": "Pavithran, Abhilash, and Kiran who take desperate measures to prevent a wedding from happening. The story takes you through their ideas and plans to stop the marriage and the problems they get into when these plans collide and intervene.",
+  "created_at": "2026-07-09T17:43:45.038Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Enkilum%20Chandrike%20(2023)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Enkilum%20Chandrike%20(2023)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

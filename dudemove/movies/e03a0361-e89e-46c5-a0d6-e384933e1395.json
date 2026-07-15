@@ -1,0 +1,27 @@
+{
+  "id": "e03a0361-e89e-46c5-a0d6-e384933e1395",
+  "title": "Thammudu",
+  "slug": "thammudu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5rhjx4KLaLrZNxzsBY8j8U6Pntu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 151,
+  "rating": 5.4,
+  "description": "A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
+  "created_at": "2026-07-09T16:52:57.393Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Thammudu%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thammudu%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

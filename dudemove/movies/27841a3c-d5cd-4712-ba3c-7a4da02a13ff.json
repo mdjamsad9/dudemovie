@@ -1,0 +1,23 @@
+{
+  "id": "27841a3c-d5cd-4712-ba3c-7a4da02a13ff",
+  "title": "Never Let Go",
+  "slug": "never-let-go",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iwUoM3y77fov7bKyFMwpGMzRHyn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 101,
+  "rating": 6.069,
+  "description": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.",
+  "created_at": "2026-07-09T17:12:11.167Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Never.Let.Go.2024.1080p.WEBRip.x264%20%5BDDN%5D/Never.Let.Go.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

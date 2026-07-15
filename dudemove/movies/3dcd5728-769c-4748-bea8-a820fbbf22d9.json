@@ -1,0 +1,27 @@
+{
+  "id": "3dcd5728-769c-4748-bea8-a820fbbf22d9",
+  "title": "A Million Miles Away",
+  "slug": "a-million-miles-away",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 122,
+  "rating": 7.657,
+  "description": "The life of engineer and former NASA astronaut José M. Hernández, the first migrant farmworker to go to space.",
+  "created_at": "2026-07-09T17:34:12.384Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/A.Million.Miles.Away.2023.1080p.WEBRip.x264%20%5BDDN%5D/A.Million.Miles.Away.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

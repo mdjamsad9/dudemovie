@@ -1,0 +1,31 @@
+{
+  "id": "4906ed95-6a5a-4844-aaaa-da4cda002022",
+  "title": "The Bone Box",
+  "slug": "the-bone-box",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/65tbwIPMaKMXGmyJMjnNqV5Gu77.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": 86,
+  "rating": 3.2,
+  "description": "Depressed and reeling from the recent death of his wife, Tom has built up quite a gambling debt. He goes to stay with his wealthy Aunt Florence in hopes that she will write him into her will. When a nasty creditor makes it clear that Tom is out of time, he devises a plan with Elodie, the undertaker's daughter, to rob the graves of the rich townspeople buried in the cemetery across the road. After plundering the graves, Tom arrives back at Florence's house and events take a dark turn. Tom begins hearing and seeing strange things that seem to coincide with the deaths of the people he robbed. Even more disconcerting... he appears to be the only one sensing the occurrences. One question lingers: Is Tom's conscience playing a trick on him... or is he really being haunted by those he stole from?",
+  "created_at": "2026-07-09T17:57:11.168Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/The.Bone.Box.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D/The.Bone.Box.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

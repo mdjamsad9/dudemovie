@@ -1,0 +1,27 @@
+{
+  "id": "d8658e27-3e94-4437-ac50-54364e0c20d8",
+  "title": "Spin Me Round",
+  "slug": "spin-me-round",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/55yyTk2PeKeFyyjwNJN70iZZu9n.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Italian",
+  "release_year": 2022,
+  "duration": 104,
+  "rating": 4.893,
+  "description": "When the manager of an Italian restaurant chain wins the opportunity to attend the franchise’s educational immersion program in Italy, what she thought would be a romantic getaway devolves into chaos and catastrophe.",
+  "created_at": "2026-07-09T17:52:40.614Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Spin.Me.Round.2022.1080p.WEBRip.x264%20%5BDDN%5D/Spin.Me.Round.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

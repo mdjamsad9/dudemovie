@@ -1,0 +1,35 @@
+{
+  "id": "17a5c61a-8b52-4e2b-a9df-310cfb142b93",
+  "title": "Enemy Lines",
+  "slug": "enemy-lines",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fZReMWU3zszvaktDUqOoWCzHssZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Czech",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 6.426,
+  "description": "While flying a routine reconnaissance mission over Bosnia, fighter pilot Lt. Chris Burnett photographs something he wasn't supposed to see and gets shot down behind enemy lines, where he must outrun an army led by a ruthless Serbian general. With time running out and a deadly tracker on his trail, Burnett's commanding officer, Admiral Reigart, decides to risk his career and launch a renegade rescue mission to save his life.",
+  "created_at": "2026-07-09T17:57:30.800Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Enemy.Lines.2020.1080p.WEBRip.x264%20%5BDDN%5D/Enemy.Lines.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

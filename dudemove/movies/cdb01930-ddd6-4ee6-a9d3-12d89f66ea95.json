@@ -1,0 +1,31 @@
+{
+  "id": "cdb01930-ddd6-4ee6-a9d3-12d89f66ea95",
+  "title": "Infinity Pool",
+  "slug": "infinity-pool",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 118,
+  "rating": 6.06,
+  "description": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+  "created_at": "2026-07-09T17:44:01.659Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Infinity.Pool.2023.1080p.WEBRip.x264%20%5BDDN%5D/Infinity.Pool.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

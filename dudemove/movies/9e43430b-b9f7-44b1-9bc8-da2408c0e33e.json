@@ -1,0 +1,39 @@
+{
+  "id": "9e43430b-b9f7-44b1-9bc8-da2408c0e33e",
+  "title": "Plankton: The Movie",
+  "slug": "plankton-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 83,
+  "rating": 6.747,
+  "description": "Plankton's tangled love story with his sentient computer wife goes sideways when she takes a stand — and decides to destroy the world without him.",
+  "created_at": "2026-07-09T17:01:30.041Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Plankton.The.Movie.2025.1080p.WEBRip.x264%20%5BDDN%5D/Plankton.The.Movie.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

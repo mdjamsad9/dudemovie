@@ -1,0 +1,27 @@
+{
+  "id": "31113c0a-c880-45b3-8ebc-67d232d74a6b",
+  "title": "Dalíland",
+  "slug": "dal-land",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 97,
+  "rating": 5.923,
+  "description": "In 1973, a young gallery assistant goes on a wild adventure behind the scenes as he helps aging genius Salvador Dali prepare for a big show in New York.",
+  "created_at": "2026-07-09T17:38:18.921Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

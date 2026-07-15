@@ -1,0 +1,27 @@
+{
+  "id": "3ab49553-829d-4e4a-b420-68680df906fc",
+  "title": "Das Ka Dhamki",
+  "slug": "das-ka-dhamki",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nJThBpohKIw6EAJmsOjazyR41KJ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 150,
+  "rating": 5.8,
+  "description": "Krishna Das, a waiter by profession, falls for Keerthi. His look alike, Dr. Sanjay Rudra, dies in an accident the night before Das loses his job and love. A series of events turn Das's life upside down and he ends up in Sanjay's place. When Das decides he wants to live life large at least for a day, he ends up in circumstances he could not have foreseen.",
+  "created_at": "2026-07-09T17:23:33.997Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Das%20Ka%20Dhamki%20(2023)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Das%20Ka%20Dhamki%20(2023)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

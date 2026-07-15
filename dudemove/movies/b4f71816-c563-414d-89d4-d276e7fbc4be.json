@@ -1,0 +1,31 @@
+{
+  "id": "b4f71816-c563-414d-89d4-d276e7fbc4be",
+  "title": "Finestkind",
+  "slug": "finestkind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 126,
+  "rating": 6.845,
+  "description": "Two brothers from opposite sides of the tracks are reunited as adults. Desperate circumstances force them into a deal with an organized crime syndicate in Boston, and a young woman gets caught in the middle.",
+  "created_at": "2026-07-09T17:29:50.329Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Finestkind.2023.1080p.WEBRip.x264%20%5BDDN%5D/Finestkind.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

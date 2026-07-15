@@ -1,0 +1,27 @@
+{
+  "id": "c2823fca-ee22-4caa-86f9-fc80d7c64cd8",
+  "title": "Sembi",
+  "slug": "sembi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/waqlWEPyebrXzD5N0g9YN1p0LHN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 7.1,
+  "description": "Ten-year-old Sembi and her grandmother Veerayi, an apiarist, live peacefully amidst nature in the hilly regions of Kodaikanal. They lead a beautiful life until three influential miscreants shatter all their dreams. After a tragedy the two escape and board a bus, whose Passengers from different walks of life try to help bringing justice to the duo.",
+  "created_at": "2026-07-09T17:44:43.901Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sembi%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sembi%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

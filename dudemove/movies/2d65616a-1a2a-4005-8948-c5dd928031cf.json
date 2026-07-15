@@ -1,0 +1,27 @@
+{
+  "id": "2d65616a-1a2a-4005-8948-c5dd928031cf",
+  "title": "Before The Wrath",
+  "slug": "before-the-wrath",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7Cl22C8V6qyRi9oWNk4SWkWBK10.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": 84,
+  "rating": 5.3,
+  "description": "While scholars debate the timing of the Rapture, the world has lost why this event is prophesied to occur in the first place; knowledge that was once understood by those in the first century. Today, researchers in the Middle-East have rediscovered ancient anthropological evidence from the time of Christ that reveals exactly how and why the Rapture must occur; unveiling new biblical insight that will reignite hope for believers and prepare the world for what's coming.",
+  "created_at": "2026-07-09T17:56:46.946Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Before.The.Wrath.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Before.The.Wrath.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

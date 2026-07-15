@@ -1,0 +1,31 @@
+{
+  "id": "030bec2e-6909-4db3-ba2d-763fcff648f3",
+  "title": "Freaky Tales",
+  "slug": "freaky-tales",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 107,
+  "rating": 6.3,
+  "description": "In 1987 Oakland, a mysterious force guides The Town's underdogs in four interconnected tales: teen punks defend their turf against Nazi skinheads, a rap duo battles for hip-hop immortality, a weary henchman gets a shot at redemption, and an NBA All-Star settles the score.",
+  "created_at": "2026-07-09T16:59:48.678Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Freaky.Tales.2024.1080p.WEBRip.x264%20%5BDDN%5D/Freaky.Tales.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

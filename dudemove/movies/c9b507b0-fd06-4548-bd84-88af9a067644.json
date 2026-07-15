@@ -1,0 +1,27 @@
+{
+  "id": "c9b507b0-fd06-4548-bd84-88af9a067644",
+  "title": "Rifle Club",
+  "slug": "rifle-club",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k1czxgmnH63A7old7hL4oNzqYMw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 113,
+  "rating": 6.2,
+  "description": "A historic rifle club in the Western Ghats becomes the center of a thrilling fight for survival when a dangerous arms dealer and his gang come seeking revenge. The club’s members, skilled hunters with a shared passion, work together to protect their lives and their legacy.",
+  "created_at": "2026-07-09T17:05:51.659Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Rifle%20Club%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Rifle%20Club%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

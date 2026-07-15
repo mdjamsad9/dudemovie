@@ -1,0 +1,23 @@
+{
+  "id": "71063aea-4327-44c7-aa72-a4ac8336c31e",
+  "title": "Louis Theroux: Inside the Manosphere",
+  "slug": "louis-theroux-inside-the-manosphere",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 92,
+  "rating": 6.569,
+  "description": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
+  "created_at": "2026-07-09T16:39:54.168Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Louis.Theroux.Inside.The.Manosphere.2026.1080p.WEBRip.x264%20%5BDDN%5D/Louis.Theroux.Inside.The.Manosphere.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

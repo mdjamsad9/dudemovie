@@ -1,0 +1,35 @@
+{
+  "id": "e348f1e1-57f7-4114-a04a-d61105619db1",
+  "title": "Seriously Red",
+  "slug": "seriously-red",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 98,
+  "rating": 5.024,
+  "description": "Raylene 'Red' Delaney trades her nine to five career in real estate for a life under the spotlight as a Dolly Parton impersonator. A romantic liaison with Kenny Rogers then occurs while her tumultuous journey continues full of fake hair and artificial boobs.",
+  "created_at": "2026-07-09T17:45:37.650Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Seriously.Red.2022.1080p.WEBRip.x264%20%5BDDN%5D/Seriously.Red.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

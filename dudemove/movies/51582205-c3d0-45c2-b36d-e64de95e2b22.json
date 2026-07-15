@@ -1,0 +1,23 @@
+{
+  "id": "51582205-c3d0-45c2-b36d-e64de95e2b22",
+  "title": "Small Things Like These",
+  "slug": "small-things-like-these",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tRDGxhf1U9ITPu6MlNzUTFYId1c.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 99,
+  "rating": 6.658,
+  "description": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
+  "created_at": "2026-07-09T17:05:31.689Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Small.Things.Like.These.2024.1080p.WEBRip.x264%20%5BDDN%5D/Small.Things.Like.These.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

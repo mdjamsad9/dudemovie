@@ -1,0 +1,31 @@
+{
+  "id": "38f15dd4-7a70-458c-a3b3-000e2b93a74e",
+  "title": "The Moderator",
+  "slug": "the-moderator",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 81,
+  "rating": 4.42,
+  "description": "After the murder of her two Scandinavian friends in Morocco, a Russian blogger decides to do her own justice.",
+  "created_at": "2026-07-09T17:53:53.834Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

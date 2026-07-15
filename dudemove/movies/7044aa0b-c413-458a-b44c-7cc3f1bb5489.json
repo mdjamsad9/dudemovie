@@ -1,0 +1,31 @@
+{
+  "id": "7044aa0b-c413-458a-b44c-7cc3f1bb5489",
+  "title": "Lisa Frankenstein",
+  "slug": "lisa-frankenstein",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jAW7ZdIm4HLKB3g15uMOWYNdU8r.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 102,
+  "rating": 6.4,
+  "description": "In 1989, a misunderstood teenager has a high school crush — who just happens to be a handsome corpse! After a set of playfully horrific circumstances bring him back to life, the two embark on a murderous journey to find love, happiness…and a few missing body parts along the way.",
+  "created_at": "2026-07-09T17:26:34.675Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Lisa.Frankenstein.2024.1080p.WEBRip.x264%20%5BDDN%5D/Lisa.Frankenstein.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

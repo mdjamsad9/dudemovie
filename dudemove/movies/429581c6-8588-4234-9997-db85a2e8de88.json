@@ -1,0 +1,27 @@
+{
+  "id": "429581c6-8588-4234-9997-db85a2e8de88",
+  "title": "Ballad of a Small Player",
+  "slug": "ballad-of-a-small-player",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Cantonese",
+  "release_year": 2025,
+  "duration": 101,
+  "rating": 5.812,
+  "description": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
+  "created_at": "2026-07-09T16:50:13.879Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Ballad.Of.A.Small.Player.2025.1080p.WEBRip.x264%20%5BDDN%5D/Ballad.Of.A.Small.Player.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

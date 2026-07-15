@@ -1,0 +1,31 @@
+{
+  "id": "efd4fed9-5738-4cd8-921b-888d8ea11c5f",
+  "title": "The Platform 2",
+  "slug": "the-platform-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2024,
+  "duration": 101,
+  "rating": 5.561,
+  "description": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+  "created_at": "2026-07-09T17:12:28.437Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Platform%202%20(2024)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Platform%202%20%282024%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e63ef02e-c5a5-429b-ba2a-7dc4a3532c30",
+  "title": "Sisu",
+  "slug": "sisu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xgb30M1wL4nibyFvlHh3w4XlDYq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 91,
+  "rating": 7.409,
+  "description": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.",
+  "created_at": "2026-07-09T17:39:31.238Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

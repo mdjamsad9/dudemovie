@@ -1,0 +1,31 @@
+{
+  "id": "51da4141-38ad-428b-9c77-8f0310b3faaf",
+  "title": "Revolver Rita",
+  "slug": "revolver-rita",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vhllGhZ2TBbyB0f5xjgj181PP5T.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 140,
+  "rating": 6.5,
+  "description": "A woman must use her intelligence and grit to protect her family after they are unexpectedly caught in the crossfire of gang violence.",
+  "created_at": "2026-07-09T16:33:34.974Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Revolver%20Rita%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Revolver%20Rita%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

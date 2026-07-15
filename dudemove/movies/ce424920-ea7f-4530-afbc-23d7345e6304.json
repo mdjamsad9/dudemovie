@@ -1,0 +1,27 @@
+{
+  "id": "ce424920-ea7f-4530-afbc-23d7345e6304",
+  "title": "Bull",
+  "slug": "bull",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 7.903,
+  "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+  "created_at": "2026-07-09T17:56:24.331Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2021/Bull.2021.720p.HDCAM.x264%20%5BDDN%5D/Bull.2021.720p.HDCAM.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

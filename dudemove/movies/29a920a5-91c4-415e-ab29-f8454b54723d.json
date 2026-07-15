@@ -1,0 +1,35 @@
+{
+  "id": "29a920a5-91c4-415e-ab29-f8454b54723d",
+  "title": "V3",
+  "slug": "v3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9lQ6mUlSJkAjI9avLIFNh6iMfMo.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 127,
+  "rating": null,
+  "description": "Human rights commission of India appoint Sivagami, an ex-IAS officer, to interrogate the police officials in-charge of the encounter of five youngsters,  for allegedly raping and murdering an innocent girl, Vindhya and find out what had actually happened. Sivagami's interrogation leads to a series of revelations that shock Sivagami and the parents of the youngsters who died in the encounter.",
+  "created_at": "2026-07-09T17:45:58.308Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vindhya%20Victim%20Verdict%20V3%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Vindhya%20Victim%20Verdict%20V3%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

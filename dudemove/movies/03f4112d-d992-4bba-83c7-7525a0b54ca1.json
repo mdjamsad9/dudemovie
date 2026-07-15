@@ -1,0 +1,27 @@
+{
+  "id": "03f4112d-d992-4bba-83c7-7525a0b54ca1",
+  "title": "Kalaga Thalaivan",
+  "slug": "kalaga-thalaivan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jlpQp8WPzVyHe97TsNa3GBwuWlw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 142,
+  "rating": 5.7,
+  "description": "A corporate behemoth hires a ruthless hit man to find out the identity of a whistleblower in the organization. Who wins in the end - the hunter or the hunted?",
+  "created_at": "2026-07-09T17:47:43.379Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kalaga%20Thalaivan%20(2022)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Kalaga%20Thalaivan%20(2022)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

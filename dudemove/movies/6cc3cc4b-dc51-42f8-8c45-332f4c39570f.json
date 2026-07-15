@@ -1,0 +1,27 @@
+{
+  "id": "6cc3cc4b-dc51-42f8-8c45-332f4c39570f",
+  "title": "American Fiction",
+  "slug": "american-fiction",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 117,
+  "rating": 7.25,
+  "description": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
+  "created_at": "2026-07-09T17:27:18.861Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/American.Fiction.2023.1080p.WEBRip.x264%20%5BDDN%5D/American.Fiction.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "25d92ec3-8bd3-42ac-97a5-b31415300b0f",
+  "title": "Eternity",
+  "slug": "eternity",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 114,
+  "rating": 7.074,
+  "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
+  "created_at": "2026-07-09T16:44:22.557Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Eternity.2025.1080p.WEBRip.x264%20%5BDDN%5D/Eternity.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

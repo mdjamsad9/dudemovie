@@ -1,0 +1,27 @@
+{
+  "id": "9721a1c4-865c-480f-b56c-1377053e029f",
+  "title": "Matka",
+  "slug": "matka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LzHbFk93Lp00ZsqGHPAnAoUJW8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 159,
+  "rating": 4.9,
+  "description": "Set between the years 1958 and 1982, Matka tells the story of Vasu, who rises from poverty to create a powerful gambling empire in India, ultimately leading the nation into a battle with the government. Based on real events, the tale explores themes of love, moral choices, and the consequences of ambition.",
+  "created_at": "2026-07-09T17:09:38.592Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Matka%20(2024)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Matka%20(2024)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

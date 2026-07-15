@@ -1,0 +1,31 @@
+{
+  "id": "ffdb2c6e-7b6f-418e-b155-5c9e4ffd87f8",
+  "title": "Aaraattu",
+  "slug": "aaraattu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qt5zIVjW1ThRhJkSetOFlnySsoW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 168,
+  "rating": 3.9,
+  "description": "Goparajan / Gopan, a native of Neyyattinkara and a real estate tycoon buys a large piece of land in Chittur for a construction purpose, but on his arrival, he learns that the residents are forcefully and unlawfully evicted from their properties by an Andhra based real estate mafia using illegal land acquisition rules with support from the local authorities and government officials.",
+  "created_at": "2026-07-09T17:55:44.827Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aaraattu%20(2022)%201080p%20WEBRip%20Hindi%20Malayalm%20x265%20ESub%20%5BDDN%5D/Aaraattu%20(2022)%201080p%20WEBRip%20Hindi%20Malayalm%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

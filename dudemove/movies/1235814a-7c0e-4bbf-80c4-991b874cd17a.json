@@ -1,0 +1,31 @@
+{
+  "id": "1235814a-7c0e-4bbf-80c4-991b874cd17a",
+  "title": "Rangoli",
+  "slug": "rangoli",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iGkbrUo20knzN57sSicrf81r4q4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 129,
+  "rating": 7,
+  "description": "A School Boy Frequently Overcomes Uncertain Issues. Later Realize His Family Struggles Because of Him.",
+  "created_at": "2026-07-09T17:31:51.828Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Rangoli%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Rangoli%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

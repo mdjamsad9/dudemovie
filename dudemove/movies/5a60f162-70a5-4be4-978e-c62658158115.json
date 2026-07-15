@@ -1,0 +1,31 @@
+{
+  "id": "5a60f162-70a5-4be4-978e-c62658158115",
+  "title": "Mathu Vadalara 2",
+  "slug": "mathu-vadalara-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7gDzqf5tSwnwfREEVJeTAZtK64F.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 139,
+  "rating": 6.8,
+  "description": "Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing extraordinary challenges with humor, surprises, and nonstop excitement.",
+  "created_at": "2026-07-09T17:11:11.434Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mathu%20Vadalara%202%20(2024)%C2%A0Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mathu%20Vadalara%202%20(2024)%c2%a0Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

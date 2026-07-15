@@ -1,0 +1,31 @@
+{
+  "id": "b278230f-cc9e-4570-87b4-be39135681c0",
+  "title": "Girl Haunts Boy",
+  "slug": "girl-haunts-boy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6mabVBqKWdGbBKgUz6YK4G6Caws.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 100,
+  "rating": 6.8,
+  "description": "Cole, a teen grieving the loss of his dad, forms an unlikely bond with Bea, a ghost. As they navigate life and death, they must break an ancient curse.",
+  "created_at": "2026-07-09T17:11:41.416Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Girl.Haunts.Boy.2024.1080p.WEBRip.x264%20%5BDDN%5D/Girl.Haunts.Boy.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

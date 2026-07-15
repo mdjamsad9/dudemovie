@@ -1,0 +1,39 @@
+{
+  "id": "327532bf-0362-4b45-a4e5-b07c4c3a65c1",
+  "title": "The Amazing Maurice",
+  "slug": "the-amazing-maurice",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 93,
+  "rating": 6.7,
+  "description": "Maurice is a streetwise ginger cat who comes up with a money-making scam by befriending a group of self-taught talking rats. When Maurice and the rodents meet a bookworm called Malicia, their little con soon goes down the drain.",
+  "created_at": "2026-07-09T17:37:32.907Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

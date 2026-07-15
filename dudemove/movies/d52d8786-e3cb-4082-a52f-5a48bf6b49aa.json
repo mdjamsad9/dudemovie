@@ -1,0 +1,27 @@
+{
+  "id": "d52d8786-e3cb-4082-a52f-5a48bf6b49aa",
+  "title": "Wolfs",
+  "slug": "wolfs",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 108,
+  "rating": 6.544,
+  "description": "Hired to cover up a high-profile crime, a fixer soon finds his night spiralling out of control when he's forced to work with an unexpected counterpart.",
+  "created_at": "2026-07-09T17:13:00.016Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Wolfs.2024.1080p.WEBRip.x264%20%5BDDN%5D/Wolfs.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "667715ee-2a7b-4569-84b0-3c20fe354ba9",
+  "title": "In the Grey",
+  "slug": "in-the-grey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 97,
+  "rating": 6.6,
+  "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+  "created_at": "2026-07-09T16:34:11.577Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/In%20The%20Grey%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/In%20The%20Grey%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

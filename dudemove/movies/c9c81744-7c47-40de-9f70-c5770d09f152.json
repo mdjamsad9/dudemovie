@@ -1,0 +1,39 @@
+{
+  "id": "c9c81744-7c47-40de-9f70-c5770d09f152",
+  "title": "The SpongeBob Movie: Search for SquarePants",
+  "slug": "the-spongebob-movie-search-for-squarepants",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 88,
+  "rating": 6.85,
+  "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+  "created_at": "2026-07-09T16:43:16.480Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.SpongeBob.Movie.Search.For.SquarePants.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.SpongeBob.Movie.Search.For.SquarePants.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ba3cc411-625d-494a-9ffe-26608bca16fb",
+  "title": "Paka",
+  "slug": "paka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zmvYe43akQBO4m8pQMcf4AUaBvQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 101,
+  "rating": 6.5,
+  "description": "This Romeo and Juliet–esque vengeance tale is set deep in the forests of Kerala, where the river is witness to a violent, generations-old feud.",
+  "created_at": "2026-07-09T17:54:25.783Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
