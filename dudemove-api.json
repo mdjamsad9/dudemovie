@@ -1,0 +1,45 @@
+{
+  "api_name": "Dudemove Movie API",
+  "description": "A static JSON-based API serving movie catalogs, genres/languages filter options, and direct video streaming links (MP4/MKV). Designed for serverless websites and AI integrations.",
+  "base_url": "https://mdjamsad9.github.io/dudemovie",
+  "endpoints": {
+    "movies_index": {
+      "path": "/dudemove/movies.json",
+      "absolute_url": "https://mdjamsad9.github.io/dudemovie/dudemove/movies.json",
+      "method": "GET",
+      "description": "Get the complete movie index list. Contains the metadata and streaming URLs for all movies."
+    },
+    "filters": {
+      "path": "/dudemove/filters.json",
+      "absolute_url": "https://mdjamsad9.github.io/dudemovie/dudemove/filters.json",
+      "method": "GET",
+      "description": "Get all genres, countries, and languages lists to build the UI filter menus."
+    },
+    "movie_detail_by_id": {
+      "path": "/dudemove/movies/{id}.json",
+      "template_url": "https://mdjamsad9.github.io/dudemovie/dudemove/movies/{id}.json",
+      "example_url": "https://mdjamsad9.github.io/dudemovie/dudemove/movies/ff0ef609-26b3-4e88-864f-832851a39e64.json",
+      "method": "GET",
+      "description": "Get the full details of a single movie by replacing {id} with the movie's ID. Contains the direct video stream links (stream_url_1080p)."
+    }
+  },
+  "data_schema": {
+    "movie_model": {
+      "id": "String (UUID) - Unique identifier of the movie",
+      "title": "String - Title of the movie",
+      "slug": "String - URL-friendly name",
+      "thumbnail_url": "String - Image link for the poster/thumbnail",
+      "is_premium": "Boolean - True if it is a VIP movie",
+      "country": "String - Country of origin",
+      "language": "String - Movie audio language",
+      "release_year": "Integer - Release year",
+      "duration": "Integer - Movie runtime in minutes",
+      "rating": "Float/Null - Movie rating",
+      "description": "String - Short plot description",
+      "genres": "Array of Objects - List of genres (name, slug)",
+      "stream_url_1080p": "String (URL) - Direct MP4/MKV video link to play the movie in 1080p",
+      "stream_url_720p": "String (URL) - Direct video link for 720p (if available)",
+      "stream_url_480p": "String (URL) - Direct video link for 480p (if available)"
+    }
+  }
+}
