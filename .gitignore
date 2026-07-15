@@ -1,0 +1,15 @@
+# Ignore local generated data folder
+dudemove/
+
+# Ignore python caches and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+
+# Ignore local OS junk
+.DS_Store
+Thumbs.db

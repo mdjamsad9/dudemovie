@@ -1,0 +1,42 @@
+name: Auto Update Movies
+
+on:
+  schedule:
+    - cron: '0 */5 * * *' # Runs every 5 hours
+  workflow_dispatch:      # Allows manual trigger from the GitHub Actions tab
+
+permissions:
+  contents: write         # Allows the action to commit and push changes back to your repository
+
+jobs:
+  update-movies:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Run Scraper
+      run: |
+        python scrape_nongorplay.py --all
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Use -f (force) to add the ignored dudemove/ folder on GitHub Action
+        git add -f dudemove/
+        
+        # Check if there are any changes before committing to prevent errors
+        if git diff --quiet && git diff --staged --quiet; then
+          echo "No changes detected. Skipping commit."
+        else
+          git commit -m "chore: auto-update movies catalog and stream links"
+          git push
+        fi
