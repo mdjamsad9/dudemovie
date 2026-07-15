@@ -1,0 +1,35 @@
+{
+  "id": "4db1f0cd-4825-4924-8ab4-8dff2cb09a08",
+  "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+  "slug": "rise-of-the-teenage-mutant-ninja-turtles-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 86,
+  "rating": 7.225,
+  "description": "When a mysterious stranger arrives from the future with a dire warning, Leo is forced to rise and lead his brothers, Raph, Donnie, and Mikey in a fight to save the world from a terrifying alien species.",
+  "created_at": "2026-07-09T17:53:09.486Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Rise.of.the.Teenage.Mutant.Ninja.Turtles.The.Movie.2022.1080p.WEBRip.x264%20%5BDDN%5D/Rise.of.the.Teenage.Mutant.Ninja.Turtles.The.Movie.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

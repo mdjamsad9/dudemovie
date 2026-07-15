@@ -1,0 +1,23 @@
+{
+  "id": "8dee67aa-3cf6-45a4-981b-5ef94bf5ff4c",
+  "title": "19(1)(a)",
+  "slug": "19-1-a",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i9KffYGqL9vPF6lbj1NHfma4wLR.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 5.3,
+  "description": "The mundane life of a woman running a photocopy shop goes into a tailspin when a revolutionary writer leaves the manuscript of his unpublished novel with her.",
+  "created_at": "2026-07-09T17:53:31.080Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/19(1)(a)%20(2022)%20Malayalam%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/19(1)(a)%20(2022)%20Malayalam%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

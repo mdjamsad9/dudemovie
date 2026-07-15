@@ -1,0 +1,31 @@
+{
+  "id": "8eeed7be-725a-4c3b-a5e6-ec16d603a9ba",
+  "title": "Koorman",
+  "slug": "koorman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ipFWObaHBXAk2Hn1bSEI2wJfURD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 116,
+  "rating": 8,
+  "description": "A former cop with mind-reading skills gets involved in a case involving rape and murder. Can he crack it while keeping a lid on the ghosts of his own past?",
+  "created_at": "2026-07-09T17:55:20.966Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Koorman%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Koorman%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2fccd4eb-6348-4b16-bed2-1bacf6156101",
+  "title": "Twenty One Hours",
+  "slug": "twenty-one-hours",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2Lu2HzME54tV3KzO8A1mrqinaWg.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2022,
+  "duration": 115,
+  "rating": 4.5,
+  "description": "Madhuri Menon, a young married woman, goes missing in Bengaluru. A young police officer, Srikanth, is on the case, as he rounds up some usual and unusual suspects. Do they find her? Is everything as it seems or is there be a darker truth?.",
+  "created_at": "2026-07-09T17:54:55.949Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Twenty%20One%20Hours%20(2022)%20Kannada%20720p%20WEBRip%20x264%20ESubs%20%5BDDN%5D/Twenty%20One%20Hours%20(2022)%20Kannada%20720p%20WEBRip%20x264%20ESubs%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

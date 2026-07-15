@@ -1,0 +1,27 @@
+{
+  "id": "44fafc0a-5c7f-4462-9ef9-3494d3fb12f4",
+  "title": "Conclave",
+  "slug": "conclave",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Italian",
+  "release_year": 2024,
+  "duration": 120,
+  "rating": 7.193,
+  "description": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+  "created_at": "2026-07-09T17:09:09.787Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Conclave.2024.1080p.WEBRip.x264%20%5BDDN%5D/Conclave.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c71572c9-187e-4513-9651-b6c585c8fb59",
+  "title": "Meet Me Next Christmas",
+  "slug": "meet-me-next-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tPRH0Rm00esNefnI1ZxQqTTIpzJ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 105,
+  "rating": 6.342,
+  "description": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
+  "created_at": "2026-07-09T17:09:56.186Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Meet.Me.Next.Christmas.2024.1080p.WEBRip.x264%20%5BDDN%5D/Meet.Me.Next.Christmas.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

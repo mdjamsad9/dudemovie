@@ -1,0 +1,27 @@
+{
+  "id": "472b7104-8b54-47c7-915e-aa191a327110",
+  "title": "A Christmas Story Christmas",
+  "slug": "a-christmas-story-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 102,
+  "rating": 6.4,
+  "description": "Follows Ralphie, now adult, who returns to the house on Cleveland Street to give his kids a magical Christmas like the one he had as a child, reconnecting with childhood friends, and reconciling the passing of his Old Man.",
+  "created_at": "2026-07-09T17:48:01.197Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/A.Christmas.Story.Christmas.2022.1080p.WEBRip.x264%20%5BDDN%5D/A.Christmas.Story.Christmas.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d94a2ada-5c27-4dd9-9d73-ed0afcbe0bcb",
+  "title": "Gone in the Night",
+  "slug": "gone-in-the-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A1F9RpyLNbYyE9nE4INrVQh0b7T.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2022,
+  "duration": 90,
+  "rating": 5.548,
+  "description": "Upon arriving at a remote cabin in the redwoods, Kath and her boyfriend find a mysterious younger couple already there — the rental has apparently been double-booked. They decide to share the cabin with these strangers until the next morning, but her boyfriend disappears with the young woman, which sends Kath in a spiral to find an explanation for their sudden breakup — but the truth is far stranger than she could have imagined.",
+  "created_at": "2026-07-09T17:53:22.705Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Gone.in.the.Night.2022.1080p.WEBRip.x264%20%5BDDN%5D/Gone.in.the.Night.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

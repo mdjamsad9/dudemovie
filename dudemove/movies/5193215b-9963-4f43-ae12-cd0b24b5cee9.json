@@ -1,0 +1,27 @@
+{
+  "id": "5193215b-9963-4f43-ae12-cd0b24b5cee9",
+  "title": "Bullet Proof",
+  "slug": "bullet-proof",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 81,
+  "rating": 5.329,
+  "description": "The Thief  pulls off the robbery of a lifetime when he robs the psychotic drug lord, Temple. The plan goes off without a hitch until the Thief discovers a stowaway in his getaway car - Temple's pregnant wife, Mia.",
+  "created_at": "2026-07-09T17:52:39.535Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Bullet.Proof.2022.1080p.WEBRip.x264%20%5BDDN%5D/Bullet.Proof.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

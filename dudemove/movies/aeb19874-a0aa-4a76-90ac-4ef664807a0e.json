@@ -1,0 +1,31 @@
+{
+  "id": "aeb19874-a0aa-4a76-90ac-4ef664807a0e",
+  "title": "Cadaver",
+  "slug": "cadaver",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8pltHMcL3sAFqd6udZ1kMAlbQg.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Norwegian",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 5.631,
+  "description": "In the aftermath of a nuclear disaster, a starving family finds hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening's entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?",
+  "created_at": "2026-07-09T17:52:54.332Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Cadaver.2022.Hindi-Tamil.1080p.WEBRip.x264%20%5BDDN%5D/Cadaver.2022.Hindi-Tamil.1080p.WEBRip.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

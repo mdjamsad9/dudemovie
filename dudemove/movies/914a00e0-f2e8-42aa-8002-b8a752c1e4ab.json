@@ -1,0 +1,23 @@
+{
+  "id": "914a00e0-f2e8-42aa-8002-b8a752c1e4ab",
+  "title": "Women Talking",
+  "slug": "women-talking",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 104,
+  "rating": 6.825,
+  "description": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+  "created_at": "2026-07-09T17:43:30.526Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Women.Talking.2022.1080p.WEBRip.x264%20%5BDDN%5D/Women.Talking.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0a78337f-2d66-46bd-9327-db49fdc4127d",
+  "title": "Alli",
+  "slug": "alli",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9i3J8ryTBKsagA6JljznmR4sFdC.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": null,
+  "rating": null,
+  "description": "Story of an innocent village girl ( Alli ) and her father, portrayed in a beautiful forest backdrop. Their peaceful life goes on a toss and when she takes refuge in the forest and mother nature had her own plans to rescue her.",
+  "created_at": "2026-07-09T17:54:01.027Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Alli%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20HC-ESub%20%5BDDN%5D/Alli%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20HC-ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

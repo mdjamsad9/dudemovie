@@ -1,0 +1,27 @@
+{
+  "id": "20e401d4-8252-4662-97f7-a5bc98b6dd2c",
+  "title": "Mukundan Unni Associates™",
+  "slug": "mukundan-unni-associates",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7aEuV7eLbc0KXVBbtRZr1avWjSL.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 127,
+  "rating": 7.7,
+  "description": "Advocate Mukundan Unni wants to be successful and leaves no stone unturned to achieve growth, prosperity, and respect. But this steadfast nature aided with an ample dose of greed comes with a cost.",
+  "created_at": "2026-07-09T17:48:23.848Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mukundan%20Unni%20Associates%20(2022)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Mukundan%20Unni%20Associates%20(2022)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d4df09a9-724c-4cae-b3b4-be2769948cd3",
+  "title": "Top Gun: Maverick",
+  "slug": "top-gun-maverick",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2022,
+  "duration": 131,
+  "rating": 8.158,
+  "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+  "created_at": "2026-07-09T17:52:28.522Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Top.Gun.Maverick.2022.IMAX.Hindi-English.1080p.WEBRip.x264%20%5BDDN%5D/Top.Gun.Maverick.2022.IMAX.Hindi-English.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

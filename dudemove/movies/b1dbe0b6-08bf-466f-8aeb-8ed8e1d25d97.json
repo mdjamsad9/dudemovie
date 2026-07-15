@@ -1,0 +1,27 @@
+{
+  "id": "b1dbe0b6-08bf-466f-8aeb-8ed8e1d25d97",
+  "title": "Run Rabbit Run",
+  "slug": "run-rabbit-run",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cgetiYyTqJ4CMmPmvDw30nnYj1f.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 100,
+  "rating": 5.509,
+  "description": "Sarah is a fertility doctor with a firm understanding of the cycle of life. When she is forced to make sense of the increasingly strange behavior of her young daughter Mia, she must challenge her own beliefs and confront a ghost from her past.",
+  "created_at": "2026-07-09T17:37:34.559Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Run.Rabbit.Run.2023.1080p.WEBRip.x264%20%5BDDN%5D/Run.Rabbit.Run.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

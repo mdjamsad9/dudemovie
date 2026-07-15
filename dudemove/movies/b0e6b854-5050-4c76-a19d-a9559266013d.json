@@ -1,0 +1,27 @@
+{
+  "id": "b0e6b854-5050-4c76-a19d-a9559266013d",
+  "title": "Hello Mummy",
+  "slug": "hello-mummy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u6VU1xfyIce7yZtO4pNNauMPnOx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 136,
+  "rating": 4.4,
+  "description": "Boney, a carefree man finds his life turned upside down after marriage when hes forced to deal with the restless spirit of his obsessive-compulsive mother-in-law.",
+  "created_at": "2026-07-09T17:09:04.285Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Hello%20Mummy%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hello%20Mummy%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

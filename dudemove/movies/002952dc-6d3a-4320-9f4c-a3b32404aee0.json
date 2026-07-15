@@ -1,0 +1,27 @@
+{
+  "id": "002952dc-6d3a-4320-9f4c-a3b32404aee0",
+  "title": "The Warriorr",
+  "slug": "the-warriorr",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s2tP3R39ZWo8CN90GuBTMvmXiBW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 165,
+  "rating": 4.9,
+  "description": "A young, naïve and idealistic Satya moves to Kurnool in hopes of a bright future. Discontent with how the city remains in the grip of a gangster, he decides to change the ‘treatment’ for the ‘disease’.",
+  "created_at": "2026-07-09T17:52:56.269Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/The%20Warriorr%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Warriorr%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

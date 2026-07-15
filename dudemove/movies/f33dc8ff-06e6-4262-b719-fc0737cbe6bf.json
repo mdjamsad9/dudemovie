@@ -1,0 +1,27 @@
+{
+  "id": "f33dc8ff-06e6-4262-b719-fc0737cbe6bf",
+  "title": "Ori Devuda..!",
+  "slug": "ori-devuda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3sdQDyUYDpSFIGd9UetguWV4yRY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 143,
+  "rating": 6.9,
+  "description": "Two childhood friends, Anu and Arjun, decide to get married. However, their marital life becomes complicated due to misunderstandings and miscommunication which leads to a divorce.",
+  "created_at": "2026-07-09T17:48:28.934Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ori%20Devuda%20(2022)%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Ori%20Devuda%20(2022)%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

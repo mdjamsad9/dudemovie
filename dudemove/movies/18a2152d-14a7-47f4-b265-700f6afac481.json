@@ -1,0 +1,23 @@
+{
+  "id": "18a2152d-14a7-47f4-b265-700f6afac481",
+  "title": "Honor Society",
+  "slug": "honor-society",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 98,
+  "rating": 7.415,
+  "description": "Honor is an ambitious high school senior whose sole focus is getting into Harvard, assuming she can first score the coveted recommendation from her guidance counselor, Mr. Calvin. Willing to do whatever it takes, Honor concocts a Machiavellian-like plan to take down her top three student competitors, until things take a turn when she unexpectedly falls for her biggest competition, Michael.",
+  "created_at": "2026-07-09T17:53:30.513Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Honor.Society.2022.1080p.WEBRip.x264%20%5BDDN%5D/Honor.Society.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "95aeff4d-a5f9-4778-bbf1-7dc9e7378fa7",
+  "title": "Koogle Kuttappa",
+  "slug": "koogle-kuttappa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tdntMAqd72ESpMyfXU3grPmsOgy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 131,
+  "rating": 5.7,
+  "description": "A curmudgeonly, very conservative old man gets a robot as a caretaker and becomes very attached to it. Can his robotic engineer son make him realise the danger posed by the machine before it is too late?",
+  "created_at": "2026-07-09T17:54:59.791Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Koogle%20Kuttappa%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESubs%20%5BDDN%5D/Koogle%20Kuttappa%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESubs%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

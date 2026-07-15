@@ -1,0 +1,31 @@
+{
+  "id": "62ec146c-5e02-454c-aadf-e9a9931972f0",
+  "title": "Emily",
+  "slug": "emily",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tgVBMIiJczfBWINRRd9yxE8ESln.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": 6.88,
+  "description": "The imagined life of one of the world’s most famous authors, Emily Brontë, as she finds her voice and writes the literary classic Wuthering Heights. Explore the relationships that inspired her – her raw, passionate sisterhood with Charlotte and Anne; her first aching, forbidden love for Weightman and her care for her maverick brother whom she idolises.",
+  "created_at": "2026-07-09T17:48:07.458Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Emily.2022.1080p.WEBRip.x264%20%5BDDN%5D/Emily.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

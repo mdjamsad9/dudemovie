@@ -1,0 +1,23 @@
+{
+  "id": "12bca0d4-cca4-427f-ae0c-36d3f9e0b547",
+  "title": "Meri Awas Suno",
+  "slug": "meri-awas-suno",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pJ4A6j53P3XuUbQpQdKMPOZ5o8A.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": 5.8,
+  "description": "RJ Shankar’s voice, style and dialogues have won him many admirers, but an unfortunate event turns his life and that of his family upside down",
+  "created_at": "2026-07-09T17:54:39.010Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Meri%20Awas%20Suno%20(2022)%20Malayalam%201080p%20WEBRip%20x265%20ESubs%20%5BDDN%5D/Meri%20Awas%20Suno%20(2022)%20Malayalam%201080p%20WEBRip%20x265%20ESubs%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

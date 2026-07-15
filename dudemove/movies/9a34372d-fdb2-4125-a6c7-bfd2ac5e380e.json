@@ -1,0 +1,27 @@
+{
+  "id": "9a34372d-fdb2-4125-a6c7-bfd2ac5e380e",
+  "title": "American Murderer",
+  "slug": "american-murderer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 101,
+  "rating": 5.909,
+  "description": "The True story of how charismatic con man Jason Derek Brown bankrolls his extravagant lifestyle through a series of scams. On Brown’s trail: Lance Leising, a dogged FBI special agent determined to put Brown behind bars. When Brown’s funds run low and his past catches up with him, he plots his most elaborate scheme yet, pitting himself against Leising in a deadly game of cat and mouse — and becoming the most unlikely and elusive fugitive on the FBI’s most-wanted list.",
+  "created_at": "2026-07-09T17:49:05.214Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/American.Murderer.2022.1080p.WEBRip.x264%20%5BDDN%5D/American.Murderer.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
