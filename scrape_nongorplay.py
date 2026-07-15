@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.error
 import re
 import json
 import time
@@ -36,7 +37,7 @@ def clean_val(match):
 def fetch_watch_details(movie):
     """
     Fetches the watch page for a movie and extracts the streaming URLs.
-    Also saves the movie as an individual JSON file in the 'dudemove/movies' directory.
+    Includes retry logic to handle rate limits (HTTP 429) and timeouts.
     """
     slug = movie.get('slug')
     movie_id = movie.get('id')
@@ -44,14 +45,29 @@ def fetch_watch_details(movie):
         return movie
     
     url = f"{BASE_URL}/watch/{slug}"
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        # Add a small delay to prevent rate limits
-        time.sleep(0.3)
-        
-        with urllib.request.urlopen(req, timeout=10) as res:
-            html = res.read().decode('utf-8')
+    retries = 3
+    delay = 1
+    html = None
+    
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            # Add a small delay to prevent overloading
+            time.sleep(0.3)
+            with urllib.request.urlopen(req, timeout=10) as res:
+                html = res.read().decode('utf-8')
+                break  # Success
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait_time = delay * (attempt + 1) * 2
+                time.sleep(wait_time)
+            else:
+                time.sleep(0.5)
+        except Exception:
+            time.sleep(0.5)
             
+    if html:
+        try:
             # Match stream/download URLs in the script tags
             download_url_match = re.search(r'\\?"download_url\\?":\\?"([^"]+?)\\?"', html)
             download_720_match = re.search(r'\\?"download_url_720\\?":\\?"([^"]+?)\\?"', html)
@@ -66,9 +82,9 @@ def fetch_watch_details(movie):
                 individual_file = os.path.join(MOVIES_DIR, f"{movie_id}.json")
                 with open(individual_file, "w", encoding="utf-8") as ind_f:
                     json.dump(movie, ind_f, indent=2, ensure_ascii=False)
-            
-    except Exception as e:
-        print(f"Error fetching watch details for '{movie.get('title')}': {e}")
+        except Exception as e:
+            print(f"Error parsing watch details for '{movie.get('title')}': {e}")
+    else:
         movie['stream_url_1080p'] = None
         movie['stream_url_720p'] = None
         movie['stream_url_480p'] = None
@@ -83,17 +99,31 @@ def fetch_watch_details(movie):
 
 def get_movies_from_page(page_num):
     """
-    Fetches a page of movies from the API.
+    Fetches a page of movies from the API with retry logic for rate limits.
     """
     url = f"{BASE_URL}/api/movies?page={page_num}&sort=year_desc"
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=10) as res:
-            data = json.loads(res.read().decode('utf-8'))
-            return data.get('movies', []), data.get('total', 0)
-    except Exception as e:
-        print(f"Error fetching list page {page_num}: {e}")
-        return [], 0
+    retries = 5
+    delay = 1
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=10) as res:
+                data = json.loads(res.read().decode('utf-8'))
+                return data.get('movies', []), data.get('total', 0)
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait_time = delay * (attempt + 1) * 2
+                print(f"\n[Rate Limit] Page {page_num} returned 429. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"\nError fetching list page {page_num} (Attempt {attempt+1}/{retries}): {e}")
+                time.sleep(1)
+        except Exception as e:
+            print(f"\nError fetching list page {page_num} (Attempt {attempt+1}/{retries}): {e}")
+            time.sleep(1)
+            
+    print(f"\nFailed to fetch list page {page_num} after {retries} attempts.")
+    return [], 0
 
 def fetch_and_save_filters():
     """
