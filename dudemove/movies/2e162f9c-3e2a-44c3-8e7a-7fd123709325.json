@@ -1,0 +1,27 @@
+{
+  "id": "2e162f9c-3e2a-44c3-8e7a-7fd123709325",
+  "title": "Dasara",
+  "slug": "dasara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4OTVoCVXa5aHDZl8opKoIV9Ezr5.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 159,
+  "rating": 6.7,
+  "description": "In 1990s, Set in small village Veerlapally, Dharani, Vennela, and Suri are childhood friends. Dharani loves Vennela, but she has Suri in her mind. Knowing Suri’s interest in Vennela, Dharani sacrifices his love and helps get them married. But Local politics between Rajanna, Shivanna and the latter's son Chinna Nambi threaten to disrupt their lives.",
+  "created_at": "2026-07-09T17:39:10.487Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dasara%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dasara%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

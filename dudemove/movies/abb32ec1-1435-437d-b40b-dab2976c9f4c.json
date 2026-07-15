@@ -1,0 +1,27 @@
+{
+  "id": "abb32ec1-1435-437d-b40b-dab2976c9f4c",
+  "title": "The Bad Orphan",
+  "slug": "the-bad-orphan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fcF7A5BMcJFMG1Upvv0aiaKt0CB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 90,
+  "rating": 3,
+  "description": "Jessica and Karl, loving parents to Rhiannon, who after years of trying to add to their family are elated to adopt Gabby, an 8-year-old orphan born with personal challenges. Their ideas of a perfect family come into question when they discover that Gabby is a troubled little girl, and the family begins to believe things aren’t what they seem. As the unsettling behavior of their “child” worsens and lies are uncovered, cracks in the family dynamic form with Jessica becoming increasingly concerned that adopted daughter Gabby is a threat to their family.",
+  "created_at": "2026-07-09T17:16:46.985Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Bad.Orphan.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Bad.Orphan.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

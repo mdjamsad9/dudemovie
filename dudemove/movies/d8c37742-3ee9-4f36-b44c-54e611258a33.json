@@ -1,0 +1,31 @@
+{
+  "id": "d8c37742-3ee9-4f36-b44c-54e611258a33",
+  "title": "Kraven the Hunter",
+  "slug": "kraven-the-hunter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 127,
+  "rating": 6.438,
+  "description": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+  "created_at": "2026-07-09T17:04:19.058Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Kraven.The.Hunter.2024.1080p.WEBRip.x264%20%5BDDN%5D/Kraven.The.Hunter.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

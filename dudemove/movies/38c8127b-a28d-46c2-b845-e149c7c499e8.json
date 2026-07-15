@@ -1,0 +1,31 @@
+{
+  "id": "38c8127b-a28d-46c2-b845-e149c7c499e8",
+  "title": "A Tale of Two Sisters",
+  "slug": "a-tale-of-two-sisters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2003,
+  "duration": 115,
+  "rating": 7.096,
+  "description": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare.",
+  "created_at": "2026-07-09T16:59:12.586Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/A%20Tale%20of%20Two%20Sisters%20(2003)%20Hindi%20Korean%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D/A%20Tale%20of%20Two%20Sisters%20%282003%29%20Hindi%20Korean%20720p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a1182856-2297-402d-b798-006f2504f6c1",
+  "title": "Usha Parinayam",
+  "slug": "usha-parinayam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nc6pi69ImaK4Jb08pxgWlIvleun.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 144,
+  "rating": null,
+  "description": "Usha Parinayam story is all about a young girl and the developments ahead of her marriage life and how she handled the pressures and pleasures and also her romantic feelings and youthful exuberance.",
+  "created_at": "2026-07-09T17:15:14.801Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Usha%20Parinayam%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Usha%20Parinayam%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

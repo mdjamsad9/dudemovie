@@ -1,0 +1,27 @@
+{
+  "id": "e5765bd3-4183-4dea-af63-6c6311a78473",
+  "title": "Raghavendra Stores",
+  "slug": "raghavendra-stores",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pcyQTeD3yTC5niIqHwfTWsBwAfF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2023,
+  "duration": 164,
+  "rating": 3.667,
+  "description": "A cook who cooks special dishes opens a shop (Raghavendra Stores) and becomes widely popular.With his incredible tasty dishes,he gets more and more new orders.An unexpected event changes everything in his life.",
+  "created_at": "2026-07-09T17:40:26.719Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raghavendra%20Stores%20(2023)%20Kannada%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Raghavendra%20Stores%20(2023)%20Kannada%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

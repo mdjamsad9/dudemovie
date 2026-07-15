@@ -1,0 +1,27 @@
+{
+  "id": "6e03e73b-6948-41f2-8c5f-27ef146121ba",
+  "title": "Prem Kumar",
+  "slug": "prem-kumar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c8YD6FOm9ke8HdddOBV7HjrzM9G.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 150,
+  "rating": 6,
+  "description": "A story of an unfortunate groom whose dream of getting married remains distant for long which makes him become a detective with specialization in weddings.",
+  "created_at": "2026-07-09T17:32:25.064Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Prem%20Kumar%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prem%20Kumar%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "6c6b6f23-50f7-4040-bf37-42fa590524b9",
+  "title": "Wolf Man",
+  "slug": "wolf-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 103,
+  "rating": 6.163,
+  "description": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+  "created_at": "2026-07-09T17:03:19.539Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Wolf.Man.2025.1080p.WEBRip.x264%20%5BDDN%5D/Wolf.Man.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

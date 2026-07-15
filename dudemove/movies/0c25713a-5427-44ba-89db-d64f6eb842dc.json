@@ -1,0 +1,27 @@
+{
+  "id": "0c25713a-5427-44ba-89db-d64f6eb842dc",
+  "title": "Theerkadarishi",
+  "slug": "theerkadarishi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mmaraLQ42kFF741UM9Yl1Z2F7jz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 120,
+  "rating": 6,
+  "description": "A stranger keeps calling the police control room to hint about various crimes and accidents that are about to occur in the near future. Can the police department stop an accident based on his information and also find out who their mysterious informer actually is?",
+  "created_at": "2026-07-09T17:40:10.992Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Theerkadarishi%20(2023)%20Tamil%C2%A0HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Theerkadarishi%20(2023)%20Tamil%c2%a0HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

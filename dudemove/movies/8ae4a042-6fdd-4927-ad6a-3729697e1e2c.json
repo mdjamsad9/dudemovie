@@ -1,0 +1,27 @@
+{
+  "id": "8ae4a042-6fdd-4927-ad6a-3729697e1e2c",
+  "title": "Bakasuran",
+  "slug": "bakasuran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mwEn3zXAvKiMEt3xmaEynKFCqP0.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 4.6,
+  "description": "A street performer is on a killing spree and a retired army man turned YouTuber tracks an online sex racket parallely. How do their lives connect and what is the street performer really seeking?",
+  "created_at": "2026-07-09T17:38:39.006Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bakasuran%202023%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bakasuran%202023%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

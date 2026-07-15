@@ -1,0 +1,35 @@
+{
+  "id": "8fb4b565-f3bb-4f92-94ac-59362dc9e78e",
+  "title": "Holy Night: Demon Hunters",
+  "slug": "holy-night-demon-hunters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2025,
+  "duration": 92,
+  "rating": 6.9,
+  "description": "When a devil-worshipping criminal network plunges Seoul into chaos, the police turn to Holy Night—a trio of supernatural demon hunters—to restore order and defeat the rising evil.",
+  "created_at": "2026-07-09T16:52:36.364Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Holy%20Night%20Demon%20Hunters%20(2025)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Holy%20Night%20Demon%20Hunters%20%282025%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

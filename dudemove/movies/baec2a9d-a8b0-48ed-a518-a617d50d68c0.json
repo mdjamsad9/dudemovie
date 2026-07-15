@@ -1,0 +1,27 @@
+{
+  "id": "baec2a9d-a8b0-48ed-a518-a617d50d68c0",
+  "title": "Yaanai",
+  "slug": "yaanai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gfK7CTnhoFcxRVNk04bUHQjq3AJ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 156,
+  "rating": 6.3,
+  "description": "A brash young man tries to prevent his wealthy, large family from being split up by their arch-nemesis, who wants to avenge his brother's death, which he blames on the family.",
+  "created_at": "2026-07-09T17:52:34.286Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

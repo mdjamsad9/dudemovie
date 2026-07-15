@@ -1,0 +1,27 @@
+{
+  "id": "a90e67b8-f8de-48b3-81c0-bc63d9c10afe",
+  "title": "Pakal Iravu",
+  "slug": "pakal-iravu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kU3trr2MEZZuHM0okbG8RvtD7yP.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 68,
+  "rating": null,
+  "description": "Pakal Iravu is a gripping and intense film that delves into the theme of revenge and redemption. Stranded in a deep forest after his jeep breaks down, Antony seeks refuge in the isolated home of a man named Viruman.",
+  "created_at": "2026-07-09T17:26:00.510Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pakal%20Iravu%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pakal%20Iravu%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

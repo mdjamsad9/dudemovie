@@ -1,0 +1,31 @@
+{
+  "id": "1e81caf5-ce4d-4836-aefe-4d9bb8e1c835",
+  "title": "All of Us Strangers",
+  "slug": "all-of-us-strangers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 105,
+  "rating": 7.381,
+  "description": "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor, which punctures the rhythm of his everyday life.",
+  "created_at": "2026-07-09T17:27:15.710Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/All.Of.Us.Strangers.2023.1080p.WEBRip.x264%20%5BDDN%5D/All.Of.Us.Strangers.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

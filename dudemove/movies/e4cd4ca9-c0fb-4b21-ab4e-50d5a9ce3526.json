@@ -1,0 +1,31 @@
+{
+  "id": "e4cd4ca9-c0fb-4b21-ab4e-50d5a9ce3526",
+  "title": "Invitation to a Murder",
+  "slug": "invitation-to-a-murder",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ucYuml5QqkcGKmWmJj7JpJdsPc1.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 5.578,
+  "description": "A reclusive billionaire invites six seemingly random strangers to his island estate in the south of England. Aspiring detective Miranda Green finds the mysterious invitation too alluring to pass up. When another guest turns up dead, Miranda must get to the bottom of the malicious plot behind the gathering.",
+  "created_at": "2026-07-09T17:27:53.010Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Invitation.To.A.Murder.2023.1080p.BluRay.x264%20%5BDDN%5D/Invitation.To.A.Murder.2023.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5e1bd361-cd0a-464a-8ce2-268243046af1",
+  "title": "Dead for a Dollar",
+  "slug": "dead-for-a-dollar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 5.841,
+  "description": "In 1897, veteran bounty hunter Max Borlund is deep into Mexico where he encounters professional gambler and outlaw Joe Cribbens — a sworn enemy he sent to prison years before. Max is on a mission to find and return Rachel Kidd, the wife of a wealthy businessman, who as the story is told to Max, has been abducted by Buffalo Soldier Elijah Jones. Max is ultimately faced with a showdown to save honor.",
+  "created_at": "2026-07-09T17:50:38.452Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Dead.for.a.Dollar.2022.1080p.WEBRip.x264%20%5BDDN%5D/Dead.for.a.Dollar.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

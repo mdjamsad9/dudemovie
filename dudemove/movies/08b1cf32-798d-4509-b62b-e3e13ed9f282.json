@@ -1,0 +1,31 @@
+{
+  "id": "08b1cf32-798d-4509-b62b-e3e13ed9f282",
+  "title": "The Wrath of Becky",
+  "slug": "the-wrath-of-becky",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k9NeWFZCC7XKDdh9HK8cZBqZmHD.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 83,
+  "rating": 6.355,
+  "description": "Two years after she escaped a violent attack on her family, 16-year-old Becky attempts to rebuild her life in the care of an older woman -- a kindred spirit named Elena. However, when a violent group known as the Noble Men break into their home, attack them and take their beloved dog, Becky must return to her old ways to protect herself and her loved ones.",
+  "created_at": "2026-07-09T17:38:01.089Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Wrath.Of.Becky.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/The.Wrath.Of.Becky.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

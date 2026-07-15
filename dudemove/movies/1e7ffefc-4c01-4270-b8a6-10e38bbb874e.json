@@ -1,0 +1,35 @@
+{
+  "id": "1e7ffefc-4c01-4270-b8a6-10e38bbb874e",
+  "title": "Swapped",
+  "slug": "swapped",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 102,
+  "rating": 8.956,
+  "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+  "created_at": "2026-07-09T16:32:36.165Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Swapped%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Swapped%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

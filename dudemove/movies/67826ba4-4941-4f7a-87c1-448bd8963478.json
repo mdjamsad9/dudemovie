@@ -1,0 +1,27 @@
+{
+  "id": "67826ba4-4941-4f7a-87c1-448bd8963478",
+  "title": "Nesippaya",
+  "slug": "nesippaya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5yDCpURWEXpT7PtKTfYwx0GASTd.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 144,
+  "rating": null,
+  "description": "Two lovers, separated by life's circumstances, are reunited by a tragic fate—a murder. Arjun, driven by his love for Diya, defies all odds, crosses boundaries, and braves the unknown to uncover the truth behind her tragic fate.",
+  "created_at": "2026-07-09T17:04:11.707Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Nesippaya%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Nesippaya%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

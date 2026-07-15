@@ -1,0 +1,27 @@
+{
+  "id": "08e9feb8-a52b-4214-af63-8bde4440d1fa",
+  "title": "Guruvayoor Ambalanadayil",
+  "slug": "guruvayoor-ambalanadayil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iSS17YFooUA33FKsJ0yJhWZzylb.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 6.097,
+  "description": "Vinu, who is still grieving over his breakup from five years ago, develops a strong relationship with Anandan, his prospective brother-in-law, but his attempts to resolve Anandan's problems have some unexpected consequences.",
+  "created_at": "2026-07-09T17:11:45.668Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Guruvayoor%20Ambalanadayil%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Guruvayoor%20Ambalanadayil%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "38736ea8-cff2-413f-b018-2e2368b1b7b6",
+  "title": "Uppu Kappurambu",
+  "slug": "uppu-kappurambu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xzduT5nNgmjvfD9pJom265S9te3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 6.5,
+  "description": "A fictional village faces an extraordinary crisis as the cemetery runs out of space. Uproarious chaos ensues as the community rallies together, finding inventive solutions to overcome this unusual predicament.",
+  "created_at": "2026-07-09T16:56:05.961Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Uppu%20Kappurambu%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Uppu%20Kappurambu%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c68c5296-49b1-4e69-b56e-a8c43fd6a729",
+  "title": "The Royal Hotel",
+  "slug": "the-royal-hotel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 5.409,
+  "description": "After running out of money while backpacking in a tiny, male-dominated town in the Australian outback, two friends resort to a working holiday at the Royal Hotel. When the locals' behavior starts crossing the line, the girls find themselves trapped in an unnerving situation that grows rapidly out of their control.",
+  "created_at": "2026-07-09T17:31:54.255Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Royal.Hotel.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Royal.Hotel.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

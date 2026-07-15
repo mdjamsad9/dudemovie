@@ -1,0 +1,23 @@
+{
+  "id": "c19bfbc1-da58-4cde-8fcc-ceff3dba6a82",
+  "title": "Two Cents From a Pariah",
+  "slug": "two-cents-from-a-pariah",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tL4T7om5jfw51o6P8lR2B6bCMTG.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2021,
+  "duration": 82,
+  "rating": 4.8,
+  "description": "All is perfect for Donovan Strathmore, lifecoach to the rich and famous, until a mysterious figure emerges, threatening to reveal a hidden past. As he searches for clues, his life begins to unravel, culminating in an onslaught of public humiliation. Donovan is forced to reconcile secrets long buried, and confront the one person he's spent his life running from.",
+  "created_at": "2026-07-09T17:56:30.750Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2021/Two.Cents.from.a.Pariah.2021.1080p.WEBRip.x264%20%5BDDN%5D/Two.Cents.from.a.Pariah.2021.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

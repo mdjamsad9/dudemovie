@@ -1,0 +1,31 @@
+{
+  "id": "00b41a23-6d03-4f43-9368-5e49c67b4706",
+  "title": "The Stratum",
+  "slug": "the-stratum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/meaaTIQd3ylYa9Fx4JhPnsLmNdM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 98,
+  "rating": 5.25,
+  "description": "In the year 2057, a greedy CEO takes control of the Earth, and it's up to his rebellious daughter and a cyberpunk hacker to save mankind.",
+  "created_at": "2026-07-09T17:34:10.585Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Stratum.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Stratum.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

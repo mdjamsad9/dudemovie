@@ -1,0 +1,27 @@
+{
+  "id": "b54661a6-994c-4a2c-af48-f02e11662fc2",
+  "title": "Kotthu",
+  "slug": "kotthu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/21PqmChUENnm0S02ItQ6kISlQR1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 155,
+  "rating": 3.8,
+  "description": "Set in the rural socio-political environment of North Malabar, Kotthu follows two party workers Shanu and Sumesh and how certain party workers are honour-bound to their `acquired` political ideology of revenge killing.",
+  "created_at": "2026-07-09T17:51:13.062Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kotthu%20(2022)%20Malayalam%20Pre-DVD%20-%201080p%20-%20x264%20%5BDDN%5D/Kotthu%20(2022)%20Malayalam%20Pre-DVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

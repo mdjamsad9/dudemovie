@@ -1,0 +1,31 @@
+{
+  "id": "75d8a1b0-0bba-43a3-bf45-f14ce65954e5",
+  "title": "Elvis",
+  "slug": "elvis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 159,
+  "rating": 7.456,
+  "description": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+  "created_at": "2026-07-09T17:52:58.778Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

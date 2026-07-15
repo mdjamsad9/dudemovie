@@ -1,0 +1,23 @@
+{
+  "id": "b9729a96-aa48-42fc-8f62-6fe2d46e075b",
+  "title": "Puliyattam",
+  "slug": "puliyattam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8hhj8OpsblFhmURFd21L50wq88D.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 120,
+  "rating": 3,
+  "description": "Jose, once a renowned Pulikali performer, fell into heavy drinking after a personal tragedy. Persuaded by Manoharan, he joined an Onam procession despite his wife Mary's objections. The experience deeply affected Jose, Manoharan, and Mary, rekindling old passions and emotions in their lives.",
+  "created_at": "2026-07-09T17:13:53.954Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Puliyattam%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Puliyattam%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "31a87369-4ec3-4e4b-8beb-b01c543e9cfd",
+  "title": "Foreign Exchange",
+  "slug": "foreign-exchange",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e4hLPRBRB3NY7WVwsPUVDPsMkKe.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Tagalog",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 7,
+  "description": "A former escort who once “traveled the world” through his lovers, finally discovers true love. But when past clients reenter his life, he must confront old temptations and the challenges of loyalty, desire, and commitment.",
+  "created_at": "2026-07-09T17:58:00.030Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Foreign.Exchange.2019.1080p.WEBRip.x264%20%5BDDN%5D/Foreign.Exchange.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

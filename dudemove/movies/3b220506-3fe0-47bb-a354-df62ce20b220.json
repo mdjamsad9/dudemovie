@@ -1,0 +1,31 @@
+{
+  "id": "3b220506-3fe0-47bb-a354-df62ce20b220",
+  "title": "Pollen",
+  "slug": "pollen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hwv8vsBHhuzpiizkuXND2vPYxzm.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 86,
+  "rating": 3.5,
+  "description": "After a senior coworker assaults a bright-eyed young woman, her dream job becomes a living nightmare as she tries to keep her career together while being tormented at work, at home, and in her dreams by a mysterious tree monster.",
+  "created_at": "2026-07-09T17:38:25.719Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Pollen.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Pollen.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

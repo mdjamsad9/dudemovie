@@ -1,0 +1,31 @@
+{
+  "id": "cd7f548f-18e6-489a-bab0-b7fc7be6703d",
+  "title": "Aqua Teen Forever: Plantasm",
+  "slug": "aqua-teen-forever-plantasm",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dzMfgDxEOfFdw6WIaoC94CayYWL.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 76,
+  "rating": 6.29,
+  "description": "Everyone’s favorite rascals, the Aqua Teens, and everyone’s favorite perverted neighbor, Carl, split up then get back together to fight everyone’s favorite corporate overlord, Amazin, led by everyone’s favorite tech mogul, Neil, and his trusty scientist sidekick, Elmer.",
+  "created_at": "2026-07-09T17:48:32.782Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Aqua.Teen.Forever.Plantasm.2022.1080p.WEBRip.x264%20%5BDDN%5D/Aqua.Teen.Forever.Plantasm.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

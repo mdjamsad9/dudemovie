@@ -1,0 +1,31 @@
+{
+  "id": "3eae7640-c7ca-4eb7-b4a3-898deacbeab3",
+  "title": "Die Hart",
+  "slug": "die-hart",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 84,
+  "rating": 5.92,
+  "description": "Kevin Hart - playing a version of himself - is on a death-defying quest to become an action star. And with a little help from John Travolta, Nathalie Emmanuel, and Josh Hartnett - he just might pull it off.",
+  "created_at": "2026-07-09T17:43:21.533Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Die.Hart.The.Movie.2023.1080p.WEBRip.x264%20%5BDDN%5D/Die.Hart.The.Movie.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

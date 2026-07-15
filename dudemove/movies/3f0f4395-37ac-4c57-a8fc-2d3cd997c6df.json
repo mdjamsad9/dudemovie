@@ -1,0 +1,31 @@
+{
+  "id": "3f0f4395-37ac-4c57-a8fc-2d3cd997c6df",
+  "title": "Lansky",
+  "slug": "lansky",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/brvSFZ1GMhbMzL3Is8kkvG1LbMt.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Hebrew",
+  "release_year": 2021,
+  "duration": 119,
+  "rating": 5.952,
+  "description": "When the aging Meyer Lansky is investigated one last time by the Feds who suspect he has stashed away millions of dollars over half a century, the retired gangster spins a dizzying tale, revealing the untold truth about his life as the notorious boss of Murder Inc. and the National Crime Syndicate.",
+  "created_at": "2026-07-09T17:56:31.606Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2021/Lansky.2021.PROPER.1080p.WEBRip.x264%20%5BDDN%5D/Lansky.2021.PROPER.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0176a8eb-9398-401c-99f7-798adcc2ff6e",
+  "title": "The Blind",
+  "slug": "the-blind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bRYMdgIft5H8dOdDLkjoKOcS8Zg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Portuguese",
+  "release_year": 2023,
+  "duration": 110,
+  "rating": 5.971,
+  "description": "Long before Duck Dynasty's Phil Robertson became a reality TV star, he fell in love with Miss Kay and started a family, but his demons threatened to tear their lives apart. Set in the backwoods swamps of 1960s Louisiana, 'The Blind' shares never-before-revealed moments in Phil's life as he seeks to conquer the shame of his past, ultimately finding redemption in an unlikely place. This stunning cinematic journey chronicles the love story that launched a dynasty, the turmoil that nearly brought it crashing down, and the hope that rose from the ashes to create a foundation for generations to come.",
+  "created_at": "2026-07-09T17:31:05.720Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Blind.2023.BLURAY.1080p.BluRay.x264%20%5BDDN%5D/The.Blind.2023.BLURAY.1080p.BluRay.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

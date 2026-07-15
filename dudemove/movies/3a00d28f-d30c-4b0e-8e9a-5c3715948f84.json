@@ -1,0 +1,35 @@
+{
+  "id": "3a00d28f-d30c-4b0e-8e9a-5c3715948f84",
+  "title": "Bangarraju",
+  "slug": "bangarraju",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/igunbwZQdRw28dJcvaS636tp7jl.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6.2,
+  "description": "Chinna Bangarraju is taking forward his grandfather Bangarraju's legacy of being a massive flirt. His worried grandmother however wants to ensure he's not lonely anymore before she passes on.",
+  "created_at": "2026-07-09T17:54:40.911Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bangarraju%20(2022)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bangarraju%20(2022)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

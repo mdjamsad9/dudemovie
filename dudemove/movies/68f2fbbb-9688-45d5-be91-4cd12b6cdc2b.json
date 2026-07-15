@@ -1,0 +1,27 @@
+{
+  "id": "68f2fbbb-9688-45d5-be91-4cd12b6cdc2b",
+  "title": "Malayankunju",
+  "slug": "malayankunju",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qgrpQbOpHCi8wSVY4A6vweSTD0Y.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 112,
+  "rating": 5.636,
+  "description": "Anikkuttan is an ill-tempered electronics technician who leads a quiet life with his mother. His daily routines are disrupted when his next door neighbour's new born baby stirs up undesirable memories from his past. What will happen next?",
+  "created_at": "2026-07-09T17:52:55.411Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0ea10b53-f88c-46f2-a998-f70f206a8886",
+  "title": "Fuze",
+  "slug": "fuze",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 96,
+  "rating": 6.4,
+  "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+  "created_at": "2026-07-09T16:34:42.359Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Fuze%20(2025)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

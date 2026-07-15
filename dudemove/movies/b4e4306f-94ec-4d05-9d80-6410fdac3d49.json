@@ -1,0 +1,27 @@
+{
+  "id": "b4e4306f-94ec-4d05-9d80-6410fdac3d49",
+  "title": "Alien: Romulus",
+  "slug": "alien-romulus",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Danish",
+  "release_year": 2024,
+  "duration": 119,
+  "rating": 7.161,
+  "description": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+  "created_at": "2026-07-09T17:12:05.923Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Alien.Romulus.2024.1080p.WEBRip.x264%20%5BDDN%5D/Alien.Romulus.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

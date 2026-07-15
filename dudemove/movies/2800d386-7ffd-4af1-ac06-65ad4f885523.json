@@ -1,0 +1,27 @@
+{
+  "id": "2800d386-7ffd-4af1-ac06-65ad4f885523",
+  "title": "My Policeman",
+  "slug": "my-policeman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 113,
+  "rating": 7.594,
+  "description": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom’s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
+  "created_at": "2026-07-09T17:48:53.599Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/My.Policeman.2022.1080p.WEBRip.x264%20%5BDDN%5D/My.Policeman.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

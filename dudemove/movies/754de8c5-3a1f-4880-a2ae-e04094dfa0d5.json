@@ -1,0 +1,31 @@
+{
+  "id": "754de8c5-3a1f-4880-a2ae-e04094dfa0d5",
+  "title": "Saiyaara",
+  "slug": "saiyaara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 150,
+  "rating": 6.4,
+  "description": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+  "created_at": "2026-07-09T16:52:58.477Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Saiyaara%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Saiyaara%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

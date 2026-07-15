@@ -1,0 +1,31 @@
+{
+  "id": "b0e97183-b1fb-4258-970a-ccd8be8a6757",
+  "title": "Three Thousand Years of Longing",
+  "slug": "three-thousand-years-of-longing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nS7DNl4A7XnDncZX70UJ8ALAihF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Turkish",
+  "release_year": 2022,
+  "duration": 108,
+  "rating": 6.881,
+  "description": "A solitary scholar discovers an ancient bottle while on a trip to Istanbul and unleashes a djinn who offers her three wishes. Filled with reluctance, she is unable to come up with one, so the djinn tries to inspire her with his stories.",
+  "created_at": "2026-07-09T17:51:31.660Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Three.Thousand.Years.of.Longing.2022.1080p.WEBRip.x264%20%5BDDN%5D/Three.Thousand.Years.of.Longing.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

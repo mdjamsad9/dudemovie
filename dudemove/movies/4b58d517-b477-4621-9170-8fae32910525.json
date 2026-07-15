@@ -1,0 +1,31 @@
+{
+  "id": "4b58d517-b477-4621-9170-8fae32910525",
+  "title": "Ground Zero",
+  "slug": "ground-zero",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x5YK8MkjL1vVsXxnGWifEOK2tJl.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 137,
+  "rating": 6.8,
+  "description": "An Indian army officer embarks on a mission leading to India’s most successful counter-terrorism operation in history.",
+  "created_at": "2026-07-09T16:57:10.291Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ground%20Zero%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ground%20Zero%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

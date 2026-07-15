@@ -1,0 +1,35 @@
+{
+  "id": "582b4ac7-a17d-4718-b874-cce5040f686b",
+  "title": "Maaveeran",
+  "slug": "maaveeran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gl3AeCuuFDsjhN4rKKFQ9O8mzrC.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 166,
+  "rating": 7.022,
+  "description": "After a head injury, cowardly newspaper cartoonist Sathya hears a voice in his mind, foretells events and puts him in precarious situations and forces him to take on a corrupt politician.",
+  "created_at": "2026-07-09T17:35:31.523Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Maaveeran%20(2023)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Maaveeran%20(2023)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

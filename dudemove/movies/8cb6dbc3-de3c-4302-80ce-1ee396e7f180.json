@@ -1,0 +1,27 @@
+{
+  "id": "8cb6dbc3-de3c-4302-80ce-1ee396e7f180",
+  "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "slug": "the-hunger-games-the-ballad-of-songbirds-snakes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 157,
+  "rating": 6.978,
+  "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+  "created_at": "2026-07-09T17:29:40.372Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

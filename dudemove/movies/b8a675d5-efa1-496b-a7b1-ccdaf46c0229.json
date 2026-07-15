@@ -1,0 +1,31 @@
+{
+  "id": "b8a675d5-efa1-496b-a7b1-ccdaf46c0229",
+  "title": "Jiu Jitsu",
+  "slug": "jiu-jitsu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Burmese",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 4.797,
+  "description": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+  "created_at": "2026-07-09T17:56:41.905Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Jiu.Jitsu.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D/Jiu.Jitsu.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

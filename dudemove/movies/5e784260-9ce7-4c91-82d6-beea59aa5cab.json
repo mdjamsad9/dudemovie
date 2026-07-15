@@ -1,0 +1,27 @@
+{
+  "id": "5e784260-9ce7-4c91-82d6-beea59aa5cab",
+  "title": "Radhe Shyam",
+  "slug": "radhe-shyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/szAa23SWNIgJHsvSRyQrvyFT8ef.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 138,
+  "rating": 5,
+  "description": "Vikramaditya, a world-renowned palmist, believes love does not exist in his stars, until he meets Prerana. But when destiny tries to pull them apart, will love prevail?",
+  "created_at": "2026-07-09T17:55:39.264Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Radhe.Shyam.2022.1080p.HDTV.Hindi.x264%20%5BDDN%5D/Radhe.Shyam.2022.1080p.HDTV.Hindi.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

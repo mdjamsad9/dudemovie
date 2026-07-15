@@ -1,0 +1,27 @@
+{
+  "id": "813d7455-8224-4e3b-96d6-8b780c573b23",
+  "title": "Raaghu",
+  "slug": "raaghu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ef3bUDv3iU9T3ewHMmGf1sG36g8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 7,
+  "description": "A medicine delivery executive loots the houses he delivers to make quick bucks. One day, a phone call from a stranger forces him to do a series of unlawful activities, failing which he could face dangerous consequences.",
+  "created_at": "2026-07-09T17:38:42.903Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raaghu%20(2023)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raaghu%20(2023)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "8af9bebe-9b2e-4ed3-ac2f-67512f28f3e9",
+  "title": "Krishnam Pranaya Sakhi",
+  "slug": "krishnam-pranaya-sakhi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y5giArJfFI2dBySP0KxV8riTipn.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": 161,
+  "rating": 6.75,
+  "description": "Krishna, a business tycoon, meets Pranaya, an orphan who runs an orphanage. Krishna, worried that his socio-economic status may separate him from Pranaya, pretends to be a driver and becomes employed by Pranaya. Pranaya soon learns about Krishna's identity, but she later accepts his love.",
+  "created_at": "2026-07-09T17:08:43.486Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Krishnam%20Pranaya%20Sakhi%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Krishnam%20Pranaya%20Sakhi%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

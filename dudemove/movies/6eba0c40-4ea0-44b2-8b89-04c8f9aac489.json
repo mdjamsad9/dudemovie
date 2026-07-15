@@ -1,0 +1,27 @@
+{
+  "id": "6eba0c40-4ea0-44b2-8b89-04c8f9aac489",
+  "title": "Virata Parvam",
+  "slug": "virata-parvam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sOKseRpQp8keo9A8dj3wahHBgjV.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 8,
+  "description": "It is an Epic story based on the book Virata Parva of Mahabharatha. After 12 years of Vanavasam, the Pandavas spend their 13th year of exile the Agnaadhavasam in an incognito state with disguised identities at the court of Virata. Follows how they end their exile & the marriage celebration of Uttara and Abhimanyu.",
+  "created_at": "2026-07-09T17:35:10.091Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

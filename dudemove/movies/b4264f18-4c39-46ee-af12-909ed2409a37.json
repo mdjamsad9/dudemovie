@@ -1,0 +1,27 @@
+{
+  "id": "b4264f18-4c39-46ee-af12-909ed2409a37",
+  "title": "Painkili",
+  "slug": "painkili",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hj2VTnrshKRFi6rUKd8neP4q8qO.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 139,
+  "rating": 5.5,
+  "description": "Tale of Suku, who fakes insanity to escape the law. While faking insanity, he falls in love.",
+  "created_at": "2026-07-09T17:00:32.024Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Painkili%20(2025)%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Painkili%20%282025%29%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

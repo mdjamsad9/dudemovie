@@ -1,0 +1,23 @@
+{
+  "id": "dcb62a9a-d647-4184-b5a3-858c428b4aa2",
+  "title": "How to Have Sex",
+  "slug": "how-to-have-sex",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 6.2,
+  "description": "Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+  "created_at": "2026-07-09T17:28:40.680Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/How.To.Have.Sex.2023.1080p.WEBRip.x264%20%5BDDN%5D/How.To.Have.Sex.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1c989856-b0b1-4ee9-9c5a-84dd1226acbf",
+  "title": "Suvarna Sundari",
+  "slug": "suvarna-sundari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bxFKXIt4I4RHm8joPQHdctPL11U.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 125,
+  "rating": null,
+  "description": "The Trinethri idol, created and commissioned  during the 15th century to be a beautiful goddess, turned out to be a people destroying evil. Its indestructible nature continues its journey to the present day, affecting numerous lives.",
+  "created_at": "2026-07-09T17:26:04.562Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Suvarna%20Sundari%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Suvarna%20Sundari%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "eabc3d80-ea7e-4a87-8f7f-b12a1a1ae5ac",
+  "title": "O Kala",
+  "slug": "o-kala",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6sKoW0iOpYX3FVnJPG0ZH45kv7W.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 120,
+  "rating": 7,
+  "description": "Bogged down by failures, Harika decides to end her life. When she's about to do the deed, she comes across a mysterious pamphlet with a phone number.",
+  "created_at": "2026-07-09T17:41:19.367Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/O%20Kala%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/O%20Kala%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "963e6576-0df1-4f10-8b27-f4fbfcf8ed38",
+  "title": "80 for Brady",
+  "slug": "80-for-brady",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qhSFHOS9CeXTqGgmbCi5pteIc6k.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 98,
+  "rating": 6.192,
+  "description": "Four lifelong friends set out on an unforgettable journey to see their hero Tom Brady play in Super Bowl LI and witness one of the greatest comebacks in sports history, discovering that it's never too late to live life to the fullest. Inspired by a true story.",
+  "created_at": "2026-07-09T17:42:56.309Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/80.For.Brady.2023.1080p.WEBRip.x264%20%5BDDN%5D/80.For.Brady.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

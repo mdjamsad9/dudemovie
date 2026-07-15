@@ -1,0 +1,27 @@
+{
+  "id": "71f46fb5-f0b3-4903-b37f-28e1e74ed712",
+  "title": "Nefarious",
+  "slug": "nefarious",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xwjWUAajQJPj5aik1tounPguZbz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 98,
+  "rating": 6.691,
+  "description": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
+  "created_at": "2026-07-09T17:38:34.639Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Nefarious.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Nefarious.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cf0d0bb9-c47e-4fb8-8f4e-9d46e181f1e6",
+  "title": "Dig",
+  "slug": "dig",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 90,
+  "rating": 4.909,
+  "description": "A widower and his deaf daughter are held hostage and forced to dig under their house, revealing dark secrets from the past.",
+  "created_at": "2026-07-09T17:50:56.961Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Dig.2022.1080p.WEBRip.x264%20%5BDDN%5D/Dig.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

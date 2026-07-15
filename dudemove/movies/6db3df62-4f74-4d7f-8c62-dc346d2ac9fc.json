@@ -1,0 +1,31 @@
+{
+  "id": "6db3df62-4f74-4d7f-8c62-dc346d2ac9fc",
+  "title": "A Model Kidnapping",
+  "slug": "a-model-kidnapping",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dlt68fzUXlTd4VOwmH5uyHps3kT.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Hungarian",
+  "release_year": 2019,
+  "duration": 85,
+  "rating": 5.61,
+  "description": "Grace, an aspiring model, is thrilled to have fashion photographer Hunter Kelly help launch her career. But when Grace is held against her will, Hunter’s true intention to use her as his next “star” on a sexy website is revealed. With courage and resourcefulness, Grace must now find a way to escape before she becomes Hunter’s next model murder victim. Inspired by true events.",
+  "created_at": "2026-07-09T17:57:55.562Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/A.Model.Kidnapping.2019.1080p.WEBRip.x264%20%5BDDN%5D/A.Model.Kidnapping.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4daf6d3e-11e2-4ad3-a42b-13acf3643c04",
+  "title": "Vinaya Vidheya Rama",
+  "slug": "vinaya-vidheya-rama",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tOjSnrKwI3qVKMHn5ofwc2K3Sm3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 146,
+  "rating": 3.9,
+  "description": "Ram is one among the five orphaned boys in Visakhapatnam, adopted by a doctor who ensures them a roof to live under, with dignity. Ram goes to any extent to protect his family and he's a handful for the baddie to handle in a time of crisis. How does Ram protect his family when they need him the most?",
+  "created_at": "2026-07-09T17:41:59.894Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vinaya%20Vidheya%20Rama%20(2019)%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vinaya%20Vidheya%20Rama%20(2019)%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

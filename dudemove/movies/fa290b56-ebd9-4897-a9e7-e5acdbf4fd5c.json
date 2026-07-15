@@ -1,0 +1,31 @@
+{
+  "id": "fa290b56-ebd9-4897-a9e7-e5acdbf4fd5c",
+  "title": "Subedaar",
+  "slug": "subedaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 142,
+  "rating": 6.3,
+  "description": "Haunted by loss and drifting away from his daughter, a retired Subedaar Arjun Maurya’s newly found civilian life is jolted by one reckless act. As old wounds reopen, he must summon the warrior within to face a new kind of war - one that hits too close to his heart.",
+  "created_at": "2026-07-09T16:40:29.870Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/SUBEDAAR%20(2026)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/SUBEDAAR%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

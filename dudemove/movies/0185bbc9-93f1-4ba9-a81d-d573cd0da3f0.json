@@ -1,0 +1,31 @@
+{
+  "id": "0185bbc9-93f1-4ba9-a81d-d573cd0da3f0",
+  "title": "Simon Daniel",
+  "slug": "simon-daniel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/li42nBMZoVxiI2MFI295kuNwzg6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 3.8,
+  "description": "When Simon Daniel, a wandering Archaeologist, learns that his friend, Santhosh, has disappeared while looking for a lost treasure in an mysterious estate, embarks on a journey to find him and complete the mission.",
+  "created_at": "2026-07-09T17:34:50.523Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Simon%20Daniel%20(2023)%20Tamil%20HQ%20HDRip%20-%201080p%20-%20x264%20%5BDDN%5D/Simon%20Daniel%20(2023)%20Tamil%20HQ%20HDRip%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

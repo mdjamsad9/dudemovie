@@ -1,0 +1,27 @@
+{
+  "id": "3871de16-353c-4fc2-b49a-7db63cb3912d",
+  "title": "Upgraded",
+  "slug": "upgraded",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 104,
+  "rating": 7.177,
+  "description": "Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, and Ana pretends to be her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.",
+  "created_at": "2026-07-09T17:27:06.659Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Upgraded.2024.1080p.WEBRip.x264%20%5BDDN%5D/Upgraded.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

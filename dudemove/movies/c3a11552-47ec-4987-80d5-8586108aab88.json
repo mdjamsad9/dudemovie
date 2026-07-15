@@ -1,0 +1,23 @@
+{
+  "id": "c3a11552-47ec-4987-80d5-8586108aab88",
+  "title": "Kya Masti Kya Dhoom",
+  "slug": "kya-masti-kya-dhoom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zq7nyJ5Egw0T0mmBP723oPtbH0P.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 141,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-09T17:04:39.364Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Kya%20Masti%20Kya%20Dhoom%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kya%20Masti%20Kya%20Dhoom%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b04712a4-740f-46b9-add9-e83951afdc81",
+  "title": "Bring Him to Me",
+  "slug": "bring-him-to-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9QGAUtP5YvEFRMdYl2iEhgHybDw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 96,
+  "rating": 5.737,
+  "description": "Under orders from a ruthless crime boss, a getaway driver must battle his conscience and drive an unsuspecting crew member to an ambush execution. There is a long drive ahead.",
+  "created_at": "2026-07-09T17:27:55.860Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Bring.Him.To.Me.2023.1080p.WEBRip.x264%20%5BDDN%5D/Bring.Him.To.Me.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

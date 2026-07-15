@@ -1,0 +1,31 @@
+{
+  "id": "a1e4ce3a-190b-4fb0-9492-82578f975c5d",
+  "title": "Barbie",
+  "slug": "barbie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 114,
+  "rating": 6.919,
+  "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+  "created_at": "2026-07-09T17:34:35.341Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Barbie.2023.1080p.WEBRip.x264%20%5BDDN%5D/Barbie.2023.1080p.WEBRip.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d63103fe-ca0a-42c3-8460-1b63d10adbe0",
+  "title": "Murder Report",
+  "slug": "murder-report",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hCcY5lyJ72POA1mUljn1q0CfJVe.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Persian",
+  "release_year": 2026,
+  "duration": null,
+  "rating": 8,
+  "description": "In the middle of the Islamic revolution of Iran in 1979 Captain Kalali who was in jail because of being a Communist is getting release from the prison. But he is after Keymaram the former leader of them who had betrayed them to kill him. Captain goes to Isfahan and manages to kill him and then after that he meets his wife and children who were away from him for a long time.",
+  "created_at": "2026-07-09T16:40:19.282Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Murder%20Report%20(2026)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Murder%20Report%20%282026%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

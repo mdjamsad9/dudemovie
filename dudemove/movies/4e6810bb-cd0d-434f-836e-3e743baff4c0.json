@@ -1,0 +1,27 @@
+{
+  "id": "4e6810bb-cd0d-434f-836e-3e743baff4c0",
+  "title": "Kakkipada",
+  "slug": "kakkipada",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7e6d9A4p4EksMss3DibZudFMCeo.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": 1,
+  "description": "An eight year-old girl is killed by a drug-addict who happens to be an influential personality. Will the girl get justice? Will the police be able to maintain law and order while handling a high profile case?",
+  "created_at": "2026-07-09T17:38:55.454Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

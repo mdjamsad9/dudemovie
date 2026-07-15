@@ -1,0 +1,35 @@
+{
+  "id": "146c44bb-346f-4122-879c-18f338d3979a",
+  "title": "It Was Just an Accident",
+  "slug": "it-was-just-an-accident",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Azerbaijani",
+  "release_year": 2025,
+  "duration": 103,
+  "rating": 7.2,
+  "description": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
+  "created_at": "2026-07-09T16:47:46.107Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/It.Was.Just.An.Accident.2025.1080p.WEBRip.x264%20%5BDDN%5D/It.Was.Just.An.Accident.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

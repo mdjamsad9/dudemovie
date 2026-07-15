@@ -1,0 +1,23 @@
+{
+  "id": "bc8bb479-1d43-44d8-91a2-9e8800ecaf89",
+  "title": "Finder",
+  "slug": "finder",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7nHqwBsKarpnyRXZyllbDZvDYPB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 112,
+  "rating": null,
+  "description": "A pair of ambitious criminology grads open a private investigation agency with a focus on wrongful convictions. Their latest case leads them to re-examine the conviction of a fisherman accused of murdering a local Councillor. As they dig into the details, they uncover questionable events and circumstances, putting their investigative skills to the test.",
+  "created_at": "2026-07-09T17:24:44.885Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Finder%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Finder%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

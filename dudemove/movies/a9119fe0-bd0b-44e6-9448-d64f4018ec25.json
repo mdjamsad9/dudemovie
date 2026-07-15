@@ -1,0 +1,31 @@
+{
+  "id": "a9119fe0-bd0b-44e6-9448-d64f4018ec25",
+  "title": "Samadhana Pusthakam",
+  "slug": "samadhana-pusthakam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c7e2CdlhOANd0qCNKUhpusaLSy8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 123,
+  "rating": 4,
+  "description": "The film is set against the backdrop of a school and the story is set in two different periods—2000 and 2023. Alex (Siju Wilson), a business magnate, is invited by his school as chief guest for its 75th anniversary. Upon his visit to the school, he realises that students aren't given freedom even in modern times",
+  "created_at": "2026-07-09T17:09:49.763Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Samadhana%20Pusthakam%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Samadhana%20Pusthakam%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

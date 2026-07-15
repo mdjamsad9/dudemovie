@@ -1,0 +1,23 @@
+{
+  "id": "d6411058-19af-457b-9fbe-fd4c4fad776f",
+  "title": "Naadu",
+  "slug": "naadu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8AkvjFMjL1P5YU7OmDxuC3frREr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "An urban educated doctor who is transferred to a village in the hopes of mitigating the frequent illness and illness and disease spread in the rural area and her efforts to get adjusted to the ways of villagers.",
+  "created_at": "2026-07-09T17:26:47.879Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Naadu%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Naadu%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f71a7c7b-98bc-4fb5-8da3-208fc20b2975",
+  "title": "Slumberland",
+  "slug": "slumberland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tfae1vtjzlE73DPJGlHq88sZKX3.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 117,
+  "rating": 7.281,
+  "description": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+  "created_at": "2026-07-09T17:47:45.262Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Slumberland.2022.1080p.WEBRip.x264%20%5BDDN%5D/Slumberland.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

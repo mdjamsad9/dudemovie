@@ -1,0 +1,23 @@
+{
+  "id": "5222b92d-73f6-48a0-a08d-7b2908ab1f9c",
+  "title": "Capernaum",
+  "slug": "capernaum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Amharic",
+  "release_year": 2018,
+  "duration": 126,
+  "rating": 8.14,
+  "description": "After running away from his negligent parents, committing a violent crime and being sentenced to five years in jail, a hardened, streetwise 12-year-old Lebanese boy sues his parents in protest of the life they have given him.",
+  "created_at": "2026-07-09T17:10:11.631Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Capernaum.2018.1080p.BluRay.x264%20%5BDDN%5D/Capernaum.2018.1080p.BluRay.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

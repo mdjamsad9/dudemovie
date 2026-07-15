@@ -1,0 +1,31 @@
+{
+  "id": "c8bc3bce-003a-48fd-b8a0-a506b2e4d7a4",
+  "title": "Bomma Blockbuster",
+  "slug": "bomma-blockbuster",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4bYCtlGKQS8mngbNUPa0zslcRzY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": null,
+  "description": "Pothuraju is a fisherman, film freak & ardent fan of Director Puri Jagannath. His life ambition is to conjure up the dramatic moments in his life & persuade his idol Puri Jagannath to make a film based on him. As time passes, he discovers life-altering secrets about his own family and life. Thus, Pothuraju will get forced to confront the deep pain behind his ludicrous antics and a simplistic worldview.",
+  "created_at": "2026-07-09T17:38:20.407Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

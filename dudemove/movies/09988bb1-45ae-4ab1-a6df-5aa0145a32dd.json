@@ -1,0 +1,27 @@
+{
+  "id": "09988bb1-45ae-4ab1-a6df-5aa0145a32dd",
+  "title": "Cabrini",
+  "slug": "cabrini",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uR7iQKPynetIxnbbWalF6OXbNcf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 142,
+  "rating": 7.738,
+  "description": "Italian immigrant Francesca Cabrini arrives in 1889 New York City and is greeted by disease, crime, and impoverished children. Cabrini sets off on a daring mission to convince the hostile mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world had ever seen.",
+  "created_at": "2026-07-09T17:18:46.744Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Cabrini.2024.1080p.WEBRip.x264%20%5BDDN%5D/Cabrini.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

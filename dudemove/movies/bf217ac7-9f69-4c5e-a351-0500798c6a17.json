@@ -1,0 +1,23 @@
+{
+  "id": "bf217ac7-9f69-4c5e-a351-0500798c6a17",
+  "title": "Banging Lanie",
+  "slug": "banging-lanie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kDz6VlqfjuEbD04fv9jQys4eze6.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": 76,
+  "rating": 3.889,
+  "description": "An incredibly bright, but socially awkward teenage girl decides to take her virginity into her own hands.",
+  "created_at": "2026-07-09T17:56:57.196Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Banging.Lanie.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Banging.Lanie.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

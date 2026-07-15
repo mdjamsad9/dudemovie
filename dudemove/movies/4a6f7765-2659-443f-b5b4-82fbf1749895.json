@@ -1,0 +1,31 @@
+{
+  "id": "4a6f7765-2659-443f-b5b4-82fbf1749895",
+  "title": "Kanguva",
+  "slug": "kanguva",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lycbTFBXqFN1kMdPEsnAFutKEEy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 154,
+  "rating": 3.621,
+  "description": "A bounty hunter in present day, learns about his previous life as a legendary warrior, when fate unites him with a mutant kid.",
+  "created_at": "2026-07-09T17:09:41.424Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kanguva%20(2024)%20Hindi%20Line%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kanguva%20(2024)%20Hindi%20Line%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

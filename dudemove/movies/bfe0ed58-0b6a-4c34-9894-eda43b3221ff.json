@@ -1,0 +1,27 @@
+{
+  "id": "bfe0ed58-0b6a-4c34-9894-eda43b3221ff",
+  "title": "Two Worlds One Wish",
+  "slug": "two-worlds-one-wish",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Turkish",
+  "release_year": 2025,
+  "duration": 118,
+  "rating": 7.208,
+  "description": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems like a miracle soon reveals a hidden secret, as fate-reuniting them after decades-has much more in store.",
+  "created_at": "2026-07-09T16:49:03.652Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Two%20Worlds%20One%20Wish%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Two%20Worlds%20One%20Wish%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

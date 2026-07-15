@@ -1,0 +1,27 @@
+{
+  "id": "6cc8a6c0-bff4-45b1-a261-f265b18eddeb",
+  "title": "Atithi Devobhava",
+  "slug": "atithi-devobhava",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k1eUqOyh0sF9V89UgLvPei5Q8zz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 126,
+  "rating": 6.3,
+  "description": "Abhay, a software employee, has mono-phobia since his childhood, falls in love with Vaishali. He also fears to tell her about his phobia as she may not understand him. A night where he has to spend alone leads to many problems.",
+  "created_at": "2026-07-09T17:49:01.991Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Atithi.Devo.Bhava.2022.1080p.WEBRip.HIN.TEL.x264.ESub%20%5BDDN%5D/Atithi.Devo.Bhava.2022.1080p.WEBRip.HIN.TEL.x264.ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

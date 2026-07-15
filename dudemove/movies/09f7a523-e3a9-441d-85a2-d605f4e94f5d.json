@@ -1,0 +1,23 @@
+{
+  "id": "09f7a523-e3a9-441d-85a2-d605f4e94f5d",
+  "title": "Vanvaas",
+  "slug": "vanvaas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rMFHWTeMeBB6xr6eIfoWfsqzito.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 160,
+  "rating": 7,
+  "description": "Explores the dynamics of familial relationships, focusing on themes of sacrifice, emotional bonds, and the challenges of sustaining unity in modern times. The story delves into the lives of its central characters as they navigate conflicts and rediscover the importance of family values.",
+  "created_at": "2026-07-09T17:05:04.377Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Vanvaas%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vanvaas%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

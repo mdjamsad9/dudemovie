@@ -1,0 +1,31 @@
+{
+  "id": "cdbcede3-265c-412a-a1a1-165e50278513",
+  "title": "The Ritual",
+  "slug": "the-ritual",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 98,
+  "rating": 5.835,
+  "description": "Two priests, one in crisis with his faith and the other confronting a turbulent past, must overcome their differences to perform a risky exorcism.",
+  "created_at": "2026-07-09T16:56:21.282Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Ritual.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Ritual.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

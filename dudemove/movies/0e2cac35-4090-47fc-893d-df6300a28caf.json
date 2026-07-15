@@ -1,0 +1,31 @@
+{
+  "id": "0e2cac35-4090-47fc-893d-df6300a28caf",
+  "title": "Emancipation",
+  "slug": "emancipation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AkdNXEquLf4GIkwh1dcSB7j0FTY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 132,
+  "rating": 7.76,
+  "description": "Inspired by the gripping true story of a man who would do anything for his family—and for freedom. When Peter, an enslaved man, risks his life to escape and return to his family, he embarks on a perilous journey of love and endurance.",
+  "created_at": "2026-07-09T17:47:02.643Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Emancipation.2022.1080p.WEBRip.x264%20%5BDDN%5D/Emancipation.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

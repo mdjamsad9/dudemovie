@@ -1,0 +1,31 @@
+{
+  "id": "4dfc6852-3b65-40eb-bbdc-ebd6a8c21d63",
+  "title": "Gulu Gulu",
+  "slug": "gulu-gulu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pJz2CYXftC38whpXbb4hCQfnVJX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 3.8,
+  "description": "A travel junkie with no one particular identity to himself creates a chaos when he sets out to help a group to rescue their friend.",
+  "created_at": "2026-07-09T17:45:26.882Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gulu%20Gulu%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gulu%20Gulu%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

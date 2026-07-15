@@ -1,0 +1,27 @@
+{
+  "id": "aee22af6-7374-4e91-9d4a-82fcab6dee72",
+  "title": "Merrily We Roll Along",
+  "slug": "merrily-we-roll-along",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 145,
+  "rating": 6.8,
+  "description": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
+  "created_at": "2026-07-09T16:43:09.874Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Merrily.We.Roll.Along.2025.1080p.WEBRip.x264%20%5BDDN%5D/Merrily.We.Roll.Along.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ff04592a-aec7-4074-800c-4669f89eeb39",
+  "title": "Puss in Boots: The Last Wish",
+  "slug": "puss-in-boots-the-last-wish",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 103,
+  "rating": 8.209,
+  "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+  "created_at": "2026-07-09T17:46:10.965Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Puss.in.Boots.The.Last.Wish.2022.1080p.WEBRip.x264%20%5BDDN%5D/Puss.in.Boots.The.Last.Wish.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

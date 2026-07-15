@@ -1,0 +1,35 @@
+{
+  "id": "9b61ed63-1d24-45a6-b506-db0758d5439f",
+  "title": "Toy Story 5",
+  "slug": "toy-story-5",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2026,
+  "duration": 102,
+  "rating": 7.3,
+  "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+  "created_at": "2026-07-09T16:33:00.912Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Toy%20Story-5%20(2026)%20Hindi%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toy%20Story-5%20%282026%29%20Hindi%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

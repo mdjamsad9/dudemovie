@@ -1,0 +1,31 @@
+{
+  "id": "880e136b-5523-42df-8d6e-dcf80b934ae7",
+  "title": "Badass Ravi Kumar",
+  "slug": "badass-ravi-kumar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kqdb3ffSsyRlRjddG0XPpssy5ok.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 142,
+  "rating": 4.714,
+  "description": "The Xpose franchise now goes to the next level  with Himesh Reshammiya doing a spin off from his iconic character Ravi Kumar.\r A rogue cop takes on a dangerous crime syndicate, using his own over-the-top methods to deliver justice in a high-octane, stylized action world.",
+  "created_at": "2026-07-09T16:35:49.992Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Badass%20Ravi%20Kumar%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Badass%20Ravi%20Kumar%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

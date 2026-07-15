@@ -1,0 +1,23 @@
+{
+  "id": "0434f66e-a0b4-458c-a7fe-ad5feeb54814",
+  "title": "Dear Zoe",
+  "slug": "dear-zoe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rqAhYRbOjgPSVzxKYXV9t6gm5fi.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 94,
+  "rating": 6.5,
+  "description": "Tess enlists her biological father – a lovable slacker from the wrong side of the tracks – and the charming juvenile delinquent next door to help her come to grips with the death of her little sister.",
+  "created_at": "2026-07-09T17:48:41.589Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Dear.Zoe.2022.1080p.WEBRip.x264%20%5BDDN%5D/Dear.Zoe.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

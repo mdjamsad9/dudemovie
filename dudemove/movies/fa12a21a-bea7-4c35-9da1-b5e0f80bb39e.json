@@ -1,0 +1,35 @@
+{
+  "id": "fa12a21a-bea7-4c35-9da1-b5e0f80bb39e",
+  "title": "Sattendru Maarudhu Vaanilai",
+  "slug": "sattendru-maarudhu-vaanilai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aHwiypD3b2Ey9CkisGtrkieFHIh.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2026,
+  "duration": 120,
+  "rating": null,
+  "description": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
+  "created_at": "2026-07-09T16:33:22.264Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sattendru%20Maarudhu%20Vaanilai%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sattendru%20Maarudhu%20Vaanilai%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

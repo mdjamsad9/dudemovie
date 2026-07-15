@@ -1,0 +1,23 @@
+{
+  "id": "139a26a5-3a81-427b-b4db-43fc8011020a",
+  "title": "Jeepers Creepers: Reborn",
+  "slug": "jeepers-creepers-reborn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aGBuiirBIQ7o64FmJxO53eYDuro.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 88,
+  "rating": 5.284,
+  "description": "Forced to travel to a horror festival with her boyfriend, a young woman begins experiencing premonitions associated with the urban myth of The Creeper. She believes that something supernatural has been summoned — and that she is at the center of it all.",
+  "created_at": "2026-07-09T17:50:31.842Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Jeepers.Creepers.Reborn.2022.1080p.WEBRip.x264%20%5BDDN%5D/Jeepers.Creepers.Reborn.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

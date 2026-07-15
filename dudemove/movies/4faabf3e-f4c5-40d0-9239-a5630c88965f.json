@@ -1,0 +1,35 @@
+{
+  "id": "4faabf3e-f4c5-40d0-9239-a5630c88965f",
+  "title": "Transformers One",
+  "slug": "transformers-one",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 104,
+  "rating": 7.967,
+  "description": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+  "created_at": "2026-07-09T17:11:50.875Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Transformers.One.2024.1080p.WEBRip.x264%20%5BDDN%5D/Transformers.One.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

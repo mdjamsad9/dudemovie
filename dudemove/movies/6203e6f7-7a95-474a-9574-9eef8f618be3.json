@@ -1,0 +1,27 @@
+{
+  "id": "6203e6f7-7a95-474a-9574-9eef8f618be3",
+  "title": "The Black Demon",
+  "slug": "the-black-demon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 101,
+  "rating": 5.896,
+  "description": "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
+  "created_at": "2026-07-09T17:38:58.640Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Black.Demon.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Black.Demon.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

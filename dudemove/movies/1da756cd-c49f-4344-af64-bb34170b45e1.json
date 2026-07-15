@@ -1,0 +1,31 @@
+{
+  "id": "1da756cd-c49f-4344-af64-bb34170b45e1",
+  "title": "Sathiya Sothanai",
+  "slug": "sathiya-sothanai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jbMJC5CsiFWb1Ge2udEwnwEjndM.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 109,
+  "rating": 7,
+  "description": "Pradeep, a gullible simpleton who spots a dead body in a remote location and decides to hand over the person’s gold chain and mobile to the cops. This noble gesture lands him in trouble and it’s up to him to save himself from facing the repercussions.",
+  "created_at": "2026-07-09T17:30:50.104Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sathiya%20Sothanai%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sathiya%20Sothanai%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "43201680-42a9-4e93-a07d-3294d4214044",
+  "title": "Steve",
+  "slug": "steve",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 92,
+  "rating": 6.416,
+  "description": "Over one intense day, the devoted head teacher of a last-chance reform school strives to keep his students in line while facing pressures of his own.",
+  "created_at": "2026-07-09T16:51:57.077Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Steve.2025.1080p.WEBRip.x264%20%5BDDN%5D/Steve.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

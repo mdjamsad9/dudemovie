@@ -1,0 +1,31 @@
+{
+  "id": "146c70d7-4fa3-406a-8006-9e76b0447658",
+  "title": "Mukhya Gamanika",
+  "slug": "mukhya-gamanika",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gFozskWxgxksa70KTHZRyIeBnmU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "A young constable stumbles into a deadly maze. The tragic murder of his father, coinciding with the disappearance of a husband, ignites a chase for the truth, forcing him to confront hidden dangers and protect what's dear.",
+  "created_at": "2026-07-09T17:26:39.951Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mukhya%20Gamanika%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Mukhya%20Gamanika%20(2024)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

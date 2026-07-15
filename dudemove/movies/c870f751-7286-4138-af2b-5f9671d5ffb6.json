@@ -1,0 +1,23 @@
+{
+  "id": "c870f751-7286-4138-af2b-5f9671d5ffb6",
+  "title": "Fronteras",
+  "slug": "fronteras",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2018,
+  "duration": null,
+  "rating": null,
+  "description": "A Dominican journalist must face his new life after the death of his ex-wife and daughter. He travels to the Dominican-Haitian border post-2010 earthquake, trying to find the missing piece of the puzzle that torments him",
+  "created_at": "2026-07-09T17:57:53.465Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2018/Fronteras.2018.1080p.WEBRip.x264%20%5BDDN%5D/Fronteras.2018.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

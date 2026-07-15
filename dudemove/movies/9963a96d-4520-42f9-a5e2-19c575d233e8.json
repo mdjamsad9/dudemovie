@@ -1,0 +1,27 @@
+{
+  "id": "9963a96d-4520-42f9-a5e2-19c575d233e8",
+  "title": "The Holdovers",
+  "slug": "the-holdovers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 133,
+  "rating": 7.645,
+  "description": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
+  "created_at": "2026-07-09T17:30:37.066Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Holdovers.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Holdovers.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "117c308b-86a3-4ab8-b10e-3fe6e3020e53",
+  "title": "Parakramam",
+  "slug": "parakramam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uB6a63gTnH7HbFGcW9ZODlwwyyV.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 141,
+  "rating": null,
+  "description": "Revolves around the life of Lovaraju, a theatre artist and a gully cricketer in a village named Lampakalova.",
+  "created_at": "2026-07-09T17:13:19.917Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Parakramam%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Parakramam%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

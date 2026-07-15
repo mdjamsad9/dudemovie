@@ -1,0 +1,31 @@
+{
+  "id": "ed135423-2992-4a63-8b28-d63c23c4ee0f",
+  "title": "Jackson Bazaar Youth",
+  "slug": "jackson-bazaar-youth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/amTDGRh7zf4GEaizy6YpnXQKifF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 111,
+  "rating": 5.5,
+  "description": "The lives of bandmates of the titular band, who get embroiled in a world of crime.",
+  "created_at": "2026-07-09T17:37:46.361Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jackson%20Bazaar%20Youth%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20%5BDDN%5D/Jackson%20Bazaar%20Youth%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

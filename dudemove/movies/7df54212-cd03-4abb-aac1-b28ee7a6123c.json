@@ -1,0 +1,31 @@
+{
+  "id": "7df54212-cd03-4abb-aac1-b28ee7a6123c",
+  "title": "Por Thozhil",
+  "slug": "por-thozhil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZ2BbjGBDRW5Q5Q9jgEknuiEQ0f.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 148,
+  "rating": 7.012,
+  "description": "Loganathan, a senior cop is asked to mentor Prakash, an academically bright but faint-hearted rookie and this unlikely duo team up to investigate a series of murder cases, and realize all of them are interlinked and that a psychopath serial killer is on the run.",
+  "created_at": "2026-07-09T17:35:32.910Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Por%20Thozhil%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Por%20Thozhil%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

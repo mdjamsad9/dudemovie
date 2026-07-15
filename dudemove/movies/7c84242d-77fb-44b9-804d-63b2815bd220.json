@@ -1,0 +1,27 @@
+{
+  "id": "7c84242d-77fb-44b9-804d-63b2815bd220",
+  "title": "Chor Bazaar",
+  "slug": "chor-bazaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n6ppeSRIs7hoOYraVuTiEufteP5.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-09T17:38:14.486Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

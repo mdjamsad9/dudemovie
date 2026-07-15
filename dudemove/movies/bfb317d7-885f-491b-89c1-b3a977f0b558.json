@@ -1,0 +1,23 @@
+{
+  "id": "bfb317d7-885f-491b-89c1-b3a977f0b558",
+  "title": "Ghani",
+  "slug": "ghani",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hblnrV4N2UutxuwvhKV8dBthSQK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "bn",
+  "release_year": 2022,
+  "duration": null,
+  "rating": null,
+  "description": "Poor oil miller decides to use his daughter-in-law to spin the treadle due to lack of ox.",
+  "created_at": "2026-07-09T17:55:43.289Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ghani%20(2022)%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Ghani%20(2022)%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

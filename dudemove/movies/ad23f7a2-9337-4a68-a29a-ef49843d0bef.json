@@ -1,0 +1,23 @@
+{
+  "id": "ad23f7a2-9337-4a68-a29a-ef49843d0bef",
+  "title": "Train Dreams",
+  "slug": "train-dreams",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2025,
+  "duration": 102,
+  "rating": 7.317,
+  "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+  "created_at": "2026-07-09T16:36:53.618Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Train.Dreams.2025.1080p.WEBRip.x264%20%5BDDN%5D/Train.Dreams.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

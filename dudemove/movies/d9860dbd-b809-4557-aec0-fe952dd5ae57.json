@@ -1,0 +1,31 @@
+{
+  "id": "d9860dbd-b809-4557-aec0-fe952dd5ae57",
+  "title": "Bugonia",
+  "slug": "bugonia",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 119,
+  "rating": 7.315,
+  "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+  "created_at": "2026-07-09T16:48:51.719Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Bugonia.2025.720p.WEBRip.x264%20%5BDDN%5D/Bugonia.2025.720p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

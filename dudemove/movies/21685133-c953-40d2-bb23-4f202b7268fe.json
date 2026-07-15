@@ -1,0 +1,23 @@
+{
+  "id": "21685133-c953-40d2-bb23-4f202b7268fe",
+  "title": "Snow Falls",
+  "slug": "snow-falls",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ueZUfAa98hAsxWOp9Zv3JIRuNkS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 80,
+  "rating": 4.578,
+  "description": "After a winter storm strands five friends in a remote cabin with no power and little food, disorientation slowly claims their sanity as each of them succumbs to a fear that the snow itself may be contaminated or somehow evil.",
+  "created_at": "2026-07-09T17:45:39.897Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Snow.Falls.2023.1080p.WEBRip.x264%20%5BDDN%5D/Snow.Falls.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

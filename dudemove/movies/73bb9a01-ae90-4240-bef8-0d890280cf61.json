@@ -1,0 +1,27 @@
+{
+  "id": "73bb9a01-ae90-4240-bef8-0d890280cf61",
+  "title": "Thanksgiving",
+  "slug": "thanksgiving",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 106,
+  "rating": 6.469,
+  "description": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+  "created_at": "2026-07-09T17:27:38.342Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Thanksgiving.2023.1080p.BluRay.x264%20%5BDDN%5D/Thanksgiving.2023.1080p.BluRay.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

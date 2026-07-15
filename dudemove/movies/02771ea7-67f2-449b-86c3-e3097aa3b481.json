@@ -1,0 +1,27 @@
+{
+  "id": "02771ea7-67f2-449b-86c3-e3097aa3b481",
+  "title": "Love Me Love Me",
+  "slug": "love-me-love-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 99,
+  "rating": 5.978,
+  "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+  "created_at": "2026-07-09T16:41:19.116Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Love.Me.Love.Me.2026.1080p.WEBRip.x264%20%5BDDN%5D/Love.Me.Love.Me.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

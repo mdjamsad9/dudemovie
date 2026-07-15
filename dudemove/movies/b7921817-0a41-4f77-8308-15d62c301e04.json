@@ -1,0 +1,31 @@
+{
+  "id": "b7921817-0a41-4f77-8308-15d62c301e04",
+  "title": "Baby Ruby",
+  "slug": "baby-ruby",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xsQyj1RWeKYafKaDRDfA3x5IVcZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 5.2,
+  "description": "After welcoming her baby, Ruby, home, the tightly scripted world of lifestyle influencer Jo starts to unravel. As increasingly sinister happenings mount, Jo is plunged into a waking fever dream where everyone is a threat and nothing is what it seems.",
+  "created_at": "2026-07-09T17:44:47.800Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Baby.Ruby.2022.1080p.WEBRip.x264%20%5BDDN%5D/Baby.Ruby.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

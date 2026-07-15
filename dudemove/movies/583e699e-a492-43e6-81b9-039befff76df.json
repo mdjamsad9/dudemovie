@@ -1,0 +1,31 @@
+{
+  "id": "583e699e-a492-43e6-81b9-039befff76df",
+  "title": "The Zone of Interest",
+  "slug": "the-zone-of-interest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "German",
+  "release_year": 2023,
+  "duration": 105,
+  "rating": 7.01,
+  "description": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+  "created_at": "2026-07-09T17:26:51.001Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Zone.Of.Interest.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Zone.Of.Interest.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

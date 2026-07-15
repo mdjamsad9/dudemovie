@@ -1,0 +1,31 @@
+{
+  "id": "5076220d-1abe-4cea-aab4-b3974d2d85ac",
+  "title": "Diesel",
+  "slug": "diesel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A3jv9cICPkVHx48h2NZXW4c1ZnP.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 145,
+  "rating": 4,
+  "description": "During the 1980s, Manoharan was a leader in the city's crude oil smuggling business. Manohar opposed Patanis dream of setting up a private port that would become a hub for the black market oil trade. He looted a large quantity of oil from the pipeline to blackmail the government into fulfilling his dream. Finally, the Vasu finds the missing oil.",
+  "created_at": "2026-07-09T16:49:11.580Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Diesel%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Diesel%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

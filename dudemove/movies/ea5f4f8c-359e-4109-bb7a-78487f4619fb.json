@@ -1,0 +1,39 @@
+{
+  "id": "ea5f4f8c-359e-4109-bb7a-78487f4619fb",
+  "title": "Paws of Fury: The Legend of Hank",
+  "slug": "paws-of-fury-the-legend-of-hank",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 94,
+  "rating": 6.626,
+  "description": "A hard-on-his-luck hound finds himself in a town full of cats in need of a hero to defend them from a ruthless villain's wicked plot to wipe their village off the map. With help from a reluctant mentor, our underdog must assume the role of town samurai and team up with the villagers to save the day.",
+  "created_at": "2026-07-09T17:53:35.693Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

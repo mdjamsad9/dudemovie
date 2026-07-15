@@ -1,0 +1,31 @@
+{
+  "id": "4f3f604e-f0fb-4f8d-be75-da7cff281b1d",
+  "title": "Aquaman and the Lost Kingdom",
+  "slug": "aquaman-and-the-lost-kingdom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2023,
+  "duration": 124,
+  "rating": 6.525,
+  "description": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
+  "created_at": "2026-07-09T17:27:46.676Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Aquaman.And.The.Lost.Kingdom.2023.1080p.WEBRip.x264%20%5BDDN%5D/Aquaman.And.The.Lost.Kingdom.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

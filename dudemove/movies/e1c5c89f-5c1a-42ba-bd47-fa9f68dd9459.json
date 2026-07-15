@@ -1,0 +1,27 @@
+{
+  "id": "e1c5c89f-5c1a-42ba-bd47-fa9f68dd9459",
+  "title": "Chhorii 2",
+  "slug": "chhorii-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mCgKANxZJW645pXdmJdBb4ysRPk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 133,
+  "rating": 4.727,
+  "description": "Sakshi must rescue her seven year old daughter from being sacrificed by an evil cult to satisfy their resident leader, while fighting societal superstitions and the horror that continues to haunt her and young women around her.",
+  "created_at": "2026-07-09T17:00:26.385Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Chhorii%202%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Chhorii%202%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

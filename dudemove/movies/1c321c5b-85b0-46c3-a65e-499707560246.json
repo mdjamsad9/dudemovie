@@ -1,0 +1,27 @@
+{
+  "id": "1c321c5b-85b0-46c3-a65e-499707560246",
+  "title": "Kasethan Kadavulada",
+  "slug": "kasethan-kadavulada",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gfYw9Ng58ZaUr7KzsCd64RpnrCE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 111,
+  "rating": 3.7,
+  "description": "Ramu schemes a devious plan when an affluent & dominating stepmother refuses him financial aid. Does he succeed in his plot to loot her high-security vault along with his cousin & friend?",
+  "created_at": "2026-07-09T17:39:04.686Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kasethan%20Kadavulada%20(2023)%20Tamil%C2%A0Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Kasethan%20Kadavulada%20(2023)%20Tamil%c2%a0Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cee1d369-f9fc-401b-9ae2-776e7ffd8799",
+  "title": "Gatha Vaibhava",
+  "slug": "gatha-vaibhava",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 142,
+  "rating": 4.5,
+  "description": "Gatha Vaibhava is a fantasy drama that weaves together history, mythology, and destiny. When Purathan and Adhunika meet in the present, they embark on a mystical journey through their past lives from the divine realms of Devaloka to Vasco da Gama's voyage and the coastal lands of pre-independence Karnataka. As echoes of the past resurface, they must unravel their fate. Will love endure across lifetimes, or is history doomed to repeat itself?",
+  "created_at": "2026-07-09T16:42:25.749Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gatha%20Vaibhava%20(2025)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gatha%20Vaibhava%20(2025)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

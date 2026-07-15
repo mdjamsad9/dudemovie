@@ -1,0 +1,23 @@
+{
+  "id": "f3231098-1da8-4524-9cf9-75749a7849c6",
+  "title": "Unknown: Killer Robots",
+  "slug": "unknown-killer-robots",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZ61VGpdRiMUlptBucnjBc64Wrj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 68,
+  "rating": 6.89,
+  "description": "What happens when a machine makes life-or-death decisions? This documentary explores the dangers of artificial intelligence in military application.",
+  "created_at": "2026-07-09T17:36:52.353Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Unknown.Killer.Robots.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Unknown.Killer.Robots.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

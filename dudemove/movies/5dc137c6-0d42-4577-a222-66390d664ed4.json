@@ -1,0 +1,27 @@
+{
+  "id": "5dc137c6-0d42-4577-a222-66390d664ed4",
+  "title": "Bloody Beggar",
+  "slug": "bloody-beggar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qimSmwXBFQpei25T3FBSTFeN31A.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 139,
+  "rating": 6.2,
+  "description": "A beggar's life takes an unexpected turn when a misadventure upends his daily routine. Can he navigate the bizarre, witty situations that follow?",
+  "created_at": "2026-07-09T17:09:42.984Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bloody%20Beggar%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bloody%20Beggar%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

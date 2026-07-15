@@ -1,0 +1,31 @@
+{
+  "id": "eb105920-bfcb-48d6-bf2e-5f1cec39d176",
+  "title": "Space Kids",
+  "slug": "space-kids",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e4kFoUynniAhAIrFQZ1zG4T9lTd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 76,
+  "rating": 7,
+  "description": "A once beautiful and lush planet is now a desert wasteland because its precious plant that contains life-essential energy was destroyed by careless explorers from Earth. Three kids believe that hope still exists and brave an active volcano and giant robots, overcoming all odds to find the last of the powerful plant and return their home to its former magnificence.",
+  "created_at": "2026-07-09T17:29:38.055Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Space.Kids.2023.1080p.WEBRip.x264%20%5BDDN%5D/Space.Kids.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

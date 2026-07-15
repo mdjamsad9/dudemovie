@@ -1,0 +1,31 @@
+{
+  "id": "4422ae72-56b8-46ba-a9c2-45caad8ce304",
+  "title": "Mixed by Erry",
+  "slug": "mixed-by-erry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tCTqW2YLxx6gqrPFTlMswvDunuQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Italian",
+  "release_year": 2023,
+  "duration": 113,
+  "rating": 7.44,
+  "description": "The rise and fall of the pirate mixtape empire of three brothers from Naples, Italy, during the '80s.",
+  "created_at": "2026-07-09T17:38:16.589Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Mixed.By.Erry.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Mixed.By.Erry.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bc5d0093-3244-43a5-8ee2-8bce8a4d0ff4",
+  "title": "The Immaculate Room",
+  "slug": "the-immaculate-room",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pGtgOx5YAPWLl9K4Hdqrs5Qblbj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 92,
+  "rating": 5.261,
+  "description": "Mike and Kate, a young couple, get the once-in-a lifetime chance to win a cool five million dollars. The challenge: Live for 50 days in a blank space. Sticking it out for thirty days, and the five million are theirs. How difficult can it be?",
+  "created_at": "2026-07-09T17:52:43.145Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/The.Immaculate.Room.2022.1080p.WEBRip.x264%20%5BDDN%5D/The.Immaculate.Room.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

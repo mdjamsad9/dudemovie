@@ -1,0 +1,31 @@
+{
+  "id": "75efd0d2-922b-4b12-8f21-7bc1b412500a",
+  "title": "Eenie Meanie",
+  "slug": "eenie-meanie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 106,
+  "rating": 6.32,
+  "description": "A former teenage getaway driver gets dragged back into her unsavory past when a former employer offers her a chance to save the life of her chronically unreliable ex-boyfriend.",
+  "created_at": "2026-07-09T16:53:45.281Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Eenie.Meanie.2025.1080p.WEBRip.x264%20%5BDDN%5D/Eenie.Meanie.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

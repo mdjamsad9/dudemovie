@@ -1,0 +1,27 @@
+{
+  "id": "d7504638-b73f-44c3-a290-5a27a1fd42cb",
+  "title": "Chattambi",
+  "slug": "chattambi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kLt6fdYP2W5ZNoX9YvjLF5sw1eB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 5.7,
+  "description": "Set in 1995, Chattambi follows the lives of abrasive outlaws in rural Idukki. When Kariah feels he is being excluded from the clan, he decides to lead his life on his own terms without realizing the grave consequences of his decision.",
+  "created_at": "2026-07-09T17:40:58.285Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Chattambi%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Chattambi%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

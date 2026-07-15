@@ -1,0 +1,27 @@
+{
+  "id": "f8d274c9-a4ba-463d-b127-88aec3624fd4",
+  "title": "Snack Shack",
+  "slug": "snack-shack",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 112,
+  "rating": 7.1,
+  "description": "Inseparable best friends AJ and Moose decide to run the local pool's snack shack after their plan to sell home-brewed beer goes down the drain. Things take a turn when they meet Brooke, an effortlessly cool lifeguard who puts their big plans, and friendship, at risk.",
+  "created_at": "2026-07-09T17:25:22.214Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Snack.Shack.2024.1080p.WEBRip.x264%20%5BDDN%5D/Snack.Shack.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

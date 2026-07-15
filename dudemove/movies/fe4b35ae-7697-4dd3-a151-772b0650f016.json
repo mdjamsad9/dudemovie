@@ -1,0 +1,27 @@
+{
+  "id": "fe4b35ae-7697-4dd3-a151-772b0650f016",
+  "title": "Pachuvum Athbhuthavilakkum",
+  "slug": "pachuvum-athbhuthavilakkum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dhIr3BSgxLgshCH8waq7zz7zmft.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 171,
+  "rating": 6.62,
+  "description": "In return for getting ownership his shop space in Mumbai, Prakashan is tempted into helping his landlord's mother on a mission. Will he succeed? What does success mean?",
+  "created_at": "2026-07-09T17:39:09.520Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pachuvum%20Athbutha%20Vilakkum%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pachuvum%20Athbutha%20Vilakkum%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

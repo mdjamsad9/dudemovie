@@ -1,0 +1,31 @@
+{
+  "id": "48ce5637-833f-46a6-926c-ca4580d5b4f0",
+  "title": "My Penguin Friend",
+  "slug": "my-penguin-friend",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/65ll0fwaCMDHuD5XMJk4f4Olc5b.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 98,
+  "rating": 7.4,
+  "description": "A lost penguin rescued from an oil spill transforms the life of a heartbroken fisherman. They become unlikely friends, so bonded that even the vast ocean cannot divide them.",
+  "created_at": "2026-07-09T17:12:50.064Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/My.Penguin.Friend.2024.1080p.WEBRip.x264%20%5BDDN%5D/My.Penguin.Friend.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

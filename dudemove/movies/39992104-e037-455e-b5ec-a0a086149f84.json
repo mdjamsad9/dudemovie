@@ -1,0 +1,23 @@
+{
+  "id": "39992104-e037-455e-b5ec-a0a086149f84",
+  "title": "Kathir",
+  "slug": "kathir",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/BxrPENWzqcteaoNY2EHAhMhQNG.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 134,
+  "rating": 9,
+  "description": "A beautiful bond between a youngster who has gone through many failures and an old woman with an inspiring past, and how the young man's life takes a turn after he learns the story of the older woman.",
+  "created_at": "2026-07-09T17:54:38.455Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kathir%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESubs%20%5BDDN%5D/Kathir%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESubs%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

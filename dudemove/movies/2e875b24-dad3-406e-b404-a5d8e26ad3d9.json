@@ -1,0 +1,23 @@
+{
+  "id": "2e875b24-dad3-406e-b404-a5d8e26ad3d9",
+  "title": "Sanctuary",
+  "slug": "sanctuary",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gcMymRgPXmAQ0SBT3zCBBhkaLr9.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "cs",
+  "release_year": 2022,
+  "duration": 5,
+  "rating": null,
+  "description": "An animal rescuer talks about her experience with adoption of handicapped animals. Sharing stories of an old sick Chihuahua, a paralyzed, French Bulldog and a frightened cat finding their perfect human companion.",
+  "created_at": "2026-07-09T17:37:19.438Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

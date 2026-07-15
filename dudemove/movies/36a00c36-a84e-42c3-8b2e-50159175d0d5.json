@@ -1,0 +1,31 @@
+{
+  "id": "36a00c36-a84e-42c3-8b2e-50159175d0d5",
+  "title": "Pizza Movie",
+  "slug": "pizza-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 98,
+  "rating": 6.4,
+  "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
+  "created_at": "2026-07-09T16:36:32.496Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Pizza.Movie.2026.1080p.WEBRip.x264%20%5BDDN%5D/Pizza.Movie.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

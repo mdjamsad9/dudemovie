@@ -1,0 +1,27 @@
+{
+  "id": "1e32952a-6942-4b86-a0b5-9d44ecbfaa32",
+  "title": "Pallichattambi",
+  "slug": "pallichattambi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1KsdEUHLFe67zOcly9RInz4uaN7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2026,
+  "duration": 128,
+  "rating": 6,
+  "description": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
+  "created_at": "2026-07-09T16:35:48.594Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pallichattambi%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Pallichattambi%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

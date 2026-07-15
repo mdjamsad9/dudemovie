@@ -1,0 +1,31 @@
+{
+  "id": "ca63a32b-7d3d-4ac1-b76d-167197a2e5a0",
+  "title": "Ustaad",
+  "slug": "ustaad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4XXXBmX16q9EwN8iNXnBMPgY8as.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 5.8,
+  "description": "Surya, an aimless youngster, gets emotionally attached to his first bike ‘Ustaad’, playing a catalyst in his personal and professional journey, stimulates him to conquer acrophobia and to become a pilot and to win over the love of his life, Meghna.",
+  "created_at": "2026-07-09T17:31:17.108Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ustaad%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ustaad%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

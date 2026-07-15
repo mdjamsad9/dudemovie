@@ -1,0 +1,31 @@
+{
+  "id": "7c03ffc9-88f3-4462-9314-d78cb2bae32d",
+  "title": "Heart of Stone",
+  "slug": "heart-of-stone",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2023,
+  "duration": 122,
+  "rating": 6.716,
+  "description": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.",
+  "created_at": "2026-07-09T17:35:30.124Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Heart.of.Stone.2023.Hindi-English.1080p.WEBRip.x264%20%5BDDN%5D/Heart.of.Stone.2023.Hindi-English.1080p.WEBRip.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

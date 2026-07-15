@@ -1,0 +1,27 @@
+{
+  "id": "e462f29c-0eee-42a0-b4d3-bf1cec8c88ad",
+  "title": "Malayalee from India",
+  "slug": "malayalee-from-india",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mOqYSsuaDi9D6dh0GRF8gj2ilJQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 158,
+  "rating": 4.2,
+  "description": "Aalparambil Gopi, an unemployed boy, is forced to travel away from home. Fortunately, the journey ends up transforming his life forever.",
+  "created_at": "2026-07-09T17:24:30.753Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Malayalee%20From%20India%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Malayalee%20From%20India%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

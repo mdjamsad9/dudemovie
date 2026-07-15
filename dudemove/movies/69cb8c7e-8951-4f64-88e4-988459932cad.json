@@ -1,0 +1,31 @@
+{
+  "id": "69cb8c7e-8951-4f64-88e4-988459932cad",
+  "title": "The Family Plan",
+  "slug": "the-family-plan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 118,
+  "rating": 7.212,
+  "description": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+  "created_at": "2026-07-09T17:29:48.373Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Family.Plan.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Family.Plan.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

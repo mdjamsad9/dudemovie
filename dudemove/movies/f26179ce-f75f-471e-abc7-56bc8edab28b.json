@@ -1,0 +1,27 @@
+{
+  "id": "f26179ce-f75f-471e-abc7-56bc8edab28b",
+  "title": "Ghost Project",
+  "slug": "ghost-project",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4sbAOlBm59vvLG2RxrwnAibn0uq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 77,
+  "rating": 5.6,
+  "description": "Three young programmers come across an abandoned technology meant to detect supernatural presence. They reverse engineer the tech and create an app for their phones which allows them to see ghosts, thus endangering their own lives.",
+  "created_at": "2026-07-09T17:29:42.924Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Ghost.Project.2023.1080p.WEBRip.x264%20%5BDDN%5D/Ghost.Project.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

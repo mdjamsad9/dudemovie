@@ -1,0 +1,27 @@
+{
+  "id": "8e8ea332-e2c3-4796-b44a-b5af91d01c05",
+  "title": "Palayam PC",
+  "slug": "palayam-pc",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9rSHzEsklpdPFMpd1cUauHIkA9q.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 118,
+  "rating": 5,
+  "description": "A middle-aged police constable, prefers to take night duty at an aid post in Palayam which is relatively risk-free and quite peaceful. Things changed when he was assigned protection duty for the female activist who was under public threat.",
+  "created_at": "2026-07-09T17:08:00.127Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Palayam%20PC%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Palayam%20PC%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

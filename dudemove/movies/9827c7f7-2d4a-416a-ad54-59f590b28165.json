@@ -1,0 +1,27 @@
+{
+  "id": "9827c7f7-2d4a-416a-ad54-59f590b28165",
+  "title": "My Dear Donga",
+  "slug": "my-dear-donga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yCJWZSmUT6axBxJbUsZOXCJCAwx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 103,
+  "rating": 6.667,
+  "description": "A thief breaks into a lone young woman's home. But when he arrives to steal, the woman catches him and threatens him to throw him over to the cops. The thief then extends his hand for a friendship with her, but not without hurdles.",
+  "created_at": "2026-07-09T17:24:56.302Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/My%20Dear%20Donga%20(2024)%20Telugu%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/My%20Dear%20Donga%20(2024)%20Telugu%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

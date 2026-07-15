@@ -1,0 +1,27 @@
+{
+  "id": "04bc6a08-d9f8-4a8d-ad62-1bf75bc45cbd",
+  "title": "V/H/S/Halloween",
+  "slug": "v-h-s-halloween",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 115,
+  "rating": 6.221,
+  "description": "A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.",
+  "created_at": "2026-07-09T16:51:44.415Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/V.H.S.Halloween.2025.1080p.WEBRip.x264%20%5BDDN%5D/V.H.S.Halloween.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "22749e7d-336d-448f-b416-a766a9346adc",
+  "title": "The Amateur",
+  "slug": "the-amateur",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": 6.941,
+  "description": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+  "created_at": "2026-07-09T16:56:55.124Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Amateur.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Amateur.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

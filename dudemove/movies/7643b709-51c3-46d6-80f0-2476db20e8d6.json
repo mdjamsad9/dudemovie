@@ -1,0 +1,31 @@
+{
+  "id": "7643b709-51c3-46d6-80f0-2476db20e8d6",
+  "title": "Konda Polam",
+  "slug": "konda-polam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1KaXM0fsqmgvn5hhtac8QO7XWh7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2021,
+  "duration": 130,
+  "rating": 4.25,
+  "description": "Jobless since four years despite being well-educated, a young man heads to Nallamala forest with his father to help him with konda polam. Will he come out a changed man?",
+  "created_at": "2026-07-09T17:54:37.322Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Konda%20(2022)%20Telugu%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Konda%20(2022)%20Telugu%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "96330af9-1ba4-4fb8-b5aa-6cd38a078585",
+  "title": "Ratham",
+  "slug": "ratham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ArP7qfQtNNBMsrBtqTJlMaVyWjH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 142,
+  "rating": 6.3,
+  "description": "A father grieving his late wife joins a team of journalists investigating a series of interconnected murders.",
+  "created_at": "2026-07-09T17:27:40.240Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raththam%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raththam%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

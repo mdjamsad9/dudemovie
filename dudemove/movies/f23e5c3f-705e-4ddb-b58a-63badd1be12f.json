@@ -1,0 +1,27 @@
+{
+  "id": "f23e5c3f-705e-4ddb-b58a-63badd1be12f",
+  "title": "Apartment 7A",
+  "slug": "apartment-7a",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uipHKJHY1nNEQyprXjfNzH0GIOF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 104,
+  "rating": 6.124,
+  "description": "A struggling young dancer finds herself drawn in by dark forces when a peculiar, well-connected older couple promise her a shot at fame.",
+  "created_at": "2026-07-09T17:12:54.801Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Apartment.7A.2024.1080p.WEBRip.x264%20%5BDDN%5D/Apartment.7A.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

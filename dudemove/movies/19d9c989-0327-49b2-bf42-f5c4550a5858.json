@@ -1,0 +1,27 @@
+{
+  "id": "19d9c989-0327-49b2-bf42-f5c4550a5858",
+  "title": "My Fault: London",
+  "slug": "my-fault-london",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 119,
+  "rating": 7.4,
+  "description": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+  "created_at": "2026-07-09T16:50:54.347Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/My.Fault.London.2025.1080p.WEBRip.x264%20%5BDDN%5D/My.Fault.London.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

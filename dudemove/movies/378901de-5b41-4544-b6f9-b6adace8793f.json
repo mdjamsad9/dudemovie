@@ -1,0 +1,31 @@
+{
+  "id": "378901de-5b41-4544-b6f9-b6adace8793f",
+  "title": "Pearl",
+  "slug": "pearl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 102,
+  "rating": 7.234,
+  "description": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
+  "created_at": "2026-07-09T17:49:34.044Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Pearl.2022.1080p.WEBRip.x264%20%5BDDN%5D/Pearl.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

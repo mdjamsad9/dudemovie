@@ -1,0 +1,27 @@
+{
+  "id": "f479a5c2-dd57-4443-932e-8fe8cc27c7e1",
+  "title": "Sri Sri Sri Raja Vaaru",
+  "slug": "sri-sri-sri-raja-vaaru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aSeadehBiCFKQ3c3jKJpmb8kCDS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": null,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-09T16:56:01.112Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sri%20Sri%20Sri%20RaajaVaru%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sri%20Sri%20Sri%20RaajaVaru%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

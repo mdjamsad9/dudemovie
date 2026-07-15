@@ -1,0 +1,35 @@
+{
+  "id": "10f4cda5-6413-4282-a8c1-5531ecbf3416",
+  "title": "The Devil Conspiracy",
+  "slug": "the-devil-conspiracy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gZCWgbIq2IBDRMJmdx5NeYbbigL.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Italian",
+  "release_year": 2023,
+  "duration": 111,
+  "rating": 6.44,
+  "description": "A powerful biotech company has breakthrough technology allowing them to clone history’s most influential people with just a few fragments of DNA. Behind this company is a cabal of Satanists that steals the shroud of Christ, putting them in possession of Jesus’ DNA. The clone will serve as the ultimate offering to the devil. The Archangel Michael comes to earth and will stop at nothing to end the devil’s conspiracy.",
+  "created_at": "2026-07-09T17:43:04.771Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/The.Devil.Conspiracy.2022.1080p.WEBRip.x264%20%5BDDN%5D/The.Devil.Conspiracy.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

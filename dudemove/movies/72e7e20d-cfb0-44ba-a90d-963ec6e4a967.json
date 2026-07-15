@@ -1,0 +1,27 @@
+{
+  "id": "72e7e20d-cfb0-44ba-a90d-963ec6e4a967",
+  "title": "All Together Now",
+  "slug": "all-together-now",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/njQL31w1IvLo1eYzRBTe5AZFJAz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 8,
+  "description": "Four orphaned children have 30 days to prove that they can remain together as a family without adult supervision. Based on a true story.",
+  "created_at": "2026-07-09T17:57:08.743Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/All.Together.Now.2020.1080p.WEBRip.x264%20%5BDDN%5D/All.Together.Now.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b6a9787b-7272-4c75-912b-8d3af8b30e19",
+  "title": "S I T",
+  "slug": "s-i-t",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yiqQHB0vZg9O6z7VvAefV3fSPqX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hungarian",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.54,
+  "description": "Johnny Kovak joins the Teamsters trade-union in a local chapter in the 1930s and works his way up in the organization. As he climbs higher and higher his methods become more ruthless and finally senator Madison starts a campaign to find the truth about the alleged connections with the Mob.",
+  "created_at": "2026-07-09T17:24:10.823Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/S.I.T.%20%20(2024)%20Hindi%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/S.I.T.%20%20(2024)%20Hindi%20Telugu%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

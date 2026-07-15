@@ -1,0 +1,35 @@
+{
+  "id": "c158cb8b-60bd-452a-9f0a-903f70e2291e",
+  "title": "Ruby Gillman, Teenage Kraken",
+  "slug": "ruby-gillman-teenage-kraken",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ChIb3WzYAcza1vrXR56v510MWk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 7.155,
+  "description": "Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.",
+  "created_at": "2026-07-09T17:36:32.293Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Ruby.Gillman.Teenage.Kraken.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Ruby.Gillman.Teenage.Kraken.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e7ee2712-8fb4-461b-9ee1-8e0e192cde1b",
+  "title": "Valavaara",
+  "slug": "valavaara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Kannada",
+  "release_year": 2026,
+  "duration": 113,
+  "rating": 2,
+  "description": "Amid the misty hills of Sakleshpur, Karnataka, Valavaara unfolds as a sweeping coming-of-age drama about brotherhood, loyalty, and the weight of responsibility. Kundeshi, a quiet boy from a struggling farming family, has always lived in the shadow of his younger brother, Kosudi - their father's clear favorite. When the boys take their pregnant cow out to graze, it vanishes into the countryside and tramples a neighbor's field, setting off a desperate search. With their father's return looming, Kundeshi must track down the animal before disaster strikes. His journey through rugged terrain and simmering family tensions forces him to confront his own insecurities and discover what it truly means to grow up. Lyrical and emotionally charged, Valavaara is a poignant portrait of rural childhood, responsibility, and the fragile bonds that hold families together.",
+  "created_at": "2026-07-09T16:33:29.623Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Valavaara%20(2026)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Valavaara%20(2026)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

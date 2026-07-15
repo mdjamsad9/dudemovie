@@ -1,0 +1,27 @@
+{
+  "id": "49daa3dd-24da-465b-9d95-1e0201c2e412",
+  "title": "Prey for the Devil",
+  "slug": "prey-for-the-devil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 93,
+  "rating": 6.858,
+  "description": "In response to a global rise in demonic possessions, the Catholic Church reopens exorcism schools to train priests in the Rite of Exorcism. On this spiritual battlefield, an unlikely warrior rises: a young nun, Sister Ann. Thrust onto the spiritual frontline with fellow student Father Dante, Sister Ann finds herself in a battle for the soul of a young girl and soon realizes the Devil has her right where he wants her.",
+  "created_at": "2026-07-09T17:46:51.196Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Prey.for.the.Devil.2022.1080p.WEBRip.x264%20%5BDDN%5D/Prey.for.the.Devil.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

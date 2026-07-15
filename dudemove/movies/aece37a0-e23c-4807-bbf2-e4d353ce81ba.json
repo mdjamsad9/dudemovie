@@ -1,0 +1,27 @@
+{
+  "id": "aece37a0-e23c-4807-bbf2-e4d353ce81ba",
+  "title": "Ennalum Ente Aliya",
+  "slug": "ennalum-ente-aliya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w5GKS2Vz8jbtakiNAdiPBaHtNJS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 113,
+  "rating": 5.6,
+  "description": "Two immigrant families who live in the building in Dubai inadvertently square up because of a romantic misunderstanding. Things take a turn when the real culprits of the love affairs are revealed.",
+  "created_at": "2026-07-09T17:44:53.448Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ennalum%20Ente%20Aliya%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ennalum%20Ente%20Aliya%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

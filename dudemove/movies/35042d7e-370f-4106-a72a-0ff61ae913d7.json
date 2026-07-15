@@ -1,0 +1,31 @@
+{
+  "id": "35042d7e-370f-4106-a72a-0ff61ae913d7",
+  "title": "Ishqa'n De Lekhe",
+  "slug": "ishqa-n-de-lekhe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eky8n1Xu5oMDe4iu4pKFCdStHkt.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2026,
+  "duration": 143,
+  "rating": 10,
+  "description": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
+  "created_at": "2026-07-09T16:34:53.559Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Ishqan%20De%20Lekhe%20(2026)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ishqan%20De%20Lekhe%20%282026%29%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

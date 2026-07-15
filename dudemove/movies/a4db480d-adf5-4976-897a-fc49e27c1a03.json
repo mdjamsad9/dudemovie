@@ -1,0 +1,27 @@
+{
+  "id": "a4db480d-adf5-4976-897a-fc49e27c1a03",
+  "title": "Vezham",
+  "slug": "vezham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lNRntU0Ncv7myZPb6EtT9CA9q6e.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 135,
+  "rating": 6.5,
+  "description": "A young man tries to discover the identity of the killers of his girlfriend with only the voice of one of them as his clue.",
+  "created_at": "2026-07-09T17:52:31.519Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

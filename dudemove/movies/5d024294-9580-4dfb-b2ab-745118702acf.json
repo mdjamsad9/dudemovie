@@ -1,0 +1,31 @@
+{
+  "id": "5d024294-9580-4dfb-b2ab-745118702acf",
+  "title": "Flora and Son",
+  "slug": "flora-and-son",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pq2p8ovf8PZps2HafvJaLrZK8gS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 97,
+  "rating": 6.906,
+  "description": "Single mom Flora is at a loss about what to do with her rebellious teenage son, Max. Her efforts to keep him out of trouble lead to a beat-up acoustic guitar, a washed-up LA musician, and harmony for this frayed Dublin family.",
+  "created_at": "2026-07-09T17:33:15.730Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Flora.And.Son.2023.1080p.WEBRip.x264%20%5BDDN%5D/Flora.And.Son.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

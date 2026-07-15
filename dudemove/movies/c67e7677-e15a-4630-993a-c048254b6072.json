@@ -1,0 +1,31 @@
+{
+  "id": "c67e7677-e15a-4630-993a-c048254b6072",
+  "title": "Brothers",
+  "slug": "brothers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Akweo95FGyDpucYVT81h0SbX8Ky.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 89,
+  "rating": 5.868,
+  "description": "A reformed criminal's attempt at going straight is derailed when he reunites with his sanity-testing twin brother on a road trip for the score of a lifetime. Dodging bullets, the law, and an overbearing mother along the way, they must heal their severed family bond before they end up killing each other.",
+  "created_at": "2026-07-09T17:11:57.812Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Brothers.2024.1080p.WEBRip.x264%20%5BDDN%5D/Brothers.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

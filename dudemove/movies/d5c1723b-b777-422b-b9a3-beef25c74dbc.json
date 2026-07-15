@@ -1,0 +1,27 @@
+{
+  "id": "d5c1723b-b777-422b-b9a3-beef25c74dbc",
+  "title": "King of Killers",
+  "slug": "king-of-killers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x5AreOAgkTBzUSL58o4jsYortw2.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 6.274,
+  "description": "Garan is a part of a group of international hitmen who are contracted to take out the most dangerous killer in the world, only to find out that they're the ones being hunted.",
+  "created_at": "2026-07-09T17:34:33.106Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/King.Of.Killers.2023.1080p.WEBRip.x264%20%5BDDN%5D/King.Of.Killers.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

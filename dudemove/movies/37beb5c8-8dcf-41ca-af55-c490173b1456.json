@@ -1,0 +1,27 @@
+{
+  "id": "37beb5c8-8dcf-41ca-af55-c490173b1456",
+  "title": "Barbarian",
+  "slug": "barbarian",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 103,
+  "rating": 6.854,
+  "description": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+  "created_at": "2026-07-09T17:49:18.098Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Barbarian.2022.1080p.WEBRip.x264%20%5BDDN%5D/Barbarian.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

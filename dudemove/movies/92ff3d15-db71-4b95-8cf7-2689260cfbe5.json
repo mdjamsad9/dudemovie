@@ -1,0 +1,27 @@
+{
+  "id": "92ff3d15-db71-4b95-8cf7-2689260cfbe5",
+  "title": "The Operative",
+  "slug": "the-operative",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7fojgblOYLelv0yi9OczouCfR16.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Hebrew",
+  "release_year": 2019,
+  "duration": 120,
+  "rating": 5.85,
+  "description": "A young Western woman is recruited by the Mossad to go undercover in Tehran where she becomes entangled in a complex triangle with her handler and her subject.",
+  "created_at": "2026-07-09T17:57:35.682Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/The.Operative.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D/The.Operative.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

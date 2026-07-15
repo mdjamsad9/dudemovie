@@ -1,0 +1,23 @@
+{
+  "id": "d29f4dce-fad4-4a70-8b13-004b2c622365",
+  "title": "Phullwanti",
+  "slug": "phullwanti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1vZBlfnbFAiwedoBTBohJH2LD9O.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Marathi",
+  "release_year": 2024,
+  "duration": 130,
+  "rating": 6.5,
+  "description": "An esteemed, prestigious court dancer is challenged by the holistic views of society as she is seen as an impure woman who just entertains, but the dancer decides to go against the grain and prove to the people that it's their view what's impure, not her.",
+  "created_at": "2026-07-09T16:49:35.937Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Phullwanti%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Phullwanti%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

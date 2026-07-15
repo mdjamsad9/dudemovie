@@ -1,0 +1,31 @@
+{
+  "id": "e3394dc2-bbb3-4dfe-b91f-980400a158b9",
+  "title": "Detective Knight: Independence",
+  "slug": "detective-knight-independence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 5.302,
+  "description": "Detective James Knight 's last-minute assignment to the Independence Day shift turns into a race to stop an unbalanced ambulance EMT from imperiling the city's festivities. The misguided vigilante, playing cop with a stolen gun and uniform, has a bank vault full of reasons to put on his own fireworks show... one that will strike dangerously close to Knight's home.",
+  "created_at": "2026-07-09T17:45:30.781Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Detective.Knight.Independence.2023.1080p.WEBRip.x264%20%5BDDN%5D/Detective.Knight.Independence.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "56e0a740-916a-4857-b9a2-4413c6e1c484",
+  "title": "Thugs",
+  "slug": "thugs",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pZK0AkM2YT9dNjZfRaNWDu1kkuJ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 122,
+  "rating": 3,
+  "description": "Sethu, along with his prison inmates, plots a plan to escape from the district jail of Nagercoil. Can these remand prisoners carry out their plan despite all the odds they face every day?",
+  "created_at": "2026-07-09T17:43:18.884Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Konaseema%20Thugs%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Konaseema%20Thugs%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

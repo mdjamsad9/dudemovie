@@ -1,0 +1,31 @@
+{
+  "id": "f5f73872-ecf3-4893-b2b2-5f8fbbd304af",
+  "title": "Raakshasa Kaavyam",
+  "slug": "raakshasa-kaavyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ulVKVm5toOrK5APqUD6kD1GSyRb.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 132,
+  "rating": 6,
+  "description": "Ajay is a contract killer who has immense respect for students, and on the other hand, Vijay wants to make films highlighting antagonists. What happens when the duo go about realizing their goals with mad determination?",
+  "created_at": "2026-07-09T17:29:53.367Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raakshasa%20Kaavyam%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raakshasa%20Kaavyam%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

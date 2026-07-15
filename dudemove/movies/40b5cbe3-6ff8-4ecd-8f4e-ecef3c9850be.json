@@ -1,0 +1,27 @@
+{
+  "id": "40b5cbe3-6ff8-4ecd-8f4e-ecef3c9850be",
+  "title": "Buffoon",
+  "slug": "buffoon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f46akXMSZyQE1CuSBBs6DhT710k.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 119,
+  "rating": 5.5,
+  "description": "Two Koothu artistes become pawns in a political power game and are falsely implicated in a drug smuggling case. For how long can they evade a determined police hunt?",
+  "created_at": "2026-07-09T17:49:39.618Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Buffoon%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Buffoon%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

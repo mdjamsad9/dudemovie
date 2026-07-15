@@ -1,0 +1,27 @@
+{
+  "id": "2660a07a-06a5-43d3-9283-e5a71aad6aa3",
+  "title": "Somewhere in Queens",
+  "slug": "somewhere-in-queens",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zXr6AziPii0NFpbTANNpLrOPxRP.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 106,
+  "rating": 6.3,
+  "description": "Leo and Angela Russo live a simple life in Queens, surrounded by their overbearing Italian-American family. When their son finds success on his high school basketball team, Leo tears the family apart trying to make it happen.",
+  "created_at": "2026-07-09T17:38:24.830Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Somewhere.In.Queens.2022.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Somewhere.In.Queens.2022.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

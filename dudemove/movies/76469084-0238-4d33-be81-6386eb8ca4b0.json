@@ -1,0 +1,31 @@
+{
+  "id": "76469084-0238-4d33-be81-6386eb8ca4b0",
+  "title": "Civil War",
+  "slug": "civil-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 109,
+  "rating": 6.859,
+  "description": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+  "created_at": "2026-07-09T17:23:36.665Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Civil.War.2024.1080p.WEBRip.x264%20%5BDDN%5D/Civil.War.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "159cbe56-3552-40f3-9f98-d20f57340d93",
+  "title": "Coffee With A Killer",
+  "slug": "coffee-with-a-killer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9FC5yYiz9JVruKWbxTuiWVZcbbY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "te",
+  "release_year": 2025,
+  "duration": 101,
+  "rating": null,
+  "description": "In 'Coffee with a Killer', a ruthless man receives a contract for an illegal activity. On this mission, he enters a coffee shop and observes his surroundings. Each table is filled with many stories. Who is the hitman's target? How does he do the job?",
+  "created_at": "2026-07-09T17:03:04.254Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Coffee%20with%20a%20Killer%20(2025)%20Telugu%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Coffee%20with%20a%20Killer%20(2025)%20Telugu%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

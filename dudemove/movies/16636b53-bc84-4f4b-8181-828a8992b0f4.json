@@ -1,0 +1,27 @@
+{
+  "id": "16636b53-bc84-4f4b-8181-828a8992b0f4",
+  "title": "Viyaah Kartaare Da",
+  "slug": "viyaah-kartaare-da",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oypl2SgvWqPhPGERB4n7Dhml3og.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2026,
+  "duration": 120,
+  "rating": null,
+  "description": "A cunning but lazy man fakes his corrupt father's death to take over his police position, but chaos ensues when his father suddenly awakens from a coma.",
+  "created_at": "2026-07-09T16:34:58.838Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Viyaah%20Kartaare%20Da%20(2026)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Viyaah%20Kartaare%20Da%20%282026%29%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

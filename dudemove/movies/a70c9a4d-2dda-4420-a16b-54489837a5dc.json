@@ -1,0 +1,35 @@
+{
+  "id": "a70c9a4d-2dda-4420-a16b-54489837a5dc",
+  "title": "5lbs of Pressure",
+  "slug": "5lbs-of-pressure",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/toEJOPYvM7Na0XwM8exg8aHq553.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 111,
+  "rating": 5.892,
+  "description": "Fresh out of prison after serving time for murder, Adam returns to his old stomping grounds to seek out a son who doesn't know him. Eli, the brother of the man he killed is looking for revenge. Mike, is trying to escape a life of crime living under the thumb of his gangster Uncle.",
+  "created_at": "2026-07-09T17:26:10.143Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/5lbs.Of.Pressure.2024.1080p.WEBRip.x264%20%5BDDN%5D/5lbs.Of.Pressure.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

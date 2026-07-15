@@ -1,0 +1,31 @@
+{
+  "id": "6dc1d525-510b-42e2-b28e-8e1ede72b86b",
+  "title": "The Sunlit Night",
+  "slug": "the-sunlit-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/crMgeJWwAPhcE5kE8QLiVdhuyJe.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Norwegian",
+  "release_year": 2020,
+  "duration": 78,
+  "rating": 5.439,
+  "description": "An aspiring painter meets eccentric locals and a fellow New Yorker while working on a barn in Norway.",
+  "created_at": "2026-07-09T17:57:13.726Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/The.Sunlit.Night.2019.1080p.WEBRip.x264.AAC%20%5BDDN%5D/The.Sunlit.Night.2019.1080p.WEBRip.x264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

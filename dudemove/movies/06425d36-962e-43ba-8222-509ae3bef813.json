@@ -1,0 +1,31 @@
+{
+  "id": "06425d36-962e-43ba-8222-509ae3bef813",
+  "title": "My Dearest Assassin",
+  "slug": "my-dearest-assassin",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Thai",
+  "release_year": 2026,
+  "duration": 128,
+  "rating": 8.656,
+  "description": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+  "created_at": "2026-07-09T16:33:49.173Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/My%20Dearest%20Assassin%20(2026)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/My%20Dearest%20Assassin%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

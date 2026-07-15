@@ -1,0 +1,31 @@
+{
+  "id": "14ed7973-8de0-4b74-bc95-0d3e2ff41a89",
+  "title": "Anora",
+  "slug": "anora",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 139,
+  "rating": 7.072,
+  "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+  "created_at": "2026-07-09T17:05:56.370Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Anora.2024.1080p.WEBRip.x264%20%5BDDN%5D/Anora.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "54f3c86e-43ce-4bde-a361-2170b53855d2",
+  "title": "Totally Killer",
+  "slug": "totally-killer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 104,
+  "rating": 6.788,
+  "description": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+  "created_at": "2026-07-09T17:32:33.123Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Totally.Killer.2023.1080p.WEBRip.x264%20%5BDDN%5D/Totally.Killer.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

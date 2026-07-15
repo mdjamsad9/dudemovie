@@ -1,0 +1,27 @@
+{
+  "id": "386f69ac-540d-4a80-8ca6-a6836291e78e",
+  "title": "Balagam",
+  "slug": "balagam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m5Wtp4BcMm6Z03rjik11AS5UYhd.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 131,
+  "rating": 7,
+  "description": "A boisterous, bawdy, meddling village patriarch Komurayya’s death just before the engagement changes the course of  his grandson Saayilu's life and the other family members, rattling some skeletons in the closet, exposing the rifts present within the family, causing bigger sociological calamities in the small village.",
+  "created_at": "2026-07-09T17:43:06.720Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Balagam%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Balagam%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

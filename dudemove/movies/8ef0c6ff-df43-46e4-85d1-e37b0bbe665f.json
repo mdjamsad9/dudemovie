@@ -1,0 +1,27 @@
+{
+  "id": "8ef0c6ff-df43-46e4-85d1-e37b0bbe665f",
+  "title": "Vallavanukkum Vallavan",
+  "slug": "vallavanukkum-vallavan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zU03B7EcswGLPxYupCR4HRG3dei.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 121,
+  "rating": null,
+  "description": "Two conmen, who believe that money can solve all their problems, decide to extract money from wrongdoers. Trouble begins when a mad policeman crosses their way.",
+  "created_at": "2026-07-09T17:45:29.400Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vallavanukkum%20Vallavan%20(2023)%20Tamil%C2%A0HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Vallavanukkum%20Vallavan%20(2023)%20Tamil%c2%a0HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

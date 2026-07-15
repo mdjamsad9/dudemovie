@@ -1,0 +1,31 @@
+{
+  "id": "001ea8aa-7119-4bb8-83e0-97339c3403c4",
+  "title": "Odavum Mudiyadhu Oliyavum Mudiyadhu",
+  "slug": "odavum-mudiyadhu-oliyavum-mudiyadhu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5ERUX1SjUaqKBL8FO9cIGDD2UWA.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 111,
+  "rating": 7,
+  "description": "A diverse group is trapped in a quirky theatre and ends up discovering its mysterious secrets. As they attempt to escape, a strange twist leaves them questioning reality.",
+  "created_at": "2026-07-09T17:28:00.240Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Odavum%20Mudiyadhu%20Oliyavum%20Mudiyadhu%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Odavum%20Mudiyadhu%20Oliyavum%20Mudiyadhu%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

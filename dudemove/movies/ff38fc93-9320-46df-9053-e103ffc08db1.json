@@ -1,0 +1,27 @@
+{
+  "id": "ff38fc93-9320-46df-9053-e103ffc08db1",
+  "title": "Thimmarusu: Assignment Vali",
+  "slug": "thimmarusu-assignment-vali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9dieUbTLijMnE9gKV8qt4Byc6Cx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2021,
+  "duration": 127,
+  "rating": 7.8,
+  "description": "After a cab driver is found dead, a young pub employee is framed for the murder and is sent to jail for 8 years. When he comes out on parole, a young lawyer takes up the case to prove his innocence.",
+  "created_at": "2026-07-09T17:55:30.059Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thimmarasan%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thimmarasan%20(2022)%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5e9467d9-0f88-4a84-b433-f3ec9d987d37",
+  "title": "Antrum",
+  "slug": "antrum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/20de4Rcmy4B0L5zyOc3Nc5F7c0D.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Hungarian",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 5.79,
+  "description": "Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” the very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.",
+  "created_at": "2026-07-09T17:41:49.385Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2018/Antrum.The.Deadliest.Film.Ever.Made.2018.1080p.WEBRip.x264%20%5BDDN%5D/Antrum.The.Deadliest.Film.Ever.Made.2018.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

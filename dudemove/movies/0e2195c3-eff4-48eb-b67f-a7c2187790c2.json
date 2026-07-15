@@ -1,0 +1,27 @@
+{
+  "id": "0e2195c3-eff4-48eb-b67f-a7c2187790c2",
+  "title": "Aarambham",
+  "slug": "aarambham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kDUMoN9b6B4196Lz382GrBzH6eR.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 6.7,
+  "description": "Prisoner No. 299 is on the death row at Kalaghati Jail, One night before his death penalty, He vanishes from his cell.  Chaitanya & Madhav are the detectives assigned to this case and with no clue left other than a diary written by Miguel, they should solve this mystery and find out where is miguel gone",
+  "created_at": "2026-07-09T17:15:51.636Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aarambham%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aarambham%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "176b10fa-0094-44c5-88dc-2e5d7210d219",
+  "title": "Vaathi",
+  "slug": "vaathi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zG3V1ZGzr9pRnN4y5YjupDEaSAZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 137,
+  "rating": 6.733,
+  "description": "An assistant maths teacher takes up a tedious task of transforming underprivileged students despite the politics around education in the 90s.",
+  "created_at": "2026-07-09T17:42:15.469Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vaathi%20(2023)%20Hindi%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Vaathi%20(2023)%20Hindi%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

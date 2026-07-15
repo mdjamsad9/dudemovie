@@ -1,0 +1,23 @@
+{
+  "id": "9cc1d5d3-0e2d-46b2-9a38-e18f9cf2f527",
+  "title": "The Last Rodeo",
+  "slug": "the-last-rodeo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 118,
+  "rating": 7.6,
+  "description": "A retired rodeo legend risks it all to save his grandson. Facing his own painful past and the fears of his family, he enters a high-stakes bullriding competition as the oldest contestant ever. Along the way, he reconciles old wounds with his estranged daughter and proves that true courage is found in the fight for family.",
+  "created_at": "2026-07-09T16:56:26.591Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Last.Rodeo.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Last.Rodeo.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

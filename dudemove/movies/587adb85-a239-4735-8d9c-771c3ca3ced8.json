@@ -1,0 +1,35 @@
+{
+  "id": "587adb85-a239-4735-8d9c-771c3ca3ced8",
+  "title": "Toby",
+  "slug": "toby",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/duuhplJUxzKqpX54F96igKddvLW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2023,
+  "duration": 153,
+  "rating": 7,
+  "description": "An estranged man deemed to be a beast vows to break free from the evil world and transform himself for his foster daughter.",
+  "created_at": "2026-07-09T17:28:53.646Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Toby%20(2023)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Toby%20(2023)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

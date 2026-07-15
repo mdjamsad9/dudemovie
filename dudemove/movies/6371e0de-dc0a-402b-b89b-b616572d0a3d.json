@@ -1,0 +1,31 @@
+{
+  "id": "6371e0de-dc0a-402b-b89b-b616572d0a3d",
+  "title": "Kotha Kothaga",
+  "slug": "kotha-kothaga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nw7eV7hsqCA2DsBD6XidPmDHNgw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 120,
+  "rating": null,
+  "description": "Sidhu, a simpleton studying in an engineering college, falls for Rajee, his wealthy junior. An incident in Rajee's 10th class makes her draw clear-cut boundaries with boys, making Sidhu’s life difficult, and he struggles to communicate his love for her.",
+  "created_at": "2026-07-09T17:51:27.507Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kotha%20Kothaga%20(2022)%20Telugu%20Pre-DVD%20-%20720p%20-%20x264%20%5BDDN%5D/Kotha%20Kothaga%20(2022)%20Telugu%20Pre-DVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

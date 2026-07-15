@@ -1,0 +1,31 @@
+{
+  "id": "326bbc46-be16-461b-a400-55f557a11a5c",
+  "title": "Slanted",
+  "slug": "slanted",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2026,
+  "duration": 104,
+  "rating": 6.057,
+  "description": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+  "created_at": "2026-07-09T16:36:08.798Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Slanted.2025.1080p.WEBRip.x264%20%5BDDN%5D/Slanted.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

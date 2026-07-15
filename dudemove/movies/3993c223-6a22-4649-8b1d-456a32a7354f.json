@@ -1,0 +1,31 @@
+{
+  "id": "3993c223-6a22-4649-8b1d-456a32a7354f",
+  "title": "Plane",
+  "slug": "plane",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Turkish",
+  "release_year": 2023,
+  "duration": 107,
+  "rating": 6.898,
+  "description": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+  "created_at": "2026-07-09T17:44:49.819Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Plane.2023.1080p.WEBRip.x264%20%5BDDN%5D/Plane.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

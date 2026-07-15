@@ -1,0 +1,27 @@
+{
+  "id": "17ff91d2-9e20-4160-aefe-79350bcba5a4",
+  "title": "The Smile Man",
+  "slug": "the-smile-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2VQ1fH5GovXxc3xC6BY81zE93fq.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 7.379,
+  "description": "A gentleman deals with the consequences of a car accident, which has left him with a spinal injury that means he has a permanent smile on his face.",
+  "created_at": "2026-07-09T17:05:19.404Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/The%20Smile%20Man%20(2024)%C2%A0Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/The%20Smile%20Man%20(2024)%c2%a0Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

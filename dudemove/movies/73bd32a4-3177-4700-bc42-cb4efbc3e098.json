@@ -1,0 +1,31 @@
+{
+  "id": "73bd32a4-3177-4700-bc42-cb4efbc3e098",
+  "title": "Lock Upp",
+  "slug": "lock-upp",
+  "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8kzZYUYnBQgeSaXgZ6dTkVyMT6tseEYKYXa94MyBj7vK1q-Jj62BcDw&s=10",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 90,
+  "rating": 9.2,
+  "description": "Fifteen inmates enter a new-age jail where they must confront unflattering labels, shocking secrets and harsh criticism from each other.",
+  "created_at": "2026-07-04T10:45:20.443Z",
+  "genres": [
+    {
+      "name": "All Genres",
+      "slug": "all-genres"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

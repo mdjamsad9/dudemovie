@@ -1,0 +1,27 @@
+{
+  "id": "2cb93be2-8198-4433-8f5f-cd6afa12d26c",
+  "title": "When You Finish Saving the World",
+  "slug": "when-you-finish-saving-the-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 88,
+  "rating": 5.81,
+  "description": "Evelyn and her oblivious son Ziggy seek out replacements for each other. As Evelyn tries to parent an unassuming teenager at her shelter, Ziggy fumbles through his pursuit of a brilliant young woman at school.",
+  "created_at": "2026-07-09T17:45:14.657Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/When.You.Finish.Saving.the.World.2022.1080p.WEBRip.x264%20%5BDDN%5D/When.You.Finish.Saving.the.World.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d2c9d301-e34c-44cc-9cb4-c5e60fd86db3",
+  "title": "London Rampage",
+  "slug": "london-rampage",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9cmWHh1c7Q76G5S8HAJ1yTM4sLn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 6.2,
+  "description": "One man's fight to free his brother from a rough estate leads to a tournament to secure the new leader of the estate.",
+  "created_at": "2026-07-09T17:58:13.363Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2018/London.Rampage.2018.1080p.WEBRip.x264%20%5BDDN%5D/London.Rampage.2018.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

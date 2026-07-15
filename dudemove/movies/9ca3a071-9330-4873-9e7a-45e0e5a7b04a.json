@@ -1,0 +1,31 @@
+{
+  "id": "9ca3a071-9330-4873-9e7a-45e0e5a7b04a",
+  "title": "Dungeons & Dragons: Honor Among Thieves",
+  "slug": "dungeons-dragons-honor-among-thieves",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": 7.353,
+  "description": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+  "created_at": "2026-07-09T17:40:20.238Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.WEBRip.x264%20%5BDDN%5D/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dbe4835f-4fbb-4045-92bf-9cb046a0a685",
+  "title": "Double iSmart",
+  "slug": "double-ismart",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwaitETl1wiQ9kgOMxIuNOawcJP.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 162,
+  "rating": 3.8,
+  "description": "Big Bull, a notorious assassin, wants to achieve immortality by transferring his memories to \"iSmart\" Shankar, who already has another's person's memories, leading to the intense confrontation between Shankar and Big Bull.",
+  "created_at": "2026-07-09T17:12:04.341Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Double%20Ismart%20(2024)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Double%20Ismart%20(2024)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "331c71a4-d03c-4779-a469-1b96bfd23bcd",
+  "title": "Apocalypse Z: The Beginning of the End",
+  "slug": "apocalypse-z-the-beginning-of-the-end",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Arabic",
+  "release_year": 2024,
+  "duration": 119,
+  "rating": 6.73,
+  "description": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+  "created_at": "2026-07-09T17:10:45.809Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Apocalypse%20Z%20The%20Beginning%20of%20the%20End%20(2024)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Apocalypse%20Z%20The%20Beginning%20of%20the%20End%20%282024%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

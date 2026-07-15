@@ -1,0 +1,27 @@
+{
+  "id": "026745e3-635e-474d-8cdf-513b35736c1e",
+  "title": "Miriam Maa",
+  "slug": "miriam-maa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWKX3pxzJgkVRNsbaKQAxRfuTGJ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "Miriam Maa is a Comical Family Drama That Revolves Around Four Main Characters. It’s All About a 50years Old Single Mother Who Wants to Get Pregnant via Ivf and the Reason Behind Her Bold Decision at This Age Despite Her Social Circumstances and a Strong Opposition From Her Own Family.",
+  "created_at": "2026-07-09T17:27:10.480Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Miriam%20Maa%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Miriam%20Maa%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

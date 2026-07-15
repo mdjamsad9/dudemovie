@@ -1,0 +1,27 @@
+{
+  "id": "3bae8325-a05d-4a85-8d83-7dae15c17643",
+  "title": "Asphalt City",
+  "slug": "asphalt-city",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qXcd7wY7MmRs36fQt83iSMJelvV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 120,
+  "rating": 6.2,
+  "description": "A young paramedic is paired with a seasoned partner on the night shift in New York revealing a city in crisis. Discovering the chaos firsthand, he is tested with the ethical ambiguity that can be the difference between life and death.",
+  "created_at": "2026-07-09T17:24:52.287Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Asphalt.City.2023.1080p.WEBRip.x264%20%5BDDN%5D/Asphalt.City.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

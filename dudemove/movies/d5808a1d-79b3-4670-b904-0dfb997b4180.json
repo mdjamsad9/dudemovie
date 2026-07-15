@@ -1,0 +1,31 @@
+{
+  "id": "d5808a1d-79b3-4670-b904-0dfb997b4180",
+  "title": "Diddy: Monster's Fall",
+  "slug": "diddy-monster-s-fall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nNW5MBRe0zoeyyRVnfOq3cuYzqn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 60,
+  "rating": 5.8,
+  "description": "Disgraced hip-hop mogul, Sean 'Diddy' Combs could no longer buy his way out of trouble when a September 2024 grand jury indicted Combs on a racketeering conspiracy including sex trafficking, forced labor, and bribery. No bail meant jail.",
+  "created_at": "2026-07-09T17:04:34.794Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Diddy.Monsters.Fall.2025.1080p.WEBRip.x264%20%5BDDN%5D/Diddy.Monsters.Fall.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

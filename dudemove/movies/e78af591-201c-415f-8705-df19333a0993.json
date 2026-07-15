@@ -1,0 +1,23 @@
+{
+  "id": "e78af591-201c-415f-8705-df19333a0993",
+  "title": "Corona Dhavan",
+  "slug": "corona-dhavan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mSTP9tOzoKdlFvIiIXvVnzItbou.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 4.5,
+  "description": "A village reliant on a consistent supply of alcohol is rocked by the Coronavirus pandemic lockdowns.",
+  "created_at": "2026-07-09T17:32:04.572Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Corona%20Dhavan%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Corona%20Dhavan%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

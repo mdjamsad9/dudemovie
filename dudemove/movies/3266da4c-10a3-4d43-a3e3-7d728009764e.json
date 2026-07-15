@@ -1,0 +1,27 @@
+{
+  "id": "3266da4c-10a3-4d43-a3e3-7d728009764e",
+  "title": "Insidious: The Red Door",
+  "slug": "insidious-the-red-door",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 107,
+  "rating": 6.512,
+  "description": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+  "created_at": "2026-07-09T17:35:57.937Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Insidious.The.Red.Door.2023.1080p.WEBRip.x264%20%5BDDN%5D/Insidious.The.Red.Door.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

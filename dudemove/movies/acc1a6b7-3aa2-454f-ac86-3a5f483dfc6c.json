@@ -1,0 +1,31 @@
+{
+  "id": "acc1a6b7-3aa2-454f-ac86-3a5f483dfc6c",
+  "title": "Nenu Student Sir!",
+  "slug": "nenu-student-sir",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uCioTenCVELAe8csXyP0XcexQ7Q.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 128,
+  "rating": 6,
+  "description": "Subbu, a college student, buys an iPhone and gets entangled in a murder case linked to the device. He receives a large sum of money in his bank account and faces challenges proving his innocence.",
+  "created_at": "2026-07-09T17:38:48.853Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Nenu%20Student%20Sir!%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Nenu%20Student%20Sir!%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

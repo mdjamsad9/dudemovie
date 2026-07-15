@@ -1,0 +1,23 @@
+{
+  "id": "b470572d-1d34-4e10-bbb7-428fe3e5f5d8",
+  "title": "Denmark",
+  "slug": "denmark",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qeaxgyhHs6OfXO9em7xa0RUAuGp.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Danish",
+  "release_year": 2019,
+  "duration": 91,
+  "rating": 6.156,
+  "description": "Herb’s life is a mess. He’s lost his welfare, can’t hold a job, can’t talk to his son, has a neighbour who won’t shut up and a diet that consists mainly of cheap beer and mushy peas. It’s no way to live and he knows it.  Then he learns from a TV news report that Danish prisoners have it way better than he does: a job, accessible healthcare, the quiet of the countryside, even an HDTV. They’re practically living in hotels.  He says goodbye (and good riddance) to his dingy flat and smuggles himself to Denmark aboard a cargo ship, landing in a quaint town with everything he needs -- including a bank to rob. But when he meets a friendly local barmaid and a lovable stray dog that won’t leave his side, he begins to wonder if prison really is his only chance of a fulfilling life.",
+  "created_at": "2026-07-09T17:56:36.620Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Denmark.2019.1080p.WEBRip.x264%20%5BDDN%5D/Denmark.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

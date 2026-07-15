@@ -1,0 +1,31 @@
+{
+  "id": "14add4c3-24c8-4813-8d45-f9cb7ebeb24b",
+  "title": "King of Kotha",
+  "slug": "king-of-kotha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjeEQfZCgoPaAZ1wRFMEsjNZ1Zk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 174,
+  "rating": 5.8,
+  "description": "Kannan is a gangster who rules the crime-infested town of Kotha. After getting humiliated by Kannan and his men, CI Shahul Haasan tactfully plots the return of former gangster named Kotha Rajendran alias \"Raju\", thus leading to a transformative turn of events.",
+  "created_at": "2026-07-09T17:33:20.305Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/King%20of%20Kotha%20(2023)%20Hindi%20Line%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/King%20of%20Kotha%20(2023)%20Hindi%20Line%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cbecc3de-e808-4dd1-986b-bd6e3eefbb79",
+  "title": "Don't Worry Darling",
+  "slug": "don-t-worry-darling",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 123,
+  "rating": 6.764,
+  "description": "Alice and Jack are lucky to be living in the idealized community of Victory, the experimental company town housing the men who work for the top-secret Victory Project and their families. But when cracks in their idyllic life begin to appear, exposing flashes of something much more sinister lurking beneath the attractive façade, Alice can’t help questioning exactly what they’re doing in Victory, and why.",
+  "created_at": "2026-07-09T17:49:21.915Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Dont.Worry.Darling.2022.1080p.WEBRip.x264%20%7BDDN%5D/Dont.Worry.Darling.2022.1080p.WEBRip.x264%20%7bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

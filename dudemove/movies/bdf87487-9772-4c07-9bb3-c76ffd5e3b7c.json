@@ -1,0 +1,35 @@
+{
+  "id": "bdf87487-9772-4c07-9bb3-c76ffd5e3b7c",
+  "title": "Veera Dheera Sooran: Part 2",
+  "slug": "veera-dheera-sooran-part-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6iiWsXJ31BVbypWwzvoPKx24NFQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 162,
+  "rating": 6.8,
+  "description": "Kaali is a provision store owner and a loving husband and father, is brought back into the life of crime, when his former boss's son is being hunted by the police.",
+  "created_at": "2026-07-09T17:00:47.805Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Veera.Dheera.Sooran.2025.720p.PREDvD.Tamil.x264%20%5BDDN%5D/Veera.Dheera.Sooran.2025.720p.PREDvD.Tamil.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

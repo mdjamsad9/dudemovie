@@ -1,0 +1,27 @@
+{
+  "id": "12e87195-b899-46b4-aa04-d5029bd8b3fe",
+  "title": "Inga Naan Thaan Kingu",
+  "slug": "inga-naan-thaan-kingu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7RUoduIDFJmiRfSmxJSSxJI67xT.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 131,
+  "rating": 5,
+  "description": "Vetri, a hapless bachelor gets tricked into marrying into a debt-ridden Zamindar family. When a terrorist’s death happens inside Vetri’s apartment, he and his goofy in-laws embark on a chaotic heist to retrieve the body from the mortuary and claim their reward.",
+  "created_at": "2026-07-09T17:17:53.830Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Inga%20Naan%20Thaan%20Kingu%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Inga%20Naan%20Thaan%20Kingu%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

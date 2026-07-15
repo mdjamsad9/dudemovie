@@ -1,0 +1,23 @@
+{
+  "id": "66922d62-4a9a-475e-80fb-5492b73f6792",
+  "title": "Vacation Friends 2",
+  "slug": "vacation-friends-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 106,
+  "rating": 6.29,
+  "description": "Newly married Marcus and Emily invite Ron and Kyla, who are also newly married with a baby, to join them at a Caribbean resort, where Marcus is meeting with the owners about a construction contract for a Chicago hotel. But when the party begins the couples' relaxing vacation quickly becomes a wild adventure.",
+  "created_at": "2026-07-09T17:34:57.062Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Vacation.Friends.2.2023.1080p.WEBRip.x264%20%5BDDN%5D/Vacation.Friends.2.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

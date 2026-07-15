@@ -1,0 +1,31 @@
+{
+  "id": "49d61fd0-29ef-45a5-98e2-0dd1ef7f1f9a",
+  "title": "Maya Petika",
+  "slug": "maya-petika",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g1ujQuYNHdw5WX47f5Asw3KHUml.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 142,
+  "rating": 4,
+  "description": "Follows the journey of a brand new smartphone that changes hands from one person to another and how the lives of all who possess it starting from popular actress Payal and her fiancee Pranay, Mayor Malliswari, Corporator Kameshwar Rao, car mechanic Ali, Aasra, Watchman Narayana, his wife, thief Srinu get affected.",
+  "created_at": "2026-07-09T17:34:25.290Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mayapetika%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mayapetika%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

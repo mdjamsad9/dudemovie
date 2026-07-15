@@ -1,0 +1,23 @@
+{
+  "id": "c09d5924-4299-4c0f-8826-616002e6cfd6",
+  "title": "Stan Lee",
+  "slug": "stan-lee",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 86,
+  "rating": 7.12,
+  "description": "Celebrate the legacy of Stan Lee as the co-creator of such legendary characters as Fantastic Four, Iron Man, the X-Men, The Avengers, and hundreds more.",
+  "created_at": "2026-07-09T17:11:53.300Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Lee.2023.1080p.WEBRip.x264%20%5BDDN%5D/Lee.2023.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

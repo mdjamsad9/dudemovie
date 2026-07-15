@@ -1,0 +1,27 @@
+{
+  "id": "3d5a2841-c393-42a4-8d42-17876eaf1f9e",
+  "title": "Oh My Dog",
+  "slug": "oh-my-dog",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9mRbPM6EzzfIKSD7PVdwKWFTibF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 121,
+  "rating": 5.5,
+  "description": "A school kid rescues a blind Siberian Husky to prove its worth to the outside world where it was neglected.",
+  "created_at": "2026-07-09T17:55:40.459Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Oh%20My%20Dog%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Oh%20My%20Dog%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

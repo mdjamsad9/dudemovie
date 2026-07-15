@@ -1,0 +1,23 @@
+{
+  "id": "d06f47cf-492b-4811-99fd-481f03022ec8",
+  "title": "Khalnigranaaya",
+  "slug": "khalnigranaaya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d5MDrJ2LAk9ETZwSzVgoOxYxif0.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 97,
+  "rating": null,
+  "description": "A committed ACP faces his toughest challenge as his newly born child is kidnapped by anonymous culprits. Racing against them, he strives to reclaim his baby safely.",
+  "created_at": "2026-07-09T16:52:42.865Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Khalnigranaaya%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Khalnigranaaya%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

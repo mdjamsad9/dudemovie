@@ -1,0 +1,27 @@
+{
+  "id": "cea4bf36-566f-4f78-a36b-0e3145319c97",
+  "title": "Sree Dhanya Catering Service",
+  "slug": "sree-dhanya-catering-service",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wIU2PwKEzDUUMGV9OdFCrjXVq0f.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 96,
+  "rating": 5,
+  "description": "Hilarity ensues when a group of men in a small village in Kottayam get together to cook Biryani for a birthday party. The friendly banter over regional variations in recipes and style devolves into heated but entertaining discussions.",
+  "created_at": "2026-07-09T17:48:09.117Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sree%20Dhanya%20Catering%20Service%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sree%20Dhanya%20Catering%20Service%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

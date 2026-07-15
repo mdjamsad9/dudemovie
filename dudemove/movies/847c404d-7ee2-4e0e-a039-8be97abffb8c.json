@@ -1,0 +1,27 @@
+{
+  "id": "847c404d-7ee2-4e0e-a039-8be97abffb8c",
+  "title": "Pulikkuthi Pandi",
+  "slug": "pulikkuthi-pandi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zLV3g0jdEMF427tFEk9pKfzr5Mf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2021,
+  "duration": 140,
+  "rating": 4.5,
+  "description": "A ruthless youngster becomes a kind and humble husband for his wife but as fate turns brutal, his patience is tested.",
+  "created_at": "2026-07-09T17:29:41.258Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pulikkuthi%20Pandi%20(2021)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pulikkuthi%20Pandi%20(2021)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

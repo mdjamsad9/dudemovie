@@ -1,0 +1,27 @@
+{
+  "id": "e5afd086-7704-4e84-bb82-a5a70794aa32",
+  "title": "Home Minister",
+  "slug": "home-minister",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bOScueRyLWppRDsSeP8Amjk0nPg.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": null,
+  "description": "Home Minister is a Kannada movie, directed by Sujay K Srihari. The film is a family drama with a political backdrop, which stars Upendra and Vedhika in lead roles. Supporting roles include Sadhu Kokila and Avinash. It is produced by Poorna Naidu.",
+  "created_at": "2026-07-09T17:56:03.174Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Home%20Minister%20(2022)%20Kannada%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Home%20Minister%20(2022)%20Kannada%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

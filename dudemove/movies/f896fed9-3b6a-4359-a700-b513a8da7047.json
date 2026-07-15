@@ -1,0 +1,31 @@
+{
+  "id": "f896fed9-3b6a-4359-a700-b513a8da7047",
+  "title": "A Big Bold Beautiful Journey",
+  "slug": "a-big-bold-beautiful-journey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 109,
+  "rating": 6.2,
+  "description": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
+  "created_at": "2026-07-09T16:51:23.879Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/A.Big.Bold.Beautiful.Journey.2025.1080p.WEBRip.x264%20%5BDDN%5D/A.Big.Bold.Beautiful.Journey.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

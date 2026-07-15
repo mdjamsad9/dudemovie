@@ -1,0 +1,35 @@
+{
+  "id": "76518a34-d0f1-4ff0-bbb5-acd0e732715d",
+  "title": "Hridayapoorvam",
+  "slug": "hridayapoorvam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j6M2odS1RqGEUPKirIvB1VZ9i6Y.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 151,
+  "rating": 7.333,
+  "description": "Sandeep, a middle-aged bachelor who recently got a heart transplant, travels to Pune to attend the engagement of his heart-donor’s daughter, Haritha. Her engagement gets broken and Sandeep injures his back on the same day, forcing him to stay back in Pune for a few weeks, in his heart-donor’s house – who was an adventurous Colonel.",
+  "created_at": "2026-07-09T16:52:17.252Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Hridayapoorvam%20(2025)%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hridayapoorvam%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

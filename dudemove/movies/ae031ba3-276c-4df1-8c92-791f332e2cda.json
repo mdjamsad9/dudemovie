@@ -1,0 +1,27 @@
+{
+  "id": "ae031ba3-276c-4df1-8c92-791f332e2cda",
+  "title": "Tu Yaa Main",
+  "slug": "tu-yaa-main",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 145,
+  "rating": 6.385,
+  "description": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+  "created_at": "2026-07-09T16:36:26.670Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Tu%20Yaa%20Main%20(2026)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Tu%20Yaa%20Main%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

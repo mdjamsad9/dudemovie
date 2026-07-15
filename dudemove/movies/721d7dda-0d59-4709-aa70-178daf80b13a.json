@@ -1,0 +1,31 @@
+{
+  "id": "721d7dda-0d59-4709-aa70-178daf80b13a",
+  "title": "Damsel",
+  "slug": "damsel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AgHbB9DCE9aE57zkHjSmseszh6e.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 107,
+  "rating": 6.982,
+  "description": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
+  "created_at": "2026-07-09T17:26:09.061Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Damsel.2024.1080p.WEBRip.x264%20%5BDDN%5D/Damsel.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

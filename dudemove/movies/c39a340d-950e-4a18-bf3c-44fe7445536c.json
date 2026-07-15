@@ -1,0 +1,23 @@
+{
+  "id": "c39a340d-950e-4a18-bf3c-44fe7445536c",
+  "title": "Nobody Dies",
+  "slug": "nobody-dies",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": null,
+  "rating": null,
+  "description": "Indie singer-songwriter Thao Nguyen makes her first trip to Vietnam with her mother, who hasn't been back to the country since the fall of Saigon.",
+  "created_at": "2026-07-09T17:57:04.882Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Nobody.Dies.2020.1080p.WEBRip.x264%20%5BDDN%5D/Nobody.Dies.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

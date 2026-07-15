@@ -1,0 +1,27 @@
+{
+  "id": "77a9724c-78d3-49db-a86f-a39fa044713a",
+  "title": "Erumbu",
+  "slug": "erumbu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uEgBO7xnsooVawxsWC1bx2j9i2Y.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 104,
+  "rating": 6.5,
+  "description": "A boy, Muthu, by mistake loses a one-gram ring, the only gold their family possesses and goes on a mission along with his sister Pachayammal take the help of their neighbor Chittu, decide to earn some money to make up for a lost gold ring and replace it before his family returns home.",
+  "created_at": "2026-07-09T17:35:59.765Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Erumbu%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Erumbu%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

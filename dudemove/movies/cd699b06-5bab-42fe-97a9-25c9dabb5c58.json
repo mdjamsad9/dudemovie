@@ -1,0 +1,31 @@
+{
+  "id": "cd699b06-5bab-42fe-97a9-25c9dabb5c58",
+  "title": "Saint Maud",
+  "slug": "saint-maud",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Welsh",
+  "release_year": 2020,
+  "duration": 85,
+  "rating": 6.545,
+  "description": "Having recently found God, self-effacing young nurse Maud arrives at a plush home to care for Amanda, a hedonistic dancer left frail from a chronic illness. When a chance encounter with a former colleague throws up hints of a dark past, it becomes clear there is more to sweet Maud than meets the eye.",
+  "created_at": "2026-07-09T17:56:39.996Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Saint.Maud.2019.1080p.WEBRip.x264%20%5BDDN%5D/Saint.Maud.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

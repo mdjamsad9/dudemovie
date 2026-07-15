@@ -1,0 +1,31 @@
+{
+  "id": "1e5532ef-efb6-4309-8ca3-8b65c3af74a3",
+  "title": "Boy Kills World",
+  "slug": "boy-kills-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 111,
+  "rating": 6.698,
+  "description": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
+  "created_at": "2026-07-09T17:23:40.659Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Boy.Kills.World.2023.1080p.WEBRip.x264%20%5BDDN%5D/Boy.Kills.World.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

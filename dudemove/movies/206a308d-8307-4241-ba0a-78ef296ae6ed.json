@@ -1,0 +1,27 @@
+{
+  "id": "206a308d-8307-4241-ba0a-78ef296ae6ed",
+  "title": "Summer of 69",
+  "slug": "summer-of-69",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xBmsHHLwvwI29oyFE48fKAnSQyk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 102,
+  "rating": 6.47,
+  "description": "In an effort to land the guy she's been pining after since grade school, Abby hires a local stripper named Santa Monica to teach her everything she needs to know about confidence and sex.",
+  "created_at": "2026-07-09T16:58:51.193Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Summer.Of.69.2025.1080p.WEBRip.x264%20%5BDDN%5D/Summer.Of.69.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

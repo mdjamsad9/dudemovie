@@ -1,0 +1,31 @@
+{
+  "id": "09b29c62-23aa-4bf9-bdd8-601c06011661",
+  "title": "Inside Man",
+  "slug": "inside-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hIJ5QNIjQ2oILCNLBtbnS0Cmw9z.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 87,
+  "rating": 5.987,
+  "description": "Based on true events. A disgraced police detective seeking redemption goes undercover to expose a violent crime syndicate. But as he sinks deeper into the mob, the price for absolution may be higher than he can afford.",
+  "created_at": "2026-07-09T17:41:39.110Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Inside.2023.1080p.WEBRip.x264%20%5BDDN%5D/Inside.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

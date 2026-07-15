@@ -1,0 +1,27 @@
+{
+  "id": "cda775e9-b5ee-482a-aa48-55323c6afef5",
+  "title": "Coyote",
+  "slug": "coyote",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9HTGXxNL80vC4QhPD7Dy58tEYbW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 101,
+  "rating": 4.75,
+  "description": "A story of forbidden love in a dystopian future where teleportation technology enables two refugees to escape genocide. When they trust the wrong back-alley teleporter, Ekaterina and Anya are separated. In a desperate attempt to be reunited, our heroines are entwined in an insidious human trafficking ring involving corrupt politicians.",
+  "created_at": "2026-07-09T17:37:47.898Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Coyote.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Coyote.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

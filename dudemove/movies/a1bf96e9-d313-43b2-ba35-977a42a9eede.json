@@ -1,0 +1,31 @@
+{
+  "id": "a1bf96e9-d313-43b2-ba35-977a42a9eede",
+  "title": "Patriot",
+  "slug": "patriot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6u57kJJdaQJoNOcMc3WSk9xk4J7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2026,
+  "duration": 177,
+  "rating": 7.4,
+  "description": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
+  "created_at": "2026-07-09T16:34:02.403Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Patriot%20(2026)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Patriot%20(2026)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

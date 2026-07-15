@@ -1,0 +1,31 @@
+{
+  "id": "af0e1d0b-63b8-4273-bd01-54b15b26adda",
+  "title": "Where the Crawdads Sing",
+  "slug": "where-the-crawdads-sing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 126,
+  "rating": 7.526,
+  "description": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
+  "created_at": "2026-07-09T17:51:49.795Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Where.the.Crawdads.Sing.2022.1080p.BluRay.H264.AAC%20%5BDDN%5D/Where.the.Crawdads.Sing.2022.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

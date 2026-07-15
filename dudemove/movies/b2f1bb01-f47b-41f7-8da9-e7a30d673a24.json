@@ -1,0 +1,27 @@
+{
+  "id": "b2f1bb01-f47b-41f7-8da9-e7a30d673a24",
+  "title": "Kaiva",
+  "slug": "kaiva",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xZMeydbseaFjsVm8UdpqoG5ezyM.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "kn",
+  "release_year": 2023,
+  "duration": 138,
+  "rating": 1,
+  "description": "Inspired from the true incidents occurred in Bengaluru - 1983, Kaiva brings the visual grandeur of Old Bengaluru showing the lights of world famous Bengaluru Karaga and the dark underworld of the city as well.",
+  "created_at": "2026-07-09T17:27:32.573Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kaiva%20(2023)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kaiva%20(2023)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

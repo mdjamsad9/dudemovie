@@ -1,0 +1,39 @@
+{
+  "id": "769c3e8c-68f9-4605-a16c-8eb992844040",
+  "title": "Sea Fever",
+  "slug": "sea-fever",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h4cPVVNPZUHVeoF6dH2grBvSEKs.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Irish",
+  "release_year": 2020,
+  "duration": 95,
+  "rating": 6.089,
+  "description": "The crew of a West of Ireland trawler—marooned at sea—struggle for their lives against a growing parasite in their water supply.",
+  "created_at": "2026-07-09T17:57:23.932Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Sea.Fever.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D/Sea.Fever.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

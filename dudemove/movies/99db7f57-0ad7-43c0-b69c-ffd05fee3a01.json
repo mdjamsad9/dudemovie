@@ -1,0 +1,27 @@
+{
+  "id": "99db7f57-0ad7-43c0-b69c-ffd05fee3a01",
+  "title": "Kolla",
+  "slug": "kolla",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uXXsyDJKRLxKGdDk6IsJIkDmruj.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 123,
+  "rating": 4.5,
+  "description": "Two girls open a beauty parlor in a small town, gaining initial support from the townspeople. However, an incident triggers a perilous cat-and-mouse game, forcing them to embark on a journey to escape the trap.",
+  "created_at": "2026-07-09T17:36:08.988Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kolla%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kolla%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

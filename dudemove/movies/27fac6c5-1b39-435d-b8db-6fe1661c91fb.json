@@ -1,0 +1,35 @@
+{
+  "id": "27fac6c5-1b39-435d-b8db-6fe1661c91fb",
+  "title": "The Catcher Was a Spy",
+  "slug": "the-catcher-was-a-spy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3aBv9Oln0aoBrEbkMabHIVat6CY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Hebrew",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 6.204,
+  "description": "Former major league baseball player Moe Berg lives a double life working for the Office of Strategic Services in World War II Europe.",
+  "created_at": "2026-07-09T17:57:48.678Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2018/The.Catcher.Was.A.Spy.2018.1080p.BluRay.H264.AAC%20%5BDDN%5D/The.Catcher.Was.A.Spy.2018.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

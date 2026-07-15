@@ -1,0 +1,31 @@
+{
+  "id": "f369a934-1ef3-424f-b833-14451f68da2e",
+  "title": "Deiva Machan",
+  "slug": "deiva-machan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kjnuXurwCmwuiKeN6kKVr3sSzPl.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 131,
+  "rating": 4,
+  "description": "A youngster from a small town believes that his only responsibility in life is to find a suitable groom for his sister. However, when things fall into place, he is faced with an issue that he would have never expected in life.",
+  "created_at": "2026-07-09T17:39:07.303Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Deiva%20Machan%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Deiva%20Machan%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

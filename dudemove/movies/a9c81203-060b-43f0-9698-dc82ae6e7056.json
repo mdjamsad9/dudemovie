@@ -1,0 +1,31 @@
+{
+  "id": "a9c81203-060b-43f0-9698-dc82ae6e7056",
+  "title": "Which Brings Me to You",
+  "slug": "which-brings-me-to-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gspoAZ5p7G7D83OU9UFOmKICejw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 98,
+  "rating": 6.188,
+  "description": "Two romantic burnouts, Jane and Will, are immediately drawn to each other at a mutual friend’s wedding. After a disastrous hookup in the coatroom, the two spend the next 24 hours together, trading candid confessions of messy histories and heartbreak, on the off chance that this fling might be the real thing.",
+  "created_at": "2026-07-09T17:25:24.145Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Which.Brings.Me.To.You.2023.1080p.BluRay.x264%20%5BDDN%5D/Which.Brings.Me.To.You.2023.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

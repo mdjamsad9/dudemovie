@@ -1,0 +1,27 @@
+{
+  "id": "a9f1fa81-a873-4c77-b928-be6f68e75642",
+  "title": "The Map That Leads to You",
+  "slug": "the-map-that-leads-to-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2025,
+  "duration": 96,
+  "rating": 6.611,
+  "description": "Heather is a young woman traveling Europe with friends before starting her perfectly planned life. A chance meeting with Jack sparks an unexpected romance that leads to deep emotional discovery. As secrets and life choices test their bond, her path changes forever.",
+  "created_at": "2026-07-09T16:53:58.918Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Map.That.Leads.To.You.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Map.That.Leads.To.You.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

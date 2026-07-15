@@ -1,0 +1,31 @@
+{
+  "id": "2a1392b6-8d45-463c-ae60-ff14c258652e",
+  "title": "Jana Nayagan",
+  "slug": "jana-nayagan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2026,
+  "duration": 183,
+  "rating": null,
+  "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+  "created_at": "2026-07-09T16:36:31.110Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jana%20Nayagan%20(2026)%20Tamil%201080p%20HDRip%20x264%20%5BDDN%5D/Jana%20Nayagan%20(2026)%20Tamil%201080p%20HDRip%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

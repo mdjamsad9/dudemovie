@@ -1,0 +1,27 @@
+{
+  "id": "d1d0cb53-5f68-4279-99e1-fdc2d651ab4e",
+  "title": "Thrishanku",
+  "slug": "thrishanku",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A1Xhf5z0OnZSzwB8ceFEXZQ5iAb.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 112,
+  "rating": 7.7,
+  "description": "A small town couple, Sethu and Megha, plan to elope, but complications arise when Sethu's sister also decides to elope. Sethu and his quarrelling uncles must bring her back while trying to elope with Megha without getting caught.",
+  "created_at": "2026-07-09T17:37:42.940Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thrishanku%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20%5BDDN%5D/Thrishanku%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

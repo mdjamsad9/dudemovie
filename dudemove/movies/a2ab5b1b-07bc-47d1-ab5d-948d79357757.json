@@ -1,0 +1,27 @@
+{
+  "id": "a2ab5b1b-07bc-47d1-ab5d-948d79357757",
+  "title": "Gangs of Godavari",
+  "slug": "gangs-of-godavari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bxRjn6c5d1QgcRpM5v3JYY5iTSC.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 143,
+  "rating": 6,
+  "description": "A man journeys from rags to riches with absolute grit and determination in the Eluru and Godavari coastal regions of India.",
+  "created_at": "2026-07-09T17:19:01.740Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gangs%20of%20Godavari%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gangs%20of%20Godavari%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

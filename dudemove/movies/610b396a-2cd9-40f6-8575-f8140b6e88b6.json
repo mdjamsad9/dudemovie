@@ -1,0 +1,27 @@
+{
+  "id": "610b396a-2cd9-40f6-8575-f8140b6e88b6",
+  "title": "Nosferatu",
+  "slug": "nosferatu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 133,
+  "rating": 6.713,
+  "description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+  "created_at": "2026-07-09T17:03:49.720Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Nosferatu.2024.1080p.WEBRip.x264%20%5BDDN%5D/Nosferatu.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "88e72741-6a5d-4782-8167-c8970dcb3d29",
+  "title": "Gaalodu",
+  "slug": "gaalodu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1kxH7ArOhhlPCMpxLywSnGswx7d.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 125,
+  "rating": null,
+  "description": "Raju, a reckless guy from a village, escapes to Hyderabad after a fight with a local leader’s son. Raju saves  Shukla ,a good hearted wealthy girl  from some thugs. Shukla introduces Raju to her father and hires him as a driver. And so their acquaintance leads to love.",
+  "created_at": "2026-07-09T17:47:42.497Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gaalodu%20(2022)%20Telugu%20HQ%20PreDVD%20-%20720p%C2%A0-%20x264%20%5BDDN%5D/Gaalodu%20(2022)%20Telugu%20HQ%20PreDVD%20-%20720p%c2%a0-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4c336335-64fb-45ba-a616-1bbf9be7620a",
+  "title": "Ranasthali",
+  "slug": "ranasthali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qkWXawttZmBwZH83nU3oogxGbHf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 138,
+  "rating": 6.5,
+  "description": "Basava is a warrior consumed by vengeance, eagerly awaiting his confrontation with his enemy, Badra.",
+  "created_at": "2026-07-09T17:38:09.499Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

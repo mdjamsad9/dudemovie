@@ -1,0 +1,27 @@
+{
+  "id": "975132ec-9803-4f90-90ca-cf36d38f50e1",
+  "title": "Thookudurai",
+  "slug": "thookudurai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eL4UwXVauTXF3CTeRxrzhs3UjZ3.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 5.5,
+  "description": "In the 18th Century, Tributary Monarch Nirpathunga Varman's diadem became the centerpiece of an annual carnival. In 1996, a forbidden love affair leads to tragedy, revenge, and a cursed spirit. Two decades later, a stolen diadem resurfaces, triggering the return of a vengeful spirit.",
+  "created_at": "2026-07-09T17:26:14.323Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thookudurai%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thookudurai%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

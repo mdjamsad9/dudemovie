@@ -1,0 +1,27 @@
+{
+  "id": "6c8bffb6-d788-423e-9837-b40b20b3d3a8",
+  "title": "Ferrari",
+  "slug": "ferrari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 131,
+  "rating": 6.372,
+  "description": "Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Bankruptcy stalks the company he and his wife, Laura, built from nothing ten years earlier. Their tempestuous marriage struggles with the mourning for one son and the acknowledgement of another.",
+  "created_at": "2026-07-09T17:27:45.231Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Ferrari.2023.1080p.WEBRip.x264%20%5BDDN%5D/Ferrari.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

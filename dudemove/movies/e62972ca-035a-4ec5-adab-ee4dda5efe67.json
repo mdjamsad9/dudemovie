@@ -1,0 +1,35 @@
+{
+  "id": "e62972ca-035a-4ec5-adab-ee4dda5efe67",
+  "title": "The Wonderful Story of Henry Sugar",
+  "slug": "the-wonderful-story-of-henry-sugar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 39,
+  "rating": 7.251,
+  "description": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+  "created_at": "2026-07-09T17:33:26.587Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Wonderful.Story.Of.Henry.Sugar.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Wonderful.Story.Of.Henry.Sugar.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

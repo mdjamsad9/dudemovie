@@ -1,0 +1,31 @@
+{
+  "id": "123b1c9a-c87d-4dc3-9533-5cfe1d8bdac7",
+  "title": "Kids vs. Aliens",
+  "slug": "kids-vs-aliens",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f87UCQzVwMlzGFePtCtZS4TgAFp.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 75,
+  "rating": 5.36,
+  "description": "All Gary wants is to make awesome home movies with his best buds. All his older sister Samantha wants is to hang with the cool kids. When their parents head out of town one Halloween weekend, an all-time rager of a teen house party turns to terror when aliens attack, forcing the siblings to band together to survive the night.",
+  "created_at": "2026-07-09T17:41:06.587Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Kids.vs.Aliens.2022.1080p.WEBRip.x264%20%5BDDN%5D/Kids.vs.Aliens.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

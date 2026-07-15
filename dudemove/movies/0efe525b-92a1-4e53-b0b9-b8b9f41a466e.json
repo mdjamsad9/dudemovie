@@ -1,0 +1,39 @@
+{
+  "id": "0efe525b-92a1-4e53-b0b9-b8b9f41a466e",
+  "title": "Day Shift",
+  "slug": "day-shift",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tkl7n5r542S40hnYDI27lGNCACu.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 114,
+  "rating": 6.742,
+  "description": "An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.",
+  "created_at": "2026-07-09T17:52:49.694Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

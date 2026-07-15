@@ -1,0 +1,27 @@
+{
+  "id": "4dbc288a-24ef-4945-81b1-36e0a24d112d",
+  "title": "Critical Keertanegalu",
+  "slug": "critical-keertanegalu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4jlTC3Wv4KkB45MHHFVKna7ZGZm.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": 10,
+  "description": "A Lawyer called Kariyappa, he has been instrumental in filing the flaws in society, During IPL season, Gambling became a reality and millions became victims of the year. Realising that he comes to court to file an appeal against IPL for the of ban the IPL. He describes the four gambling events happened in Karnataka. All this as lawyer Kariyappa puts it infront of judge.",
+  "created_at": "2026-07-09T17:53:58.058Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

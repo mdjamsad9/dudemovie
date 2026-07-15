@@ -1,0 +1,27 @@
+{
+  "id": "14119388-8e58-4573-aeb7-3c1a74bbea3d",
+  "title": "Outcome",
+  "slug": "outcome",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 84,
+  "rating": 5.4,
+  "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
+  "created_at": "2026-07-09T16:36:13.371Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Outcome.2026.1080p.WEBRip.x264%20%5BDDN%5D/Outcome.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

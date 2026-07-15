@@ -1,0 +1,35 @@
+{
+  "id": "48fcc6d2-351b-40f0-bc75-5cd5a7b1b239",
+  "title": "A Royal Montana Christmas",
+  "slug": "a-royal-montana-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uZAlg4qaZONhLcco7n8hFzWLBsU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 84,
+  "rating": 7.636,
+  "description": "A princess looking to decompress before the holidays heads to a Montana ranch and meets a charming guide.",
+  "created_at": "2026-07-09T16:50:51.885Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/A.Royal.Montana.Christmas.2025.1080p.WEBRip.x264%20%5BDDN%5D/A.Royal.Montana.Christmas.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

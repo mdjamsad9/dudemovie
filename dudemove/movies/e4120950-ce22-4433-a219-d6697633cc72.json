@@ -1,0 +1,31 @@
+{
+  "id": "e4120950-ce22-4433-a219-d6697633cc72",
+  "title": "Thalavan",
+  "slug": "thalavan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/142iirjj2365WQTaXgMrmjC0tng.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 133,
+  "rating": 6.875,
+  "description": "The intense rivalry between two police officers—CI Jayashankar and SI Karthik takes a dark turn when a body is found in Jayashankar’s house, and he becomes the prime suspect in a murder investigation, which is led by Karthik, adding a layer of tension to their already strained relationship.",
+  "created_at": "2026-07-09T17:13:32.071Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thalavan%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thalavan%20(2024)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

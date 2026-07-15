@@ -1,0 +1,27 @@
+{
+  "id": "b140941f-e2e3-4794-a7fe-7020f0bcf5c8",
+  "title": "Vrusshabha",
+  "slug": "vrusshabha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 127,
+  "rating": null,
+  "description": "What happens if two sworn enemies from a previous life are reborn as father-son in a new birth?",
+  "created_at": "2026-07-09T16:44:15.023Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vrusshabha%20(2025)%20Hindi%201080p%20HDTS%20x264%20%5BDDN%5D/Vrusshabha%20(2025)%20Hindi%201080p%20HDTS%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

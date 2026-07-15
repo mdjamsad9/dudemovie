@@ -1,0 +1,31 @@
+{
+  "id": "348a91eb-a774-404d-9d9e-213b415161c2",
+  "title": "Soneriada 4: It Ends Now",
+  "slug": "soneriada-4-it-ends-now",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2lNT3dFKRUTd8vEaPSRAJ4JUKL1.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 6,
+  "rating": null,
+  "description": "Petrulive, left mute and paralyzed, tries to conceive a plan to stop The Prodigal Son for good.",
+  "created_at": "2026-07-09T16:47:52.469Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/It.Ends.2025.1080p.WEBRip.x264%20%5BDDN%5D/It.Ends.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

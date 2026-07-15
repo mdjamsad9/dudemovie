@@ -1,0 +1,31 @@
+{
+  "id": "62825106-541a-478c-8cc1-4f4e56c06e9a",
+  "title": "Shaakuntalam",
+  "slug": "shaakuntalam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6YKaTWjZckGH5lb3cRFHWWIjVk2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 149,
+  "rating": 4.2,
+  "description": "Shakuntala, daughter of Meneka and Rishi Vishwamitra lives in forest with her teacher, Rishi Kanva. In the forest she meets King Dushyant, falls in love with him and the two get married. After she has their baby (Prince Bharata), Dushyant leaves her in the forest with a promise to come back for her soon. However, due to a sage's curse, Dushyant forgets all about Shakuntala, until destiny brings them together again.",
+  "created_at": "2026-07-09T17:39:55.586Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Shaakuntalam%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Shaakuntalam%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

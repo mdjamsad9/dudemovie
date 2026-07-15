@@ -1,0 +1,27 @@
+{
+  "id": "5b209ca4-e019-412c-9388-1b4412eecb4f",
+  "title": "Raavana Kottam",
+  "slug": "raavana-kottam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2DxRwdz297FNJ9UTraRuT99mWTw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": null,
+  "description": "Set in the backdrop of Tamilnadu's Ramnad district, Senguttuvan's love for Indhira leads two peacefully co-existing factions they belong going against each other, without realizing that they’re mere pawns being exploited by politicians for their own benefits.",
+  "created_at": "2026-07-09T17:39:39.154Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raavana%20Kottam%20(2023)%20Tamil%C2%A0HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Raavana%20Kottam%20(2023)%20Tamil%c2%a0HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

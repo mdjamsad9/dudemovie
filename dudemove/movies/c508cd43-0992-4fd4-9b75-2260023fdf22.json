@@ -1,0 +1,27 @@
+{
+  "id": "c508cd43-0992-4fd4-9b75-2260023fdf22",
+  "title": "Lowlifes",
+  "slug": "lowlifes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vxTyYoIRgutvzMpB97XAC8FhJiH.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 90,
+  "rating": 6.351,
+  "description": "The survival instincts of a road-tripping family are put to the test when they have no other choice but to stay the night at a remote homestead.",
+  "created_at": "2026-07-09T17:16:21.432Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Lowlifes.2024.1080p.WEBRip.x264%20%5BDDN%5D/Lowlifes.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

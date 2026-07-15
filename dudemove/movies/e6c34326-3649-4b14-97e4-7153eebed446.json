@@ -1,0 +1,31 @@
+{
+  "id": "e6c34326-3649-4b14-97e4-7153eebed446",
+  "title": "The Return",
+  "slug": "the-return",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 116,
+  "rating": 6.5,
+  "description": "After twenty years away, Odysseus washes up on the shores of Ithaca, haggard and unrecognizable. The king has finally returned home, but much has changed in his kingdom since he left to fight in the Trojan war.",
+  "created_at": "2026-07-09T17:05:22.485Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Return.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Return.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

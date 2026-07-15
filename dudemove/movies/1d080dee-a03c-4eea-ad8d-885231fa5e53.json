@@ -1,0 +1,23 @@
+{
+  "id": "1d080dee-a03c-4eea-ad8d-885231fa5e53",
+  "title": "About My Father",
+  "slug": "about-my-father",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eHcXyH207gLJCMLECRlBtXDK12X.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 90,
+  "rating": 6.03,
+  "description": "Encouraged by his girlfriend Ellie, Sebastian and his Italian immigrant father, Salvo, spend the 4th of July weekend with her wealthy and exceedingly eccentric family. The gathering soon develops into a culture clash, allowing father and son to discover the true meaning of family.",
+  "created_at": "2026-07-09T17:38:04.161Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/About.My.Father.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/About.My.Father.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

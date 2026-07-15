@@ -1,0 +1,27 @@
+{
+  "id": "4620e940-4da3-431b-8bcd-5cbaa30ba3f7",
+  "title": "Connect",
+  "slug": "connect",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1DSRHd57jFQMUSuMPztBI1PxAIF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "No Language",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7,
+  "description": "Fed up with the hostility of the city and its people, a young woman's view of the world changes when she makes a surprise connection with a stranger on a bus.",
+  "created_at": "2026-07-09T17:46:01.281Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Connect%20(2022)%20Tamil%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Connect%20(2022)%20Tamil%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

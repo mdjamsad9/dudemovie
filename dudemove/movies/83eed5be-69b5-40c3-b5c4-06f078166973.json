@@ -1,0 +1,35 @@
+{
+  "id": "83eed5be-69b5-40c3-b5c4-06f078166973",
+  "title": "Dory's Reef Cam",
+  "slug": "dory-s-reef-cam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mMWLGu9pFymqipN8yvISHsAaj72.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "No Language",
+  "release_year": 2020,
+  "duration": 182,
+  "rating": 6,
+  "description": "Dive into the waters below and watch the aquatic wildlife from the world of Nemo and Dory.",
+  "created_at": "2026-07-09T17:56:44.586Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/Dorys.Reef.Cam.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Dorys.Reef.Cam.2020.1080p.WEBRip.x264.AAC%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

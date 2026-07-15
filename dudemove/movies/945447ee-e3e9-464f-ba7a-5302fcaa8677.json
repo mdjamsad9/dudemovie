@@ -1,0 +1,31 @@
+{
+  "id": "945447ee-e3e9-464f-ba7a-5302fcaa8677",
+  "title": "57 Seconds",
+  "slug": "57-seconds",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 99,
+  "rating": 6.148,
+  "description": "When a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.",
+  "created_at": "2026-07-09T17:33:08.279Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/57.Seconds.2023.1080p.WEBRip.x264%20%5BDDN%5D/57.Seconds.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

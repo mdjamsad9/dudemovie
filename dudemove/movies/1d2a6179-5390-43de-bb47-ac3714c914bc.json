@@ -1,0 +1,31 @@
+{
+  "id": "1d2a6179-5390-43de-bb47-ac3714c914bc",
+  "title": "Mindcage",
+  "slug": "mindcage",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fUi9vNYQaB8QtrbEyS9J6vbKJJt.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 97,
+  "rating": 5.921,
+  "description": "Detectives Jake Doyle and Mary Kelly seek the help of an incarcerated serial killer named The Artist when a copycat killer strikes. While Mary searches for clues in The Artist's brilliant but twisted psyche, she and Jake are lured into a diabolical game of cat and mouse, racing against time to stay one step ahead of The Artist and his copycat.",
+  "created_at": "2026-07-09T17:46:45.826Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Mindcage.2022.1080p.WEBRip.x264%20%5BDDN%5D/Mindcage.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "43fd3569-32b0-4c10-aff5-fa3c28710232",
+  "title": "Goodbye June",
+  "slug": "goodbye-june",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 116,
+  "rating": 6.622,
+  "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
+  "created_at": "2026-07-09T16:44:17.533Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Goodbye.June.2025.1080p.WEBRip.x264%20%5BDDN%5D/Goodbye.June.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

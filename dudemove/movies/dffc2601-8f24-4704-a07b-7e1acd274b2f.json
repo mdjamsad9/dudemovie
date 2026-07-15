@@ -1,0 +1,27 @@
+{
+  "id": "dffc2601-8f24-4704-a07b-7e1acd274b2f",
+  "title": "Jesus Revolution",
+  "slug": "jesus-revolution",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A3qqrl8lJvlpRCwkbUEADXzVaDC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 120,
+  "rating": 6.831,
+  "description": "In the 1970s, aimless teenager Greg Laurie searches for all the right things in all the wrong places until he meets Lonnie Frisbee, a charismatic hippie/street preacher. Together with local pastor Chuck Smith, they open the doors of a languishing church to an unexpected revival.",
+  "created_at": "2026-07-09T17:41:23.468Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Jesus.Revolution.2023.1080p.WEBRip.x264%20%5BDDN%5D/Jesus.Revolution.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

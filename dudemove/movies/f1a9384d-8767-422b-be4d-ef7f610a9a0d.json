@@ -1,0 +1,27 @@
+{
+  "id": "f1a9384d-8767-422b-be4d-ef7f610a9a0d",
+  "title": "The Greatest Night in Pop",
+  "slug": "the-greatest-night-in-pop",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 96,
+  "rating": 7.849,
+  "description": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
+  "created_at": "2026-07-09T17:27:33.412Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Greatest.Night.In.Pop.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Greatest.Night.In.Pop.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

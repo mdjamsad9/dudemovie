@@ -1,0 +1,31 @@
+{
+  "id": "3fa3ee47-ca2c-4236-ab0c-c074fa9773ee",
+  "title": "Uniki",
+  "slug": "uniki",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9wFzczx61gKMRREjqvl97dlbhCV.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7,
+  "description": "Abhimanyu, a police officer solving the mystery behind the attack on Subba Lakshmi, a self-taught IAS officer.",
+  "created_at": "2026-07-09T17:50:24.737Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Uniki%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Uniki%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

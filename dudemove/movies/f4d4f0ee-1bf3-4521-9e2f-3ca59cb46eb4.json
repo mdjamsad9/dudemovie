@@ -1,0 +1,27 @@
+{
+  "id": "f4d4f0ee-1bf3-4521-9e2f-3ca59cb46eb4",
+  "title": "The Bikeriders",
+  "slug": "the-bikeriders",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 116,
+  "rating": 6.674,
+  "description": "After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+  "created_at": "2026-07-09T17:16:40.181Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Bikeriders.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Bikeriders.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19b42c3c-7aac-4a8e-a088-12ae97d7e49e",
+  "title": "Super Machi",
+  "slug": "super-machi-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wQAyybjuXoJ6uLwZ8GLXtvG3fF8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 132,
+  "rating": 9,
+  "description": "A humble middle class singer in his 20s get pursued by a beautiful woman who claims to be a girl friend whereas he hasn't seen that women in her life before. Things get mysterious and much complicated as he learns she officially registered herself as his wife without his knowledge..",
+  "created_at": "2026-07-09T17:56:17.132Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Super%20Machi%20(2022)%20Telugu%C2%A0720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Super%20Machi%20(2022)%20Telugu%c2%a0720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

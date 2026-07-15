@@ -1,0 +1,27 @@
+{
+  "id": "13f36e77-fbbb-4627-9d68-ac8057b7d4ef",
+  "title": "DSP",
+  "slug": "dsp",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A9U4gIzmu60puzuk59C0viwsHhZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6.2,
+  "description": "A flower seller's son ends up in a tussle with a ruthless rowdy in Dindigul, forcing him to become a policeman and fight the odds.",
+  "created_at": "2026-07-09T17:46:21.697Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/DSP%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/DSP%20(2022)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

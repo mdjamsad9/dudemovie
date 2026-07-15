@@ -1,0 +1,35 @@
+{
+  "id": "d2e58813-c5b4-4b47-8cc6-749f138eee5b",
+  "title": "Rogue Hostage",
+  "slug": "rogue-hostage",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zedUsN2fxRYhrp8k4uHVZuoEPaj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Danish",
+  "release_year": 2021,
+  "duration": 94,
+  "rating": 5.61,
+  "description": "A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather's store.",
+  "created_at": "2026-07-09T17:56:35.284Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2021/Rogue.Hostage.2021.1080p.WEBRip.x264%20%5BDDN%5D/Rogue.Hostage.2021.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

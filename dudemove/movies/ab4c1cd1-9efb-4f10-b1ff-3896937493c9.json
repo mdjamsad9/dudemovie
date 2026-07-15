@@ -1,0 +1,23 @@
+{
+  "id": "ab4c1cd1-9efb-4f10-b1ff-3896937493c9",
+  "title": "Living",
+  "slug": "living",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 102,
+  "rating": 6.974,
+  "description": "London, 1953. Mr. Williams, a veteran civil servant, is an important cog within the city's bureaucracy as it struggles to rebuild in the aftermath of World War II. Buried under paperwork at the office and lonely at home, his life has long felt empty and meaningless. Then a devastating medical diagnosis forces him to take stock, and to try and grasp some fulfilment before it passes permanently beyond reach.",
+  "created_at": "2026-07-09T17:43:11.667Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Living.2022.1080p.WEBRip.x264%20%5BDDN%5D/Living.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d1dad3da-7208-42d7-8031-fafc7a2d3b7d",
+  "title": "Kaapa",
+  "slug": "kaapa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hllm5duftEJDHQAPjK94DHisaE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 133,
+  "rating": 4.7,
+  "description": "When Anand learns that his wife Binu Trivikraman's name ended up in Kerala Anti-Social Activities Prevention Act (KAAPA) list by mistake, he embarks on a journey to prove her innocence, but finds himself caught in the crosshairs of a hardened gangster and a merciless war.",
+  "created_at": "2026-07-09T17:42:10.863Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kaapa%202022%20Hindi%20Malayalam%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Kaapa%202022%20Hindi%20Malayalam%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "79a9e504-fc18-436a-8bf3-9bf8631c66e1",
+  "title": "Madharaasi",
+  "slug": "madharaasi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 168,
+  "rating": 6.741,
+  "description": "A man with a psychological disorder overcomes trauma and confronts his nemesis in a fast-paced action film with romance and unique elements, exploring themes of resilience and redemption.",
+  "created_at": "2026-07-09T16:52:05.032Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Madharasi%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Madharasi%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

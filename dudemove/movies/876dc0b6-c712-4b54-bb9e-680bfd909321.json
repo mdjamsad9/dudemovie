@@ -1,0 +1,27 @@
+{
+  "id": "876dc0b6-c712-4b54-bb9e-680bfd909321",
+  "title": "One Small Story",
+  "slug": "one-small-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2021,
+  "duration": 136,
+  "rating": 6.5,
+  "description": "Santosh suffers from a psychological problem that causes him to be insecure about his size. Struggling to find a solution, he erases the idea of marriage altogether until he meets Amrutha, with whom he falls in love.",
+  "created_at": "2026-07-09T16:51:50.061Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Ek%20Mini%20Katha%20(2021)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ek%20Mini%20Katha%20%282021%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

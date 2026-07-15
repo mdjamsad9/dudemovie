@@ -1,0 +1,31 @@
+{
+  "id": "cb37be32-3f22-4589-b218-918af59ed5ed",
+  "title": "Chithha",
+  "slug": "chithha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5JdoPaXlLt4fYu2V8Ug12QRiQ89.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 139,
+  "rating": 7.7,
+  "description": "Easwaran, a young government employee gets the shock of his life when his niece Sundari goes missing. After initially wrongly accused of kidnapping her, he eventually comes to know that a child abuser has kidnapped her and he makes it his mission to rescue Sundari.",
+  "created_at": "2026-07-09T17:30:39.040Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Chithha%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Chithha%20(2023)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

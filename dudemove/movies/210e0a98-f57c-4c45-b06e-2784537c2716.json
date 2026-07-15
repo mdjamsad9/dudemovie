@@ -1,0 +1,35 @@
+{
+  "id": "210e0a98-f57c-4c45-b06e-2784537c2716",
+  "title": "Little Dixie",
+  "slug": "little-dixie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Italian",
+  "release_year": 2023,
+  "duration": 105,
+  "rating": 5.779,
+  "description": "Erstwhile Special Forces operative Doc Alexander is asked to broker a truce with the Mexican drug cartel in secrecy. When Oklahoma Governor Richard Jeffs celebrates the execution of a high-ranking cartel member on TV, his Chief of Staff and Doc inform him about the peace he just ended. But it’s too late, as Cuco, the cartel’s hatchet man, has set his vengeful sights on Doc’s daughter Dixie.",
+  "created_at": "2026-07-09T17:42:30.152Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Little.Dixie.2023.1080p.WEBRip.x264%20%5BDDN%5D/Little.Dixie.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

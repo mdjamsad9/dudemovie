@@ -1,0 +1,39 @@
+{
+  "id": "86b7511a-c867-44ad-999b-04891cc3ae6e",
+  "title": "The Locksmith",
+  "slug": "the-locksmith",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 5.9,
+  "description": "A thief fresh out of prison, tries to work his way back into the life of his daughter and ex-fiancé. Determined, he is forced to use the skills he has as a gifted locksmith. Things take a tumultuous turn after an unexpected disappearance.",
+  "created_at": "2026-07-09T17:44:44.707Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Locksmith.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Locksmith.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

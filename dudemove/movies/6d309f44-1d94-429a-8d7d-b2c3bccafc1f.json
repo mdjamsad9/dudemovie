@@ -1,0 +1,31 @@
+{
+  "id": "6d309f44-1d94-429a-8d7d-b2c3bccafc1f",
+  "title": "Retribution",
+  "slug": "retribution",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 6.527,
+  "description": "When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks — all with his kids trapped in the back seat.",
+  "created_at": "2026-07-09T17:34:16.305Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Retribution.2023.1080p.WEBRip.x264%20%5BDDN%5D/Retribution.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

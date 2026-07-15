@@ -1,0 +1,23 @@
+{
+  "id": "51bcfa7c-6c0c-443f-ac08-b8d71c0d88df",
+  "title": "The Boogeyman",
+  "slug": "the-boogeyman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 99,
+  "rating": 6.389,
+  "description": "Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it’s too late.",
+  "created_at": "2026-07-09T17:34:52.940Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Boogeyman.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Boogeyman.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

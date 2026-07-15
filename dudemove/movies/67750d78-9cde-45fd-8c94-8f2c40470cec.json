@@ -1,0 +1,31 @@
+{
+  "id": "67750d78-9cde-45fd-8c94-8f2c40470cec",
+  "title": "Magic Mike's Last Dance",
+  "slug": "magic-mike-s-last-dance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 112,
+  "rating": 6.4,
+  "description": "Mike Lane takes to the stage again after a lengthy hiatus, following a business deal that went bust, leaving him broke and taking bartender gigs in Florida. For what he hopes will be one last hurrah, Mike heads to London with a wealthy socialite who lures him with an offer he can’t refuse… and an agenda all her own. With everything on the line, once Mike discovers what she truly has in mind, will he—and the roster of hot new dancers he’ll have to whip into shape—be able to pull it off?",
+  "created_at": "2026-07-09T17:43:16.372Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Magic.Mikes.Last.Dance.2023.1080p.WEBRip.x264%20%5BDDN%5D/Magic.Mikes.Last.Dance.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

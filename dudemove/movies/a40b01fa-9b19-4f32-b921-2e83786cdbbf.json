@@ -1,0 +1,31 @@
+{
+  "id": "a40b01fa-9b19-4f32-b921-2e83786cdbbf",
+  "title": "Raja Raja Chora",
+  "slug": "raja-raja-chora",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3gCWjvOPjDImjyU2cbW8L9eDbCW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2021,
+  "duration": 149,
+  "rating": 7,
+  "description": "Bhaskar's wife thinks he is a stationery store worker, his girlfriend thinks he is a software engineer but no one knows he is also a burglar. His royal pains start when his tangled web of lies involving a hopeful girlfriend, a blackmailing wife, and a cheating cop all collide. Bhaskar's one last heist might just land him in a gilded cage of his own making.",
+  "created_at": "2026-07-09T17:55:56.173Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raja%20Raja%20Chora%202021%20720p%20WEBRip%20Hindi%20Telugu%20x264%20ESub%20%5BDDN%5D/Raja%20Raja%20Chora%202021%20720p%20WEBRip%20Hindi%20Telugu%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

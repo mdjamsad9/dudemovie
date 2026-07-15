@@ -1,0 +1,31 @@
+{
+  "id": "97e91c0f-64e7-4c3c-b4d6-514092fc71e5",
+  "title": "Red One",
+  "slug": "red-one",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 124,
+  "rating": 6.982,
+  "description": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+  "created_at": "2026-07-09T17:06:17.156Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Red.One.2024.1080p.WEBRip.x264%20%5BDDN%5D/Red.One.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dfda4b0a-902b-41d9-aa6b-09523119895f",
+  "title": "The Witcher: Sirens of the Deep",
+  "slug": "the-witcher-sirens-of-the-deep",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 92,
+  "rating": 6.826,
+  "description": "When human sailors are attacked by mysterious creatures of the deep, only one person can stop the war between land and sea: the Witcher, Geralt of Rivia.",
+  "created_at": "2026-07-09T17:02:33.676Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Witcher.Sirens.Of.The.Deep.2025.1080p.BluRay.x264%20%5BDDN%5D/The.Witcher.Sirens.Of.The.Deep.2025.1080p.BluRay.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

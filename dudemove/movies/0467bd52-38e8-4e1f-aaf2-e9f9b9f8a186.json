@@ -1,0 +1,27 @@
+{
+  "id": "0467bd52-38e8-4e1f-aaf2-e9f9b9f8a186",
+  "title": "C S I Sanatan",
+  "slug": "c-s-i-sanatan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 4.7,
+  "description": "When a buisness tycoon Vikram Chakravarthi gets murdered, CSI Sanatan known for his genius crime-solving abilities is appointed to investigate. Sanatan shortlists five employees as suspects but soon the case takes a turn that shocks the nation.",
+  "created_at": "2026-07-09T17:40:03.136Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/C.S.I%20Sanatan%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/C.S.I%20Sanatan%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "9ac4a7b0-e10b-44ba-b28e-0b8ce3a473e4",
+  "title": "Office Romance",
+  "slug": "office-romance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 115,
+  "rating": 6.51,
+  "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+  "created_at": "2026-07-09T16:33:47.764Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Office%20Romance%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Office%20Romance%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

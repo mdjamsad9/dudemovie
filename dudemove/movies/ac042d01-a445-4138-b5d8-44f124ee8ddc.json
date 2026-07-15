@@ -1,0 +1,27 @@
+{
+  "id": "ac042d01-a445-4138-b5d8-44f124ee8ddc",
+  "title": "Sabaash Chandra Bose",
+  "slug": "sabaash-chandra-bose",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5WIhauNYqB2IP3lFNvWJ1RLzblh.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 125,
+  "rating": 5,
+  "description": "Chandra Bose goes to his close friend Yatindran's house, to watch TV . One day a minor squabble gets out and Chandra storms out swearing to buy a color TV . He takes desperate measures to acquire TV and gets caught in a series of troubles.",
+  "created_at": "2026-07-09T17:49:13.812Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sabaash%20Chandra%20Bose%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sabaash%20Chandra%20Bose%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

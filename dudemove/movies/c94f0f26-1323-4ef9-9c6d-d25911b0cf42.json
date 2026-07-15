@@ -1,0 +1,27 @@
+{
+  "id": "c94f0f26-1323-4ef9-9c6d-d25911b0cf42",
+  "title": "Higuita",
+  "slug": "higuita",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c0N9XFkWpu8R3efdrozbqYT5XyU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Greek",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 5,
+  "description": "The Long Island is the place of our self-exile. The Nightmare is our Father. Speaking and Hearing is the Nightmare’s gift to all of us. Silence is our gift to him. The Family protects us from Infection and Taxidermists. The soil will be the point of return. Tomorrow is today. Today is the 13th day of the Blue Year 37.",
+  "created_at": "2026-07-09T17:17:46.377Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Higuita%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Higuita%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

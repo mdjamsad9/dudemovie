@@ -1,0 +1,27 @@
+{
+  "id": "796f7042-bbf4-46de-9776-4aafb319ff73",
+  "title": "The Housemaid",
+  "slug": "the-housemaid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 131,
+  "rating": 7.266,
+  "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+  "created_at": "2026-07-09T16:42:20.086Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Housemaid.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Housemaid.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

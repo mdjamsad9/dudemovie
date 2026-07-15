@@ -1,0 +1,27 @@
+{
+  "id": "9a7a4ace-1cef-462f-9ba1-bbf38b314233",
+  "title": "White Noise",
+  "slug": "white-noise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 136,
+  "rating": 5.588,
+  "description": "Jack Gladney, professor of Hitler studies at The-College-on-the-Hill, husband to Babette, and father to four children/stepchildren, is torn asunder by a chemical spill from a rail car that releases an \"Airborne Toxic Event\" forcing Jack to confront his biggest fear - his own mortality.",
+  "created_at": "2026-07-09T17:46:18.749Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/White.Noise.2022.1080p.WEBRip.x264%20%5BDDN%5D/White.Noise.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

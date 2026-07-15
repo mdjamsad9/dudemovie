@@ -1,0 +1,23 @@
+{
+  "id": "8e86f676-722e-4d7f-9043-4e8ec385e683",
+  "title": "Moondram Manithan",
+  "slug": "moondram-manithan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kvcvuRPOQs2FPtD2UzBUSN01pNL.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 141,
+  "rating": null,
+  "description": "Moondram Manithan is a Tamil movie starring K. Bhagyaraj and Sonia Agarwal in the lead.",
+  "created_at": "2026-07-09T17:15:39.966Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Moondram%20Manithan%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Moondram%20Manithan%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

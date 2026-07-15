@@ -1,0 +1,23 @@
+{
+  "id": "1c851194-c8b3-4ae4-8104-765029eba9de",
+  "title": "Hijacked: Flight 73",
+  "slug": "hijacked-flight-73",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/90FlTwBRlhYex67Lo1b7H7rum0M.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 94,
+  "rating": 7.4,
+  "description": "On 5 September 1986, Palestinian terrorists stormed Pan Am Flight 73 as it stalled on the Karachi Airport tarmac. Exploring  what happened over the next 16 hours, including the death of 21 passengers, in a day that would change terrorist operations for ever.",
+  "created_at": "2026-07-09T17:37:14.435Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Hijacked.Flight.73.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Hijacked.Flight.73.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

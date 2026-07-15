@@ -1,0 +1,27 @@
+{
+  "id": "94e8e9bf-a53e-4a5f-8399-f63212b94a1c",
+  "title": "Vishudha Mejo",
+  "slug": "vishudha-mejo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gSM53ZrfjCT8LPvQw9tkNdrWqqg.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 121,
+  "rating": 3.5,
+  "description": "Mejo`s childhood friend Jeena returns to his coastal village after completing her higher-education in Chennai. As she spends time with Mejo, he slowly starts developing feelings for her. Being an introvert, will Mejo ever get the confidence to propose?",
+  "created_at": "2026-07-09T17:51:10.428Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vishudha%20Mejo%20(2022)%20Malayalam%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Vishudha%20Mejo%20(2022)%20Malayalam%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "27607e5f-075e-45b4-afe8-07ae35ab3cf9",
+  "title": "The Angry Black Girl and Her Monster",
+  "slug": "the-angry-black-girl-and-her-monster",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4c3rU9R5oYexKFWaAHAc195B0RN.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 6.096,
+  "description": "Vicaria is a brilliant teenager who believes death is a disease that can be cured. After the brutal and sudden murder of her brother, she embarks on a dangerous journey to bring him back to life.",
+  "created_at": "2026-07-09T17:37:37.156Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Angry.Black.Girl.And.Her.Monster.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/The.Angry.Black.Girl.And.Her.Monster.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

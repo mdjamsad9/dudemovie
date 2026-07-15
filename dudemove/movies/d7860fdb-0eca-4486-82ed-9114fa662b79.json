@@ -1,0 +1,23 @@
+{
+  "id": "d7860fdb-0eca-4486-82ed-9114fa662b79",
+  "title": "Andhaghaaram",
+  "slug": "andhaghaaram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8sBXVEROEXoRaNEU8TYx26JZyeG.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 171,
+  "rating": 7.2,
+  "description": "As a blind librarian, dispirited cricketer and desolate psychiatrist each seek retribution and release, their lives overlap under eerie influences.",
+  "created_at": "2026-07-09T16:57:15.957Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/SOUTH/Andhaghaaram%20(2020)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Andhaghaaram%20%282020%29%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

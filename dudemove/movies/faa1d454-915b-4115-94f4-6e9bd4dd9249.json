@@ -1,0 +1,27 @@
+{
+  "id": "faa1d454-915b-4115-94f4-6e9bd4dd9249",
+  "title": "Udanpaal",
+  "slug": "udanpaal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z18QJpZ4ySiAKGXgIPDZG4aNV3Q.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 113,
+  "rating": 6,
+  "description": "Paraman and his sister Kanmani, who are in dire financial straits, angrily refuse to advise their father Vinayakam to sell their house. When the news comes that Vinayakam has died in an unexpected tragedy, even in that grief-stricken state, the family gets greedy for the compensation that the government is going to provide. But fate twists again as the situation becomes funny yet tragic all at once.",
+  "created_at": "2026-07-09T17:46:20.579Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Udanpaal%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Udanpaal%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

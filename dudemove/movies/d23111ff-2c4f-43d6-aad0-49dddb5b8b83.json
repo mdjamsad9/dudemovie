@@ -1,0 +1,27 @@
+{
+  "id": "d23111ff-2c4f-43d6-aad0-49dddb5b8b83",
+  "title": "Greater Kalesh",
+  "slug": "greater-kalesh",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pGJ5NNMFENxOekN0Irrsq9Cd7PL.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 52,
+  "rating": 5.3,
+  "description": "Twinkle returns home for a surprise Diwali trip, but secrets and disagreements test her family's bonds in ways she never imagined.",
+  "created_at": "2026-07-09T16:51:16.763Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Greater%20Kalesh%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Greater%20Kalesh%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

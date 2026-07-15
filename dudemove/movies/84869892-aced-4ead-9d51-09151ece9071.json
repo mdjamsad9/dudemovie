@@ -1,0 +1,27 @@
+{
+  "id": "84869892-aced-4ead-9d51-09151ece9071",
+  "title": "Marty Supreme",
+  "slug": "marty-supreme",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 150,
+  "rating": 7.4,
+  "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+  "created_at": "2026-07-09T16:41:46.536Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Marty.Supreme.2025.1080p.WEBRip.x264%20%5BDDN%5D/Marty.Supreme.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

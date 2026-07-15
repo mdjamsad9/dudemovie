@@ -1,0 +1,31 @@
+{
+  "id": "de2151bb-29e4-42fd-ad18-c24c688e1054",
+  "title": "See How They Run",
+  "slug": "see-how-they-run",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r3rpSAi2yukZwr9H2km0WKGODWo.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 99,
+  "rating": 6.345,
+  "description": "In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered. When world-weary Inspector Stoppard and eager rookie Constable Stalker take on the case, the two find themselves thrown into a puzzling whodunit within the glamorously sordid theater underground, investigating the mysterious homicide at their own peril.",
+  "created_at": "2026-07-09T17:49:00.079Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/See.How.They.Run.2022.1080p.WEBRip.x264%20%5BDDN%5D/See.How.They.Run.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

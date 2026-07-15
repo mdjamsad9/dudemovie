@@ -1,0 +1,27 @@
+{
+  "id": "804a587a-37dc-4835-9a29-48791bdddde2",
+  "title": "Guduputani",
+  "slug": "guduputani",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/unQLDBa61HXYUWNkvBXuFzlyhuf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2021,
+  "duration": 112,
+  "rating": null,
+  "description": "Upon eloping and seeking refuge in a secluded temple in the forest, Giri and Siri get trapped inside. Their troubles worsen when a group of armed thieves break in to steal the Goddess' gold.",
+  "created_at": "2026-07-09T17:54:09.873Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Guduputani%20(2021)%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Guduputani%20(2021)%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

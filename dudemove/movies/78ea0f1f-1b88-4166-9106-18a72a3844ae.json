@@ -1,0 +1,31 @@
+{
+  "id": "78ea0f1f-1b88-4166-9106-18a72a3844ae",
+  "title": "Dogman",
+  "slug": "dogman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 115,
+  "rating": 7.839,
+  "description": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+  "created_at": "2026-07-09T17:26:27.072Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/DogMan.2023.1080p.BluRay.x264%20%5BDDN%5D/DogMan.2023.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

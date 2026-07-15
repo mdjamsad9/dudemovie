@@ -1,0 +1,31 @@
+{
+  "id": "93ee0bf3-9eee-4a62-a068-0f8f0fd808c1",
+  "title": "The Last Deal",
+  "slug": "the-last-deal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pAjw1FsPVGxmZoEFkuGTv4WRrgn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 4.932,
+  "description": "A blackmarket cannabis dealer gets squeezed out of the business when marijuana becomes legal, and is forced to make one last deal with the people he should trust the least.",
+  "created_at": "2026-07-09T17:38:33.620Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Last.Deal.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/The.Last.Deal.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

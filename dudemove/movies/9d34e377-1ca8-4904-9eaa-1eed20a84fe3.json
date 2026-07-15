@@ -1,0 +1,27 @@
+{
+  "id": "9d34e377-1ca8-4904-9eaa-1eed20a84fe3",
+  "title": "Gaayapadda Simham",
+  "slug": "gaayapadda-simham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dx40U1uLHwBpdbVxIMC57jyIAaf.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2026,
+  "duration": 140,
+  "rating": null,
+  "description": "Follows Indians facing challenges while trying to travel to the USA and the struggles they encounter after reaching there.",
+  "created_at": "2026-07-09T16:35:00.621Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gaayapadda%20Simham%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gaayapadda%20Simham%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

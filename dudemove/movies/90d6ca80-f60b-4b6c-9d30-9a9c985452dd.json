@@ -1,0 +1,31 @@
+{
+  "id": "90d6ca80-f60b-4b6c-9d30-9a9c985452dd",
+  "title": "Asuraguru",
+  "slug": "asuraguru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b4UnX4MjrtXcg9U338XEfIrWd9v.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": 3.3,
+  "description": "A clever thief who gets away easily is being lured into a bigger trap where the police force sets up an attractive bait to capture him for good.",
+  "created_at": "2026-07-09T17:24:29.652Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Asuraguru%20(2020)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Asuraguru%20(2020)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

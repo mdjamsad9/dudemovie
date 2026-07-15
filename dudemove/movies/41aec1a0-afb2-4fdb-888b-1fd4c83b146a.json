@@ -1,0 +1,23 @@
+{
+  "id": "41aec1a0-afb2-4fdb-888b-1fd4c83b146a",
+  "title": "Photo",
+  "slug": "photo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9rt8twQUB2eNelEHjokUILKNKFr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "te",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "The story begins with a group of friends who come across an old photograph. This photograph seems to have supernatural elements associated with it, causing eerie and unexplained events in their lives. As the friends try to uncover the mystery behind the photograph, they encounter various challenges and frightening occurrences.",
+  "created_at": "2026-07-09T17:25:44.123Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Photo%C2%A0(2024)%20Kannada%C2%A0HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Photo%c2%a0(2024)%20Kannada%c2%a0HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

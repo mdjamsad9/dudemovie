@@ -1,0 +1,31 @@
+{
+  "id": "0d75d671-1157-40b5-92e1-fc46e6d9e26f",
+  "title": "Dumb Money",
+  "slug": "dumb-money",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 105,
+  "rating": 6.7,
+  "description": "Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it. When social media starts blowing up, so do his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich—until the billionaires fight back, and both sides find their worlds turned upside down.",
+  "created_at": "2026-07-09T17:31:29.906Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Dumb.Money.2023.1080p.WEBRip.x264%20%5BDDN%5D/Dumb.Money.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

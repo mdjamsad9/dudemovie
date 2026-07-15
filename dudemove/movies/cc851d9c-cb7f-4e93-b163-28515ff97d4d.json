@@ -1,0 +1,27 @@
+{
+  "id": "cc851d9c-cb7f-4e93-b163-28515ff97d4d",
+  "title": "Theerppu",
+  "slug": "theerppu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xMqEd2Lg0R0YazBntPCQISV9mD2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 147,
+  "rating": 5.2,
+  "description": "Four friends, Ramkumar, Kalyan, Parameshwaran and Abdulla, who share a troubled history and familial strife, meet at a place owned by Ramkumar. This happenstance get-together ends up in fresh tension, leading to unforeseen consequences.",
+  "created_at": "2026-07-09T17:50:40.335Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Theerppu%20(2022)%20Malayalam%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Theerppu%20(2022)%20Malayalam%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

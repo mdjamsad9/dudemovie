@@ -1,0 +1,31 @@
+{
+  "id": "aba9db64-169c-47f6-a74f-58439ff4c561",
+  "title": "Nanpakal Nerathu Mayakkam",
+  "slug": "nanpakal-nerathu-mayakkam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/29lETTae7slJPteKkLt6Rdu5g7y.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 107,
+  "rating": 7,
+  "description": "A group of Malayali travellers, returning to Kerala by bus after their visit to Velankanni, all doze off in a lazy nap after lunch. One of the travelers, James, stops the bus in a village in Tamil Nadu. He starts behaving like a native of the place and speaking in Tamil, confusing his fellow passengers and the villagers alike. He walks amidst faith, delusion, dream and trance, followed by others.",
+  "created_at": "2026-07-09T17:43:26.302Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Nanpakal%20Nerathu%20Mayakkam%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nanpakal%20Nerathu%20Mayakkam%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

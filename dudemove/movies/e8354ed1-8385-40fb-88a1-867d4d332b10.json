@@ -1,0 +1,27 @@
+{
+  "id": "e8354ed1-8385-40fb-88a1-867d4d332b10",
+  "title": "Swathi Muthyam",
+  "slug": "swathi-muthyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mR8pmOhp4zYwwFadX8TLX5goH64.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 6.7,
+  "description": "Balamurali, a government employee, gets ready to marry Bhagyalakshmi as soon as he meets her in an arranged marriage setup. Everything goes on smoothly until there comes a day when it is revealed that the groom has fathered a child in the past.",
+  "created_at": "2026-07-09T17:50:13.747Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Swathi%20Muthyam%20(2022)%20Telugu%20PreDVD%20-%20720p%C2%A0-%20x264%20%5BDDN%5D/Swathi%20Muthyam%20(2022)%20Telugu%20PreDVD%20-%20720p%c2%a0-%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

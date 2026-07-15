@@ -1,0 +1,31 @@
+{
+  "id": "199ccf35-aa51-45d0-a1f1-3f6cf6c62948",
+  "title": "Fear the Night",
+  "slug": "fear-the-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oAWpvlroYbHbkaeKwlL3XlVRnyG.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2023,
+  "duration": 92,
+  "rating": 5.904,
+  "description": "During a bachelorette party in a secluded California farmhouse, masked intruders launch a brutal attack, forcing eight women to fight for survival. Led by Tess, a troubled military veteran, they unite to defend themselves throughout a harrowing night.",
+  "created_at": "2026-07-09T17:40:31.019Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Fear.2023.1080p.WEBRip.x264%20%5BDDN%5D/Fear.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

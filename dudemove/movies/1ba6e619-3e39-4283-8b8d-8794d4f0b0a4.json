@@ -1,0 +1,27 @@
+{
+  "id": "1ba6e619-3e39-4283-8b8d-8794d4f0b0a4",
+  "title": "Alpha",
+  "slug": "alpha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 141,
+  "rating": 5.5,
+  "description": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+  "created_at": "2026-07-09T16:32:21.911Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Alpha%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Alpha%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

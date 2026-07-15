@@ -1,0 +1,27 @@
+{
+  "id": "ac3180da-74e2-4e14-8ee6-0ed7a9dddabb",
+  "title": "Masooda",
+  "slug": "masooda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8tteFyJbPxvVr57K1CjGhKbqEjY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 160,
+  "rating": 6.8,
+  "description": "A mother and her teen daughter from a middle-class background, whose humble life goes upside down, when the daughter gets possessed by a ghost and her single mother seeks the help of their cowardly neighbour.",
+  "created_at": "2026-07-09T17:46:39.083Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Masooda%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Masooda%20(2022)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

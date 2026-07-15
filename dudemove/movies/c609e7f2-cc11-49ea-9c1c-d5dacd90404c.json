@@ -1,0 +1,23 @@
+{
+  "id": "c609e7f2-cc11-49ea-9c1c-d5dacd90404c",
+  "title": "The Blue Angels",
+  "slug": "the-blue-angels",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7WpeYv3rEhHtsqymb1JQJEM1nrs.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 93,
+  "rating": 6.7,
+  "description": "Follow the veterans and newest class of Navy and Marine Corps flight squadron as they go through intense training and into a season of heart-stopping aerial artistry.",
+  "created_at": "2026-07-09T17:20:00.883Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Blue.Angels.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Blue.Angels.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

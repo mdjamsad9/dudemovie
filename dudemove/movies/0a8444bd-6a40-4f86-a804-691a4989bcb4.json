@@ -1,0 +1,23 @@
+{
+  "id": "0a8444bd-6a40-4f86-a804-691a4989bcb4",
+  "title": "Cobweb",
+  "slug": "cobweb",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 88,
+  "rating": 6.43,
+  "description": "Eight year old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall—one that his parents insist is all in his imagination. As Peter's fear intensifies, he believes that his parents could be hiding a terrible, dangerous secret and questions their trustworthiness.",
+  "created_at": "2026-07-09T17:35:29.371Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Cobweb.2023.1080p.WEBRip.x264%20%5BDDN%5D/Cobweb.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

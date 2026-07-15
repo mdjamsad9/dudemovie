@@ -1,0 +1,27 @@
+{
+  "id": "757dd95b-99cc-45bb-882c-797f627f40b5",
+  "title": "Big George Foreman",
+  "slug": "big-george-foreman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 129,
+  "rating": 7.583,
+  "description": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+  "created_at": "2026-07-09T17:39:26.703Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Big.George.Foreman.2023.1080p.WEBRip.x264%20%5BDDN%5D/Big.George.Foreman.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

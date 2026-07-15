@@ -1,0 +1,31 @@
+{
+  "id": "ed28da51-e818-4ea8-89ff-51d94fbb85e0",
+  "title": "Dhurandhar: The Revenge",
+  "slug": "dhurandhar-the-revenge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 229,
+  "rating": 7.3,
+  "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+  "created_at": "2026-07-09T16:35:14.419Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

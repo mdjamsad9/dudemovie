@@ -1,0 +1,27 @@
+{
+  "id": "da1b60fb-e2f7-4229-98ea-49d6a06ddcda",
+  "title": "Slum Dog Husband",
+  "slug": "slum-dog-husband",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mmdZzRqg2vrlbc63sMJL5kz8HBk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 126,
+  "rating": 6,
+  "description": "Lacchi, a happy-go-lucky mall-business man's proposed marriage with his lover Mounica gets into trouble when father of his first wife Baby, who happens to be a dog files a case in court against Lacchi demanding alimony.",
+  "created_at": "2026-07-09T17:35:07.706Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Slum%20Dog%20Husband%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Slum%20Dog%20Husband%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7e9bb0b0-2f9f-4499-a6fa-b717cf926233",
+  "title": "Beast of War",
+  "slug": "beast-of-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 87,
+  "rating": 6.124,
+  "description": "When their boat sinks while crossing the Timor Sea during World War II, a troop of young Australian soldiers must find a way to survive the harsh seas on a quickly shrinking raft. Hundreds of miles from anywhere, they must confront interpersonal conflicts, enemy attacks, and the advances of one very large, very hungry great white shark.",
+  "created_at": "2026-07-09T16:51:29.826Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Beast.Of.War.2025.1080p.WEBRip.x264%20%5BDDN%5D/Beast.Of.War.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5d9eb42a-ea9b-4797-92f1-3b634e9a1523",
+  "title": "Pocket Dial Murder",
+  "slug": "pocket-dial-murder",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qn4AHNUtVjEsLDwURKBhPg90tkS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 90,
+  "rating": 5.172,
+  "description": "Stacey receives a pocket dial from her husband, Jeff, where she hears the sudden death of a woman on the other end. When Jeff comes home, he says he lost his phone she doesn’t know what to think. Could Stacey be married to a murderer?",
+  "created_at": "2026-07-09T17:37:55.337Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Pocket.Dial.Murder.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Pocket.Dial.Murder.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

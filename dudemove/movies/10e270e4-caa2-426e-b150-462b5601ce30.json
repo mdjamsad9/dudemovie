@@ -1,0 +1,27 @@
+{
+  "id": "10e270e4-caa2-426e-b150-462b5601ce30",
+  "title": "Air",
+  "slug": "air",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 112,
+  "rating": 7.279,
+  "description": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+  "created_at": "2026-07-09T17:39:50.106Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/AIR.2023.1080p.WEBRip.x264%20%5BDDN%5D/AIR.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

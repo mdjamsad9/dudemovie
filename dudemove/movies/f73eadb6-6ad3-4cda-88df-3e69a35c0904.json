@@ -1,0 +1,31 @@
+{
+  "id": "f73eadb6-6ad3-4cda-88df-3e69a35c0904",
+  "title": "Til Death Do Us Part",
+  "slug": "til-death-do-us-part",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pdo2Wyq3BvME9gHxcrH5RN147hg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 109,
+  "rating": 5.6,
+  "description": "After bailing on her wedding, a former bride-to-be must fight off her ex-groom and seven angry killer groomsmen in order to survive the night.",
+  "created_at": "2026-07-09T17:34:03.698Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Til.Death.Do.Us.Part.2023.1080p.WEBRip.x264%20%5BDDN%5D/Til.Death.Do.Us.Part.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "33054fe5-d43b-44a7-8e81-01b31d56105e",
+  "title": "Baba Black Sheep",
+  "slug": "baba-black-sheep",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7fTl07l2xY8wNAbM7EOuHLPR81T.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 119,
+  "rating": 7,
+  "description": "Two rival school gangs come under the same management and are forced to co-exist, leading to several changes in their lives. As things progress, the students not only become close to each other but also teach the value of life, literally.",
+  "created_at": "2026-07-09T17:34:54.991Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Baba%20Black%20Sheep%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Baba%20Black%20Sheep%20(2023)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

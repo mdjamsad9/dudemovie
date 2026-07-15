@@ -1,0 +1,23 @@
+{
+  "id": "96ff65e7-aa02-4064-973b-02b0a144b645",
+  "title": "The Conjuring: Last Rites",
+  "slug": "the-conjuring-last-rites",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 6.935,
+  "description": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+  "created_at": "2026-07-09T16:51:49.262Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Conjuring.Last.Rites.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Conjuring.Last.Rites.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

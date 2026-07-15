@@ -1,0 +1,27 @@
+{
+  "id": "31b6a3fb-bd6f-4ee4-803e-e400564f0824",
+  "title": "Petta Rap",
+  "slug": "petta-rap",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pt5Wv7YW6Lv4XbZJ7ZeVrswg2EZ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 133,
+  "rating": null,
+  "description": "A movie stuntman begins to lose hope of achieving his dream of becoming an action star.",
+  "created_at": "2026-07-09T17:09:05.517Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Petta%20Rap%20(2024)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Petta%20Rap%20(2024)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

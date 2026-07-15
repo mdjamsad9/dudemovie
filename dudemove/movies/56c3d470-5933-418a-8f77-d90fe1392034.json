@@ -1,0 +1,27 @@
+{
+  "id": "56c3d470-5933-418a-8f77-d90fe1392034",
+  "title": "Crazy Fellow",
+  "slug": "crazy-fellow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fI7Kz1IeO70xopwDV9PSVxaHlEk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 7,
+  "description": "Abhiram is a rich, flamboyant, self-centered youngster, who lives life to the fullest. To help Abhi take charge of his future, his brother helps him get a job at a software company. Right from day one, Abhiram has a stormy relationship with his colleague Madhumita. Abhi and Madhu interact with each other through a dating app without knowing each other’s true identities. When they finally plan to meet, all hell breaks loose.",
+  "created_at": "2026-07-09T17:47:21.932Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Crazy%20Fellow%20(2022)%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Crazy%20Fellow%20(2022)%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

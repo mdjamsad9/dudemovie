@@ -1,0 +1,27 @@
+{
+  "id": "a2431a02-eeff-4349-afac-a63e310f4b65",
+  "title": "Your Place or Mine",
+  "slug": "your-place-or-mine",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 109,
+  "rating": 6.249,
+  "description": "When best friends and total opposites Debbie and Peter swap homes for a week, they get a peek into each other's lives that could open the door to love.",
+  "created_at": "2026-07-09T17:44:34.436Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Your.Place.or.Mine.2023.1080p.WEBRip.x264%20%5BDDN%5D/Your.Place.or.Mine.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

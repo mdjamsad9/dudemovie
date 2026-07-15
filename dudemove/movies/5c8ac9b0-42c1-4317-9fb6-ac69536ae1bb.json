@@ -1,0 +1,27 @@
+{
+  "id": "5c8ac9b0-42c1-4317-9fb6-ac69536ae1bb",
+  "title": "Baran",
+  "slug": "baran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mcsAug8npYWQ21W0Adv5ghpJuSk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Azerbaijani",
+  "release_year": 2001,
+  "duration": 90,
+  "rating": 7.5,
+  "description": "On a building site in present-day Tehran, Lateef, a 17-year-old Turkish worker is irresistibly drawn to Rahmat, a young Afghan worker. The revelation of Rahmat's secret changes both their lives.",
+  "created_at": "2026-07-09T16:46:47.584Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Baran.2001.1080p.WEBRip.x265%20%5BDDN%5D/Baran.2001.1080p.WEBRip.x265%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

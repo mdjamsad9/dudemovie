@@ -1,0 +1,27 @@
+{
+  "id": "28a6f5ce-c7a9-4384-9299-f5d1a82ca05b",
+  "title": "Ramabanam",
+  "slug": "ramabanam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 143,
+  "rating": 3.7,
+  "description": "Years after running away from his pacifist brother Rajaram, Vicky lives as a gangster in Kolkata. When Vicky returns home, Rajaram's organic food business empire is in the doldrums because his rival GK is conspiring against it. Can Vicky save his brother's business in time and teach GK a lesson?",
+  "created_at": "2026-07-09T17:32:12.764Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ramabanam%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ramabanam%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

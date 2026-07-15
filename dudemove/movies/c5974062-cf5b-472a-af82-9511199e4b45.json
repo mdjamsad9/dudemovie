@@ -1,0 +1,31 @@
+{
+  "id": "c5974062-cf5b-472a-af82-9511199e4b45",
+  "title": "Hypnotic",
+  "slug": "hypnotic",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2023,
+  "duration": 93,
+  "rating": 6.205,
+  "description": "A detective becomes entangled in a mystery involving his missing daughter and a secret government program while investigating a string of reality-bending crimes.",
+  "created_at": "2026-07-09T17:38:59.622Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Hypnotic.2023.1080p.WEBRip.x264%20%5BDDN%5D/Hypnotic.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

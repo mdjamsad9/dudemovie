@@ -1,0 +1,31 @@
+{
+  "id": "a21e28fb-e9c4-47e1-9e45-28058a8d3c95",
+  "title": "Raavanan",
+  "slug": "raavanan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4mVJLb1lnLvlFlgvx4QPrlkoldw.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2010,
+  "duration": 134,
+  "rating": 7,
+  "description": "After inspector Dev stirs the reign of Veeraiya, a tribal outlaw, the latter responds by kidnapping his wife, Ragini. While she tries to escape from him, Dev fights many resistances to find her.",
+  "created_at": "2026-07-09T17:02:23.737Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Raavanan%20(2010)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raavanan%20(2010)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

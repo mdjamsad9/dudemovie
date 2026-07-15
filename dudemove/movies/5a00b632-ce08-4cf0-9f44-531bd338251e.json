@@ -1,0 +1,27 @@
+{
+  "id": "5a00b632-ce08-4cf0-9f44-531bd338251e",
+  "title": "The Invitation",
+  "slug": "the-invitation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 5.992,
+  "description": "After the death of her mother, Evie is approached by an unknown cousin who invites her to a lavish wedding in the English countryside. Soon, she realizes a gothic conspiracy is afoot and must fight for survival as she uncovers twisted secrets in her family’s history.",
+  "created_at": "2026-07-09T17:51:16.413Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/The.Invitation.2022.UNRATED.1080p.WEBRip.x264%20%5BDDN%5D/The.Invitation.2022.UNRATED.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

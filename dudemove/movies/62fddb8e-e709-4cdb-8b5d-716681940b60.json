@@ -1,0 +1,31 @@
+{
+  "id": "62fddb8e-e709-4cdb-8b5d-716681940b60",
+  "title": "Prappeda",
+  "slug": "prappeda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n99TO3VrgqV5LoIGnCQaIftgsdz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6,
+  "description": "A plane drops an atomic bomb, after which the pilot is ordered into hiding by the command centre. They have even rented a piece of jungle for him, where he starts a micro-community. However, a power struggle ensues between his half-blind granddaughter Ruby, the insomniac bodyguard, the priest appointed as her guardian by the pilot, and a policeman who says he is family. Things explode when Ruby befriends a mysterious stranger.",
+  "created_at": "2026-07-09T17:15:34.199Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Prappeda%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prappeda%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

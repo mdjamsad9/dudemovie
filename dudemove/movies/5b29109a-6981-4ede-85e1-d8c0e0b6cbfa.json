@@ -1,0 +1,27 @@
+{
+  "id": "5b29109a-6981-4ede-85e1-d8c0e0b6cbfa",
+  "title": "Bhooth Bangla",
+  "slug": "bhooth-bangla",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+  "is_premium": false,
+  "country": "Bangladesh",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 163,
+  "rating": 5.5,
+  "description": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+  "created_at": "2026-07-09T16:33:27.750Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Bhooth%20Bangla%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhooth%20Bangla%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

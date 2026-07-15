@@ -1,0 +1,27 @@
+{
+  "id": "f64efb5b-82da-42fc-a4bf-6352e9e55001",
+  "title": "Kurukkan",
+  "slug": "kurukkan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mdAFicId7O2kzlSpASzQobb1Nez.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 124,
+  "rating": 4.7,
+  "description": "A self deprecating police officer who is down on luck and hasn't had any career promotion's tries to frame an innocent to make fame, but it backfires on him.",
+  "created_at": "2026-07-09T17:35:05.825Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kurukkan%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kurukkan%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

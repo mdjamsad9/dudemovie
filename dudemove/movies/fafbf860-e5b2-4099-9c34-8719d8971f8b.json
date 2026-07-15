@@ -1,0 +1,35 @@
+{
+  "id": "fafbf860-e5b2-4099-9c34-8719d8971f8b",
+  "title": "V1 Murder Case",
+  "slug": "v1-murder-case",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yMzSvOGjsON3xzLlj3P9vZAqtM2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 112,
+  "rating": 5.4,
+  "description": "An intelligent forensic officer starts investigating a murder, but he faces a slew of challenges as he suffers from nyctophobia. Will he be able to solve the case?",
+  "created_at": "2026-07-09T17:48:56.395Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/V1%20Murder%20Case%202019%201080p%20Hindi%20Tamil%20x264%20ESub%20%5BDDN%5D/V1%20Murder%20Case%202019%201080p%20Hindi%20Tamil%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

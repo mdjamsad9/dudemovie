@@ -1,0 +1,23 @@
+{
+  "id": "52101cf7-eb0f-47a7-a684-bcd7f18e32b8",
+  "title": "Dangerous Waters",
+  "slug": "dangerous-waters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kIMbYsYVD2brZUTqc2LIoQRAXr6.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 101,
+  "rating": 5.6,
+  "description": "A young woman, her single mother, and the mother's new boyfriend embark on a sailing adventure to Bermuda. However, when criminals suddenly attack their boat, the pleasure trip turns into a desperate fight for survival and a quest for vengeance.",
+  "created_at": "2026-07-09T17:27:16.764Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Dangerous.Waters.2023.1080p.WEBRip.x264%20%5BDDN%5D/Dangerous.Waters.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cb75efec-f9ed-49db-9642-71d060a2aa96",
+  "title": "The Best Christmas Pageant Ever",
+  "slug": "the-best-christmas-pageant-ever",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 99,
+  "rating": 6.945,
+  "description": "The Herdman kids are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they're taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
+  "created_at": "2026-07-09T17:06:21.621Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Best.Christmas.Pageant.Ever.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Best.Christmas.Pageant.Ever.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

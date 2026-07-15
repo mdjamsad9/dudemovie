@@ -1,0 +1,27 @@
+{
+  "id": "a3d75b75-ab02-431b-89b9-e266321c0ce4",
+  "title": "Jewel Thief - The Heist Begins",
+  "slug": "jewel-thief-the-heist-begins",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 118,
+  "rating": 6.672,
+  "description": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+  "created_at": "2026-07-09T16:59:58.580Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Jewel%20Thief%20The%20Heist%20Begins%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jewel%20Thief%20The%20Heist%20Begins%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

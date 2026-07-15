@@ -1,0 +1,31 @@
+{
+  "id": "f9c1ec61-de83-4dd5-aac5-b040f86a3346",
+  "title": "Den of Thieves 2: Pantera",
+  "slug": "den-of-thieves-2-pantera",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rxcyxxarD17xMliStDEhM6y2AYQ.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2025,
+  "duration": 144,
+  "rating": 6.581,
+  "description": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+  "created_at": "2026-07-09T17:03:29.020Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Den.Of.Thieves.2.Pantera.2025.1080p.WEBRip.x264%20%5BDDN%5D/Den.Of.Thieves.2.Pantera.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

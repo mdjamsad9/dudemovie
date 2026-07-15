@@ -1,0 +1,27 @@
+{
+  "id": "7a4cbf64-9262-40f9-8e1e-82d25bf60ec0",
+  "title": "How to Make a Killing",
+  "slug": "how-to-make-a-killing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 105,
+  "rating": 7.016,
+  "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+  "created_at": "2026-07-09T16:37:18.836Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/How.To.Make.A.Killing.2026.1080p.WEBRip.x264%20%5BDDN%5D/How.To.Make.A.Killing.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

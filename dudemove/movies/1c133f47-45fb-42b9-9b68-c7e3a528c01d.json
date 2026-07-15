@@ -1,0 +1,27 @@
+{
+  "id": "1c133f47-45fb-42b9-9b68-c7e3a528c01d",
+  "title": "Sindhooram",
+  "slug": "sindhooram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jVlMypbIRectCSzpU4iV8T9hFNS.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 133,
+  "rating": 5,
+  "description": "Set in Sriramagiri in 2003, Ravi is a college drop out who works as an informer to Singhanna, a Maoist leader who operates against the local politician. Sirisha, sister of the village head Eeshwar Reddy, becomes the new MRO to the village, decides to eradicate Naxalism in her village and hopes to bring a change. The continuous bloodshed between democracy and armed struggle reveals to us the darkest secrets behind every noble cause.",
+  "created_at": "2026-07-09T17:39:16.468Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sindhooram%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sindhooram%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

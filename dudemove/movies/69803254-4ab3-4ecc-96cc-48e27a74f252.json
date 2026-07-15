@@ -1,0 +1,31 @@
+{
+  "id": "69803254-4ab3-4ecc-96cc-48e27a74f252",
+  "title": "Kanam",
+  "slug": "kanam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hzorfVrtVuRoAQbMPzsvQkf3kQM.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 154,
+  "rating": 7.2,
+  "description": "A struggling young musician, along with his two friends, with the help of a quantum physicist goes back in time to prevent the death of his mother. What happens next?",
+  "created_at": "2026-07-09T17:51:36.512Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Oke%20Oka%20Jeevitham%20(2022%20Telugu%20Pre-DVD%20-%201080p%20-%20x264%20%5BDDN%5D/Oke%20Oka%20Jeevitham%20(2022%20Telugu%20Pre-DVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "73b7fb57-ff25-40bb-bc2a-ad2a7c8c39cd",
+  "title": "Ginna",
+  "slug": "ginna",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9c2QaEKnZdV5c8cLVwiw9d5Wm9l.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 5.4,
+  "description": "Childhood buddies Renuka and Ginna reunite after years of separation, but things are no longer the same. Will Ginna be able to navigate his way through the complex web of love, lies and lethal rivalries?",
+  "created_at": "2026-07-09T17:49:24.747Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ginna%202022%20PreDvd%201080p%20Hindi%20x264%20ESub%20%5BDDN%5D/Ginna%202022%20PreDvd%201080p%20Hindi%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

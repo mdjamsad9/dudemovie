@@ -1,0 +1,27 @@
+{
+  "id": "3e68ddfd-c245-4e9e-8712-d6ca29113971",
+  "title": "Panni Kutty",
+  "slug": "panni-kutty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ky7p7rJv84JlLqeLWqLkID6gqOU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 122,
+  "rating": 4,
+  "description": "A down-on-luck man has to run over a piglet that had caused a minor accident to get lucky in life. But the animal belongs to a man who has to keep it safe for his wedding to happen!",
+  "created_at": "2026-07-09T17:54:20.276Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "81143b4a-a263-499e-a15f-21a427779d08",
+  "title": "John Wick: Chapter 4",
+  "slug": "john-wick-chapter-4",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Arabic",
+  "release_year": 2023,
+  "duration": 170,
+  "rating": 7.709,
+  "description": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "created_at": "2026-07-09T17:39:15.042Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/John.Wick.Chapter.4.2023.1080p.WEBRip.x264%20%5BDDN%5D/John.Wick.Chapter.4.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

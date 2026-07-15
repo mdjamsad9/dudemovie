@@ -1,0 +1,39 @@
+{
+  "id": "5a4178b2-956a-40e7-a3da-6fc555c19207",
+  "title": "The Magician's Elephant",
+  "slug": "the-magician-s-elephant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 99,
+  "rating": 6.8,
+  "description": "Peter is searching for his long-lost sister when he crosses paths with a fortune teller in the market square. His only question is: is his sister still alive? The answer, that he must find a mysterious elephant and the magician who will conjure it, sets Peter off on a journey to complete three seemingly impossible tasks that will change the face of his town forever.",
+  "created_at": "2026-07-09T17:42:12.413Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Magicians.Elephant.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Magicians.Elephant.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

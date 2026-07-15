@@ -1,0 +1,31 @@
+{
+  "id": "c2d75b3d-3df0-463e-a1cb-010db0a91660",
+  "title": "Panchathantram",
+  "slug": "panchathantram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bDBF5eTUhEM0Vu6vUm7e8DdYtGE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": null,
+  "description": "Veda Vyas Murthy is a retired All India Radio announcer whose daughter doesn't want him to work any longer. When a publishing house announces a story-narration contest, Veda Vyas' interest to tell stories is kindled. He narrates five different stories with the theme of the five senses: Sight, Smell, Sound, Taste, and Touch.",
+  "created_at": "2026-07-09T17:46:56.197Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Panchathantram%20(2022)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Panchathantram%20(2022)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9e1c2e8b-a5e6-4262-a5c3-eb6a8b41a47b",
+  "title": "Venom: The Last Dance",
+  "slug": "venom-the-last-dance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 109,
+  "rating": 6.676,
+  "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+  "created_at": "2026-07-09T17:06:22.906Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Venom.The.Last.Dance.2024.1080p.WEBRip.x264%20%5BDDN%5D/Venom.The.Last.Dance.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3cd915bb-b362-4cfe-a64b-fc89730a9fa1",
+  "title": "Glass Onion: A Knives Out Mystery",
+  "slug": "glass-onion-a-knives-out-mystery",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 140,
+  "rating": 7.03,
+  "description": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+  "created_at": "2026-07-09T17:46:32.333Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Glass.Onion.A.Knives.Out.Mystery.2022.1080p.WEBRip.x264%20%5BDDN%5D/Glass.Onion.A.Knives.Out.Mystery.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

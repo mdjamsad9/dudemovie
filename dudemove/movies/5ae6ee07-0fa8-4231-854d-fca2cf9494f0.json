@@ -1,0 +1,27 @@
+{
+  "id": "5ae6ee07-0fa8-4231-854d-fca2cf9494f0",
+  "title": "We Have a Ghost",
+  "slug": "we-have-a-ghost",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 127,
+  "rating": 6.452,
+  "description": "After Kevin finds a ghost named Ernest haunting his new home, he becomes an overnight social media sensation. But when Kevin and Ernest go rogue to investigate the mystery of the latter's past, they become targets of the CIA.",
+  "created_at": "2026-07-09T17:43:20.221Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/We.Have.a.Ghost.2023.1080p.WEBRip.x264%20%5BDDN%5D/We.Have.a.Ghost.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

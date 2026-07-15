@@ -1,0 +1,31 @@
+{
+  "id": "f1016dbd-f863-4527-8306-aec4eac53dc3",
+  "title": "Nandhi Varman",
+  "slug": "nandhi-varman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uyIuwDjC7roVtusl10kyCkBjOjt.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 115,
+  "rating": null,
+  "description": "A team from the Madras University arrive at a village to excavate Aanumantheeshwarar temple belongs to Pallava monarch Nandivarman's era, is believed to be buried under the soil. Once the excavation starts, supernatural activities and multiple terrifying incidents take place one after the other.",
+  "created_at": "2026-07-09T17:28:32.075Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Nandhi%20Varman%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Nandhi%20Varman%20(2023)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

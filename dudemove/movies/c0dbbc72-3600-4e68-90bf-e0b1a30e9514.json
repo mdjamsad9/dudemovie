@@ -1,0 +1,31 @@
+{
+  "id": "c0dbbc72-3600-4e68-90bf-e0b1a30e9514",
+  "title": "Karungaapiyam",
+  "slug": "karungaapiyam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ssa2D45PoAdp9lqb5r9reOsREr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": 4.5,
+  "description": "Set during the lockdown,  Umayal Karthika deciding to spend time at a 100-year-old unkempt library in a bid to divert and heal from a heartbreak. From the sea of books, she picks up Karungaapiyam and with her reading different chapters, and her imagination about the stories comes to life.",
+  "created_at": "2026-07-09T17:25:13.169Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kajal%20Karthika%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kajal%20Karthika%20(2023)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

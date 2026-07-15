@@ -1,0 +1,23 @@
+{
+  "id": "87adc3eb-0d4e-45df-b384-87d6187f7a17",
+  "title": "Pain Hustlers",
+  "slug": "pain-hustlers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 122,
+  "rating": 6.652,
+  "description": "After losing her job, a single mom falls into a lucrative but ultimately dangerous scheme selling prescription drugs.",
+  "created_at": "2026-07-09T17:31:45.641Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Pain.Hustlers.2023.1080p.WEBRip.x264%20%5BDDN%5D/Pain.Hustlers.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

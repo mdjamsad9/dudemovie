@@ -1,0 +1,23 @@
+{
+  "id": "38e8d3fe-9ddd-4fdc-bb2a-99ed4342e397",
+  "title": "Pareshan",
+  "slug": "pareshan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bBZrhlzFOjEQl7vzNosRu1ab2Ke.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": 124,
+  "rating": 5.2,
+  "description": "Issac and his friends are typical jobless youth who waste time boozing around and get scolded by their parents. As if aimlessness was not an issue, Issac faces an unexpected problem that changes his life due to his girlfriend, Shirisha.",
+  "created_at": "2026-07-09T17:35:51.684Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pareshan%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pareshan%20(2023)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

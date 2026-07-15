@@ -1,0 +1,27 @@
+{
+  "id": "e5511529-2c36-499e-8f05-ae91f2b58fee",
+  "title": "Enjoy",
+  "slug": "enjoy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o96gUaeGTrpMdJ0SUn4mdbaaN6h.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 6.7,
+  "description": "As Michael seeks novel ways to halt his spiralling depression, a moment of hope arrives via an unexpected source.",
+  "created_at": "2026-07-09T17:29:43.889Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Enjoy%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Enjoy%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

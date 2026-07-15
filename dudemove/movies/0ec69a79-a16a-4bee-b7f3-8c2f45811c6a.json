@@ -1,0 +1,31 @@
+{
+  "id": "0ec69a79-a16a-4bee-b7f3-8c2f45811c6a",
+  "title": "Gunslingers",
+  "slug": "gunslingers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 104,
+  "rating": 6.219,
+  "description": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king’s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
+  "created_at": "2026-07-09T17:00:05.228Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Gunslingers.2025.1080p.WEBRip.x264%20%5BDDN%5D/Gunslingers.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "796324ac-1976-4bd1-82df-d072d049840d",
+  "title": "The Mother",
+  "slug": "the-mother",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 115,
+  "rating": 6.62,
+  "description": "A deadly female assassin comes out of hiding to protect the daughter that she gave up years before, while on the run from dangerous men.",
+  "created_at": "2026-07-09T17:39:46.477Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/The.Mother.2023.1080p.WEBRip.x264%20%5BDDN%5D/The.Mother.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

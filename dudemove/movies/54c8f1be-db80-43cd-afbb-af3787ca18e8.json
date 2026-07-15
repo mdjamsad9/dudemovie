@@ -1,0 +1,27 @@
+{
+  "id": "54c8f1be-db80-43cd-afbb-af3787ca18e8",
+  "title": "Wall to Wall",
+  "slug": "wall-to-wall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5hlNv3Kd9xovvSgrslWhMriGpZ8.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2025,
+  "duration": 118,
+  "rating": 6.1,
+  "description": "A man who poured his life savings into a new apartment discovers its walls are full of disturbing noises, hostile neighbors and unsettling secrets.",
+  "created_at": "2026-07-09T16:55:23.162Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Wall%20to%20Wall%20%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Wall%20to%20Wall%20%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

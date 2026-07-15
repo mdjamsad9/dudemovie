@@ -1,0 +1,31 @@
+{
+  "id": "6c07ef3b-d49e-4c77-abc7-61cb062efcf7",
+  "title": "The Testament of Ann Lee",
+  "slug": "the-testament-of-ann-lee",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 137,
+  "rating": 6.4,
+  "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
+  "created_at": "2026-07-09T16:40:03.787Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Testament.Of.Ann.Lee.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Testament.Of.Ann.Lee.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

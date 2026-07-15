@@ -1,0 +1,35 @@
+{
+  "id": "ac26ccdc-f848-4d2c-b3f7-6ccc77b783b8",
+  "title": "English Dogs in Bangkok",
+  "slug": "english-dogs-in-bangkok",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hbO5nn37NNHhsQlTUV6nviyKrBy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2020,
+  "duration": 85,
+  "rating": 7,
+  "description": "In the streets of Thailand, a trail of destruction and mayhem ensues when a notorious soldier (Byron Gibson) and criminal kickboxer (Ron Smoorenburg) join forces to become the biggest illegal steroid supplier in Asia.",
+  "created_at": "2026-07-09T17:57:07.186Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2020/English.Dogs.In.Bangkok.2020.1080p.WEBRip.x264%20%5BDDN%5D/English.Dogs.In.Bangkok.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

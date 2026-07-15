@@ -1,0 +1,27 @@
+{
+  "id": "5e624550-597a-4169-a2ee-af2938bf9339",
+  "title": "Pranaya Vilasam",
+  "slug": "pranaya-vilasam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f4pD88r8OK2UZk9ouK9J6CYeWU2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2023,
+  "duration": 123,
+  "rating": 6.5,
+  "description": "A revelation about a woman's old flame sends shockwaves through her family. Portrays love stories of different characters who are at different stages of their lives.",
+  "created_at": "2026-07-09T17:41:01.942Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pranaya%20Vilasam%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pranaya%20Vilasam%20(2023)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

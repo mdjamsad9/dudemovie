@@ -1,0 +1,31 @@
+{
+  "id": "e252eb3a-6b67-49bc-8860-07002d05afcc",
+  "title": "North 24 Kaatham",
+  "slug": "north-24-kaatham",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p5mmJFoAch1GxGpy2HMQ9M0eQ16.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Gujarati",
+  "release_year": 2013,
+  "duration": 125,
+  "rating": 7.6,
+  "description": "Harikrishnan is a geeky software professional who suffers from an obsessive compulsive disorder. A harthal day sees him travelling to Trivandrum for a conference, and in the midst of the night, he ends up at Paravur railway station with two strangers - Gopalan  a veteran politician and Narayani a social worker - for company.",
+  "created_at": "2026-07-09T17:16:37.099Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/North%2024%20Kaatham%20(2013)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/North%2024%20Kaatham%20(2013)%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

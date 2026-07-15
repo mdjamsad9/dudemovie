@@ -1,0 +1,31 @@
+{
+  "id": "3ea4f22f-2d94-4029-9b8e-7f56d9c9f8fa",
+  "title": "Role Play",
+  "slug": "role-play",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 101,
+  "rating": 6,
+  "description": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+  "created_at": "2026-07-09T17:28:11.676Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Role.Play.2023.1080p.WEBRip.x264%20%5BDDN%5D/Role.Play.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

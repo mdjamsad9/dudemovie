@@ -1,0 +1,31 @@
+{
+  "id": "8c1af8b1-2f6d-438f-965b-d3af0e4c29d1",
+  "title": "iNumber Number: Jozi Gold",
+  "slug": "inumber-number-jozi-gold",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8OkmwdxCZOVxvZq9OyDrIIKEoDK.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Afrikaans",
+  "release_year": 2023,
+  "duration": 113,
+  "rating": 5.5,
+  "description": "When an undercover cop is tasked with investigating a historic gold heist in Johannesburg, he’s forced to choose between his conscience and the law.",
+  "created_at": "2026-07-09T17:37:38.970Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/INumber.Number.Jozi.Gold.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/INumber.Number.Jozi.Gold.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

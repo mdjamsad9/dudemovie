@@ -1,0 +1,31 @@
+{
+  "id": "f8eb41b0-3805-4f7a-8966-4580d8947073",
+  "title": "STRAW",
+  "slug": "straw",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 105,
+  "rating": 7.71,
+  "description": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point — and into a shocking act of desperation.",
+  "created_at": "2026-07-09T16:57:04.292Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Straw.2025.1080p.WEBRip.x264%20%5BDDN%5D/Straw.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "de97f2a8-e23e-41f0-b0d0-c9cf4569038d",
+  "title": "Oruthee",
+  "slug": "oruthee",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a4oK8quaOGsSSGkHeWQtXHSdtpY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 135,
+  "rating": 6.2,
+  "description": "Radhamani, a ticket collector in a government boat, tries to take a gold loan in exchange for her daughter’s new necklace. What awaits her is a ton of problems that he hardly foresaw.",
+  "created_at": "2026-07-09T17:55:20.357Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Oruthee%20(2022)%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Oruthee%20(2022)%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

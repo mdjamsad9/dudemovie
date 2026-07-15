@@ -1,0 +1,31 @@
+{
+  "id": "02a33e3b-7738-447a-9e28-1a343a746469",
+  "title": "The Sheep Detectives",
+  "slug": "the-sheep-detectives",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 115,
+  "rating": 7.56,
+  "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+  "created_at": "2026-07-09T16:32:54.645Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The%20Sheep%20Detectives%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Sheep%20Detectives%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

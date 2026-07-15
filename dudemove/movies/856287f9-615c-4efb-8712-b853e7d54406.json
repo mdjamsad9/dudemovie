@@ -1,0 +1,23 @@
+{
+  "id": "856287f9-615c-4efb-8712-b853e7d54406",
+  "title": "Ajagajantharam",
+  "slug": "ajagajantharam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9SKsMvNArp0ytrjrx5h6rCf1wxN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2021,
+  "duration": 122,
+  "rating": 6.8,
+  "description": "Aranjali is all set to celebrate the annual temple festival. Some unforeseen chain of events involving an elephant, a few young men, a notorious criminal, a drama troop and some trouble-loving villagers brings complete mayhem to the place",
+  "created_at": "2026-07-09T17:55:48.437Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ajagajantharam%202022%20Hindi%20Telugu%20Tamil%20Malayalam%20720p%20WEBRip%20x264%20%5BDDN%5D/Ajagajantharam%202022%20Hindi%20Telugu%20Tamil%20Malayalam%20720p%20WEBRip%20x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

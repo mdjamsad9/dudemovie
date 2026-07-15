@@ -1,0 +1,31 @@
+{
+  "id": "5ac0a56b-25fa-4f75-be46-6034fb5eb85b",
+  "title": "Dr. 56",
+  "slug": "dr-56",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xQPGHTSylif4HHuzFgrBVYbMMKy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 5.7,
+  "description": "Arjun is a theater artist who is suffering from an illness and has to take a pill every 56 minutes. Parallel to his misery is a murder investigation of three neurosurgeons lead by CBI officer Priya Krishna. Priya meets Dr Ashwath and the two go on an exposition about the medical mafia and its consequences.",
+  "created_at": "2026-07-09T17:45:23.166Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dr.%2056%20(2022)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dr.%2056%20(2022)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "83399cea-f0a7-433c-b87a-bb9d16944d9a",
+  "title": "Me Time",
+  "slug": "me-time",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bkjPoisqAavXUvtoirxTEcLLQyI.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 5.853,
+  "description": "With his family away, a devoted stay-at-home dad enjoys his first me time in years by joining his hard-partying old friend on a wild birthday adventure.",
+  "created_at": "2026-07-09T17:52:21.182Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Me.Time.2022.1080p.WEBRip.x264%20%5BDDN%5D/Me.Time.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

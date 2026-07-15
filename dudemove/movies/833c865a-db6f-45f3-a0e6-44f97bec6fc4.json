@@ -1,0 +1,23 @@
+{
+  "id": "833c865a-db6f-45f3-a0e6-44f97bec6fc4",
+  "title": "Armageddon Time",
+  "slug": "armageddon-time",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 114,
+  "rating": 6.438,
+  "description": "In 1980, Queens, New York, a young Jewish boy befriends a rebellious African-American classmate to the disapproval of his privileged family and begins to reckon with growing up in a world of inequality and prejudice.",
+  "created_at": "2026-07-09T17:47:38.940Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Armageddon.Time.2022.1080p.WEBRip.x264%20%5BDDN%5D/Armageddon.Time.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

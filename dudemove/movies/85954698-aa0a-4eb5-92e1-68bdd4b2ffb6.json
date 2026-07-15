@@ -1,0 +1,35 @@
+{
+  "id": "85954698-aa0a-4eb5-92e1-68bdd4b2ffb6",
+  "title": "Minions & More Volume 1",
+  "slug": "minions-more-volume-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hjVIpMS8gOEaLB87kpgEOqdDCrk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 44,
+  "rating": 7,
+  "description": "This collection of 10 short films produced by Illumination includes: From the \"Despicable Me\" franchise: Puppy (2013); Minion Scouts (2019); Training Wheels (2013); The Secret Life of Kyle (2017); Santa's Little Helpers (2019).  From the \"Grinch\" franchise: The Dog Days of Winter (2019).  From the \"Secret Life of Pets\" franchise: Norman Television (2016); Weenie (2016).  From the \"Sing\" franchise: Love at First Sight (2017).  From the \"Lorax\" franchise: Forces of Nature (2012).",
+  "created_at": "2026-07-09T17:50:41.891Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Minions.and.More.Volume.1.2022.1080p.WEBRip.x264%20%5BDDN%5D/Minions.and.More.Volume.1.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

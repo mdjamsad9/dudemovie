@@ -1,0 +1,27 @@
+{
+  "id": "2d1340fd-a69d-4709-8188-015184784a73",
+  "title": "Winnie-the-Pooh: Blood and Honey 2",
+  "slug": "winnie-the-pooh-blood-and-honey-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 93,
+  "rating": 5.768,
+  "description": "Five months following the murders, Christopher Robin struggles to maintain a regular life while dealing with PTSD. However, deep within the 100-Acre-Wood, a destructive rage grows as Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
+  "created_at": "2026-07-09T17:18:52.999Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Winnie-the-Pooh.Blood.And.Honey.2.2024.1080p.WEBRip.x264%20%5BDDN%5D/Winnie-the-Pooh.Blood.And.Honey.2.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

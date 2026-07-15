@@ -1,0 +1,31 @@
+{
+  "id": "9ae3f23f-b1d2-4bf3-b9f1-163e51514572",
+  "title": "Mark Antony",
+  "slug": "mark-antony",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3xz1lfMrFlNtZ4H8DQKvYog8ilR.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 151,
+  "rating": 6,
+  "description": "Set in 1995, Mark, a skilled mechanic and the son of a former gangster, stumbles upon a phone that has the ability to connect with the past, tries to save his estranged mother from a grim fate. While facing his own family's legacy, Mark must navigate through dangerous consequences of altering the past, as it causes unforeseen repercussions in the present.",
+  "created_at": "2026-07-09T17:33:18.586Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mark%20Antony%20(2023)%201080p%20PreDVDRip%20Hindi%20Tamil%20x264%20HC-ESub%20%5BDDN%5D/Mark%20Antony%20(2023)%201080p%20PreDVDRip%20Hindi%20Tamil%20x264%20HC-ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

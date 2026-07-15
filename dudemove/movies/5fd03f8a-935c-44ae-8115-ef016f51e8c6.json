@@ -1,0 +1,31 @@
+{
+  "id": "5fd03f8a-935c-44ae-8115-ef016f51e8c6",
+  "title": "Bhama Kalabam",
+  "slug": "bhama-kalabam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wuWjJYDqh3MCnXcuj9VkMHvsIVA.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6.7,
+  "description": "Anupama, a YouTuber who has over a million subscribers, uploads a new recipe each week. An ancient egg whose value is around Rs 200 crore goes missing from a museum and a murder too happens, and then things take a dark turn. Anupama is also nosy about the happenings in her apartment, she finds herself getting pulled into a tricky situation.",
+  "created_at": "2026-07-09T17:55:52.248Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bhama%20Kalabam%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5BDDN%5D/Bhama%20Kalabam%20(2022)%20Tamil%201080p%20WEBRip%20x265%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

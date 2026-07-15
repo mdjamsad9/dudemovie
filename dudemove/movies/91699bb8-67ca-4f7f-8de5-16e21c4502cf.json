@@ -1,0 +1,31 @@
+{
+  "id": "91699bb8-67ca-4f7f-8de5-16e21c4502cf",
+  "title": "Breaking",
+  "slug": "breaking",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 103,
+  "rating": 6.536,
+  "description": "Desperate for money and running out of options, Marine veteran Brian Brown-Easley holds several people hostage inside a bank, setting the stage for a tense confrontation with police.",
+  "created_at": "2026-07-09T17:51:29.978Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Breaking.2022.1080p.WEBRip.x264%20%5BDDN%5D/Breaking.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b34a2087-a7a8-4590-b7da-ddb5e0b0ac89",
+  "title": "Immaculate",
+  "slug": "immaculate",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 89,
+  "rating": 6.209,
+  "description": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+  "created_at": "2026-07-09T17:24:58.799Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Immaculate.2024.1080p.WEBRip.x264%20%5BDDN%5D/Immaculate.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

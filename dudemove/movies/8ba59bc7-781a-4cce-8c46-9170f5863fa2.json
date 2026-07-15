@@ -1,0 +1,23 @@
+{
+  "id": "8ba59bc7-781a-4cce-8c46-9170f5863fa2",
+  "title": "Blonde",
+  "slug": "blonde",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 167,
+  "rating": 5.898,
+  "description": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
+  "created_at": "2026-07-09T17:50:47.130Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Blonde.2022.1080p.WEBRip.x264%20%5BDDN%5D/Blonde.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

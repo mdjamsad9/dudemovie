@@ -1,0 +1,27 @@
+{
+  "id": "7235dd20-7a18-4e5e-b5a9-c8a98e63ec3c",
+  "title": "American Sweatshop",
+  "slug": "american-sweatshop",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/38OuhBN7yga2nJSP16VPSOJ2Mwz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 93,
+  "rating": 5.6,
+  "description": "A content moderator is tasked with purging offensive media from the internet. When she witnesses a crime in a video, she is lured away from the safety of her keyboard as she obsessively seeks to hold someone accountable.",
+  "created_at": "2026-07-09T16:52:31.897Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/American.Sweatshop.2025.1080p.WEBRip.x264%20%5BDDN%5D/American.Sweatshop.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

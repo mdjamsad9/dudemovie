@@ -1,0 +1,27 @@
+{
+  "id": "b481ca2a-716a-44a5-9983-0a6173cb7402",
+  "title": "Ice Cold: Murder, Coffee and Jessica Wongso",
+  "slug": "ice-cold-murder-coffee-and-jessica-wongso",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Indonesian",
+  "release_year": 2023,
+  "duration": 86,
+  "rating": 6.375,
+  "description": "This documentary delves into the unanswered questions surrounding the trial of Jessica Wongso — years after the death of her best friend, Mirna Salihin.",
+  "created_at": "2026-07-09T17:32:40.440Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Dhamaal-4%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Dhamaal-4%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

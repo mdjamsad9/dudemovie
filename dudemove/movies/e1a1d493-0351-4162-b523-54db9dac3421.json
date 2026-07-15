@@ -1,0 +1,31 @@
+{
+  "id": "e1a1d493-0351-4162-b523-54db9dac3421",
+  "title": "Kandahar",
+  "slug": "kandahar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 119,
+  "rating": 6.787,
+  "description": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+  "created_at": "2026-07-09T17:38:10.104Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Kandahar.2023.1080p.WEBRip.x264.AAC%20%5BDDN%5D/Kandahar.2023.1080p.WEBRip.x264.AAC%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "4dfdfddf-3365-4c5b-9dce-e3bfd1551b7d",
+  "title": "Megalopolis",
+  "slug": "megalopolis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 138,
+  "rating": 5.186,
+  "description": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society’s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor’s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity.",
+  "created_at": "2026-07-09T17:09:51.568Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Megalopolis.2024.1080p.WEBRip.x264%20%5BDDN%5D/Megalopolis.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

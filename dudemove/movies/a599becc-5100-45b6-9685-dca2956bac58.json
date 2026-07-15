@@ -1,0 +1,27 @@
+{
+  "id": "a599becc-5100-45b6-9685-dca2956bac58",
+  "title": "Tom Clancy's Jack Ryan: Ghost War",
+  "slug": "tom-clancy-s-jack-ryan-ghost-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 107,
+  "rating": 7.043,
+  "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+  "created_at": "2026-07-09T16:35:09.764Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Jack%20Ryan%20Ghost%20War%20(2026)%201080p%20WEBRip%20x264%20%5BDDN%5D/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

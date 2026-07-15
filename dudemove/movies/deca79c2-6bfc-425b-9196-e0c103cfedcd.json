@@ -1,0 +1,27 @@
+{
+  "id": "deca79c2-6bfc-425b-9196-e0c103cfedcd",
+  "title": "Fear Street: Prom Queen",
+  "slug": "fear-street-prom-queen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 90,
+  "rating": 5.369,
+  "description": "Who will be voted queen at Shadyside High's 1988 prom? For underdog Lori, competition is cutthroat even before someone starts killing off the candidates.",
+  "created_at": "2026-07-09T16:57:50.777Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Fear.Street.Prom.Queen.2025.1080p.WEBRip.x264%20%5BDDN%5D/Fear.Street.Prom.Queen.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

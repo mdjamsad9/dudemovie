@@ -1,0 +1,27 @@
+{
+  "id": "ebdf49bc-17cc-43ac-9c02-c152cbc5e75c",
+  "title": "The Yeti",
+  "slug": "the-yeti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 93,
+  "rating": 6.381,
+  "description": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries.",
+  "created_at": "2026-07-09T16:36:18.753Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Yeti.2026.1080p.WEBRip.x264%20%5BDDN%5D/The.Yeti.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

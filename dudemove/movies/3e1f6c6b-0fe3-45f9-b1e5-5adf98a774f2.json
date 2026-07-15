@@ -1,0 +1,27 @@
+{
+  "id": "3e1f6c6b-0fe3-45f9-b1e5-5adf98a774f2",
+  "title": "A Great Awakening",
+  "slug": "a-great-awakening",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 129,
+  "rating": 7,
+  "description": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
+  "created_at": "2026-07-09T16:34:08.203Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/A%20Great%20Awakening%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Great%20Awakening%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

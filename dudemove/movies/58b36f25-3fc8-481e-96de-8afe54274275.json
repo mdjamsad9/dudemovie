@@ -1,0 +1,27 @@
+{
+  "id": "58b36f25-3fc8-481e-96de-8afe54274275",
+  "title": "Eileen",
+  "slug": "eileen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 98,
+  "rating": 5.8,
+  "description": "During a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path.",
+  "created_at": "2026-07-09T17:28:28.919Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Eileen.2023.1080p.WEBRip.x264%20%5BDDN%5D/Eileen.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

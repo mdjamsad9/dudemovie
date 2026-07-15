@@ -1,0 +1,27 @@
+{
+  "id": "590830f5-df83-47d5-b352-a828c27214dc",
+  "title": "Ramana Avatara",
+  "slug": "ramana-avatara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fZcxH4Fxr9l0FzPmaTy1Lc3XjZ6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": 136,
+  "rating": null,
+  "description": "A jovial guy named Rama Krishna who wants to be a political leader, goes through a series of uncontrollable situations that end up being lessons of life and help him become a true leader.",
+  "created_at": "2026-07-09T17:24:07.288Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ramana%20Avatara%20(2024)%20Kannada%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Ramana%20Avatara%20(2024)%20Kannada%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

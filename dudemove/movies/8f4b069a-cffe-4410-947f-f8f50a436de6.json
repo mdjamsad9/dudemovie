@@ -1,0 +1,35 @@
+{
+  "id": "8f4b069a-cffe-4410-947f-f8f50a436de6",
+  "title": "Resident Evil: Death Island",
+  "slug": "resident-evil-death-island",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 91,
+  "rating": 7.3,
+  "description": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+  "created_at": "2026-07-09T17:36:16.836Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Resident.Evil.Death.Island.2023.1080p.BluRay.x264%20%5BDDN%5D/Resident.Evil.Death.Island.2023.1080p.BluRay.x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

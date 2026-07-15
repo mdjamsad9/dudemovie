@@ -1,0 +1,31 @@
+{
+  "id": "7750a7ff-8409-4cbe-99fd-20c14a6ea49e",
+  "title": "Oh, Hi!",
+  "slug": "oh-hi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8nBOFo78pKgzLipgGZhC8VA33wp.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 95,
+  "rating": 6.303,
+  "description": "Iris and Isaac's first weekend away as a couple is going so well — until Isaac mentions he didn’t know they were a couple. Convinced she's met her perfect guy and that he's just confused, Iris goes to increasingly ridiculous and irrational lengths to prove to Isaac that they are meant to be together.",
+  "created_at": "2026-07-09T16:53:24.598Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Oh.Hi.2025.1080p.WEBRip.x264%20%5BDDN%5D/Oh.Hi.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

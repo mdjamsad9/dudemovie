@@ -1,0 +1,23 @@
+{
+  "id": "f4b55e36-8288-4dbd-a9d8-9ffbb4d6f3f2",
+  "title": "Katchikkaaran",
+  "slug": "katchikkaaran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6u7VtnRaSXmRX5TjQ8HdD7KJ5h6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 120,
+  "rating": null,
+  "description": "A party cadre, who is very loyal to his leader and works very hard for the party  and does not  even care about anything else including his personal life.\r When the same cadre is affected by the actions of the same leaders, he rises against him",
+  "created_at": "2026-07-09T17:35:14.002Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Katchikkaaran%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Katchikkaaran%20(2023)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1ab568a5-fac3-434e-ab8c-671978317729",
+  "title": "Good Burger 2",
+  "slug": "good-burger-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2023,
+  "duration": 90,
+  "rating": 6.3,
+  "description": "Dexter Reed is down on his luck after another one of his inventions fails. Ed welcomes Dex back to Good Burger with open arms and gives him his old job back. With a new crew working at Good Burger, Dex devises a plan to get back on his feet but unfortunately puts the fate of Good Burger at risk once again.",
+  "created_at": "2026-07-09T17:30:40.197Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Good.Burger.2.2023.1080p.WEBRip.x264%20%5BDDN%5D/Good.Burger.2.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "9ad86404-5c4a-4b06-83f6-8d36ea2dfad8",
+  "title": "Your Fault",
+  "slug": "your-fault",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2024,
+  "duration": 117,
+  "rating": 7.1,
+  "description": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+  "created_at": "2026-07-09T17:05:26.155Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Your%20Fault%20(2024)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Your%20Fault%20%282024%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

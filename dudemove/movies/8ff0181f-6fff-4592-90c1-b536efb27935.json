@@ -1,0 +1,23 @@
+{
+  "id": "8ff0181f-6fff-4592-90c1-b536efb27935",
+  "title": "EVOL",
+  "slug": "evol",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aeXb2F0urCNUGJaSvtBR4ViE0Jx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2024,
+  "duration": 5,
+  "rating": null,
+  "description": "A poetic short film about a young woman, Dolly, who’s grappling with the haunting echoes of past relationships and her unraveling sense of self.",
+  "created_at": "2026-07-09T17:14:31.901Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/EVOL%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/EVOL%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

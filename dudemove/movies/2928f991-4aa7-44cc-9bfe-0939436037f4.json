@@ -1,0 +1,35 @@
+{
+  "id": "2928f991-4aa7-44cc-9bfe-0939436037f4",
+  "title": "Meet Cute",
+  "slug": "meet-cute",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 90,
+  "rating": 5.851,
+  "description": "A wildly inventive deconstruction of the romantic comedy built around the question: What would you do if you could travel to your loved ones’ past, heal their traumas, fix their problems, and change them into the perfect partner?",
+  "created_at": "2026-07-09T17:51:09.132Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Meet.Cute.2022.1080p.WEBRip.x264%20%5BDDN%5D/Meet.Cute.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

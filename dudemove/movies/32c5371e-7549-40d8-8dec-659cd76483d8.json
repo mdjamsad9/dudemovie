@@ -1,0 +1,23 @@
+{
+  "id": "32c5371e-7549-40d8-8dec-659cd76483d8",
+  "title": "Spirited",
+  "slug": "spirited",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 127,
+  "rating": 6.848,
+  "description": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
+  "created_at": "2026-07-09T17:47:50.133Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Spirited.2022.1080p.WEBRip.x264%20%5BDDN%5D/Spirited.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

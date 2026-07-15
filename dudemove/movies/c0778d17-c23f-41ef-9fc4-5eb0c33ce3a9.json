@@ -1,0 +1,31 @@
+{
+  "id": "c0778d17-c23f-41ef-9fc4-5eb0c33ce3a9",
+  "title": "The Guardians of the Galaxy Holiday Special",
+  "slug": "the-guardians-of-the-galaxy-holiday-special",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2022,
+  "duration": 45,
+  "rating": 7.095,
+  "description": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+  "created_at": "2026-07-09T17:47:36.620Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/The.Guardians.of.the.Galaxy.Holiday.Special.2022.1080p.WEBRip.x264%20%5BDDN%5D/The.Guardians.of.the.Galaxy.Holiday.Special.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

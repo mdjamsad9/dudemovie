@@ -1,0 +1,23 @@
+{
+  "id": "29a2df3e-c8bf-4a5f-991f-84ac08037e5d",
+  "title": "1001 Nunakal",
+  "slug": "1001-nunakal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kKq2dxHWVmcsrfY507j2GlOOZHM.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": 104,
+  "rating": 5.4,
+  "description": "Close friends get together and have some good time over food and talks until one of them proposes a game: each of them has to reveal a lie that they have hidden from their partners.",
+  "created_at": "2026-07-09T17:35:19.097Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

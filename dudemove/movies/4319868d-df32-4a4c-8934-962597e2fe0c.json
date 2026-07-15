@@ -1,0 +1,27 @@
+{
+  "id": "4319868d-df32-4a4c-8934-962597e2fe0c",
+  "title": "The Heiress and the Handyman",
+  "slug": "the-heiress-and-the-handyman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3suOd3LPYpzUd4C1xEgN0Vvwdwf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 84,
+  "rating": 6.6,
+  "description": "After losing her fortune, an heiress moves to a rural farm where she mistakes her handsome neighbour for the handyman. To live up to her family's legacy, he helps her compete at the county fair.",
+  "created_at": "2026-07-09T17:13:44.617Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Heiress.And.The.Handyman.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Heiress.And.The.Handyman.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
