@@ -209,6 +209,10 @@ def main():
     completed_count = 0
     final_movies = []
     
+    # Add a temporary index to preserve the original API order
+    for index, movie in enumerate(all_movies):
+        movie['_index'] = index
+        
     # Use ThreadPoolExecutor for fast scraping
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = {executor.submit(fetch_watch_details, movie): movie for movie in all_movies}
@@ -221,6 +225,11 @@ def main():
             # Print progress
             sys.stdout.write(f"\rProgress: {completed_count}/{len(all_movies)} movies processed...")
             sys.stdout.flush()
+            
+    # Sort back to preserve the original order and remove the temporary index
+    final_movies.sort(key=lambda x: x.get('_index', 0))
+    for movie in final_movies:
+        movie.pop('_index', None)
             
     print("\n\nScraping completed!")
     
