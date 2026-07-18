@@ -1,0 +1,36 @@
+{
+  "id": "ad9ba03d-a8d1-4c84-999d-311a63bf6f67",
+  "title": "KPop Demon Hunters",
+  "slug": "kpop-demon-hunters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 96,
+  "rating": 8.017,
+  "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+  "created_at": "2026-07-09T16:56:33.029Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 398,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/KPop.Demon.Hunters.2025.1080p.WEBRip.x264%20%5BDDN%5D/KPop.Demon.Hunters.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

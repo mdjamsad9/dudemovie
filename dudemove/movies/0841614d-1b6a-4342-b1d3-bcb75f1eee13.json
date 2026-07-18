@@ -1,0 +1,24 @@
+{
+  "id": "0841614d-1b6a-4342-b1d3-bcb75f1eee13",
+  "title": "Parthenope",
+  "slug": "parthenope",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k3BL39ca5pliALDTzUdC9ZIB9gk.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Italian",
+  "release_year": 2024,
+  "duration": 137,
+  "rating": 6.687,
+  "description": "Parthenope, born in the sea near Naples in 1950, is beautiful, enigmatic, and intelligent. She is shamelessly courted by many. However, beauty comes at a cost.",
+  "created_at": "2026-07-09T17:02:54.831Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1350,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Parthenope.2024.1080p.WEBRip.x264%20%5BDDN%5D/Parthenope.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

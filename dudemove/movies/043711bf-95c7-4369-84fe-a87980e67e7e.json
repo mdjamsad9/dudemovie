@@ -1,0 +1,24 @@
+{
+  "id": "043711bf-95c7-4369-84fe-a87980e67e7e",
+  "title": "Praveen IPS",
+  "slug": "praveen-ips",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hgrvwVNttHK6VAwFhATf4Qv9ztl.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "te",
+  "release_year": 2024,
+  "duration": 135,
+  "rating": null,
+  "description": "After overcoming difficulties, a determined man joins the IPS, evolving into a tenacious force for good.",
+  "created_at": "2026-07-09T17:23:38.561Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1422,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Praveen%20Ips%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Praveen%20Ips%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

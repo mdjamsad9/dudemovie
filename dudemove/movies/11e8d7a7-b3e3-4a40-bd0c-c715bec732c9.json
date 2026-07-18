@@ -1,0 +1,32 @@
+{
+  "id": "11e8d7a7-b3e3-4a40-bd0c-c715bec732c9",
+  "title": "Skywalkers: A Love Story",
+  "slug": "skywalkers-a-love-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kD23EdSc8DnZVos4woQps0a7rJ7.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 101,
+  "rating": 7.193,
+  "description": "Two real-life daredevils test the limits of their love and trust by illegally scaling one of the world's tallest buildings to perform an acrobatic stunt.",
+  "created_at": "2026-07-09T17:14:01.137Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1242,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Skywalkers.A.Love.Story.2024.1080p.WEBRip.x264%20%5BDDN%5D/Skywalkers.A.Love.Story.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "14a2c6b4-3cd5-42f8-b250-6ecae6a104fb",
+  "title": "Panchayat Jetty",
+  "slug": "panchayat-jetty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xz0iwqTb30AdH5Z6M9jSSm35K2s.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 139,
+  "rating": 6,
+  "description": "Kudungassery Village, where problems include insufficient public transport and cremation services. As local elections draw near, opposition chief Vallabhan capitalizes on these matters to confront the ruling party head, OK Krishnada.",
+  "created_at": "2026-07-09T17:05:28.654Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1468,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Panchayat%20Jetty%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Panchayat%20Jetty%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

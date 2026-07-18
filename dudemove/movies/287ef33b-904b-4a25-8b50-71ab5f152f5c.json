@@ -1,0 +1,24 @@
+{
+  "id": "287ef33b-904b-4a25-8b50-71ab5f152f5c",
+  "title": "Shahkot",
+  "slug": "shahkot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/81jPpZNvBP4t1mFXiZSBfC0pcpN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2024,
+  "duration": 113,
+  "rating": null,
+  "description": "Iqbal Singh, a determined Punjabi youth who decides to pursue his passion of venturing abroad, only for his life to take an unexpected turn.",
+  "created_at": "2026-07-09T16:42:09.209Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1494,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Shahkot%20%20(2024)%20Hindi%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Shahkot%20%20(2024)%20Hindi%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
