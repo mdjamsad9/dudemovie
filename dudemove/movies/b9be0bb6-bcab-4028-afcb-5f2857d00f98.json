@@ -1,0 +1,24 @@
+{
+  "id": "b9be0bb6-bcab-4028-afcb-5f2857d00f98",
+  "title": "Is She Raju?",
+  "slug": "is-she-raju",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iaG73jZNfaz0bXF5pv4gqI3dRdC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 150,
+  "rating": null,
+  "description": "Two Lovers, Three Haters, One Helpless Husband, And A Crazy Twist - It Is All About Having Those Embarassing Moments In Life At A Young Age And Looking Back Only To Laugh At Them.",
+  "created_at": "2026-07-22T15:26:44.059Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4789,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

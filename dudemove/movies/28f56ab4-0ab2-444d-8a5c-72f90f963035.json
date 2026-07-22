@@ -1,0 +1,32 @@
+{
+  "id": "28f56ab4-0ab2-444d-8a5c-72f90f963035",
+  "title": "12 Hour Shift",
+  "slug": "12-hour-shift",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y40lD9qpKxnzsdKqAA1TiEKX5gb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 88,
+  "rating": 5.527,
+  "description": "It's 1999 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.",
+  "created_at": "2026-07-22T15:20:30.164Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4028,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

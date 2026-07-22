@@ -1,0 +1,24 @@
+{
+  "id": "f4421399-4215-42e5-98c5-eec2204bbff0",
+  "title": "Jawaani Jaaneman",
+  "slug": "jawaani-jaaneman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/705gRohjQM7v3yuX9kHMNM9fjEy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 130,
+  "rating": 5.962,
+  "description": "The carefree life of a 40-year-old playboy comes to a standstill when he comes to know that he has a 20 something-year-old daughter.",
+  "created_at": "2026-07-22T15:25:14.650Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4239,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

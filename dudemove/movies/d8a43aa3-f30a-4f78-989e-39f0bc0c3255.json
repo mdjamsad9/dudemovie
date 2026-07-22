@@ -1,0 +1,32 @@
+{
+  "id": "d8a43aa3-f30a-4f78-989e-39f0bc0c3255",
+  "title": "Gangubai Kathiawadi",
+  "slug": "gangubai-kathiawadi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 157,
+  "rating": 7.5,
+  "description": "Duped and sold to a brothel, a young woman fearlessly reclaims her power, using underworld connections to preside over the world she was once a pawn in.",
+  "created_at": "2026-07-22T15:14:41.679Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3304,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

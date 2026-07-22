@@ -1,0 +1,32 @@
+{
+  "id": "b57f6422-e56f-4b7d-bf7d-f04541013572",
+  "title": "Watchmen: Chapter I",
+  "slug": "watchmen-chapter-i",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tE2vZ6HdlmKaBh0wpsvHCf7HJKo.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 84,
+  "rating": 7.397,
+  "description": "In 1985, the murder of a government-sponsored superhero draws his outlawed colleagues out of retirement and into a mystery that threatens to upend their personal lives and the world itself.",
+  "created_at": "2026-07-09T17:15:09.363Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 901,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Watchmen.Chapter.I.2024.1080p.WEBRip.x264%20%5BDDN%5D/Watchmen.Chapter.I.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

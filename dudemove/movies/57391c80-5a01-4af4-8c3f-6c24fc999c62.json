@@ -1,0 +1,32 @@
+{
+  "id": "57391c80-5a01-4af4-8c3f-6c24fc999c62",
+  "title": "The Book of Henry",
+  "slug": "the-book-of-henry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": 7.477,
+  "description": "Susan, a single mother of two, works as a waitress in a small town. Her son, Henry, is an 11-year-old genius who not only manages the family finances but acts as emotional support for his mother and younger brother. When Henry discovers that the girl next door has a terrible secret, he implores Susan to take matters into her own hands.",
+  "created_at": "2026-07-22T15:42:57.703Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6099,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6433f960-0154-4901-8cef-167c98bc46cd",
+  "title": "Irrational Man",
+  "slug": "irrational-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ipAqhEWRzEuD6aXlAWIvEEF1KUe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 95,
+  "rating": 6.522,
+  "description": "On a small town college campus, a philosophy professor in existential crisis gives his life new purpose when he enters into a relationship with his student.",
+  "created_at": "2026-07-22T15:50:53.871Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7049,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

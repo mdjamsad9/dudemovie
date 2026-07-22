@@ -1,0 +1,32 @@
+{
+  "id": "ac078dfc-cf98-42ec-9b6d-e5e37c3ade12",
+  "title": "A Dog's Journey",
+  "slug": "a-dog-s-journey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": 8.05,
+  "description": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+  "created_at": "2026-07-22T15:29:23.820Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4370,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

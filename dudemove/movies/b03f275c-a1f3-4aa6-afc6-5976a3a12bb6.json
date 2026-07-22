@@ -1,0 +1,24 @@
+{
+  "id": "b03f275c-a1f3-4aa6-afc6-5976a3a12bb6",
+  "title": "M.F.A.",
+  "slug": "m-f-a",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ntXFNanjY22rsyXS94FiSYHJFKN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 92,
+  "rating": 6.126,
+  "description": "After the accidental death of her rapist, an art student becomes an unlikely vigilante, set out to avenge college girls whose rapists were not charged.",
+  "created_at": "2026-07-22T15:42:34.408Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6146,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

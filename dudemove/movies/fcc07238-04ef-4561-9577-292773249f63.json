@@ -1,0 +1,36 @@
+{
+  "id": "fcc07238-04ef-4561-9577-292773249f63",
+  "title": "The Unseen",
+  "slug": "the-unseen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ceftaKZtR5HAhA8WWpbF2LlrZa8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 6.5,
+  "description": "The film \"Los Últimos\" takes us into post-apocalyptic not-so-distant future in which there is war over water. This war reaches Latin America and the story follows a young couple trying to escape refugee camp in Bolivia and find better life in the west by the Pacific Ocean.",
+  "created_at": "2026-07-22T15:39:41.482Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 5847,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

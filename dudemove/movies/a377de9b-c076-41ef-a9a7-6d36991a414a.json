@@ -1,0 +1,24 @@
+{
+  "id": "a377de9b-c076-41ef-a9a7-6d36991a414a",
+  "title": "Bombshell",
+  "slug": "bombshell",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": 6.775,
+  "description": "Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.",
+  "created_at": "2026-07-22T15:25:49.375Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4676,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

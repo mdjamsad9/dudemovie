@@ -1,0 +1,24 @@
+{
+  "id": "c24db8f5-f2bf-480d-baab-c01b51897973",
+  "title": "The Wild Rose",
+  "slug": "the-wild-rose",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 5,
+  "rating": null,
+  "description": "A hipster's house party takes a strange turn",
+  "created_at": "2026-07-22T15:27:17.837Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5135,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "83aca57b-b8c2-479c-8ae8-2ae416b0caff",
+  "title": "The Nest",
+  "slug": "the-nest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 107,
+  "rating": 6.077,
+  "description": "Rory is an ambitious entrepreneur who brings his American wife and kids to his native country, England, to explore new business opportunities. After abandoning the sanctuary of their safe American suburban surroundings, the family is plunged into the despair of an archaic '80s Britain and their unaffordable new life in an English manor house threatens to destroy the family.",
+  "created_at": "2026-07-22T15:21:10.712Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4148,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

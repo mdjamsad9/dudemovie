@@ -1,0 +1,32 @@
+{
+  "id": "2ae74c66-586a-46de-8822-cfb6b970cea4",
+  "title": "Sometimes I Think About Dying",
+  "slug": "sometimes-i-think-about-dying",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lp0dtmNtOW88A13GZjGoKZko7S8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 94,
+  "rating": 6.757,
+  "description": "Fran likes to think about dying. It brings sensation to her quiet life. When she makes the new guy at work laugh, it leads to more: a date, a slice of pie, a conversation, a spark. The only thing standing in their way is Fran herself.",
+  "created_at": "2026-07-09T17:25:39.523Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 1511,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Sometimes.I.Think.About.Dying.2023.1080p.WEBRip.x264%20%5BDDN%5D/Sometimes.I.Think.About.Dying.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "978a425e-65b5-494b-a8ae-7a7830884ee8",
+  "title": "Playmobil: The Movie",
+  "slug": "playmobil-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 5.738,
+  "description": "Marla is forced to abandon her carefully structured life to embark on an epic journey to find her younger brother Charlie who has disappeared into the vast and wondrous animated world of Playmobil toys.",
+  "created_at": "2026-07-22T15:26:54.984Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4861,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

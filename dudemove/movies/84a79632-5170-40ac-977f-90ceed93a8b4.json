@@ -1,0 +1,28 @@
+{
+  "id": "84a79632-5170-40ac-977f-90ceed93a8b4",
+  "title": "Code Name Abdul",
+  "slug": "code-name-abdul",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/95fmPlhX621F6UIYwdgf1Sn7hWw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 114,
+  "rating": null,
+  "description": "Four New York-based agents of India's Research and Analysis Wing search for a man involved in funding terrorist attacks.",
+  "created_at": "2026-07-22T15:14:59.655Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3423,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "72ab9147-6b4a-4e77-846d-246f87a25270",
+  "title": "Badrinath Ki Dulhania",
+  "slug": "badrinath-ki-dulhania",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e1tV7gYSF5iw8NPR78sUHNb3YLU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 139,
+  "rating": 6.444,
+  "description": "Badrinath Ki Dulhania is a story of Badrinath Bansal from Jhansi and Vaidehi Trivedi from Kota and what happens when the two of them meet. Even though they both belong to small towns, their mindset about gender roles in society and about life in general are diametrically opposite. This leads to a clash of ideologies, despite both of them recognising the goodness in each other. Will they be able to overcome circumstances to accept their love for each other? Will they be able to surpass the expectations and pressures of their small town families to be together? Answers to these and many more such questions make for an interesting journey of love, laughter, emotions and madness called Badrinath Ki Dulhania.",
+  "created_at": "2026-07-22T15:44:56.368Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6292,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

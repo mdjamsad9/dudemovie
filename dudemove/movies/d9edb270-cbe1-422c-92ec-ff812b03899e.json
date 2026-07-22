@@ -1,0 +1,28 @@
+{
+  "id": "d9edb270-cbe1-422c-92ec-ff812b03899e",
+  "title": "Judas and the Black Messiah",
+  "slug": "judas-and-the-black-messiah",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 125,
+  "rating": 7.296,
+  "description": "Bill O'Neal infiltrates the Black Panthers on the orders of FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends—falling for a fellow revolutionary en route—a battle wages for O’Neal’s soul.",
+  "created_at": "2026-07-22T15:19:49.891Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3780,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

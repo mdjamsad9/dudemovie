@@ -1,0 +1,24 @@
+{
+  "id": "3a6750b1-f548-4c60-a4c2-03e5c5ee8f74",
+  "title": "To the Bone",
+  "slug": "to-the-bone",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 107,
+  "rating": 7.201,
+  "description": "A young woman dealing with anorexia meets an unconventional doctor who challenges her to face her condition and embrace life.",
+  "created_at": "2026-07-22T15:43:57.402Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6223,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

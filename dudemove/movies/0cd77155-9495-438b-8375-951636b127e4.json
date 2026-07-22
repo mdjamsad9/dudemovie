@@ -1,0 +1,32 @@
+{
+  "id": "0cd77155-9495-438b-8375-951636b127e4",
+  "title": "Rustom",
+  "slug": "rustom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xwf74VcrHu1etzOsRVx7nckPPLR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 148,
+  "rating": 6.713,
+  "description": "A naval officer is devastated to learn about his wife's extramarital affair with a rich businessman while he was away. He pays him a visit and shoots him to death, following which he surrenders himself but claims to be \"not guilty\" in the court, much to the surprise of the businessman's sister and the officers dealing with his case.",
+  "created_at": "2026-07-22T15:48:48.272Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6670,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

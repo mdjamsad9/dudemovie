@@ -1,0 +1,24 @@
+{
+  "id": "731c5fc0-da31-4a94-962f-4880c68bf790",
+  "title": "Devil's Domain",
+  "slug": "devil-s-domain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3mX5z3sRgGexEMJ1YoJhpefB4gD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 93,
+  "rating": 3.2,
+  "description": "After becoming the victim of vicious cyber bullies, Lisa makes a deal with the devil to exact revenge on her tormentors.",
+  "created_at": "2026-07-22T15:45:08.589Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6294,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

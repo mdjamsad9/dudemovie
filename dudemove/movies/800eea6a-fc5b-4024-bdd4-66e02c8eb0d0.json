@@ -1,0 +1,32 @@
+{
+  "id": "800eea6a-fc5b-4024-bdd4-66e02c8eb0d0",
+  "title": "Hangman",
+  "slug": "hangman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u7HwjTX9h4B8kuolyKiztYjtqna.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 98,
+  "rating": 5.826,
+  "description": "A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children's game, Hangman.",
+  "created_at": "2026-07-22T15:41:19.450Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5974,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

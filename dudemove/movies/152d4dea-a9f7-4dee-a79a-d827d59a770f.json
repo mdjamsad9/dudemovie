@@ -1,0 +1,32 @@
+{
+  "id": "152d4dea-a9f7-4dee-a79a-d827d59a770f",
+  "title": "Aaryan",
+  "slug": "aaryan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 134,
+  "rating": 5,
+  "description": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
+  "created_at": "2026-07-09T16:48:46.981Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 257,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aaryan%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aaryan%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

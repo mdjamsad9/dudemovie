@@ -1,0 +1,32 @@
+{
+  "id": "4086053c-9c3e-41f9-8a8d-faef455555d5",
+  "title": "Doctor Strange in the Multiverse of Madness",
+  "slug": "doctor-strange-in-the-multiverse-of-madness",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cantonese",
+  "release_year": 2022,
+  "duration": 126,
+  "rating": 7.232,
+  "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+  "created_at": "2026-07-22T15:14:10.044Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3219,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0824ebf3-a479-4f3f-a0c4-7af7db78cf0c",
+  "title": "Cleaner",
+  "slug": "cleaner",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2025,
+  "duration": 97,
+  "rating": 6.371,
+  "description": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her older brother.",
+  "created_at": "2026-07-09T17:01:09.433Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 648,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Cleaner.2025.1080p.WEBRip.x264%20%5BDDN%5D/Cleaner.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

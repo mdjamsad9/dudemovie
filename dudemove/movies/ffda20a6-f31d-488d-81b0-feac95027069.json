@@ -1,0 +1,36 @@
+{
+  "id": "ffda20a6-f31d-488d-81b0-feac95027069",
+  "title": "Ratchet & Clank",
+  "slug": "ratchet-clank",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/649xP2LST4VIrZ5cLPw7Ys9movF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 94,
+  "rating": 5.773,
+  "description": "When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.",
+  "created_at": "2026-07-22T15:50:00.871Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6477,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "35b40490-5264-4d8f-a844-7a461264f1bd",
+  "title": "Antim: The Final Truth",
+  "slug": "antim-the-final-truth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tiGTU46VBHPJ8b0pGneIII1tAkj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 140,
+  "rating": 6.536,
+  "description": "A farmer's son is forced to leave the village and move to the city, where he soon becomes a dreaded gangster and crosses paths with a fearless cop determined to eliminate criminals.",
+  "created_at": "2026-07-22T15:16:38.425Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3572,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

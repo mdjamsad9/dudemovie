@@ -1,0 +1,28 @@
+{
+  "id": "388a04e8-2cd1-499f-adce-83b532ff04df",
+  "title": "Child 44",
+  "slug": "child-44",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p8uTx2xm72vXqI0H4W5kU3ku9ND.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 137,
+  "rating": 6.285,
+  "description": "Set in Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a series of child murders -- a case that begins to connect with the very top of party leadership.",
+  "created_at": "2026-07-22T15:45:55.000Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6960,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

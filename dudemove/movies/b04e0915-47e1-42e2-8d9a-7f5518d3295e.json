@@ -1,0 +1,28 @@
+{
+  "id": "b04e0915-47e1-42e2-8d9a-7f5518d3295e",
+  "title": "The Kissing Booth 3",
+  "slug": "the-kissing-booth-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 112,
+  "rating": 6.86,
+  "description": "It’s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.",
+  "created_at": "2026-07-22T15:17:55.812Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3614,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

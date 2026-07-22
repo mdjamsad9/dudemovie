@@ -1,0 +1,28 @@
+{
+  "id": "86a2ea81-a3f9-4fea-b119-e52283cc9896",
+  "title": "The Tale",
+  "slug": "the-tale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aguq47xq3qhN807rSyz4lJyhAkX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 115,
+  "rating": 7.085,
+  "description": "An investigation into one woman’s memory as she‘s forced to re-examine her first sexual relationship and the stories we tell ourselves in order to survive.",
+  "created_at": "2026-07-22T15:31:03.673Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5239,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

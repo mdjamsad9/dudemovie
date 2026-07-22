@@ -1,0 +1,28 @@
+{
+  "id": "d6dbf32e-fe66-404b-a8ee-686a13cd6d71",
+  "title": "The Whole Truth",
+  "slug": "the-whole-truth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iL3Bx4YOqYdAMlx4czLyygA09MC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 93,
+  "rating": 6.6,
+  "description": "A defense attorney works to get his teenage client acquitted of murdering his wealthy father.",
+  "created_at": "2026-07-22T15:48:27.183Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6636,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

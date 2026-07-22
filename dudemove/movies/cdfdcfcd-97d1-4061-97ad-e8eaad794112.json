@@ -1,0 +1,24 @@
+{
+  "id": "cdfdcfcd-97d1-4061-97ad-e8eaad794112",
+  "title": "Gook",
+  "slug": "gook",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 94,
+  "rating": 6.417,
+  "description": "Eli and Daniel, two Korean American brothers who own a struggling women's shoe store, have an unlikely friendship with 11-year-old Kamilla. On the first day of the 1992 L.A. riots, the trio must defend their store—and contemplate the meaning of family, their personal dreams and the future.",
+  "created_at": "2026-07-22T15:41:17.478Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6045,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d20cbbc6-8a77-4ac5-863d-e789f8973ee7",
+  "title": "Golden Years",
+  "slug": "golden-years",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6Pdm5FPRtU4DdCG4QbZHr6JlkaY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 6.3,
+  "description": "Fate, the pensions crisis and a steadfast refusal to accept the injustice of old age have contrived to force law abiding, retired couple, Arthur and Martha Goode into a life of crime.",
+  "created_at": "2026-07-22T15:45:07.798Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6706,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

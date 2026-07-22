@@ -1,0 +1,24 @@
+{
+  "id": "7d4d79c1-5ade-46cd-be84-0f1f20852e4c",
+  "title": "Apprentice",
+  "slug": "apprentice",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vp6ZqO6No0NbfcpwSmcQCyLU2SZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malay",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 6.9,
+  "description": "When ambitious young correctional officer Aiman is transferred to the country's highest-security prison, he catches the attention of the seasoned chief executioner Rahim. Aiman's desire to become the hangman's apprentice is not only professional but born of an unspeakable urge to reconnect with a past that haunts him.",
+  "created_at": "2026-07-22T15:44:57.645Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6743,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

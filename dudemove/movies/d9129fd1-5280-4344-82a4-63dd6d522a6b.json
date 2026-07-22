@@ -1,0 +1,36 @@
+{
+  "id": "d9129fd1-5280-4344-82a4-63dd6d522a6b",
+  "title": "Shockwave: Countdown to Disaster",
+  "slug": "shockwave-countdown-to-disaster",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sBD608VF4TcFHmP7SuC0OcvZQ0b.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 5.505,
+  "description": "A stolen seismic weapon is activated in Yemen. A hostage freed there tries in vain to warn against its global effect. It starts seismic activity at the Californian fault line where her daughter and ex are monitoring it. Can they stop it?",
+  "created_at": "2026-07-22T15:27:38.729Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5818,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

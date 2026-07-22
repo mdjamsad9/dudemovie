@@ -1,0 +1,28 @@
+{
+  "id": "063b9c8d-f078-4e86-8943-8c63a8f567bc",
+  "title": "Ace the Case: Manhattan Mystery",
+  "slug": "ace-the-case-manhattan-mystery",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jMoGFQMgCUWfrj8fI9zibOUSjS7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 94,
+  "rating": 4.708,
+  "description": "While her mother is away on business, a young girl home alone with her older brother witnesses her neighbor's kidnapping. But no one believes her--not her brother, not the cops. So she takes matters into her own hands putting her life at risk to save her neighbor.",
+  "created_at": "2026-07-22T15:49:45.780Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6478,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

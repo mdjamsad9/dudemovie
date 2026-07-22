@@ -1,0 +1,32 @@
+{
+  "id": "f94f4bdc-9dcd-4b59-8a16-4a1944537ea0",
+  "title": "Julie 2",
+  "slug": "julie-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ao6EfMH6k3xOhEz2MJvCGtC66TX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 137,
+  "rating": 5,
+  "description": "Julie, a simpleton, follows through with her dream of becoming an actress and rises to stardom. However, she is soon introduced to the murky waters of the entertainment industry. She begins to compromise on her choices and seeks love from the men in her life. Just as she decides to change paths, she is offered a political biopic that further complicates her life.",
+  "created_at": "2026-07-22T15:26:10.783Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5832,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

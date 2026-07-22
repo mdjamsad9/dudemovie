@@ -1,0 +1,32 @@
+{
+  "id": "0b926b2d-17db-48e9-bfcb-d4cb69c46de6",
+  "title": "Saving Zoë",
+  "slug": "saving-zo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7M3KQLBDkNrbLD1UHA6cvGkqa5k.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 95,
+  "rating": 6.2,
+  "description": "A year after the murder of her sister Zoë, Echo is determined to uncover the truth. With Zoë's diary as her guide, Echo finds herself pulled into the darkness of her sister's secret life and she uncovers how one small decision can lead to tragic consequences.",
+  "created_at": "2026-07-22T15:30:15.776Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4448,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

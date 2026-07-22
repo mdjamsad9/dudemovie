@@ -1,0 +1,24 @@
+{
+  "id": "b1c2a784-9e05-4733-8f77-a104683e2a88",
+  "title": "Ode to Nothing",
+  "slug": "ode-to-nothing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zI0wuJhJu3XoyhcImPpWUeCpo1U.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tagalog",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 7.667,
+  "description": "Sonya, an old maid, is about to give up on herself until, one day, she meets a corpse in her family's embalming business that changes her life.",
+  "created_at": "2026-07-22T15:35:07.800Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5184,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

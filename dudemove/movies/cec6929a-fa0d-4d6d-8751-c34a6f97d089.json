@@ -1,0 +1,24 @@
+{
+  "id": "cec6929a-fa0d-4d6d-8751-c34a6f97d089",
+  "title": "Bird",
+  "slug": "bird",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hungarian",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 7.2,
+  "description": "12-year-old Bailey lives with her single dad Bug and brother Hunter in a squat in North Kent. Bug doesn’t have much time for his kids, and Bailey, who is approaching puberty, seeks attention and adventure elsewhere.",
+  "created_at": "2026-07-22T15:09:52.158Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1466,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

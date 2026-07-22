@@ -1,0 +1,24 @@
+{
+  "id": "f5ee41fa-f069-46fe-aa80-bc0fa9b09647",
+  "title": "Ekram",
+  "slug": "ekram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/SnTLrOXSAyDtB37h8uyOMeF7Cj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": null,
+  "rating": null,
+  "description": "Inspired from real events and fictionalized for creative prospect, Ekram is based on a life of a common Muslim youngster who was arrested by Anti Terrorism unit",
+  "created_at": "2026-07-22T15:25:11.805Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3837,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

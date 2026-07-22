@@ -1,0 +1,32 @@
+{
+  "id": "cabf9e25-1bfd-4f61-92ad-397d8a765509",
+  "title": "PG: Psycho Goreman",
+  "slug": "pg-psycho-goreman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/28Y3pxfkRZMhLsw4if6e3J0HD7Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 95,
+  "rating": 6.017,
+  "description": "Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues’ gallery of intergalactic assassins to small-town suburbia.",
+  "created_at": "2026-07-22T15:20:02.585Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3963,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

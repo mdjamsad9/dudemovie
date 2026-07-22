@@ -1,0 +1,24 @@
+{
+  "id": "bd87ff3e-8d3b-490c-9cc8-29b2f6988922",
+  "title": "Drone",
+  "slug": "drone",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o1Zp7DBOkxDhGCg6fXhuaFaFwsN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 5.3,
+  "description": "Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.",
+  "created_at": "2026-07-22T15:43:58.387Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6241,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

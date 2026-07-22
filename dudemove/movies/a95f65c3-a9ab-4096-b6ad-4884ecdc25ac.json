@@ -1,0 +1,24 @@
+{
+  "id": "a95f65c3-a9ab-4096-b6ad-4884ecdc25ac",
+  "title": "Planet of the Humans",
+  "slug": "planet-of-the-humans",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/91UfoJxsLVRt3A6M2GGbTTzMMD8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 100,
+  "rating": 6.387,
+  "description": "Forget all you have heard about how “Renewable Energy” is our salvation. It is all a myth that is very lucrative for some. Feel-good stuff like electric cars, etc. Such vehicles are actually powered by coal, natural gas… or dead salmon in the Northwest.",
+  "created_at": "2026-07-22T15:20:04.080Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4322,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

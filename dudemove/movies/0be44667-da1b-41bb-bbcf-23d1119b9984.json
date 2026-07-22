@@ -1,0 +1,28 @@
+{
+  "id": "0be44667-da1b-41bb-bbcf-23d1119b9984",
+  "title": "Fukrey Returns",
+  "slug": "fukrey-returns",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AclYkwVFwS8yxMWj4riYqRaE0w0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 135,
+  "rating": 6.373,
+  "description": "A year after the first movie, the four friends are enjoying their lives to the fullest, get in trouble once again with Bholi, who is released from prison earlier than expected and is broke.",
+  "created_at": "2026-07-22T15:22:34.100Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5941,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

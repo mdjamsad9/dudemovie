@@ -1,0 +1,28 @@
+{
+  "id": "8fcd8e49-705d-4e43-91da-36c84ea03e91",
+  "title": "Hex",
+  "slug": "hex",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6l4E0DxoBfUzyaihqLS49K1kGGu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 4.008,
+  "description": "A couple's holiday romance is thrown into chaos as they are afflicted by a malicious force.",
+  "created_at": "2026-07-22T15:28:58.589Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5063,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

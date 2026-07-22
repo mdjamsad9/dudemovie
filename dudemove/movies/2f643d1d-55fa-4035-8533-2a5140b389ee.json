@@ -1,0 +1,28 @@
+{
+  "id": "2f643d1d-55fa-4035-8533-2a5140b389ee",
+  "title": "Black Bear",
+  "slug": "black-bear",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nqZFjQRWfW6PjFTc17pzJ5LRAAv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 106,
+  "rating": 6.362,
+  "description": "At a remote lake house in the Adirondack Mountains, a couple entertains an out-of-town guest looking for inspiration in her filmmaking. The group quickly falls into a calculated game of desire, manipulation, and jealousy, unaware of how dangerously intertwined their lives will soon become.",
+  "created_at": "2026-07-22T15:20:50.157Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4115,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

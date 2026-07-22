@@ -1,0 +1,28 @@
+{
+  "id": "ece291d1-73a6-4553-93f3-ab5b9256e1cb",
+  "title": "Ved",
+  "slug": "ved",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kNd1IkaAVOvrkDqvCsjEiSrWn29.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Marathi",
+  "release_year": 2022,
+  "duration": 148,
+  "rating": 7.091,
+  "description": "Satya lives in a railway colony who dreams of playing for the railway cricket team and eventually representing Team India. Soon he falls madly in love with Nisha. However, Satya`s life takes a drastic change when a local Politician Bhaskar creates havoc in his personal and professional life. 12 Years Later, Satya is a drunk miserable man hopelessly waiting for his love. He is married to Shravani who has been crazily in love with Satya since her childhood. Who`s love has more madness - Satya or Shravani?",
+  "created_at": "2026-07-22T15:12:22.966Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3142,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

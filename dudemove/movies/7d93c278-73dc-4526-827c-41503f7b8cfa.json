@@ -1,0 +1,28 @@
+{
+  "id": "7d93c278-73dc-4526-827c-41503f7b8cfa",
+  "title": "How to Be Single",
+  "slug": "how-to-be-single",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a4Ce3qHqIyHM3QfGsiVTAu3YADJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 110,
+  "rating": 6.256,
+  "description": "New York City is full of lonely hearts seeking the right match, and what Alice, Robin, Lucy, Meg, Tom and David all have in common is the need to learn how to be single in a world filled with ever-evolving definitions of love.",
+  "created_at": "2026-07-22T15:44:45.696Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6819,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b31b4984-207d-448c-8830-221635a37f3b",
+  "title": "Icarus",
+  "slug": "icarus",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2017,
+  "duration": 121,
+  "rating": 7.638,
+  "description": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+  "created_at": "2026-07-22T15:43:38.563Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6258,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

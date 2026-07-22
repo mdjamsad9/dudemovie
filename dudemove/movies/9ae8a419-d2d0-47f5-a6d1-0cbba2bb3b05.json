@@ -1,0 +1,28 @@
+{
+  "id": "9ae8a419-d2d0-47f5-a6d1-0cbba2bb3b05",
+  "title": "Purity Falls",
+  "slug": "purity-falls",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xEq91yitlLTURmfZu9GomymR6TI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 4.8,
+  "description": "After the tragic death of her husband, a mother moves her teenage son and daughter to the idyllic town of Purity Falls only to find the rift with her son deepen when he becomes entrapped in the neighborhood maven's nefarious home business.",
+  "created_at": "2026-07-22T15:25:38.962Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 4640,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

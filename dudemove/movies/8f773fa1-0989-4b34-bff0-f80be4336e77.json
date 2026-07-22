@@ -1,0 +1,28 @@
+{
+  "id": "8f773fa1-0989-4b34-bff0-f80be4336e77",
+  "title": "Andaaz 2",
+  "slug": "andaaz-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4aev7jUk0ITeUovbirv5EFdgKAR.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 146,
+  "rating": 1,
+  "description": "A singer finds himself at the centre of a love triangle as his family copes with news of illness and he is targeted by a violent thug.",
+  "created_at": "2026-07-09T16:53:42.429Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 740,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Andaaz.2%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Andaaz.2%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

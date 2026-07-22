@@ -1,0 +1,28 @@
+{
+  "id": "fb238b87-6f75-45ce-a34a-57c4d552181f",
+  "title": "Blair Witch",
+  "slug": "blair-witch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ai73frMEz68bibFGRlPKdWBaIaq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 89,
+  "rating": 5.248,
+  "description": "Students on a camping trip discover something sinister is lurking beyond the trees.",
+  "created_at": "2026-07-22T15:48:04.679Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6599,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

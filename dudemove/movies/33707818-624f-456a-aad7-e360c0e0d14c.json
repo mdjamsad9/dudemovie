@@ -1,0 +1,24 @@
+{
+  "id": "33707818-624f-456a-aad7-e360c0e0d14c",
+  "title": "The Ticket",
+  "slug": "the-ticket",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uyaUbLVoxgJMw3JSGljyOGYpXtz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 5.747,
+  "description": "A blind man who regains his vision finds himself becoming metaphorically blinded by his obsession for the superficial.",
+  "created_at": "2026-07-22T15:45:12.139Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6807,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

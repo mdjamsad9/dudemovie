@@ -1,0 +1,32 @@
+{
+  "id": "c9ca40c9-1268-43b6-a0e2-22b90b24aac4",
+  "title": "Sweet Girl",
+  "slug": "sweet-girl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 110,
+  "rating": 6.6,
+  "description": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left, his daughter.",
+  "created_at": "2026-07-22T15:17:47.314Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3712,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

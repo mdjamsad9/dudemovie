@@ -1,0 +1,24 @@
+{
+  "id": "2128fcb7-d895-42be-8716-b12d32f81886",
+  "title": "Sherdil: The Pilibhit Saga",
+  "slug": "sherdil-the-pilibhit-saga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aV7kHlayv6kfrhHyi31GCWjj0hz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 121,
+  "rating": 5.9,
+  "description": "Inspired by the real events that took place in the Pilibhit Tiger Reserve where people used to leave their elderly family members for tigers to prey on, and then claim compensation from the administration, it is a story of Gangaram, a patriarch of a farmer family entrenched in poverty because of three consecutive failed monsoons. He enters the forests to adopt the infamous Tiger practice to give up his life so that his family can have two square meals, however, what follows next is a series of unprecedented events.",
+  "created_at": "2026-07-22T15:13:42.883Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3265,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

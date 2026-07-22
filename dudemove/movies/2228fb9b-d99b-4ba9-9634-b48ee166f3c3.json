@@ -1,0 +1,28 @@
+{
+  "id": "2228fb9b-d99b-4ba9-9634-b48ee166f3c3",
+  "title": "Viper Club",
+  "slug": "viper-club",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dzoWiAzxhBsv6q3lhRUaTREB5yB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 109,
+  "rating": 5.5,
+  "description": "ER nurse Helen Sterling struggles to free her grown son, a journalist captured by terrorists in the Middle East. After hitting walls with the FBI and State agencies, she discovers a clandestine community of journalists, advocates, and philanthropists who might be able to help.",
+  "created_at": "2026-07-22T15:33:52.955Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5273,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

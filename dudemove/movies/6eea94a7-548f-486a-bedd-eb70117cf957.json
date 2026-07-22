@@ -1,0 +1,24 @@
+{
+  "id": "6eea94a7-548f-486a-bedd-eb70117cf957",
+  "title": "Dhurala",
+  "slug": "dhurala",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tgqT6HLHcjOrdcFLAoZYbAnCdqr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Marathi",
+  "release_year": 2020,
+  "duration": 169,
+  "rating": 5,
+  "description": "When the sarpanch of the Ambergaon village dies, his family members battle with each other over their greed for power which affects their relationships.",
+  "created_at": "2026-07-22T15:21:36.767Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4156,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

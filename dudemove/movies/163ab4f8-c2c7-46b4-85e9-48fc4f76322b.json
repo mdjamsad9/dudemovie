@@ -1,0 +1,36 @@
+{
+  "id": "163ab4f8-c2c7-46b4-85e9-48fc4f76322b",
+  "title": "Kapoor & Sons",
+  "slug": "kapoor-sons",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oPdcOInH8TqR5udDTDPiDuLSN90.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 137,
+  "rating": 7.037,
+  "description": "Returning home to visit their ill grandfather, two estranged brothers must confront their unresolved rivalry while their parents’ marriage frays.",
+  "created_at": "2026-07-22T15:50:43.022Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6520,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

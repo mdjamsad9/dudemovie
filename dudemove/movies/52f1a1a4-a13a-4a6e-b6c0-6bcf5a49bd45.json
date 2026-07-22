@@ -1,0 +1,36 @@
+{
+  "id": "52f1a1a4-a13a-4a6e-b6c0-6bcf5a49bd45",
+  "title": "The Last Man",
+  "slug": "the-last-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bBrr6RwxmfjZyWTEe3AaguEKbMO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 101,
+  "rating": 5.5,
+  "description": "Tov Matheson is a war veteran with PTSD who perceives that the apocalypse is coming. After starting a relationship with a dubious Messiah, he leaves his normal life and begins the construction of a shelter underground, training himself, in an extreme way, at the cost of losing everything and making people believe he is insane. When he also believes it, something extraordinary happens.",
+  "created_at": "2026-07-22T15:34:06.086Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5274,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

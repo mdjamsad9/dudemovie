@@ -1,0 +1,28 @@
+{
+  "id": "fefb2368-53c5-411e-a5cc-3d7c7d6fcab6",
+  "title": "Umakant Pandey Purush Ya",
+  "slug": "umakant-pandey-purush-ya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3EnN4f9e45VSZikjPqopScuzQBk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 120,
+  "rating": 7,
+  "description": "It's a story of a really innocent guy from Allahabad, Somehow, he becomes doubtful about his sexuality and does many things suggested by his so-called well-wishers without thinking anything and gets stuck in more and more problems.",
+  "created_at": "2026-07-22T15:21:32.452Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4503,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

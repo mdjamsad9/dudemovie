@@ -1,0 +1,32 @@
+{
+  "id": "11185b98-f596-4fe8-8c95-ef7f15b82b8f",
+  "title": "Smurfs",
+  "slug": "smurfs",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 89,
+  "rating": 5.781,
+  "description": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
+  "created_at": "2026-07-09T16:54:12.643Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 709,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Smurfs.2025.1080p.WEBRip.x264%20%5BDDN%5D/Smurfs.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

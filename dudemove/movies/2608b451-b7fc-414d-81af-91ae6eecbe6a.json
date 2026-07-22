@@ -1,0 +1,32 @@
+{
+  "id": "2608b451-b7fc-414d-81af-91ae6eecbe6a",
+  "title": "Shortcut",
+  "slug": "shortcut",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/miO9vSJsONyQAjkALVp74dCSbYX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 80,
+  "rating": 5.3,
+  "description": "A group of five classmates is trapped inside their school bus after an encounter with a mysterious creature on the road. Amid constant threats from the creature, the teen's anxiety increases while their survival chances decrease.",
+  "created_at": "2026-07-22T15:22:12.118Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4275,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

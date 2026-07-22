@@ -1,0 +1,32 @@
+{
+  "id": "6249f043-1f07-4eaa-9a1b-379523768c9b",
+  "title": "Vanquish",
+  "slug": "vanquish",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AoWY1gkcNzabh229Icboa1Ff0BM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Turkish",
+  "release_year": 2021,
+  "duration": 96,
+  "rating": 5.203,
+  "description": "Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.",
+  "created_at": "2026-07-22T15:19:16.236Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3764,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

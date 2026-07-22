@@ -1,0 +1,28 @@
+{
+  "id": "8b4df693-bccf-42c4-9899-6c5c6b550b3d",
+  "title": "Ae Dil Hai Mushkil",
+  "slug": "ae-dil-hai-mushkil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 158,
+  "rating": 6.422,
+  "description": "Ayan falls in love with his soulmate, Alizeh, but she doesn’t reciprocate the feeling. Later, a relationship with Saba helps him realize Alizeh’s value in his life, irrespective of their relationship status.",
+  "created_at": "2026-07-22T15:48:02.259Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6595,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

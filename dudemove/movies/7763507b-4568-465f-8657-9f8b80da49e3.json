@@ -1,0 +1,32 @@
+{
+  "id": "7763507b-4568-465f-8657-9f8b80da49e3",
+  "title": "Student of the Year 2",
+  "slug": "student-of-the-year-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/upy2LuSohFYnMGJQl3039TPnlmh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 146,
+  "rating": 4.2,
+  "description": "A student must overcome bullies and hardships, both academic and romantic, in order to win his college's coveted Student of the Year trophy.",
+  "created_at": "2026-07-22T15:29:12.303Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4399,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

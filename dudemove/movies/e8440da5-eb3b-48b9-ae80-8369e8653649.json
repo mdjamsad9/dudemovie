@@ -1,0 +1,28 @@
+{
+  "id": "e8440da5-eb3b-48b9-ae80-8369e8653649",
+  "title": "Wonder Wheel",
+  "slug": "wonder-wheel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gKYpAL1A01T9a1taGXAyfqXjI5x.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 101,
+  "rating": 6.374,
+  "description": "The story of four characters whose lives intertwine amid the hustle and bustle of the Coney Island amusement park in the 1950s: Ginny, an emotionally volatile former actress now working as a waitress in a clam house; Humpty, Ginny’s rough-hewn carousel operator husband; Mickey, a handsome young lifeguard who dreams of becoming a playwright; and Carolina, Humpty’s long-estranged daughter, who is now hiding out from gangsters at her father’s apartment.",
+  "created_at": "2026-07-22T15:39:28.940Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5823,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

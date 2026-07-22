@@ -1,0 +1,24 @@
+{
+  "id": "96709741-50ba-4714-8eab-e77624f131b2",
+  "title": "The Wedding Year",
+  "slug": "the-wedding-year",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pUeMpXt2iJIevr8qWq81tpacL2R.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.921,
+  "description": "A commitment-phobic 27-year old’s relationship is put to the test when she and her boyfriend attend 7 weddings in the same year.",
+  "created_at": "2026-07-22T15:28:37.016Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4974,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

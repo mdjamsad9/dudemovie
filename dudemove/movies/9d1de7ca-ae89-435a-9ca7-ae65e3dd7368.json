@@ -1,0 +1,40 @@
+{
+  "id": "9d1de7ca-ae89-435a-9ca7-ae65e3dd7368",
+  "title": "Inside Out",
+  "slug": "inside-out",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 95,
+  "rating": 7.9,
+  "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+  "created_at": "2026-07-22T15:42:24.946Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6879,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

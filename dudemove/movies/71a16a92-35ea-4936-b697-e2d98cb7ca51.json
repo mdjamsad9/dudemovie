@@ -1,0 +1,32 @@
+{
+  "id": "71a16a92-35ea-4936-b697-e2d98cb7ca51",
+  "title": "Bridget Jones's Baby",
+  "slug": "bridget-jones-s-baby",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5hHomngoPZrNoXOPlyaHV6eXaQW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 123,
+  "rating": 6.4,
+  "description": "After breaking up, Bridget Jones' happily-ever-after hasn't quite gone according to plan. Fortysomething and single again, she decides to focus on her job and surround herself with old friends and new. For once, Bridget has everything completely under control. Then her love life takes a turn when she meets Jack. A week later, she runs into Mark before she finds herself pregnant, but with one hitch - she's not sure of the identity of her baby's father - Mark or Jack.",
+  "created_at": "2026-07-22T15:48:22.564Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6621,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

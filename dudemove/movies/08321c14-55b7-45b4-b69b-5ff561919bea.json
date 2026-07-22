@@ -1,0 +1,32 @@
+{
+  "id": "08321c14-55b7-45b4-b69b-5ff561919bea",
+  "title": "Turbo Kid",
+  "slug": "turbo-kid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ArUqADkwycYtNVuXSoSXVrdJ8iJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 95,
+  "rating": 6.493,
+  "description": "In a post-apocalyptic wasteland, an orphaned teen must battle a ruthless warlord to save the girl of his dreams.",
+  "created_at": "2026-07-22T15:42:10.658Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6941,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

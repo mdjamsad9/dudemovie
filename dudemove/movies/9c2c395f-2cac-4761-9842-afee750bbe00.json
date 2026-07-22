@@ -1,0 +1,32 @@
+{
+  "id": "9c2c395f-2cac-4761-9842-afee750bbe00",
+  "title": "Avengers: Age of Ultron",
+  "slug": "avengers-age-of-ultron",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 141,
+  "rating": 7.275,
+  "description": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+  "created_at": "2026-07-22T15:45:41.290Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 7046,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

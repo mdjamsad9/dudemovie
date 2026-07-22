@@ -1,0 +1,24 @@
+{
+  "id": "a81b01ac-5334-4dd0-a2d9-7e93b50851eb",
+  "title": "A Plastic Ocean",
+  "slug": "a-plastic-ocean",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Ry1c7rVYonb4y8ELpdxvvMQWB1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 102,
+  "rating": 7.5,
+  "description": "A documentary focused on plastic pollution in the world's oceans.",
+  "created_at": "2026-07-22T15:40:00.092Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6716,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

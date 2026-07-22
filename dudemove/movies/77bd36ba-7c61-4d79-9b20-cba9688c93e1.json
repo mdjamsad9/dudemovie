@@ -1,0 +1,28 @@
+{
+  "id": "77bd36ba-7c61-4d79-9b20-cba9688c93e1",
+  "title": "Age Out",
+  "slug": "age-out",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ld29B0n18Pn9tVXZNxXkwxnA1fo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 6.013,
+  "description": "Fresh out of foster care at age 18, a young drifter turns to petty crime to survive, and discovers an impossible love in an unlikely friend.",
+  "created_at": "2026-07-22T15:27:08.657Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5138,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

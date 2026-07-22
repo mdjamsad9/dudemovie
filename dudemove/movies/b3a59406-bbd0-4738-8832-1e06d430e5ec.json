@@ -1,0 +1,28 @@
+{
+  "id": "b3a59406-bbd0-4738-8832-1e06d430e5ec",
+  "title": "3",
+  "slug": "3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nOsWrm2IbH9mwIRBvhH7mFjmS5q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2012,
+  "duration": null,
+  "rating": 5.023,
+  "description": "When an ingénue's sudden popularity threatens to shove her out of the spotlight, a movie star uses black magic in an attempt to derail her career.",
+  "created_at": "2026-07-22T15:10:31.701Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7092,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

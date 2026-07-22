@@ -1,0 +1,28 @@
+{
+  "id": "5a629d35-d52b-46be-bbe8-b900f5cd6925",
+  "title": "Ok Jaanu",
+  "slug": "ok-jaanu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bEnoj00JrazyPULFuVGZHTcRhCd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 135,
+  "rating": 5.8,
+  "description": "Adi and Tara move to Bombay to pursue their dreams. A chance meeting sparks off a heady, no strings attached romance until their careers pull them apart. Will ambition prevail over matters of the heart?",
+  "created_at": "2026-07-22T15:21:25.190Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6282,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

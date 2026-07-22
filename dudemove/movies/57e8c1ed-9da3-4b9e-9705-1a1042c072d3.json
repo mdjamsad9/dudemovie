@@ -1,0 +1,28 @@
+{
+  "id": "57e8c1ed-9da3-4b9e-9705-1a1042c072d3",
+  "title": "Trainwreck",
+  "slug": "trainwreck",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 125,
+  "rating": 5.783,
+  "description": "Ever since her father drilled into her head that monogamy isn't realistic, magazine writer Amy has made promiscuity her credo. As much as she enjoys an uninhibited life free of commitment, Amy is really in a rut. While writing a profile about charming and successful sports doctor Aaron Conners, she finds herself actually falling in love for the first time -- and what's more, Aaron seems to really like her too. Amy starts to wonder if it's time to clean up her act and face her fears.",
+  "created_at": "2026-07-22T15:42:11.291Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6838,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

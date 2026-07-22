@@ -1,0 +1,36 @@
+{
+  "id": "8dd58b0b-792a-424e-bcf2-5c05a5b42412",
+  "title": "Wajah Tum Ho",
+  "slug": "wajah-tum-ho",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qclSSy97ED9uphHJXBi7MMIyNnq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 136,
+  "rating": 5.045,
+  "description": "A hooded vigilante is broadcasting murders on a news channel. Will the police catch him alive before he live-casts another death?",
+  "created_at": "2026-07-22T15:47:49.369Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6576,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

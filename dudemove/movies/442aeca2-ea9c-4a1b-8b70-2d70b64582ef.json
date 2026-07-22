@@ -1,0 +1,28 @@
+{
+  "id": "442aeca2-ea9c-4a1b-8b70-2d70b64582ef",
+  "title": "Bhimaa",
+  "slug": "bhimaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fdaob8wA5SkeGnKA0LrpWb14TFy.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 2.7,
+  "description": "When mysterious occurrences plague a closed Shiva temple at Mahendragiri, a fearless and dynamic cop Bhimaa quests to unravel and confront the sinister truth hidden in the shadows and the revelations behind strange happenings in the village, supported by spirits.",
+  "created_at": "2026-07-09T17:24:41.309Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 1626,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bhimaa%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhimaa%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

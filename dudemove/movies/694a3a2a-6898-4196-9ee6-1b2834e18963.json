@@ -1,0 +1,24 @@
+{
+  "id": "694a3a2a-6898-4196-9ee6-1b2834e18963",
+  "title": "Dhira",
+  "slug": "dhira",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c7bPIrinxzKx9VAspyDG3K6PaBb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 117,
+  "rating": 9,
+  "description": "When South India was under foreign treachery in the 14th century, Vidhyaranya Swami along with his disciples Hari Hara and Bukka Raya saved the country. They established a new kingdom called Vijayanagara, hid the war loot in Kishkindha mountain and protected it by dividing the secret in two. Swamy then extracts a vow from forest tribe leader and Vijayanagara Minister to guard this secret.",
+  "created_at": "2026-07-22T15:21:06.652Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 4253,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

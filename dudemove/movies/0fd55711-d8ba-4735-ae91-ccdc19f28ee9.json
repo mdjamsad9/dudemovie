@@ -1,0 +1,28 @@
+{
+  "id": "0fd55711-d8ba-4735-ae91-ccdc19f28ee9",
+  "title": "Wild Wild Punjab",
+  "slug": "wild-wild-punjab",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5EpIjplAtUiFyjR6C2gYN6xPiCP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 111,
+  "rating": 6.5,
+  "description": "Four friends road-trip across Punjab to help one of them get over an ex-girlfriend, but are quickly caught in a fiasco like no other.",
+  "created_at": "2026-07-22T15:10:03.457Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 1641,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

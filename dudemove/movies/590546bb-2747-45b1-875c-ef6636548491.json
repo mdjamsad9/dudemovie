@@ -1,0 +1,24 @@
+{
+  "id": "590546bb-2747-45b1-875c-ef6636548491",
+  "title": "Them That Follow",
+  "slug": "them-that-follow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y5pXzgds0pPOJevmunFkPFMaaGU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 5,
+  "description": "A Pentecostal pastor, Lemuel Childs, and his believers handle venomous snakes to prove themselves before God. Lemuel’s daughter, Mara holds a secret that threatens to tear the church apart: her romantic past with a nonbeliever, Augie. As Mara’s wedding to a devoted follower looms, she must decide whether or not to trust the steely matriarch of their community, Hope, with her heart and life at stake.",
+  "created_at": "2026-07-22T15:26:51.172Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4853,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

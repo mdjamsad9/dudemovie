@@ -1,0 +1,32 @@
+{
+  "id": "f430f1ee-5279-49b4-a884-8156894a4f26",
+  "title": "Dunkirk",
+  "slug": "dunkirk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 107,
+  "rating": 7.452,
+  "description": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+  "created_at": "2026-07-22T15:41:07.505Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5959,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

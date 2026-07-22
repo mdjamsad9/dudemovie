@@ -1,0 +1,32 @@
+{
+  "id": "c9cf1cdf-c874-4f2c-8d0a-b73a9c5f17ee",
+  "title": "Lucky Day",
+  "slug": "lucky-day",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y1Iux6HUOjoOBrqDyg3RZYe0pGh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 5.387,
+  "description": "Red, a safe cracker who has just been released from prison, is trying to hold his family together as his past catches up with him in the form of Luc, a psychopathic contract killer who's seeking revenge for the death of his brother.",
+  "created_at": "2026-07-22T15:26:53.056Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4857,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e79a0622-d672-49b3-a205-5b3da2fdd676",
+  "title": "Results",
+  "slug": "results",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9mQafhsspuLrlr5RUAKVMZdcZsF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 105,
+  "rating": 5.052,
+  "description": "Two mismatched personal trainers' lives are upended by the actions of a new, wealthy client.",
+  "created_at": "2026-07-22T15:44:25.878Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6842,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

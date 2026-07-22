@@ -1,0 +1,32 @@
+{
+  "id": "e696d152-25fe-4cd0-beeb-852d3f568331",
+  "title": "Don Quixote",
+  "slug": "don-quixote",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m00JlMOanAfL6RIKy8hq1Ttyes2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "xx",
+  "release_year": 2015,
+  "duration": 126,
+  "rating": null,
+  "description": "Don Quixote is a 19th century work, choreographed by Petipa in 1869. Rudolf Nureyev revived it in 1966 and it is his version in La Scala Ballet’s repertoire, much loved by ballet audiences for its winning mix of technical bravura, exuberance and comic touches. La Scala Ballet brought the world of a fantastical Spain brilliantly to life with their sophisticated dance, music, costumes and sets, energetically accompanied by the Queensland Symphony Orchestra, conducted by David Coleman.",
+  "created_at": "2026-07-22T15:40:41.466Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6909,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

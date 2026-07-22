@@ -1,0 +1,28 @@
+{
+  "id": "3954a433-9977-4ba6-9e67-8ce68ed6b30e",
+  "title": "Inez & Doug & Kira",
+  "slug": "inez-doug-kira",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eHTfmUfC4fde5GWcKfPWkS34wxn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 96,
+  "rating": 5,
+  "description": "When a bipolar woman commits suicide, her sister and her sister's fiancé become entangled in an attempt to discover what pushed her to the brink.",
+  "created_at": "2026-07-22T15:22:22.126Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4486,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

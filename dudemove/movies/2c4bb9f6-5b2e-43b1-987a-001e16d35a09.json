@@ -1,0 +1,28 @@
+{
+  "id": "2c4bb9f6-5b2e-43b1-987a-001e16d35a09",
+  "title": "The Perfect Match",
+  "slug": "the-perfect-match",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sAiF9gKhb3gPbnp9g5nNhrfTqpL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 5.546,
+  "description": "Charlie is a charming playboy who doesn't believe in serious relationships. His best friends bet him that if he sticks to one woman for one month, he's bound to get attached. Charlie denies this yet accepts the seemingly easy challenge, until he cross paths with the beautiful and mysterious Eva. They may agree to a casual affair, but eventually Charlie is questioning whether he may actually want more.",
+  "created_at": "2026-07-22T15:50:31.490Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6541,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

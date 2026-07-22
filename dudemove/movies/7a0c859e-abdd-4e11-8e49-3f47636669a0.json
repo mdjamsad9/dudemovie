@@ -1,0 +1,28 @@
+{
+  "id": "7a0c859e-abdd-4e11-8e49-3f47636669a0",
+  "title": "Turbines",
+  "slug": "turbines",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ozfN5NcR8outuHb8KNGORjs0EWV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 84,
+  "rating": 4.2,
+  "description": "When immigrants Attila and Jana resettle in a rural Australian town as part of a government policy to populate isolated areas, they consider themselves lucky. Although they must work on a wind farm in the middle of nowhere, they have each other, and soon, a family. Problems with narrow-minded locals, the isolation, backbreaking labor and immigration officials are the least of their worries when bad things begin to happen to the animals and people in town. As the situation escalates, and fear begins to motivate them, Attila and Jana begin to wonder – are the Turbines only onlookers or guilty of the unthinkable?",
+  "created_at": "2026-07-22T15:27:04.065Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4729,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7fc3be89-617c-475e-93d2-92d4b6fd875e",
+  "title": "RK/RKAY",
+  "slug": "rk-rkay",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nVzWpZC8piEuEv3KmzpqpokqBzN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 95,
+  "rating": 6,
+  "description": "After wrapping up the shoot of his upcoming period film, in which he also plays the lead character Mehboob, Indie film director-writer RK (Rajat Kapoor) struggles to piece his film together on the editing table. Trouble escalates when he discovers that his lead character has vanished from the film’s footage and entered real life.",
+  "created_at": "2026-07-22T15:13:48.863Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3356,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

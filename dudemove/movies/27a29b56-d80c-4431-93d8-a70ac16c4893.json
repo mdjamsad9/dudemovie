@@ -1,0 +1,28 @@
+{
+  "id": "27a29b56-d80c-4431-93d8-a70ac16c4893",
+  "title": "Saansein: The Last Breath",
+  "slug": "saansein-the-last-breath",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3LiWmfx5Ea2qrwyFqmIXUwNKSxT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 101,
+  "rating": 6.2,
+  "description": "Shirin, a singer mysteriously disappears. Abhay looks for Shirin and tries to solve this mysterious incident.",
+  "created_at": "2026-07-22T15:47:47.090Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6572,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

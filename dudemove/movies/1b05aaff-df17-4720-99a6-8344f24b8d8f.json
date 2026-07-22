@@ -1,0 +1,28 @@
+{
+  "id": "1b05aaff-df17-4720-99a6-8344f24b8d8f",
+  "title": "Changeland",
+  "slug": "changeland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vaf93xaAmPXcGWDNuQNXe9OYhnl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 86,
+  "rating": 5.6,
+  "description": "Follow two estranged best friends on an epic, life-changing adventure in Thailand, as they're reminded that there's no problem that friendship and a few rounds in a Muay Thai boxing ring can't fix.",
+  "created_at": "2026-07-22T15:31:15.836Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4895,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

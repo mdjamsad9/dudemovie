@@ -1,0 +1,28 @@
+{
+  "id": "709ed7f0-e073-424f-a1b1-e65fce1fca98",
+  "title": "Concrete Cowboy",
+  "slug": "concrete-cowboy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qRW2poVt06WCVlIhrolWS5af4YV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 111,
+  "rating": 6.055,
+  "description": "Sent to live with his estranged father for the summer, a rebellious teen finds kinship in a tight-knit Philadelphia community of Black cowboys.",
+  "created_at": "2026-07-22T15:19:23.361Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 3942,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7e47a916-303e-4e02-85dd-fc11fca44e02",
+  "title": "Arctic Apocalypse",
+  "slug": "arctic-apocalypse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9jcQmBfieWq3Te4fJ9YzucCZvS4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 88,
+  "rating": 6.1,
+  "description": "A massive influx of glacial melting triggers a new ice age in the Northern Hemisphere, forcing a family to make their way across the ice-covered landscape before they are frozen out for good.",
+  "created_at": "2026-07-22T15:29:00.104Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4421,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

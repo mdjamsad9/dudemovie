@@ -1,0 +1,36 @@
+{
+  "id": "3038dbb2-c0e3-48d1-aab6-f97c666f5088",
+  "title": "Wildling",
+  "slug": "wildling",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wZQR6hKRUBqHRL4lfECFES68zGF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 5.445,
+  "description": "A young woman held in captivity discovers the realities of truth and lies in the outside world.",
+  "created_at": "2026-07-22T15:38:33.336Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5677,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

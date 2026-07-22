@@ -1,0 +1,28 @@
+{
+  "id": "b9e71b24-bdcc-4bbf-8a5a-ef33002d8c55",
+  "title": "Another Kind of Wedding",
+  "slug": "another-kind-of-wedding",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mODXIsq6hGUXElMeooo6kSKZ6Hj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 86,
+  "rating": 5,
+  "description": "A fractured family is forced to confront what tore them apart at the eldest son's wedding.",
+  "created_at": "2026-07-22T15:37:55.379Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5709,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

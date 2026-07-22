@@ -1,0 +1,24 @@
+{
+  "id": "df47d9d2-34c9-4be4-81ff-e075e39cc6f0",
+  "title": "6 Balloons",
+  "slug": "6-balloons",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 75,
+  "rating": 6.006,
+  "description": "Over the course of one night, a woman drives across LA with her heroin addict brother in search of a detox center, with his two-year-old daughter in tow.",
+  "created_at": "2026-07-22T15:38:41.720Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5668,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

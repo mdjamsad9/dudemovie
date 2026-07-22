@@ -1,0 +1,24 @@
+{
+  "id": "89fb728e-e27b-4d9b-960d-4d4877d3a913",
+  "title": "Charismata",
+  "slug": "charismata",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u94cACkX4yD5cebyyfH9yB3OXGR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 100,
+  "rating": 4.6,
+  "description": "As a rookie detective struggling to find acceptance in a police department defined by a culture of bullying and intolerance, things go from bad to worse when the chief suspect in a series of brutal ritualistic murders takes a personal interest in her. A game of cat and mouse ensues which sees Rebecca’s grasp on reality beginning to spiral out of control, leading to a terrifying climax where she needs to fight for her sanity, her life and maybe even her soul.",
+  "created_at": "2026-07-22T15:35:57.020Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5780,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

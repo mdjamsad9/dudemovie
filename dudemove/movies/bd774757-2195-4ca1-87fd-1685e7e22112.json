@@ -1,0 +1,32 @@
+{
+  "id": "bd774757-2195-4ca1-87fd-1685e7e22112",
+  "title": "Windfall",
+  "slug": "windfall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/njBc0nNdl9QbsfMwyRqJkmW4NQO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 93,
+  "rating": 5.47,
+  "description": "In an opulent vacation home, a mysterious intruder is forced to kidnap the property owners -- a wealthy CEO and his wife -- when they arrive unexpectedly.",
+  "created_at": "2026-07-22T15:15:02.922Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3292,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

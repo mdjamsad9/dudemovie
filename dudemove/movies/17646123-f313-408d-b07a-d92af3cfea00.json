@@ -1,0 +1,36 @@
+{
+  "id": "17646123-f313-408d-b07a-d92af3cfea00",
+  "title": "Teefa in Trouble",
+  "slug": "teefa-in-trouble",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aJv4GNV1g4zLHDBQiQCIwAx4j42.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Urdu",
+  "release_year": 2018,
+  "duration": 155,
+  "rating": 7.4,
+  "description": "Teefa goes to Poland to get Anya to Pakistan to marry Butt gangster's son but lands up in trouble with Anya's gangster father and the Polish police.",
+  "created_at": "2026-07-22T15:36:43.503Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5540,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

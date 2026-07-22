@@ -1,0 +1,32 @@
+{
+  "id": "3883a150-f0ee-422a-ba23-0d0966eca434",
+  "title": "Captain America: Civil War",
+  "slug": "captain-america-civil-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Romanian",
+  "release_year": 2016,
+  "duration": 147,
+  "rating": 7.4,
+  "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+  "created_at": "2026-07-22T15:49:41.733Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6466,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

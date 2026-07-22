@@ -1,0 +1,36 @@
+{
+  "id": "42ad200e-bec2-4be0-8256-5abc26f25a3c",
+  "title": "Before I Wake",
+  "slug": "before-i-wake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sI9neTbF3ECdpf2MpC88EMGJH13.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 6.498,
+  "description": "An orphaned child's dreams—and nightmares—manifest physically as he sleeps.",
+  "created_at": "2026-07-22T15:49:59.520Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6476,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

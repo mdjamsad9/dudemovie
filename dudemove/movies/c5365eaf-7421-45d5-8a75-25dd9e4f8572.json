@@ -1,0 +1,24 @@
+{
+  "id": "c5365eaf-7421-45d5-8a75-25dd9e4f8572",
+  "title": "Clown",
+  "slug": "clown",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y1exaxzZ2eJfwUYSl1YX206Xf58.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 4.3,
+  "description": "A group of teens fights for their lives as they find themselves trapped in a fun-house, stalked by a killer clown who won't rest until every last one of them is dead.",
+  "created_at": "2026-07-22T15:29:10.287Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4397,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

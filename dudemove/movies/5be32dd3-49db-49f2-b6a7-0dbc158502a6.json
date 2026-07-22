@@ -1,0 +1,36 @@
+{
+  "id": "5be32dd3-49db-49f2-b6a7-0dbc158502a6",
+  "title": "Shaun the Sheep Movie",
+  "slug": "shaun-the-sheep-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "No Language",
+  "release_year": 2015,
+  "duration": 85,
+  "rating": 6.989,
+  "description": "When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flock to return everyone safely to the green grass of home.",
+  "created_at": "2026-07-22T15:44:34.426Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6889,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

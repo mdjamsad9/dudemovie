@@ -1,0 +1,32 @@
+{
+  "id": "19a81bb3-e8e8-4708-be33-a2e8434b6c98",
+  "title": "Marjorie Prime",
+  "slug": "marjorie-prime",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rvTZFjcNvzPFYJnmdrvSrGvqx67.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 99,
+  "rating": 6.117,
+  "description": "A service which creates holographic projections of late family members allows an elderly woman to spend time with a younger version of her deceased husband.",
+  "created_at": "2026-07-22T15:41:35.498Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6069,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

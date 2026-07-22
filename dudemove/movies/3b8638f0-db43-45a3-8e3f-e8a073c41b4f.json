@@ -1,0 +1,24 @@
+{
+  "id": "3b8638f0-db43-45a3-8e3f-e8a073c41b4f",
+  "title": "Furlough",
+  "slug": "furlough",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cw1RkjmbNfIbujkPGh6a8J9Lrf1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 84,
+  "rating": 5.7,
+  "description": "In between caring for her mother, a young woman works part time at a prison. The rookie guard gets a chance to prove her mettle when she's tasked with accompanying a hell-raising inmate on an emergency furlough to visit her dying mother. But things soon spiral out of control, sending the pair on a hilarious, surprising, and ultimately touching road trip.",
+  "created_at": "2026-07-22T15:35:46.819Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5533,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "335df6f6-f70e-440e-8038-9d796aeb6992",
+  "title": "Showing Up",
+  "slug": "showing-up",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 5.842,
+  "description": "In the days leading up to a possibly career-changing exhibition, a sculptor navigates her relationships with family, friends, and colleagues.",
+  "created_at": "2026-07-22T15:12:09.063Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3162,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2ddba11e-fa67-4a59-85d6-6355d7187bfc",
+  "title": "10 Cloverfield Lane",
+  "slug": "10-cloverfield-lane",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 104,
+  "rating": 7.004,
+  "description": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+  "created_at": "2026-07-22T15:42:05.037Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6834,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6d3b85a5-26bb-45fc-9dba-8864ff601bc8",
+  "title": "Her Side of the Bed",
+  "slug": "her-side-of-the-bed",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eXmNGS4HrV35bpf1zlNhIuPqhti.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 5.038,
+  "description": "The relationship between two best friends is forever changed during the course of one eventful night.",
+  "created_at": "2026-07-22T15:30:27.661Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5190,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2f4f510f-87ab-49df-a3dd-5d430a2b8992",
+  "title": "Behen Hogi Teri",
+  "slug": "behen-hogi-teri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2zdhiVMVrHFu5J2LarF5bHhSabM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 128,
+  "rating": 6.048,
+  "description": "Owing to the condition that the girls of the neighborhood should be treated like one's own sister, Gattu works to capture Binny's heart and the approval of his community.",
+  "created_at": "2026-07-22T15:36:39.262Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5735,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

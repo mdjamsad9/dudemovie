@@ -1,0 +1,24 @@
+{
+  "id": "9c8a22cd-76eb-40a8-b8d1-85e5df74f671",
+  "title": "Who We Are Now",
+  "slug": "who-we-are-now",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kxTfAC1pCHjLYDqAoiUVul5Hor3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2018,
+  "duration": 101,
+  "rating": 5.717,
+  "description": "Recently released from prison, Beth is working with her public defender to get her son back from her sister, who was awarded legal custody while Beth was incarcerated for ten years. Soon after, Beth forms an unlikely alliance with Jess, an idealistic young protégé of the public defense team, who decides to take on Beth's cause whether she likes it or not.",
+  "created_at": "2026-07-22T15:36:59.069Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5574,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

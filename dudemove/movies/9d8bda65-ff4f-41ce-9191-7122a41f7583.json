@@ -1,0 +1,28 @@
+{
+  "id": "9d8bda65-ff4f-41ce-9191-7122a41f7583",
+  "title": "Ronaldo",
+  "slug": "ronaldo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2015,
+  "duration": 92,
+  "rating": 6.969,
+  "description": "Filmed over 14 months with unprecedented access into the inner circle of the man and the sport, this is the first official and fully authorised film of one of the most celebrated figures in football.  For the first time ever, the world gets vividly candid and un-paralleled, behind-closed-doors access to the footballer, father, family-man and friend in this moving & fascinating documentary. Through in-depth conversations, state of the art football footage and never before seen archival footage, the film gives an astonishing insight into the sporting and personal life of triple Ballon D'Or winner Cristiano Ronaldo at the peak of his career.  From the makers of ‘Senna’ and ‘Amy’, Ronaldo takes audiences on an intimate and revealing journey of what it’s like to live as an iconic athlete in the eye of the storm.",
+  "created_at": "2026-07-22T15:39:52.660Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6936,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

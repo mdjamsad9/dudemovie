@@ -1,0 +1,28 @@
+{
+  "id": "8285c651-f1e7-43b1-a0ea-a074913bd67a",
+  "title": "Time to Dance",
+  "slug": "time-to-dance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mfbDyv0H1eJkRS5gLUnRxs9XZti.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 107,
+  "rating": 4,
+  "description": "When a ballroom dancer’s shot at a crucial tournament is jeopardized, a street dancer must face his own painful past and step up as her new partner.",
+  "created_at": "2026-07-22T15:18:59.727Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3728,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

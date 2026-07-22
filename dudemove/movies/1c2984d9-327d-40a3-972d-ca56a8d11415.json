@@ -1,0 +1,28 @@
+{
+  "id": "1c2984d9-327d-40a3-972d-ca56a8d11415",
+  "title": "Motherless Brooklyn",
+  "slug": "motherless-brooklyn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2wm20cbkH1L8nA54Gtwfgz2hTqo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 145,
+  "rating": 6.69,
+  "description": "New York City, 1957. Lionel Essrog, a private detective living with Tourette syndrome, tries to solve the murder of his mentor and best friend, armed only with vague clues and the strength of his obsessive mind.",
+  "created_at": "2026-07-22T15:27:28.377Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4917,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

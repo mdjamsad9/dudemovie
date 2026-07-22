@@ -1,0 +1,32 @@
+{
+  "id": "8af9a5b5-ab2b-46dd-8de7-36a28e5fe05c",
+  "title": "Hard Kill",
+  "slug": "hard-kill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2020,
+  "duration": 98,
+  "rating": 4.954,
+  "description": "The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+  "created_at": "2026-07-22T15:22:54.433Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4242,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

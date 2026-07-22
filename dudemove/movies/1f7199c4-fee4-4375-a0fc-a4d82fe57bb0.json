@@ -1,0 +1,32 @@
+{
+  "id": "1f7199c4-fee4-4375-a0fc-a4d82fe57bb0",
+  "title": "Goosebumps",
+  "slug": "goosebumps",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 103,
+  "rating": 6.312,
+  "description": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
+  "created_at": "2026-07-22T15:42:25.757Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6880,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

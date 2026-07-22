@@ -1,0 +1,28 @@
+{
+  "id": "c377d306-dffc-4753-88c7-7e3b0ddc9f63",
+  "title": "Umma",
+  "slug": "umma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 83,
+  "rating": 5.307,
+  "description": "Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.",
+  "created_at": "2026-07-22T15:14:50.368Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3289,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

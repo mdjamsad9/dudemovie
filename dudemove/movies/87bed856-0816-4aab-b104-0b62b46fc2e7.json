@@ -1,0 +1,36 @@
+{
+  "id": "87bed856-0816-4aab-b104-0b62b46fc2e7",
+  "title": "The Spine of Night",
+  "slug": "the-spine-of-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fn2Qf36nD7CvduaaJ1EbLdSpDo7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 93,
+  "rating": 5.98,
+  "description": "When ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind, a group of heroes from different eras and cultures must band together in order to defeat it at all costs.",
+  "created_at": "2026-07-22T15:17:04.116Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3534,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

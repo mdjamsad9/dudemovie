@@ -1,0 +1,32 @@
+{
+  "id": "54a1296c-5b5d-46f6-b5b6-2b071d29c230",
+  "title": "Babumoshai Bandookbaaz",
+  "slug": "babumoshai-bandookbaaz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nmqyewAS2fbpXUKKEl5VehuxdfA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 122,
+  "rating": 6.389,
+  "description": "Two contract killer from Uttar Pradesh, Babu Bihari and Banke Bihari who are often paid to bump off the same game, cross each other's path and end up fighting with each other.",
+  "created_at": "2026-07-22T15:34:24.171Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5701,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

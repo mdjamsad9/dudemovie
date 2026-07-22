@@ -1,0 +1,24 @@
+{
+  "id": "819bad9f-e977-4e1c-beed-dccdc0cbdb3c",
+  "title": "Buddy Games",
+  "slug": "buddy-games",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 5.244,
+  "description": "After six lifelong friends have a five-year falling out, “The Bobfather”, reunites his pals for the Buddy Games, an insane competition of absurd physical and mental challenges with the chance to win a $150,000 pot. Now all bets are off, as the determined dudes' fight, claw, and party for the big bucks.",
+  "created_at": "2026-07-22T15:21:02.336Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4555,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

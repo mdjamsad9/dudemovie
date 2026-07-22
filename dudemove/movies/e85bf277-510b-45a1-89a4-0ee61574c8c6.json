@@ -1,0 +1,24 @@
+{
+  "id": "e85bf277-510b-45a1-89a4-0ee61574c8c6",
+  "title": "The Firing Squad",
+  "slug": "the-firing-squad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yoiXBduSKakUadgFpfAizl8S6nK.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 96,
+  "rating": 5.75,
+  "description": "Based on the true story of three Christian prisoners who face execution in a third world country and how their joy in Christ results in a stunning conclusion.",
+  "created_at": "2026-07-09T17:09:22.744Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1357,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Firing.Squad.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Firing.Squad.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

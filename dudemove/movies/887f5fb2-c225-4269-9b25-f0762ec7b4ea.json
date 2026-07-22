@@ -1,0 +1,24 @@
+{
+  "id": "887f5fb2-c225-4269-9b25-f0762ec7b4ea",
+  "title": "Mr. Crocket",
+  "slug": "mr-crocket",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t5TV6Y8yKZXTtg8Abf4uBGVH9mD.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 88,
+  "rating": 5.219,
+  "description": "A single mother thinks she's found the key to calming her child down – a VHS copy of a strange children's program named Mr. Crocket's World. However, a darker, bloodier secret waits to invade their home from inside the tape.",
+  "created_at": "2026-07-09T17:12:12.018Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 1636,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Mr..Crocket.2024.1080p.WEBRip.x264%20%5BDDN%5D/Mr..Crocket.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

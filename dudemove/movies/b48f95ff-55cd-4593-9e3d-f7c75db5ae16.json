@@ -1,0 +1,28 @@
+{
+  "id": "b48f95ff-55cd-4593-9e3d-f7c75db5ae16",
+  "title": "Shaadi Mein Zaroor Aana",
+  "slug": "shaadi-mein-zaroor-aana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hSpzMrohhzT7EQcvMIpXizP2hx4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 137,
+  "rating": 6.878,
+  "description": "Satyendra aka Sattu and Aarti meet for a proposed arranged marriage and fall in love in the process. On the night of their marriage, an unexpected turn of events turns their world upside down. Set in the backdrop of India's civil services, Shaadi Mein Zaroor Aana explores the challenges that Satyendra and Aarti face as a middle-class couple in India.",
+  "created_at": "2026-07-22T15:39:16.909Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5807,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

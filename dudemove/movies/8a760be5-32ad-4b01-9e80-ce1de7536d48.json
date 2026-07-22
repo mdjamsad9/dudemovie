@@ -1,0 +1,24 @@
+{
+  "id": "8a760be5-32ad-4b01-9e80-ce1de7536d48",
+  "title": "Penalty",
+  "slug": "penalty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eRXsh6um6tC4VzF5DpZQl02mD6t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 128,
+  "rating": 4,
+  "description": "A young boy Lukram, hailing from the state of Manipur, situated in the Northeastern part of the country, is a football enthusiast and enrols in a Lucknow-based college to realise his dream of playing for the Indian national team, but his dreams start to crumble when he is subjected to blatant racism and zonal politics that is prevalent in this sport’s team-selection process.",
+  "created_at": "2026-07-22T15:23:57.027Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4436,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

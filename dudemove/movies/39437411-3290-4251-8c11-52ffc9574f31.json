@@ -1,0 +1,36 @@
+{
+  "id": "39437411-3290-4251-8c11-52ffc9574f31",
+  "title": "The Hollow",
+  "slug": "the-hollow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wrKVZdV3K3BKlQdIbiMQ3uYIRBT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 128,
+  "rating": 4.845,
+  "description": "When a U.S. congressman's daughter passing through a small town in Mississippi dies in a mysterious triple homicide, a team of F.B.I. agents descends to investigate, the team's brilliant but jaded lead agent battling demons both past and present, as his beautiful, tough-as-nails partner tries to hold him and the case together. They find a struggling and corrupt sheriff's department, a shadowy and much-feared figure, who seems to be pulling all of the town's strings from his mansion on the edge of town and a local victim with a strange connection to a number of the town's most prominent figures.",
+  "created_at": "2026-07-22T15:48:45.403Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6665,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

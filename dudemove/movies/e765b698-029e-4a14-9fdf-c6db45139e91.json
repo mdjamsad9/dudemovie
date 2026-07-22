@@ -1,0 +1,28 @@
+{
+  "id": "e765b698-029e-4a14-9fdf-c6db45139e91",
+  "title": "The D Train",
+  "slug": "the-d-train",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/34sJQxmJT42jioSiabF5QobG0NC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 101,
+  "rating": 4.889,
+  "description": "With his 20th reunion looming, Dan can’t shake his high school insecurities. In a misguided mission to prove he’s changed, Dan rekindles a friendship with the popular guy from his class and is left scrambling to protect more than just his reputation when a wild night takes an unexpected turn.",
+  "created_at": "2026-07-22T15:51:13.640Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7078,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

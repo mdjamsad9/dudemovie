@@ -1,0 +1,28 @@
+{
+  "id": "699ff1fc-21a2-4f50-9bd6-5a1921dfd5ca",
+  "title": "Here Today",
+  "slug": "here-today",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xp64qD0V9SRE3jU6sEtQufAzYRk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 117,
+  "rating": 6.954,
+  "description": "Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.",
+  "created_at": "2026-07-22T15:18:15.503Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3652,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

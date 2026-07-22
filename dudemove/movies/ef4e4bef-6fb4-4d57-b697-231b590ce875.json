@@ -1,0 +1,36 @@
+{
+  "id": "ef4e4bef-6fb4-4d57-b697-231b590ce875",
+  "title": "Hulk: Where Monsters Dwell",
+  "slug": "hulk-where-monsters-dwell",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/udUnSnQKzYddDpU6WNdTMB5XVEE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 75,
+  "rating": 6.686,
+  "description": "This All Hallows’ Eve, Nightmare is bent on conquering our waking world by crossing through the Dream Dimension, and converting each dreamer into a monster. Can Dr. Strange, Hulk and the Howling Commandos hold the line and put an end to his nefarious scheme?",
+  "created_at": "2026-07-22T15:48:48.786Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6671,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4d378180-d0f9-4eb8-a069-d15ad6a731c4",
+  "title": "Blood Myth",
+  "slug": "blood-myth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9qxxgGeBIuiO9V2LE3x3gSwtjXZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 81,
+  "rating": 2.857,
+  "description": "A journalist desperately tries to find his missing fiancee and finally uncover the truth behind a sinister folklore, leading him down a dangerous road of discovery.",
+  "created_at": "2026-07-22T15:27:34.198Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4804,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

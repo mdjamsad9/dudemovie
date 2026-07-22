@@ -1,0 +1,36 @@
+{
+  "id": "b17a153f-1b00-462b-8f47-186b8179987b",
+  "title": "Six Minutes to Midnight",
+  "slug": "six-minutes-to-midnight",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hOdW30Yk3aAmiWGjbfeNJ316QQY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2020,
+  "duration": 99,
+  "rating": 6.157,
+  "description": "Summer 1939. Influential families in Nazi Germany have sent their daughters to a finishing school in an English seaside town to learn the language and be ambassadors for a future looking National Socialist. A teacher there sees what is coming and is trying to raise the alarm. But the authorities believe he is the problem.",
+  "created_at": "2026-07-22T15:21:34.580Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 4202,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

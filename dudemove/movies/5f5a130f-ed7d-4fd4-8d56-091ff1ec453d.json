@@ -1,0 +1,32 @@
+{
+  "id": "5f5a130f-ed7d-4fd4-8d56-091ff1ec453d",
+  "title": "Coolie",
+  "slug": "coolie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 170,
+  "rating": 6.262,
+  "description": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+  "created_at": "2026-07-09T16:54:18.710Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 760,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Coolie.2025.720p.HDTS.x264%20%5BDDN%5D/Coolie.2025.720p.HDTS.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "323ed077-77be-4b53-bc36-bfd482544043",
+  "title": "Don't Tell a Soul",
+  "slug": "don-t-tell-a-soul",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 83,
+  "rating": 6.6,
+  "description": "Two thieving teenage brothers, stealing money to help their sick mom, match wits with a troubled security guard stuck at the bottom of a forgotten well.",
+  "created_at": "2026-07-22T15:20:07.475Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4089,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

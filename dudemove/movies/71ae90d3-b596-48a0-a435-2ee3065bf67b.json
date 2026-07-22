@@ -1,0 +1,28 @@
+{
+  "id": "71ae90d3-b596-48a0-a435-2ee3065bf67b",
+  "title": "Brad's Status",
+  "slug": "brad-s-status",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 101,
+  "rating": 6.3,
+  "description": "Although Brad has a satisfying career, a sweet wife and a comfortable life in suburban Sacramento, things aren't quite what he imagined during his college glory days. When he accompanies his musical prodigy son on a university tour, he can't help comparing his life with those of his four best college friends who seemingly have more wealthy and glamorous lives. But when circumstances force him to reconnect with his former friends, Brad begins to question whether he has really failed or if their lives are actually more flawed than they appear.",
+  "created_at": "2026-07-22T15:40:50.863Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5997,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

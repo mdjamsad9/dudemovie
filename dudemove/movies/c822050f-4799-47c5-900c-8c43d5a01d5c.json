@@ -1,0 +1,32 @@
+{
+  "id": "c822050f-4799-47c5-900c-8c43d5a01d5c",
+  "title": "Peter Rabbit 2: The Runaway",
+  "slug": "peter-rabbit-2-the-runaway",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 93,
+  "rating": 7.041,
+  "description": "Peter Rabbit runs away from his human family when he learns they are going to portray him in a bad light in their book. Soon, he crosses paths with an older rabbit who ropes him into a heist.",
+  "created_at": "2026-07-22T15:18:20.786Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3675,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

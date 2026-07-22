@@ -1,0 +1,32 @@
+{
+  "id": "9e936977-ff4d-4e6e-b81d-0744c24ff490",
+  "title": "Holmes & Watson",
+  "slug": "holmes-watson",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/orEUlKndjV1rEcWqXbbjegjfv97.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 4.3,
+  "description": "Detective Sherlock Holmes and Dr. John Watson join forces to investigate a mysterious murder at Buckingham Palace. It seems like an open-and-shut case as all signs point to Professor James Moriarty, the criminal mastermind and longtime nemesis of the crime-solving duo. When new twists and clues begin to emerge, the world's greatest sleuth and his trusted assistant must now use their legendary wits and ingenious methods to catch the killer as they only have four days before the queen becomes the next victim.",
+  "created_at": "2026-07-22T15:32:44.126Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5199,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "af767188-f28c-4412-9157-3b355fe432df",
+  "title": "Like Father",
+  "slug": "like-father",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPN8iFewcLAdonUec76qrAEnHm6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 103,
+  "rating": 6.219,
+  "description": "When a workaholic young executive is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.",
+  "created_at": "2026-07-22T15:36:36.661Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5629,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

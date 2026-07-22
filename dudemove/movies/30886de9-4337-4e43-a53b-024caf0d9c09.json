@@ -1,0 +1,32 @@
+{
+  "id": "30886de9-4337-4e43-a53b-024caf0d9c09",
+  "title": "Awoken",
+  "slug": "awoken",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kUaCqz6dKFmYsZrqdItPO6wkW0v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5.757,
+  "description": "Karla, a young medical student, is trying to cure her brother, Blake, from a terminal sleep illness called Fatal Familial Insomnia, where you are unable to sleep until you die. On her quest to treat him, a more sinister reason for his condition is revealed.",
+  "created_at": "2026-07-22T15:24:45.520Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4565,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

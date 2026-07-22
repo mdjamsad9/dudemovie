@@ -1,0 +1,28 @@
+{
+  "id": "5e04b447-a426-46a8-a0ef-aa01960aec4f",
+  "title": "The Longest Ride",
+  "slug": "the-longest-ride",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qdUVfvPBvT6cetDDM7rn8y2CNZE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 128,
+  "rating": 7.629,
+  "description": "The lives of a young couple intertwine with a much older man as he reflects back on a lost love while he's trapped in an automobile crash.",
+  "created_at": "2026-07-22T15:51:21.703Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6961,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "52dccd88-87c1-44af-98d8-ba538230b613",
+  "title": "No Escape",
+  "slug": "no-escape",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6WLnzTG4Hz3lFvfZGSsyB8NFGgM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2015,
+  "duration": 103,
+  "rating": 6.946,
+  "description": "In their new overseas home, an American family soon finds themselves caught in the middle of a coup, and they frantically look for a safe escape in an environment where foreigners are being immediately executed.",
+  "created_at": "2026-07-22T15:42:20.504Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6870,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c78c6c05-d813-4347-94aa-915f4d313a84",
+  "title": "Jurassic Prey",
+  "slug": "jurassic-prey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xhVuhDc4RTmV0AcfTaNfLtvCWyp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 71,
+  "rating": 3.3,
+  "description": "A woman steals money from her mob boss husband hoping to start a new life with her lover. Meanwhile, a washed-up former child star and his buddies rob a bank with a police detective hot on their trail. Through a twist of fate, these people all find themselves at a remote cabin, unaware that recent construction work has unleashed a ferocious creature which now roams the surrounding area!",
+  "created_at": "2026-07-22T15:51:15.395Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6966,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

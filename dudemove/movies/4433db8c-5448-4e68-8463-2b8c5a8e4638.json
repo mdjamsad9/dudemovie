@@ -1,0 +1,36 @@
+{
+  "id": "4433db8c-5448-4e68-8463-2b8c5a8e4638",
+  "title": "Rangoon",
+  "slug": "rangoon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dJ7N9N3zjCCsPIP8nDVPEH6fvSo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 167,
+  "rating": 6.083,
+  "description": "Julia travels to the Indo-Burma border to perform for the troops during the World War II, on the insistence of Billimoria, her lover. She finds herself in love with Jemadar Malik, a soldier there.",
+  "created_at": "2026-07-22T15:43:31.356Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6269,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

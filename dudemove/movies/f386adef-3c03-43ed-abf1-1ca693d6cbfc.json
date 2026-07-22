@@ -1,0 +1,28 @@
+{
+  "id": "f386adef-3c03-43ed-abf1-1ca693d6cbfc",
+  "title": "The Old Guard 2",
+  "slug": "the-old-guard-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2025,
+  "duration": 107,
+  "rating": 5.908,
+  "description": "Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
+  "created_at": "2026-07-09T16:56:12.909Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 425,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Old.Guard.2.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Old.Guard.2.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

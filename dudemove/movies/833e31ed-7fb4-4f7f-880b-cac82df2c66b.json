@@ -1,0 +1,24 @@
+{
+  "id": "833e31ed-7fb4-4f7f-880b-cac82df2c66b",
+  "title": "The Glorias",
+  "slug": "the-glorias",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bItFQ4QahfILGj9mA5uyJvAimeD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 147,
+  "rating": 6.406,
+  "description": "An equal rights crusader, journalist and activist: Gloria Steinem embodies these and more. From her role in the revolutionary women's rights movement to her travels throughout the U.S. and around the world, Steinem has made an everlasting mark on modern history. A nontraditional chronicle of a trailblazing life.",
+  "created_at": "2026-07-22T15:22:19.382Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4204,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

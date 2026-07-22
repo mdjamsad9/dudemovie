@@ -1,0 +1,32 @@
+{
+  "id": "3ca63710-1aa1-431f-ab3e-00aa3efd9665",
+  "title": "Honest Thief",
+  "slug": "honest-thief",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2020,
+  "duration": 99,
+  "rating": 6.47,
+  "description": "A bank robber tries to turn himself in because he's falling in love and wants to live an honest life...but when he realizes the Feds are more corrupt than him, he must fight back to clear his name.",
+  "created_at": "2026-07-22T15:20:49.032Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4177,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

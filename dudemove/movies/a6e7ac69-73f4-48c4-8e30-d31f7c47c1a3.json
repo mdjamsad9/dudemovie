@@ -1,0 +1,28 @@
+{
+  "id": "a6e7ac69-73f4-48c4-8e30-d31f7c47c1a3",
+  "title": "Shortwave",
+  "slug": "shortwave",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eAZ0TQLmrlkB5AaAf5NiR0Gaba6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 85,
+  "rating": 4.518,
+  "description": "A modern and unrelentingly tense psychological thriller based on a theory of the origins of shortwave radio frequencies, Shortwave is an unnerving reminder that some stones are best left unturned.",
+  "created_at": "2026-07-22T15:41:54.913Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6720,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

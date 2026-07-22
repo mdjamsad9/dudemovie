@@ -1,0 +1,24 @@
+{
+  "id": "f502ee4d-f0ce-4319-8231-3ef4dfbcb1e9",
+  "title": "Kedarnath",
+  "slug": "kedarnath",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/viq6ltqew6ZU6dur1FUVKpf9tiZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 6.5,
+  "description": "Mansoor, a reserved and reticent Pithoo (porter), helps pilgrims make an arduous journey upwards to the temple town. His world turns around when he meets the beautiful and rebellious Mukku who draws him into a whirlwind of intense love.",
+  "created_at": "2026-07-22T15:33:33.556Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5240,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

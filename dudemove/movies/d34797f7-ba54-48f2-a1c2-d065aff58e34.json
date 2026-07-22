@@ -1,0 +1,36 @@
+{
+  "id": "d34797f7-ba54-48f2-a1c2-d065aff58e34",
+  "title": "Loveyatri",
+  "slug": "loveyatri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aq5RNE6L8gPSQwSaueur97IbpFR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 140,
+  "rating": 5.5,
+  "description": "Romance blossoms between young Sushrut and Michelle when they meet during the festival of Navratri. When Michelle returns home to the United Kingdom, Sushrut embarks on an adventurous journey through a strange land to win back the woman he loves.",
+  "created_at": "2026-07-22T15:34:32.354Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5309,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "be4b8f35-db1f-4375-948d-fa6235543486",
+  "title": "Set It Up",
+  "slug": "set-it-up",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 105,
+  "rating": 6.905,
+  "description": "Two overworked and underpaid assistants come up with a plan to get their bosses off their backs by setting them up with each other.",
+  "created_at": "2026-07-22T15:37:22.833Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5628,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

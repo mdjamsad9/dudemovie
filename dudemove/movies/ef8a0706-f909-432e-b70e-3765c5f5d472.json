@@ -1,0 +1,24 @@
+{
+  "id": "ef8a0706-f909-432e-b70e-3765c5f5d472",
+  "title": "Darbaan",
+  "slug": "darbaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iiJJoJwpdmGZJVjynRzMME6Z6Kf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 7,
+  "description": "Based on the 1891 short story by Rabindranath Tagore, follows life of a caretaker whose life is disturbed due to a single act of carelessness.",
+  "created_at": "2026-07-22T15:20:53.924Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4185,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

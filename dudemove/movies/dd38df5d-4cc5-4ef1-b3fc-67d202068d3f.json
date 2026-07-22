@@ -1,0 +1,32 @@
+{
+  "id": "dd38df5d-4cc5-4ef1-b3fc-67d202068d3f",
+  "title": "T2 Trainspotting",
+  "slug": "t2-trainspotting",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Bulgarian",
+  "release_year": 2017,
+  "duration": 117,
+  "rating": 6.936,
+  "description": "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud and Begbie.",
+  "created_at": "2026-07-22T15:45:14.907Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6295,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "da6416f1-9a0b-45ff-a891-96803fb356c0",
+  "title": "Gnome Alone",
+  "slug": "gnome-alone",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 85,
+  "rating": 6.083,
+  "description": "When Chloe discovers that her new home's garden gnomes are not what they seem, she must decide between the pursuit of a desired high school life and taking up the fight against the Troggs.",
+  "created_at": "2026-07-22T15:37:32.246Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 5712,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

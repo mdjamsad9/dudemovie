@@ -1,0 +1,32 @@
+{
+  "id": "707dadd8-0753-433b-85a4-0d8e62a1709b",
+  "title": "Strangerland",
+  "slug": "strangerland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Aqx7cDELYw5ZEZkS4EhyjnXXBV0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 111,
+  "rating": 5.257,
+  "description": "Newly arrived to a remote desert town, Catherine and Matthew are tormented by a suspicion when their two teenage children mysteriously vanish.",
+  "created_at": "2026-07-22T15:51:26.979Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6984,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a4df7016-1aea-48fa-81eb-5937b623aaf4",
+  "title": "The Wind",
+  "slug": "the-wind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kcfPHZHSQODLCWdkUVLYATNyEVo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 88,
+  "rating": 5.715,
+  "description": "Lizzy is a tough, resourceful frontierswoman settling a remote stretch of land on the 19th-century American frontier. Isolated from civilization in a desolate wilderness where the wind never stops howling, she begins to sense a sinister presence that seems to be borne of the land itself, and when a newlywed couple arrive at a nearby homestead, their presence amplifies Lizzy's fears, setting into motion a shocking chain of events.",
+  "created_at": "2026-07-22T15:28:55.411Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 5065,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

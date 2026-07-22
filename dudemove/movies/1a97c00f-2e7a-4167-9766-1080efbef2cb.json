@@ -1,0 +1,28 @@
+{
+  "id": "1a97c00f-2e7a-4167-9766-1080efbef2cb",
+  "title": "The Scythian Lamb",
+  "slug": "the-scythian-lamb",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9AGEsJGR6ywe1pDkDEpf6WlfQTt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2018,
+  "duration": 126,
+  "rating": 6.1,
+  "description": "Six unknown people move to the declining seaport city of Uobuka. Unremarkable city official, Tsukisue, is appointed to welcome them, but finds out the shocking truth that all of them are former murder suspects. Before long, an uneasiness begins to creep over the quiet city.",
+  "created_at": "2026-07-22T15:36:19.253Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5504,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

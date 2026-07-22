@@ -1,0 +1,24 @@
+{
+  "id": "b853c25c-f3fa-441d-a78d-fb6841030d94",
+  "title": "ChickLit",
+  "slug": "chicklit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ff5ik0vDXKoA8ngqLh3BNtyfeA5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 5.4,
+  "description": "ChickLit is a comedy drama about four guys trying to save their local pub from closing down. They group write a chick lit, or more specifically a 'mummy porn' novel in the style of 'Fifty Shades of Grey' and it gets snapped up. The only snag is that the publisher insists that the young woman 'author' does press and publicity. The guys have to keep their involvement a secret and so engage an out of work actress to 'role play' the part of the author. This leads to her becoming the star in the film of the book, the tables are turned on the guys and she is in control - leaving them with the awful prospect of having to secretly churn out sex novels for the foreseeable future.",
+  "created_at": "2026-07-22T15:48:16.594Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6617,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "aebecd72-938f-4872-8fdf-def8f2444b96",
+  "title": "Yadang: The Snitch",
+  "slug": "yadang-the-snitch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y7dsDbG8zVWkrkyOhA6ckZXX1uC.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": 7,
+  "description": "Navigating both the criminal underworld and law enforcement agencies, professional snitches called \"yadang\" provide covert information about the drug world to prosecutors and police. When a drug bust at a party attended by high-profile second-generation VIPs entangles those involved into a dangerous conspiracy, a seasoned yadang must do everything in his power not just to make it out on top, but alive.",
+  "created_at": "2026-07-09T16:49:33.641Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 246,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Yadang%20The%20Snitch%20(2025)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Yadang%20The%20Snitch%20%282025%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

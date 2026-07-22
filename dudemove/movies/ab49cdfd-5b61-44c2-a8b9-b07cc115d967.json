@@ -1,0 +1,40 @@
+{
+  "id": "ab49cdfd-5b61-44c2-a8b9-b07cc115d967",
+  "title": "LEGO Star Wars Holiday Special",
+  "slug": "lego-star-wars-holiday-special",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 50,
+  "rating": 6.564,
+  "description": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
+  "created_at": "2026-07-22T15:21:11.103Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4215,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

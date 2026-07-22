@@ -1,0 +1,24 @@
+{
+  "id": "c7d4c5c3-95b5-461e-9263-e6b2db26f1f7",
+  "title": "Torbaaz",
+  "slug": "torbaaz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yj44DlUalvtEKXI9Py6Xz8WypBZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 132,
+  "rating": 7.3,
+  "description": "At an Afghanistan refugee camp, an ex-army doctor seeks to bring children joy through cricket and soon realizes that the stakes go beyond the sport.",
+  "created_at": "2026-07-22T15:20:42.388Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4046,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

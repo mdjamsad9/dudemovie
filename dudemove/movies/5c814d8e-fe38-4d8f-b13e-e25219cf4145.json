@@ -1,0 +1,32 @@
+{
+  "id": "5c814d8e-fe38-4d8f-b13e-e25219cf4145",
+  "title": "Icefall",
+  "slug": "icefall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "German",
+  "release_year": 2025,
+  "duration": 99,
+  "rating": 6.263,
+  "description": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts.",
+  "created_at": "2026-07-09T16:49:21.130Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 253,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Ice.Fall.2025.1080p.WEBRip.x264%20%5BDDN%5D/Ice.Fall.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

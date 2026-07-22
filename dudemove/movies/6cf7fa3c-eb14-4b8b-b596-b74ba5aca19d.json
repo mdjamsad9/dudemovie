@@ -1,0 +1,28 @@
+{
+  "id": "6cf7fa3c-eb14-4b8b-b596-b74ba5aca19d",
+  "title": "Adolescence",
+  "slug": "adolescence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k6FClwc5rxbFf1PXsH8ZJxMQYvj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 99,
+  "rating": 6.931,
+  "description": "A teenager from an abusive household falls in love with a free-spirited runaway that leads him into the fast-lane lifestyle of drugs and addiction which threatens to destroy him.",
+  "created_at": "2026-07-22T15:30:54.009Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5193,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

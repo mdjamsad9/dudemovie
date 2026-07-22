@@ -1,0 +1,32 @@
+{
+  "id": "534f6bec-ede7-4dc2-af32-3468e011578b",
+  "title": "Run",
+  "slug": "run",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 7.216,
+  "description": "Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.",
+  "created_at": "2026-07-22T15:20:20.040Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4032,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

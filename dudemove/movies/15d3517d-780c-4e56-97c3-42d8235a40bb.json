@@ -1,0 +1,28 @@
+{
+  "id": "15d3517d-780c-4e56-97c3-42d8235a40bb",
+  "title": "Mean Dreams",
+  "slug": "mean-dreams",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sf1yPzqPNfmwh7RumTunOUir3f0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 108,
+  "rating": 6.4,
+  "description": "When two youngsters meet and fall for each other, they must go on the run from the girl's corrupt father, who is also the sheriff of the town.",
+  "created_at": "2026-07-22T15:45:35.472Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6767,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

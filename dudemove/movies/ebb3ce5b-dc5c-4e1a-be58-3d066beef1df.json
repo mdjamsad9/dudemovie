@@ -1,0 +1,28 @@
+{
+  "id": "ebb3ce5b-dc5c-4e1a-be58-3d066beef1df",
+  "title": "Mortdecai",
+  "slug": "mortdecai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zIRDhdAuMevOuY2vs3s1HNcqDq7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 107,
+  "rating": 5.521,
+  "description": "An art dealer, Charles Mortdecai, searches for a stolen painting rumored to contain a secret code that gains access to hidden Nazi gold.",
+  "created_at": "2026-07-22T15:44:27.252Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6841,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

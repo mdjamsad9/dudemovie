@@ -1,0 +1,24 @@
+{
+  "id": "7a3c7508-b731-4af9-ac32-d0e4fedd208d",
+  "title": "Chintu Ka Birthday",
+  "slug": "chintu-ka-birthday",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 83,
+  "rating": 6.958,
+  "description": "During US invasion of Iraq some illegal migrants are waiting to get back home to India. As one such family prepares to celebrate the 6th birthday of their youngest member Chintu, their kind-hearted Iraqi landlord lends them a helping hand.",
+  "created_at": "2026-07-22T15:24:22.619Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4318,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

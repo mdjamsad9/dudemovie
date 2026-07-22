@@ -1,0 +1,36 @@
+{
+  "id": "ebf25e15-9482-42a2-a218-005e7b6b0a1a",
+  "title": "Mohenjo Daro",
+  "slug": "mohenjo-daro",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3k4ESzzPCQHwjPYJoI489Fk2jZc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 176,
+  "rating": 6.113,
+  "description": "During the Indus valley civilization, an Indigo farmer strives for the justice and protection of the city of Mohenjo-Daro and its civilians from an evil politician.",
+  "created_at": "2026-07-22T15:48:42.688Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6660,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

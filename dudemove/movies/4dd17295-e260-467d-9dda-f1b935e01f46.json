@@ -1,0 +1,24 @@
+{
+  "id": "4dd17295-e260-467d-9dda-f1b935e01f46",
+  "title": "Entangled",
+  "slug": "entangled",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/supDfTIgWbTe47zdBJh80vJyfc8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 4.3,
+  "description": "Marin is a young French woman living in New York City who finds herself disconnected from her body, boyfriend and family. During a tumultuous weekend, highlighted by chance encounters with a stranger and an ex-boyfriend, she starts to find her voice.",
+  "created_at": "2026-07-22T15:28:13.041Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4919,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

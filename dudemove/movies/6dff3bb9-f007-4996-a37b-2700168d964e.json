@@ -1,0 +1,32 @@
+{
+  "id": "6dff3bb9-f007-4996-a37b-2700168d964e",
+  "title": "Baar Baar Dekho",
+  "slug": "baar-baar-dekho",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7Bb1vXdtv2BjV6mX8jignRTqG5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 141,
+  "rating": 5.815,
+  "description": "An artist wishes to marry her childhood sweetheart and settle into family life. However, her boyfriend, who is a genius mathematician is afraid of commitment and breaks up with her just ahead of their wedding. What will the future hold in store for them?",
+  "created_at": "2026-07-22T15:45:32.598Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6830,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

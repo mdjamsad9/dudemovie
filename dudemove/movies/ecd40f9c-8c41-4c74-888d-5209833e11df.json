@@ -1,0 +1,32 @@
+{
+  "id": "ecd40f9c-8c41-4c74-888d-5209833e11df",
+  "title": "Dog Eat Dog",
+  "slug": "dog-eat-dog",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ve6qJRjs2OUsXLIHLson3j4eVTB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 93,
+  "rating": 5.127,
+  "description": "Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life.",
+  "created_at": "2026-07-22T15:48:07.400Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6601,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

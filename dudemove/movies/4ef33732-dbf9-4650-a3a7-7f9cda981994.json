@@ -1,0 +1,24 @@
+{
+  "id": "4ef33732-dbf9-4650-a3a7-7f9cda981994",
+  "title": "The Mongolian Connection",
+  "slug": "the-mongolian-connection",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mjh2xNeW3gFeRD0npNtZqIuAPw4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 6.1,
+  "description": "Working undercover on a human trafficking bust, maverick FBI agent Wade Dalton, captures Serick Ibrayev, a mysterious operative from the Mongolian underworld. With time running out, Wade must escort Serik back to Mongolia, and team up with hard-boiled police detective Ganzorig, to deliver Serik to court to testify against a crime Syndicate that will do anything to stop them.",
+  "created_at": "2026-07-22T15:22:33.471Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4472,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5d454496-3085-4945-9ac7-f70625cd6daf",
+  "title": "A Good Woman Is Hard to Find",
+  "slug": "a-good-woman-is-hard-to-find",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r52hvxb75CL6HCD8Yndxk38ozY8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 6.098,
+  "description": "The recently widowed mother of two, Sarah, is desperate to know who murdered her husband in front of her young son, rendering him mute. Coerced into helping a low-life drug dealer stash narcotics stolen from the local Mr. Big, she's forced into taking drastic action to protect her children, evolving from downtrodden submissive to take-charge vigilante.",
+  "created_at": "2026-07-22T15:24:21.774Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4501,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

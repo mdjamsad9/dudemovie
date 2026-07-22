@@ -1,0 +1,28 @@
+{
+  "id": "e5aa3aff-6d56-4bcc-9902-acbbe33f186d",
+  "title": "Grey Games",
+  "slug": "grey-games",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6vT8iPbB5fdyNsiHUYNyoVr7f3p.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": 121,
+  "rating": 9.5,
+  "description": "Between right and wrong, black and white, lies the truth. Step into the captivating world of Grey Games, a family suspense thriller drama, that will challenge your perception of reality.",
+  "created_at": "2026-07-09T17:24:05.984Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1021,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Grey%20Games%20(2024)%20Kannada%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Grey%20Games%20(2024)%20Kannada%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

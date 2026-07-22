@@ -1,0 +1,24 @@
+{
+  "id": "2aa0d3e9-bc6e-4f8e-b8a3-cac1d2285220",
+  "title": "Realive",
+  "slug": "realive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3FsN7qGW1U7Oi52vx3eVoGn9r8H.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 112,
+  "rating": 6.034,
+  "description": "Marc, a successful, ambitious man, is diagnosed with terminal cancer, and is given a few months to live.  Unable to accept death, he decides to cryogenically freeze himself. The love of his life is devastated. Seventy years later, Marc becomes the first cryogenic resuscitated person in history. But this doesn't happen in the idealized way he dreamt of.",
+  "created_at": "2026-07-22T15:45:53.013Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6426,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

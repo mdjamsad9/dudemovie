@@ -1,0 +1,40 @@
+{
+  "id": "62f22e3d-0bc3-4d70-afd9-87c2b55b47da",
+  "title": "Finding Your Feet",
+  "slug": "finding-your-feet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p54LOicUXx2T5U5nIEJCIOhsAhk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 111,
+  "rating": 7.005,
+  "description": "When her life is turned upside down upon discovering her husband's affair, Sandra Abbott seeks refuge in London with her estranged older sister Bif. She begins to find her feet again after letting Bif drag her along to a community dance class.",
+  "created_at": "2026-07-22T15:37:11.488Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 5725,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

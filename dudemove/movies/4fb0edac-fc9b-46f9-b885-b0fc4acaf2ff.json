@@ -1,0 +1,32 @@
+{
+  "id": "4fb0edac-fc9b-46f9-b885-b0fc4acaf2ff",
+  "title": "The Huntsman: Winter's War",
+  "slug": "the-huntsman-winter-s-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ekHPrneEoa1EoDclWdillOKznqM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 114,
+  "rating": 6.294,
+  "description": "As two evil sisters prepare to conquer the land, two renegades—Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara—set out to stop them.",
+  "created_at": "2026-07-22T15:50:13.866Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6506,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

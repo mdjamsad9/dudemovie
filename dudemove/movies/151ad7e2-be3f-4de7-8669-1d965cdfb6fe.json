@@ -1,0 +1,32 @@
+{
+  "id": "151ad7e2-be3f-4de7-8669-1d965cdfb6fe",
+  "title": "Ready or Not: Here I Come",
+  "slug": "ready-or-not-here-i-come",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2026,
+  "duration": 108,
+  "rating": 7.703,
+  "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+  "created_at": "2026-07-09T16:35:18.109Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 213,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Ready%20Or%20Not%20Here%20I%20Come%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bd803b8e-f6fd-44ec-8eaf-3428c6253b1a",
+  "title": "The Revenant",
+  "slug": "the-revenant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 157,
+  "rating": 7.541,
+  "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+  "created_at": "2026-07-22T15:50:12.687Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6963,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

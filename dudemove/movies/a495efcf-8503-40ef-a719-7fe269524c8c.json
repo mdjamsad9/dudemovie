@@ -1,0 +1,28 @@
+{
+  "id": "a495efcf-8503-40ef-a719-7fe269524c8c",
+  "title": "376 D",
+  "slug": "376-d",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5cS9BfVW2bRRwRG0om49tO6T0Ga.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 128,
+  "rating": 4.5,
+  "description": "In a series of heinous events one dark night, in the by lanes of Delhi; two brothers come face-to-face with a nightmare they never imagined. Their entire life turns upside down. Soon they discover there's no law to serve them justice. Their courageous battle for justice forms the rest of the story.",
+  "created_at": "2026-07-22T15:21:56.171Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4152,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

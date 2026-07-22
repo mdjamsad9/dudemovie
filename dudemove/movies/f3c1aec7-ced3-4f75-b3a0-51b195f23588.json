@@ -1,0 +1,36 @@
+{
+  "id": "f3c1aec7-ced3-4f75-b3a0-51b195f23588",
+  "title": "The Hitman's Bodyguard",
+  "slug": "the-hitman-s-bodyguard",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2017,
+  "duration": 118,
+  "rating": 6.894,
+  "description": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+  "created_at": "2026-07-22T15:18:31.083Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5698,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

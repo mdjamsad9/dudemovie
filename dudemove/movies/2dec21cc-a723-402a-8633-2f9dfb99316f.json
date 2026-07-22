@@ -1,0 +1,24 @@
+{
+  "id": "2dec21cc-a723-402a-8633-2f9dfb99316f",
+  "title": "Ben Is Back",
+  "slug": "ben-is-back-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eSPiprXuWqwMGi6t8BkdiTz9Ou3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Bengali",
+  "release_year": 2018,
+  "duration": 103,
+  "rating": 6.598,
+  "description": "19-year-old Ben Burns unexpectedly returns home to his family's suburban home on Christmas Eve morning. Ben's mother, Holly, is relieved and welcoming but wary of her son staying clean. Over a turbulent 24 hours, new truths are revealed, and a mother's undying love for her son is tested as she does everything in her power to keep him safe.",
+  "created_at": "2026-07-22T15:33:26.179Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5222,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cc97b519-28f7-4299-a815-4bcf7cc0fe8a",
+  "title": "Wedding Season",
+  "slug": "wedding-season",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 99,
+  "rating": 6.251,
+  "description": "Pressured by their immigrant parents to find spouses, two Indian-Americans pretend to date in order to survive a summer of weddings – but find themselves falling for each other as they struggle to balance who they are with who their parents want them to be.",
+  "created_at": "2026-07-22T15:13:47.419Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3284,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

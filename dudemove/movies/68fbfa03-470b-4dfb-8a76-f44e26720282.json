@@ -1,0 +1,24 @@
+{
+  "id": "68fbfa03-470b-4dfb-8a76-f44e26720282",
+  "title": "The Tracker",
+  "slug": "the-tracker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uwVl5UlD5NmyhzxSqM2RAXoOnmy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 4.7,
+  "description": "A mysterious stranger travels to a remote village where, 15 years earlier, his wife and daughter were kidnapped.",
+  "created_at": "2026-07-22T15:29:25.029Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4374,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

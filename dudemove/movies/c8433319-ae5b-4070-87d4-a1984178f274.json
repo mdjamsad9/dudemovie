@@ -1,0 +1,36 @@
+{
+  "id": "c8433319-ae5b-4070-87d4-a1984178f274",
+  "title": "Allegiant",
+  "slug": "allegiant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 120,
+  "rating": 6.101,
+  "description": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+  "created_at": "2026-07-22T15:50:33.122Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6543,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

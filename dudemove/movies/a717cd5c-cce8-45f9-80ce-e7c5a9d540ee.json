@@ -1,0 +1,24 @@
+{
+  "id": "a717cd5c-cce8-45f9-80ce-e7c5a9d540ee",
+  "title": "Kacchey Limbu",
+  "slug": "kacchey-limbu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qB5GJW26kzHN5k4omfTeB9t1R90.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 109,
+  "rating": 6.083,
+  "description": "In Mumbai, a pair of siblings find themselves on competing cricket teams as they struggle to balance familial loyalty with the pursuit of their passions.",
+  "created_at": "2026-07-22T15:12:18.628Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3177,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "68b4e46c-d724-4eb3-8e84-27ea25e433f7",
+  "title": "Loving Pablo",
+  "slug": "loving-pablo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aV3kKzTCycGfZc5Lh29Tk6avKPL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 123,
+  "rating": 6.294,
+  "description": "The film chronicles the rise and fall of the world's most feared drug lord Pablo Escobar and his volatile love affair with Colombia's most famous journalist Virginia Vallejo throughout a reign of terror that tore a country apart.",
+  "created_at": "2026-07-22T15:36:12.724Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5747,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

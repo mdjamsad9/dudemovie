@@ -1,0 +1,28 @@
+{
+  "id": "a99d54f7-b6db-4e1c-82f0-9e601c334420",
+  "title": "Thaai Kizhavi",
+  "slug": "thaai-kizhavi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2026,
+  "duration": 144,
+  "rating": 7,
+  "description": "An elderly and feared moneylender from a village near Madurai falls seriously ill, prompting her estranged sons and extended family to reunite after years of separation. As tensions rise inside the household, hidden motives, family conflicts, and expectations over her wealth turn her uncertain condition into the center of a chaotic family drama.",
+  "created_at": "2026-07-09T16:36:22.894Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 220,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Thaai%20Kizhavi%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thaai%20Kizhavi%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

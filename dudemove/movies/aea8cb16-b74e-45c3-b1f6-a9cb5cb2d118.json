@@ -1,0 +1,32 @@
+{
+  "id": "aea8cb16-b74e-45c3-b1f6-a9cb5cb2d118",
+  "title": "Alone in Berlin",
+  "slug": "alone-in-berlin",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8BuRgEY3dMw8usxelybUS1K3NMd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 103,
+  "rating": 6.7,
+  "description": "Berlin in June of 1940. While Nazi propaganda celebrates the regime’s victory over France, a kitchen-cum-living room in Prenzlauer Berg is filled with grief. Anna and Otto Quangel’s son has been killed at the front. This working class couple had long believed in the ‘Führer’ and followed him willingly, but now they realise that his promises are nothing but lies and deceit. They begin writing postcards as a form of resistance and in a bid to raise awareness: Stop the war machine! Kill Hitler! Putting their lives at risk, they distribute these cards in the entrances of tenement buildings and in stairwells. But the SS and the Gestapo are soon onto them, and even their neighbours pose a threat.",
+  "created_at": "2026-07-22T15:44:23.209Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6829,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

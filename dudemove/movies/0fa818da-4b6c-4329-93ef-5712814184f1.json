@@ -1,0 +1,24 @@
+{
+  "id": "0fa818da-4b6c-4329-93ef-5712814184f1",
+  "title": "Pyaar Ishq aur Possession",
+  "slug": "pyaar-ishq-aur-possession",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/32Qz0v7TVnStu3h5AzR1WfuhyNk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 126,
+  "rating": 1,
+  "description": "Lakshya, an acclaimed painter, faces marital strife as his wife Palak craves luxury, clashing with his simple lifestyle. Alisha, a wealthy art promoter, complicates matters, igniting lies and betrayals.",
+  "created_at": "2026-07-22T15:10:21.321Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1601,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

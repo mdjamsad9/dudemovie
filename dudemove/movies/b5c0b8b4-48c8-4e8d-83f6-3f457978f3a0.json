@@ -1,0 +1,32 @@
+{
+  "id": "b5c0b8b4-48c8-4e8d-83f6-3f457978f3a0",
+  "title": "Trigger Point",
+  "slug": "trigger-point",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qlXenN6jjgbsIyEJxBjkfkEU0q8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 82,
+  "rating": 6.225,
+  "description": "Nicolas Shaw is a retired U.S. special operative who becomes part of an elite 'invisible' team that quietly takes out the worst villains around the world.",
+  "created_at": "2026-07-22T15:19:06.524Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3723,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

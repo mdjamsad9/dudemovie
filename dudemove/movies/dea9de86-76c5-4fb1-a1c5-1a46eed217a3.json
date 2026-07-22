@@ -1,0 +1,24 @@
+{
+  "id": "dea9de86-76c5-4fb1-a1c5-1a46eed217a3",
+  "title": "Here Awhile",
+  "slug": "here-awhile",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lap54livhtcfmksa9KM0DUqPaLW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 83,
+  "rating": 5.8,
+  "description": "Terminally ill Anna returns to Oregon to reconnect with her estranged brother while simultaneously making the heart-wrenching choice to end her life putting to use the Death with Dignity Act.",
+  "created_at": "2026-07-22T15:24:17.764Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4530,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

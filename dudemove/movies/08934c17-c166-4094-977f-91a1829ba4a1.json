@@ -1,0 +1,32 @@
+{
+  "id": "08934c17-c166-4094-977f-91a1829ba4a1",
+  "title": "Good Time",
+  "slug": "good-time",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 7.21,
+  "description": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+  "created_at": "2026-07-22T15:11:52.111Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5706,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

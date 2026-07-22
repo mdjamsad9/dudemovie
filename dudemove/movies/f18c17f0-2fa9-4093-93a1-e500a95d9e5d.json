@@ -1,0 +1,28 @@
+{
+  "id": "f18c17f0-2fa9-4093-93a1-e500a95d9e5d",
+  "title": "Skater Girl",
+  "slug": "skater-girl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 107,
+  "rating": 7.238,
+  "description": "Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.",
+  "created_at": "2026-07-22T15:18:17.329Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3672,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

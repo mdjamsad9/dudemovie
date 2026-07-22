@@ -1,0 +1,28 @@
+{
+  "id": "56746832-42ea-4708-a4fe-edca5cb4fd87",
+  "title": "High Resolution",
+  "slug": "high-resolution",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nWjICXX6LOtKMzftEWvMH8PbH4p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2018,
+  "duration": 96,
+  "rating": 4.9,
+  "description": "An adaptation of Tao Lin’s beloved cult novel \"Taipei\". As one relationship collapses, another blooms for Erin, swept into the world of Paul Chen, a mysterious, charismatic author. When he proposes documenting every aspect of their courtship in an epic laptop-filmed “documentary”, the couple enter into a performative bad romance, fueled by substances and sleepless nights.",
+  "created_at": "2026-07-22T15:35:23.718Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5460,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "797e9a70-4d5b-4441-8f70-205d1bfeb8cc",
+  "title": "Obsession",
+  "slug": "obsession",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 108,
+  "rating": 7.91,
+  "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "created_at": "2026-07-09T16:32:33.634Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 237,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Obsession%20(2025)%201080p%20WEBRip%20x264%20%5BDDN%5D/Obsession%20%282025%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

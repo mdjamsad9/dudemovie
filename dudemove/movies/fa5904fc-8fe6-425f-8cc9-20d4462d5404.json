@@ -1,0 +1,24 @@
+{
+  "id": "fa5904fc-8fe6-425f-8cc9-20d4462d5404",
+  "title": "Off the Rails",
+  "slug": "off-the-rails",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2T2QqMlUvWz2uOwoMa1gp4PWUhz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 94,
+  "rating": 6,
+  "description": "Now in their 50’s, three friends recreate an inter-rail journey across Europe, but this time 18-year-old Maddie is taking her mother’s place, fulfilling her dying wish. With lost passports, train strikes and romantic entanglements thrown in their way, they must put old feuds aside to complete the journey within five days and remind themselves that they are still at their peak.",
+  "created_at": "2026-07-22T15:18:01.547Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3731,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e50579b0-51fa-4436-83fc-920dd116f1c1",
+  "title": "The Best of Enemies",
+  "slug": "the-best-of-enemies",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4pA9318BY7CSnXVi3xKBtPYMe1T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 133,
+  "rating": 7.39,
+  "description": "Centers on the unlikely relationship between Ann Atwater, an outspoken civil rights activist, and C.P. Ellis, a local Ku Klux Klan leader who reluctantly co-chaired a community summit, battling over the desegregation of schools in Durham, North Carolina during the racially-charged summer of 1971. The incredible events that unfolded would change Durham and the lives of Atwater and Ellis forever.",
+  "created_at": "2026-07-22T15:30:46.126Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4910,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

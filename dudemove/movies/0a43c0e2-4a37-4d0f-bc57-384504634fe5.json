@@ -1,0 +1,24 @@
+{
+  "id": "0a43c0e2-4a37-4d0f-bc57-384504634fe5",
+  "title": "Little Men",
+  "slug": "little-men",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mMmXSUZ66XoxmT4zdkUkVDdU8Mu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 85,
+  "rating": 6.424,
+  "description": "Jake is a quiet, sensitive middle schooler with dreams of being an artist. He meets the affably brash Tony at his grandfather's funeral, and the unlikely pair soon hit it off. The budding friendship is put at risk, however, when a rent dispute between Jake's father, Brian, and Tony's mother, Leonor, threatens to become contentious.",
+  "created_at": "2026-07-22T15:48:37.080Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6651,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

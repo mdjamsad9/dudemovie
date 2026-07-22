@@ -1,0 +1,28 @@
+{
+  "id": "e1975a6f-03a3-4a08-87ac-e102b88d8e2d",
+  "title": "My Big Fat Greek Wedding 2",
+  "slug": "my-big-fat-greek-wedding-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lfPqApnLVPsYfdbpSHNnHIxTdmd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 94,
+  "rating": 5.975,
+  "description": "The continuing adventures of the Portokalos family. A follow-up to the 2002 comedy, \"My Big Fat Greek Wedding.\"",
+  "created_at": "2026-07-22T15:11:44.161Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6801,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a3fdac11-ee64-4c01-bc20-5621e6a289c9",
+  "title": "Noctem",
+  "slug": "noctem",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AemiMeU5X04mUHojdZciT5S3Cxj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2017,
+  "duration": 97,
+  "rating": 5.1,
+  "description": "Adrian and Esteban have been missing for a year. The police are at a standstill, despite having found their personal belongings in Cozumel, an island 12 miles away from the Riviera Maya. Alex friend of both, manages to get their cell phones, with which he will start his own parallel research. And he will discover that the truth is much more terrifying than you could imagine.",
+  "created_at": "2026-07-22T15:37:01.669Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5731,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

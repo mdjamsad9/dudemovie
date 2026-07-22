@@ -1,0 +1,32 @@
+{
+  "id": "24fb5749-333f-402a-bd7c-5945d54924b8",
+  "title": "The Intergalactic Adventures of Max Cloud",
+  "slug": "the-intergalactic-adventures-of-max-cloud",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/OZCmgXARilxgvmBEFW7IqPicpG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 88,
+  "rating": 5.088,
+  "description": "A space cruiser crashes on a planet that is home to an intergalactic prison.",
+  "created_at": "2026-07-22T15:20:35.868Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4149,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

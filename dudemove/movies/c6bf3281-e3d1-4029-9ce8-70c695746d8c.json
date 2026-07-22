@@ -1,0 +1,32 @@
+{
+  "id": "c6bf3281-e3d1-4029-9ce8-70c695746d8c",
+  "title": "Raat Baaki Hai",
+  "slug": "raat-baaki-hai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3NY8TLMJtYXQ2Rl36dSUzAlUK4H.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 89,
+  "rating": 6,
+  "description": "It's a story of one night where estranged lovers Kartik and Vasuki end up meeting each other after 12 years under strange circumstances. Kartik is on a run for being a murder suspect. However, there is more than what meets the eye.",
+  "created_at": "2026-07-22T15:19:15.009Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3742,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "76c9334c-98dc-4766-b9d4-d36c8d07d9ef",
+  "title": "Clown in a Cornfield",
+  "slug": "clown-in-a-cornfield",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 96,
+  "rating": 6.1,
+  "description": "Quinn and her father have just moved to the quiet town of Kettle Springs hoping for a fresh start. Instead, she discovers a fractured community that has fallen on hard times after the treasured Baypen Corn Syrup Factory burned down. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning figure emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.",
+  "created_at": "2026-07-09T16:56:57.577Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 681,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Clown.In.A.Cornfield.2025.1080p.WEBRip.x264%20%5BDDN%5D/Clown.In.A.Cornfield.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "37848bc7-a9ce-46fb-a85a-59c4c4da69b5",
+  "title": "Kahaani 2",
+  "slug": "kahaani-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7JCbW4oEnGWfX1qkhLnrVdpmFVw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 127,
+  "rating": 6.566,
+  "description": "Vidya Sinha has only one obsession in life. She wants to see her teenage daughter Mini, who is paralysed waist-downwards, walk again. But, is this scenario as obvious as it seems? Or is Vidya an impersonator of Durga Rani Singh from Kalimpong, who is wanted for kidnapping and murder?",
+  "created_at": "2026-07-22T15:44:22.759Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6836,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

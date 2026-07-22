@@ -1,0 +1,24 @@
+{
+  "id": "0d7d9826-2af0-48cd-88b9-b60b69fbe0d8",
+  "title": "Panchavalsara Padhathi",
+  "slug": "panchavalsara-padhathi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9NpHlEVNGCJDe0KDto1KTlIw1qk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 123,
+  "rating": 3,
+  "description": "Revolves around Sanoj who runs the Akshaya Centre in Kalamberi village. All of a sudden, Kalambasura -a local legend- starts appearing infront of the villagers.",
+  "created_at": "2026-07-09T17:24:36.394Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1605,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Panchavalsara%20Padhathi%20(2024)%20Malayalam%20HQ%20PreDVD%20-1080p%20-%20x264%20%5BDDN%5D/Panchavalsara%20Padhathi%20(2024)%20Malayalam%20HQ%20PreDVD%20-1080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

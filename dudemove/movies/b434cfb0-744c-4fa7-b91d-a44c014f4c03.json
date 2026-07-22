@@ -1,0 +1,28 @@
+{
+  "id": "b434cfb0-744c-4fa7-b91d-a44c014f4c03",
+  "title": "Sayonee",
+  "slug": "sayonee",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 111,
+  "rating": null,
+  "description": "When Mahi, fiancee of national shooting gold medalist Rajdeep Randhava, goes missing in Russia, Randhava must put his life at stake and take on conjuring gypsies, corrupt indo-eruo cops, pythoned assassins, butcher smugglers and the Russian Brathva mafia all alone to find the truth behind Mahi's disappearance.",
+  "created_at": "2026-07-22T15:20:35.489Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4147,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

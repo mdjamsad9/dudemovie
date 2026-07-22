@@ -1,0 +1,28 @@
+{
+  "id": "fd5fe93c-93e5-486f-a013-2933f5ccc014",
+  "title": "Project Almanac",
+  "slug": "project-almanac",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9u5Rb0e7mx8qOO7zj39KnIRWClr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 106,
+  "rating": 6.793,
+  "description": "A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.",
+  "created_at": "2026-07-22T15:51:31.648Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6994,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

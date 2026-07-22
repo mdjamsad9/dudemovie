@@ -1,0 +1,28 @@
+{
+  "id": "ee2a6113-c0e0-48f5-a63d-d729ec0c18a5",
+  "title": "Zombieland: Double Tap",
+  "slug": "zombieland-double-tap",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 6.896,
+  "description": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+  "created_at": "2026-07-22T15:27:50.272Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4882,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

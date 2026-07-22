@@ -1,0 +1,28 @@
+{
+  "id": "a5fad8fd-8790-4654-9a91-4e7c88e9eef4",
+  "title": "Picture This",
+  "slug": "picture-this",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qnUN0QoLE4Afay6iPa5f3tv8Wug.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 100,
+  "rating": 6.033,
+  "description": "Single and without a man on the horizon, Pia runs a failing photography studio in London with her best friend Jay. As her sister Sonal prepares for marriage and her mother Laxmi urges her to partner up, a spiritual guru predicts Pia will meet the love of her life among her next five dates. With her family intervening, Pia embarks on a hilarious yet heartfelt quest for love.",
+  "created_at": "2026-07-09T17:01:40.042Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 818,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Picture.This.2025.1080p.WEBRip.x264%20%5BDDN%5D/Picture.This.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

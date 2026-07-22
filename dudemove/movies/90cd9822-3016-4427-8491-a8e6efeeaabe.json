@@ -1,0 +1,32 @@
+{
+  "id": "90cd9822-3016-4427-8491-a8e6efeeaabe",
+  "title": "G20",
+  "slug": "g20",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 108,
+  "rating": 6.347,
+  "description": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
+  "created_at": "2026-07-09T17:00:13.512Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 797,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/G20.2025.1080p.WEBRip.x264%20%5BDDN%5D/G20.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

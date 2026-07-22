@@ -1,0 +1,32 @@
+{
+  "id": "5cd3cbc4-d171-402b-85c6-0fd517932924",
+  "title": "Maggie",
+  "slug": "maggie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/twa9gXjocLM629sJrQYVtmF306R.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 95,
+  "rating": 5.4,
+  "description": "There's a deadly zombie epidemic threatening humanity, but Wade, a small-town farmer and family man, refuses to accept defeat even when his daughter Maggie becomes infected. As Maggie's condition worsens and the authorities seek to eradicate those with the virus, Wade is pushed to the limits in an effort to protect her. Joely Richardson co-stars in this post-apocalyptic thriller.",
+  "created_at": "2026-07-22T15:51:36.393Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 7005,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

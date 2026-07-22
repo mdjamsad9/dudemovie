@@ -1,0 +1,24 @@
+{
+  "id": "dd72b8a1-b55e-4592-b729-6a9670ea82f8",
+  "title": "Black Beauty",
+  "slug": "black-beauty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2020,
+  "duration": 110,
+  "rating": 7.987,
+  "description": "Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.",
+  "created_at": "2026-07-22T15:20:57.736Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4123,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "18a9c557-4de7-4097-8af6-01a785305d19",
+  "title": "Agni",
+  "slug": "agni",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zx3UOe5rZ7uH5lMs3JxEMU0nNXB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 122,
+  "rating": 6.667,
+  "description": "In a city plagued by a strange rise in fires, fireman Vithal and his policeman brother-in-law Samit reluctantly team up to solve the escalating crisis. Battling personal conflicts, they race against time to crack the case and save Mumbai.",
+  "created_at": "2026-07-09T17:06:32.329Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 1369,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Agni%20(2024)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Agni%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

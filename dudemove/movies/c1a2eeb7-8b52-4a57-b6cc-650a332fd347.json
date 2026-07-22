@@ -1,0 +1,32 @@
+{
+  "id": "c1a2eeb7-8b52-4a57-b6cc-650a332fd347",
+  "title": "10,000 Saints",
+  "slug": "10-000-saints",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zZpQfrdXhNq5sqMMzDQkpqZQxXq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2015,
+  "duration": 113,
+  "rating": 5.943,
+  "description": "A sweeping multigenerational story set against the backdrop of the raw, roaring New York City of the late 1980s; adoption, teen pregnancy, drugs, hardcore punk rock, the unbridled optimism and reckless stupidity of the young—and old—are all major elements in this heart-aching tale of the son of diehard hippies and his strange odyssey through the extremes of late 20th century youth culture.",
+  "created_at": "2026-07-22T15:51:19.494Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 6946,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

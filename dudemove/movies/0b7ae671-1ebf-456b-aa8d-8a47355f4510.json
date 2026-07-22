@@ -1,0 +1,28 @@
+{
+  "id": "0b7ae671-1ebf-456b-aa8d-8a47355f4510",
+  "title": "Before Sunrise",
+  "slug": "before-sunrise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 1995,
+  "duration": 101,
+  "rating": 7.969,
+  "description": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+  "created_at": "2026-07-22T15:14:23.306Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7104,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "971fcc59-354b-4b17-8525-24c8db754ddb",
+  "title": "Knox Goes Away",
+  "slug": "knox-goes-away",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w39qKYjltCix18BwtoZ1e45usdb.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 114,
+  "rating": 6.987,
+  "description": "A contract killer, after being diagnosed with a fast-moving form of dementia, is presented with the opportunity to redeem himself by saving the life of his estranged adult son. But to do so, he must race against the police closing in on him as well as the ticking clock of his own rapidly deteriorating mind.",
+  "created_at": "2026-07-09T17:25:19.117Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1516,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Knox.Goes.Away.2023.1080p.WEBRip.x264%20%5BDDN%5D/Knox.Goes.Away.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

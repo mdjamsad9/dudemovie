@@ -1,0 +1,28 @@
+{
+  "id": "5496f4e0-b642-48be-a060-7519fba41cae",
+  "title": "Captain Miller",
+  "slug": "captain-miller",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6qKnVaE5BvA2fO1L6r4i1ScX34G.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.8,
+  "description": "In the 1930s, during the British Raj, Analeesan \"Eesa\", a former soldier of the British Indian Army called Captain Miller, is on a mission to protect the people from the British after witnessing an atrocity.",
+  "created_at": "2026-07-09T17:26:07.346Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 1506,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Captain%20Miller%20(2024)%201080p%20Hindi%20Tamil%20x264%20ESub%20%5BDDN%5D/Captain%20Miller%20(2024)%201080p%20Hindi%20Tamil%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

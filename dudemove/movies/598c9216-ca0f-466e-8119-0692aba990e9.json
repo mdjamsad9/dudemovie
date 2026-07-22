@@ -1,0 +1,28 @@
+{
+  "id": "598c9216-ca0f-466e-8119-0692aba990e9",
+  "title": "Desierto",
+  "slug": "desierto",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/67Ue5or6ZPScqkagC3EJSOYuzyR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 88,
+  "rating": 6.185,
+  "description": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer.",
+  "created_at": "2026-07-22T15:49:06.161Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6955,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

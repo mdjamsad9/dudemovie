@@ -1,0 +1,24 @@
+{
+  "id": "5d063fa1-80d3-4d80-8cb6-3b3889dd69a4",
+  "title": "Bonded by Blood 2",
+  "slug": "bonded-by-blood-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8WfzFJ0d6EoBA8myhkeAtnIjMB4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 4.6,
+  "description": "In the shadow of the Range Rover murders, drugs, violence and revenge continue to reign in a criminal underworld even darker and deadlier than before as a new generation of Essex Boys begin to carve their bloody mark.",
+  "created_at": "2026-07-22T15:45:16.880Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6790,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

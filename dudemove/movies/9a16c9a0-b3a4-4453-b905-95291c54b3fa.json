@@ -1,0 +1,32 @@
+{
+  "id": "9a16c9a0-b3a4-4453-b905-95291c54b3fa",
+  "title": "House of Gucci",
+  "slug": "house-of-gucci",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2021,
+  "duration": 158,
+  "rating": 6.565,
+  "description": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder.",
+  "created_at": "2026-07-22T15:15:35.647Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3414,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

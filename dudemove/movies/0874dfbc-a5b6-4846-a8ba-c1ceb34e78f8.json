@@ -1,0 +1,36 @@
+{
+  "id": "0874dfbc-a5b6-4846-a8ba-c1ceb34e78f8",
+  "title": "Enola Holmes 3",
+  "slug": "enola-holmes-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": null,
+  "release_year": 2026,
+  "duration": 109,
+  "rating": 7.4,
+  "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+  "created_at": "2026-07-09T16:32:24.737Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 233,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2026/Enola%20Holmes-3%20(2026)%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Enola%20Holmes-3%20(2026)%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

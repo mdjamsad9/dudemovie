@@ -1,0 +1,24 @@
+{
+  "id": "6d540408-ab5d-48f3-a294-51dd6473d292",
+  "title": "Silverhide",
+  "slug": "silverhide",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hf6cLTb9rN0uXy6Gy8CMyeU3aeB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 79,
+  "rating": 3,
+  "description": "A group of conspiracy theorists watches a top-secret military base in the desolate Welsh mountains.",
+  "created_at": "2026-07-22T15:51:29.244Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6988,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

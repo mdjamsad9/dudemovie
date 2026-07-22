@@ -1,0 +1,36 @@
+{
+  "id": "f649fbe7-ee6b-4b66-89eb-13870e98ea02",
+  "title": "L.A. Slasher",
+  "slug": "l-a-slasher",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rwXmbnXIQcfmdK0phXcMIZgX0KA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 86,
+  "rating": 4.819,
+  "description": "Incensed by the tabloid culture which celebrates it, the L.A. Slasher publicly abducts a series of reality TV stars, while the media and general public in turn begin to question if society is better off without them. A biting, social satire about reality TV and the glorification of people who are famous for simply being famous, \"L.A. Slasher\" explores why it has become acceptable and even admirable for people to become influential and wealthy based on no merit or talent - purely through notoriety achieved through shameful behavior.",
+  "created_at": "2026-07-22T15:50:59.389Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 7057,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

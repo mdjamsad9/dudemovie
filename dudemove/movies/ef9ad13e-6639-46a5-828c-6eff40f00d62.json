@@ -1,0 +1,28 @@
+{
+  "id": "ef9ad13e-6639-46a5-828c-6eff40f00d62",
+  "title": "Doctor G",
+  "slug": "doctor-g",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ojQbYD4pHKBrnxrG0FBdqGCHhlq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 6.196,
+  "description": "Uday Gupta, a medical college student wanted to specialise in Orthopaedic, but is stuck in an all-female class of Gynaecology. Will he change his department, or will the department change him?",
+  "created_at": "2026-07-22T15:12:54.377Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3207,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

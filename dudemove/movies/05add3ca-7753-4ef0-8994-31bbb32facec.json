@@ -1,0 +1,24 @@
+{
+  "id": "05add3ca-7753-4ef0-8994-31bbb32facec",
+  "title": "Stockholm",
+  "slug": "stockholm",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1CZ2QfAVMi0ol8aGoeRbKQpfoiL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 6,
+  "rating": null,
+  "description": "A dead tree with creaking branches in the wind, two naked people in the snow, and a dog wearing a fur coat. Welcome to the freezing world of \"Stockholm\" and the story of an animal that wanted to be human.",
+  "created_at": "2026-07-22T15:28:10.468Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 5115,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

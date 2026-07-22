@@ -1,0 +1,36 @@
+{
+  "id": "85bb33c0-2b29-4224-8206-84969de053d7",
+  "title": "Kesari",
+  "slug": "kesari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 151,
+  "rating": 7.115,
+  "description": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+  "created_at": "2026-07-22T15:29:30.095Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 4367,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a864cfba-8aa8-4d61-9286-c20b79346d42",
+  "title": "Irudhi Suttru",
+  "slug": "irudhi-suttru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h2cjfz0oDywC9KPTwjWSqubKLob.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2016,
+  "duration": 109,
+  "rating": 7.346,
+  "description": "A grumpy boxing coach takes on a young, rebellious woman under his wings and starts training her for the world championship. But their biggest battle has to be fought outside the ring.",
+  "created_at": "2026-07-22T15:50:39.789Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6553,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

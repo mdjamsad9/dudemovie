@@ -1,0 +1,32 @@
+{
+  "id": "ae1748c1-7f62-493c-95eb-e5221352ce69",
+  "title": "Ghostbusters: Afterlife",
+  "slug": "ghostbusters-afterlife",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 124,
+  "rating": 7.319,
+  "description": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+  "created_at": "2026-07-22T15:16:03.853Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3621,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

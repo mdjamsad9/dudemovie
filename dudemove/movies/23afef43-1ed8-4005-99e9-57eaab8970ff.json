@@ -1,0 +1,28 @@
+{
+  "id": "23afef43-1ed8-4005-99e9-57eaab8970ff",
+  "title": "Lemon",
+  "slug": "lemon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cZWjfUKuqufDjp3C9ufI8DLAxH7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 83,
+  "rating": 4.403,
+  "description": "Isaac has seen better days. His acting career is tanking, his blind girlfriend of 10 years plans to leave him, and his own family singles him out as a constant disappointment. Even as he takes a chance on new romance, he struggles to define his place in a world that has seemingly turned against him.",
+  "created_at": "2026-07-22T15:43:28.086Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6152,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

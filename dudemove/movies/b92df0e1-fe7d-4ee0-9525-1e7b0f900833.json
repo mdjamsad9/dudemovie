@@ -1,0 +1,24 @@
+{
+  "id": "b92df0e1-fe7d-4ee0-9525-1e7b0f900833",
+  "title": "Genesis",
+  "slug": "genesis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6y3igZNTP6OuMamt68EHgh2g5eZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hungarian",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 7.5,
+  "description": "The three stories within Genesis explore the notion of family: a woman in her late thirties rediscovers the faith she lost as a child; a mother goes to extreme lengths to ensure that her daughter is saved from the fate she was forced to endure; a Roma boy’s family are killed and the perfect world of his childhood is destroyed.",
+  "created_at": "2026-07-22T15:38:25.282Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5650,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

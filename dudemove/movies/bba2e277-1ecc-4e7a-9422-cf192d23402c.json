@@ -1,0 +1,28 @@
+{
+  "id": "bba2e277-1ecc-4e7a-9422-cf192d23402c",
+  "title": "Insidious: Chapter 3",
+  "slug": "insidious-chapter-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 97,
+  "rating": 6.287,
+  "description": "A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.",
+  "created_at": "2026-07-22T15:42:24.448Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6877,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

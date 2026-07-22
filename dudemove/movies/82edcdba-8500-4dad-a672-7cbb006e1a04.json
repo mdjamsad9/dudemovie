@@ -1,0 +1,32 @@
+{
+  "id": "82edcdba-8500-4dad-a672-7cbb006e1a04",
+  "title": "The Laundromat",
+  "slug": "the-laundromat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 96,
+  "rating": 6.023,
+  "description": "When a widow gets swindled out of insurance money, her search for answers leads to two cunning lawyers in Panama who hide cash for the superrich.",
+  "created_at": "2026-07-22T15:28:05.392Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4906,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

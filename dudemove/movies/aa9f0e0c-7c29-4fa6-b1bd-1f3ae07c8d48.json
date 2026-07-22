@@ -1,0 +1,28 @@
+{
+  "id": "aa9f0e0c-7c29-4fa6-b1bd-1f3ae07c8d48",
+  "title": "Flashback",
+  "slug": "flashback",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 97,
+  "rating": 5.934,
+  "description": "Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.",
+  "created_at": "2026-07-22T15:18:36.819Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3687,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

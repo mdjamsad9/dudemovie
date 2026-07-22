@@ -1,0 +1,24 @@
+{
+  "id": "cfdb8c4d-f682-457a-b43d-e4b66698c412",
+  "title": "Clown Motel: Spirits Arise",
+  "slug": "clown-motel-spirits-arise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kn60RTMU76xEaADUHXiXG4gncsV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 96,
+  "rating": 5.1,
+  "description": "A group of \"Ghost Hunters\" coming back from an old ghost town and a bachelorette party returning home from Las Vegas stumble across the \"Clown Motel\" located in the middle of nowhere. Though no one is there to greet them, the two groups decide to stay for the evening. After a wild night of partying, they awake to find their vehicles sabotaged, leaving them stranded, left to discover if this motel is truly abandoned, or if it is home to souls of the clowns who once lived there.",
+  "created_at": "2026-07-22T15:29:45.507Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4342,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

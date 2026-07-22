@@ -1,0 +1,28 @@
+{
+  "id": "c50c3624-5a60-4cfd-bd4c-3218511634fe",
+  "title": "Pati Patni Aur Woh",
+  "slug": "pati-patni-aur-woh",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 115,
+  "rating": 6.042,
+  "description": "Chintu Tyagi is an ordinary, middle-class man who finds himself torn between his wife and another woman.",
+  "created_at": "2026-07-22T15:26:17.370Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4735,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

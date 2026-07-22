@@ -1,0 +1,28 @@
+{
+  "id": "c71a08c2-88d5-403b-82bb-870a5624f076",
+  "title": "F Valentine's Day",
+  "slug": "f-valentine-s-day",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 95,
+  "rating": 5.987,
+  "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+  "created_at": "2026-07-09T16:41:48.435Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 169,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/F.ck.Valentines.Day.2026.1080p.WEBRip.x264%20%5BDDN%5D/F.ck.Valentines.Day.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

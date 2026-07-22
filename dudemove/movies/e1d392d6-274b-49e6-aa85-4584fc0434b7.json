@@ -1,0 +1,24 @@
+{
+  "id": "e1d392d6-274b-49e6-aa85-4584fc0434b7",
+  "title": "Aattam",
+  "slug": "aattam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gjptPp7YlX1oy9yCjEpOdlrRisL.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 139,
+  "rating": 7.983,
+  "description": "After a party amongst a theatre group, their sole actress, Anjali is subjected to a crime from one of the men in the group. A meeting is called for. In trying to reach a consensus, stories unravel, suspicions surface and clamour ensues.",
+  "created_at": "2026-07-09T17:26:03.096Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1499,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aattam%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aattam%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

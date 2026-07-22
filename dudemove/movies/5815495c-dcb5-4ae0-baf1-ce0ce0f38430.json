@@ -1,0 +1,28 @@
+{
+  "id": "5815495c-dcb5-4ae0-baf1-ce0ce0f38430",
+  "title": "Black as Night",
+  "slug": "black-as-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 87,
+  "rating": 5.462,
+  "description": "A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans' disenfranchised with the help of her best friend, the boy she's always pined for, and a peculiar rich girl.",
+  "created_at": "2026-07-22T15:17:24.139Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3642,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

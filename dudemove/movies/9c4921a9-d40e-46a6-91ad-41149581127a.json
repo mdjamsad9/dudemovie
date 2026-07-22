@@ -1,0 +1,32 @@
+{
+  "id": "9c4921a9-d40e-46a6-91ad-41149581127a",
+  "title": "Marry Me",
+  "slug": "marry-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 112,
+  "rating": 6.6,
+  "description": "After finding out about her fiancé's cheating ways, a pop superstar impulsively marries a total stranger. They must soon decide if two people from such different worlds can find true love.",
+  "created_at": "2026-07-22T15:15:26.217Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 3320,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

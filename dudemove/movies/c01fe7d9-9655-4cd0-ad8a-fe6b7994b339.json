@@ -1,0 +1,28 @@
+{
+  "id": "c01fe7d9-9655-4cd0-ad8a-fe6b7994b339",
+  "title": "Ishqeria",
+  "slug": "ishqeria",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iNnhAjWziAm0JwYJQWjpA50Rl7E.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 118,
+  "rating": 4.8,
+  "description": "Ishqeria is a story of a small town girl who falls madly in love with the most sought after guy in college. It is a journey of first love, growing up and second chances.",
+  "created_at": "2026-07-22T15:34:22.373Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5107,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

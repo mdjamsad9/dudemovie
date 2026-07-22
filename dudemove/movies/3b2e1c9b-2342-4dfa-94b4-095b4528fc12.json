@@ -1,0 +1,32 @@
+{
+  "id": "3b2e1c9b-2342-4dfa-94b4-095b4528fc12",
+  "title": "To Catch a Spy",
+  "slug": "to-catch-a-spy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pnpIHLdsDzIfU3KvFJDK6hxX47J.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 84,
+  "rating": 7.4,
+  "description": "When the newly renovated Hotel Optima in Malta has a grand reopening, Chloe and her team from Destination Traveler Magazine, head over to cover the travel scene in Malta and sees someone fall to their death, right past her hotel window.",
+  "created_at": "2026-07-22T15:18:24.083Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3682,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "54691cb7-7483-43c6-b52a-4bbb7668f4ca",
+  "title": "Chhota Bheem and the Curse of Damyaan",
+  "slug": "chhota-bheem-and-the-curse-of-damyaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vfevWnj94IWCIlSBGEPqbDeP66a.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 145,
+  "rating": null,
+  "description": "Chhota Bheem and his friends set out to fight Damyaan, a demon blessed with immortality. However, it is not as easy as they thought it would be.",
+  "created_at": "2026-07-22T15:10:34.386Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 1497,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

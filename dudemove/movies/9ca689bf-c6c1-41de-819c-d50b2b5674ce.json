@@ -1,0 +1,36 @@
+{
+  "id": "9ca689bf-c6c1-41de-819c-d50b2b5674ce",
+  "title": "How to Talk to Girls at Parties",
+  "slug": "how-to-talk-to-girls-at-parties",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v6mPfyGshwXd1R6kQlMEyZ8Zu2s.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 103,
+  "rating": 6.005,
+  "description": "In 1970s London, a teenage outsider named Enn falls in love with a rebellious alien girl named Zan, who has come to Earth for a party. Together, they navigate the complexities of intergalactic culture and the trials of first love.",
+  "created_at": "2026-07-22T15:37:48.992Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5705,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

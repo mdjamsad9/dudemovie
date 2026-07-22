@@ -1,0 +1,28 @@
+{
+  "id": "f1283bb6-c0af-4451-a383-d584f73a6804",
+  "title": "Pihu",
+  "slug": "pihu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zRsqo4iSRvUK8eFsmT4y16BbmnX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 91,
+  "rating": 7.58,
+  "description": "The social thriller starring a two year-old baby girl. She is living in a home where the adults are going through a complicated phase. Being a toddler, she is occasionally trapped in the accidental situations.",
+  "created_at": "2026-07-22T15:34:14.653Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5307,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

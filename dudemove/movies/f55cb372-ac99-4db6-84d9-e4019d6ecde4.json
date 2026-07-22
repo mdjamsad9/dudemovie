@@ -1,0 +1,28 @@
+{
+  "id": "f55cb372-ac99-4db6-84d9-e4019d6ecde4",
+  "title": "Secret Home",
+  "slug": "secret-home",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zoOFYaFqPjiS1Kru298y32e3SqL.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 117,
+  "rating": null,
+  "description": "The lives of four protagonists get entangled in a gruesome incident, involving a typical home with 'uncomfortable' secrets. As aftermaths unfold, their grey shades get exposed.",
+  "created_at": "2026-07-09T17:25:34.161Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1507,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Secret%20Home%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Secret%20Home%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

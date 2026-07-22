@@ -1,0 +1,32 @@
+{
+  "id": "fe376436-49f8-4b8b-bfcf-b1c8b92f7efd",
+  "title": "Duchess",
+  "slug": "duchess",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 113,
+  "rating": 5.6,
+  "description": "A tough, working-class petty criminal is drawn into the treacherous world of diamond smuggling and morphs into an anti-heroine to be reckoned with in the murky underworld.",
+  "created_at": "2026-07-09T17:14:25.079Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1285,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Duchess.2024.1080p.WEBRip.x264%20%5BDDN%5D/Duchess.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

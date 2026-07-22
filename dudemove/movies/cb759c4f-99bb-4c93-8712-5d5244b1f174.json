@@ -1,0 +1,28 @@
+{
+  "id": "cb759c4f-99bb-4c93-8712-5d5244b1f174",
+  "title": "Junooniyat",
+  "slug": "junooniyat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A9gxJ3D3MQ38DrKWipbY6GVjdkb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 135,
+  "rating": 4.4,
+  "description": "Captain Jahan Bakshi rescues a Punjabi girl, Suhani. This starts a friendship that evolves into a passionate love affair.",
+  "created_at": "2026-07-22T15:49:49.803Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6484,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

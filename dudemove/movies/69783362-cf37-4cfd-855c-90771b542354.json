@@ -1,0 +1,32 @@
+{
+  "id": "69783362-cf37-4cfd-855c-90771b542354",
+  "title": "Wicked Little Letters",
+  "slug": "wicked-little-letters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/scAU7YudKNVeZlOfgSEWntAUSJ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 100,
+  "rating": 6.91,
+  "description": "When the denizens of Littlehampton – including conservative Edith – begin receiving letters full of hilarious profanities, rowdy Irish migrant Rose is charged with the crime. Suspecting something amiss, the town's women band together to investigate.",
+  "created_at": "2026-07-09T17:25:11.810Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 1537,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Wicked.Little.Letters.2023.1080p.WEBRip.x264%20%5BDDN%5D/Wicked.Little.Letters.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

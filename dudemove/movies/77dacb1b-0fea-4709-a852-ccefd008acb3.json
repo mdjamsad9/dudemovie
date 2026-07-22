@@ -1,0 +1,24 @@
+{
+  "id": "77dacb1b-0fea-4709-a852-ccefd008acb3",
+  "title": "Unfriended: Dark Web",
+  "slug": "unfriended-dark-web",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nOXuOeD07nZPT29IgiGT0S8PZH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Indonesian",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 6.3,
+  "description": "​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web. They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.",
+  "created_at": "2026-07-22T15:35:22.831Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5485,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

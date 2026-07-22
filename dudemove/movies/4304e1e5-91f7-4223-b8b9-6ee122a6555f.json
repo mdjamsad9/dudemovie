@@ -1,0 +1,32 @@
+{
+  "id": "4304e1e5-91f7-4223-b8b9-6ee122a6555f",
+  "title": "13 Minutes",
+  "slug": "13-minutes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oKng4fEr4QgS869UuWLSjAsR2rz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 109,
+  "rating": 5.8,
+  "description": "As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.",
+  "created_at": "2026-07-22T15:15:29.591Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3464,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

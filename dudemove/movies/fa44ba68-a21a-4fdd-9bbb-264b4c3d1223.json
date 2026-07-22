@@ -1,0 +1,32 @@
+{
+  "id": "fa44ba68-a21a-4fdd-9bbb-264b4c3d1223",
+  "title": "The Wolf and the Lion",
+  "slug": "the-wolf-and-the-lion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x3JsrunysUwsIV9XS7hQtZG4knm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2021,
+  "duration": 99,
+  "rating": 7.47,
+  "description": "After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of the majestic Canadian forest. Whilst there, she rescues two helpless cubs: a wolf and a lion. They forge an inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey across Canada to be reunited with one another and Alma once more.",
+  "created_at": "2026-07-22T15:15:29.988Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3440,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1efeb681-901a-4270-b230-65210b7d638b",
+  "title": "Killing Hasselhoff",
+  "slug": "killing-hasselhoff",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9BQqALg8ffCn5ZkYZKEtAgR29HF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 81,
+  "rating": 4.467,
+  "description": "A man in a high stakes celebrity death pool quickly loses everything - his business, his bank account, his home, his fiancé. He snaps, then realizes the only way to get his life back on track. He'll have to murder his own celebrity. He'll have to kill Hasselhoff.",
+  "created_at": "2026-07-22T15:42:45.467Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6066,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

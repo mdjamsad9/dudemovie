@@ -1,0 +1,32 @@
+{
+  "id": "1db1b61d-4ea6-4cea-b3ab-7f6825b62b5d",
+  "title": "A Flying Jatt",
+  "slug": "a-flying-jatt",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r78PIa3y9CwTEBQnOdMqdGU0NTa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 151,
+  "rating": 3.073,
+  "description": "Jatt is a reluctant superhero that fights crime and protects people. He meets his match in the evil Raka who he must face off to save the day.",
+  "created_at": "2026-07-22T15:48:47.799Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6669,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1f672ad4-efe8-4a31-b821-96d9b544d5ff",
+  "title": "A Quiet Passion",
+  "slug": "a-quiet-passion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k2WWlrMbuINyzDCfBuD48eN22QY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 125,
+  "rating": 6.062,
+  "description": "The story of American poet Emily Dickinson from her early days as a young schoolgirl to her later years as a reclusive, unrecognized artist.",
+  "created_at": "2026-07-22T15:43:58.808Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6771,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

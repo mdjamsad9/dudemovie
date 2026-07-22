@@ -1,0 +1,28 @@
+{
+  "id": "e75eff5b-8f34-4730-9da1-f0d757e8c9e1",
+  "title": "The DUFF",
+  "slug": "the-duff",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A6ScveWmIPL9vSYyULD8ObqyHDQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 100,
+  "rating": 6.759,
+  "description": "Bianca's universe turns upside down when she learns that her high school refers to her as a ‘DUFF' (Designated Ugly Fat Friend). Hoping to erase that label, she enlists the help of a charming jock and her favorite teacher. Together they'll face the school's mean girl and remind everyone that we are all someone's DUFF… and that's totally fine.",
+  "created_at": "2026-07-22T15:18:30.737Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6858,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

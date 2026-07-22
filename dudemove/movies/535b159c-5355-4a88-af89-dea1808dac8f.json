@@ -1,0 +1,32 @@
+{
+  "id": "535b159c-5355-4a88-af89-dea1808dac8f",
+  "title": "Victor Frankenstein",
+  "slug": "victor-frankenstein",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bYUmSLPtWylFKbEBHOXT1kt9l5b.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 110,
+  "rating": 5.958,
+  "description": "Eccentric scientist Victor Von Frankenstein creates a grotesque creature in an unorthodox scientific experiment.",
+  "created_at": "2026-07-22T15:42:08.989Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6938,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

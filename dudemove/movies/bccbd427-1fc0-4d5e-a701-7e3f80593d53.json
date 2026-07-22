@@ -1,0 +1,28 @@
+{
+  "id": "bccbd427-1fc0-4d5e-a701-7e3f80593d53",
+  "title": "Bareilly Ki Barfi",
+  "slug": "bareilly-ki-barfi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gviYC7rpJ4HWbbEFs0ZW5u965Tq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 123,
+  "rating": 6.889,
+  "description": "Bitti Mishra is a bohemian Bareilly girl who falls deeply in love with Pritam Vidrohi, an author because she admires his progressive way of thinking. Finding him though proves to be as hard as looking for a needle in the haystack. So Bitti seeks the help of the local printing press-owner, Chirag Dubey on her journey of love.",
+  "created_at": "2026-07-22T15:41:31.710Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6038,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

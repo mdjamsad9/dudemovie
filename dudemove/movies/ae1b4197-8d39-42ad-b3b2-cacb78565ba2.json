@@ -1,0 +1,32 @@
+{
+  "id": "ae1b4197-8d39-42ad-b3b2-cacb78565ba2",
+  "title": "I Think We're Alone Now",
+  "slug": "i-think-we-re-alone-now",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 5.764,
+  "description": "After a catastrophe destroys most of humanity, recluse Del lives in his small, empty town, content with the utopia he has methodically created for himself, until an interloper, young Grace, disrupts his solitude.",
+  "created_at": "2026-07-22T15:35:39.040Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5517,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

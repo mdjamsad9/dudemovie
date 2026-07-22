@@ -1,0 +1,36 @@
+{
+  "id": "36d8deb2-6df0-4348-9a22-be1b90b96841",
+  "title": "Fantasy Island",
+  "slug": "fantasy-island",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 109,
+  "rating": 5.756,
+  "description": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+  "created_at": "2026-07-22T15:25:13.461Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3823,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

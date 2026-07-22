@@ -1,0 +1,36 @@
+{
+  "id": "e486dd80-e139-478e-8adc-535f589b8039",
+  "title": "The Bob's Burgers Movie",
+  "slug": "the-bob-s-burgers-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AvV2nHEDQMWuRqAUrpcx2fB97CB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 102,
+  "rating": 6.952,
+  "description": "When a ruptured water main creates an enormous sinkhole right in front of Bob's Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family's restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.",
+  "created_at": "2026-07-22T15:13:55.263Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3301,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

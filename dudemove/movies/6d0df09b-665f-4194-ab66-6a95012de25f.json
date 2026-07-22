@@ -1,0 +1,28 @@
+{
+  "id": "6d0df09b-665f-4194-ab66-6a95012de25f",
+  "title": "Room for Rent",
+  "slug": "room-for-rent",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eEy7C8k1f4sMulW1Ca9s8EtFAhb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 81,
+  "rating": 6.379,
+  "description": "Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with one of her guests.",
+  "created_at": "2026-07-22T15:31:46.419Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5026,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

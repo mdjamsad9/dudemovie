@@ -1,0 +1,32 @@
+{
+  "id": "c9b805b9-71c4-43a0-a883-74fe420ef3d3",
+  "title": "Ponman",
+  "slug": "ponman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cdXS0DcshLFUpuKQAU5dW7Qk1A2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 125,
+  "rating": 7.81,
+  "description": "Ajesh,a jewellery agent lends 25 sovereigns of gold to Bruno for his sister Steffi's wedding, only to recover just half. When he demands the rest, he’s drawn into a tense comeback battle with Steffi's husband Mariano, an infamous prawn farmer in coastal Kollam.",
+  "created_at": "2026-07-09T17:01:19.156Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 746,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ponman%20(2025)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ponman%20(2025)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

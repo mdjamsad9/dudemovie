@@ -1,0 +1,32 @@
+{
+  "id": "fae66232-b63f-4569-84ec-6293c41d35d6",
+  "title": "Jack Goes Home",
+  "slug": "jack-goes-home",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1K1Rptb0NFAi5BqtJXI6zefpTOQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 100,
+  "rating": 5.22,
+  "description": "After his father is killed in a car crash, Jack travels home to Colorado to help nurse his mother (who was injured in the crash) back to health. There, he uncovers long buried secrets and lies within his family, his friends, and his very identity.",
+  "created_at": "2026-07-22T15:48:58.138Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6686,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

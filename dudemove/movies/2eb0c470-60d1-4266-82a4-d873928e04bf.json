@@ -1,0 +1,36 @@
+{
+  "id": "2eb0c470-60d1-4266-82a4-d873928e04bf",
+  "title": "Rebecca",
+  "slug": "rebecca",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 123,
+  "rating": 6.294,
+  "description": "After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can't escape the haunting shadow of his late wife.",
+  "created_at": "2026-07-22T15:21:39.979Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4121,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

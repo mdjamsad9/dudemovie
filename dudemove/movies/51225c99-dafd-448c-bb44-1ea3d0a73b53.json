@@ -1,0 +1,32 @@
+{
+  "id": "51225c99-dafd-448c-bb44-1ea3d0a73b53",
+  "title": "Broil",
+  "slug": "broil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m5RXeLUSrAVUjCEfFloXzuxI8ZZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 99,
+  "rating": 5.379,
+  "description": "A listless grand-daughter, Chance Sinclair, is sentenced to live with her draconian grand-father, August after a violent incident at school and begins to question the source of her families immense wealth and power. When Chance's scheming Mom, June hires a troubled chef Sydney to poison August, the family's monstrous secrets are revealed over the course of one bloody night. Every soul is up for grabs as The Sinclair Family Games Night gets underway and Chance learns that being a part of this family is a blood-in, blood-out proposition.",
+  "created_at": "2026-07-22T15:23:36.518Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4299,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

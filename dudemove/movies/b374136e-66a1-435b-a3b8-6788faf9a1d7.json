@@ -1,0 +1,32 @@
+{
+  "id": "b374136e-66a1-435b-a3b8-6788faf9a1d7",
+  "title": "Spectre",
+  "slug": "spectre",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2015,
+  "duration": 148,
+  "rating": 6.57,
+  "description": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+  "created_at": "2026-07-22T15:46:32.047Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6958,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

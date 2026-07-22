@@ -1,0 +1,24 @@
+{
+  "id": "0d3ba7be-2d69-4b2d-aae1-890b8d6fc78c",
+  "title": "Krisha",
+  "slug": "krisha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xN4xhl5HYhfO9W8Y1ZZEnqmQEip.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 82,
+  "rating": 6.781,
+  "description": "When Krisha returns to her estranged family for Thanksgiving dinner, past demons threaten to ruin the festivities.",
+  "created_at": "2026-07-22T15:49:51.053Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6485,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

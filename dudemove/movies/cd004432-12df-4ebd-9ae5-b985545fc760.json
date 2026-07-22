@@ -1,0 +1,32 @@
+{
+  "id": "cd004432-12df-4ebd-9ae5-b985545fc760",
+  "title": "Ek Chatur Naar",
+  "slug": "ek-chatur-naar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/apMb2Oz9uvqA19dawmeglKM7THX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 134,
+  "rating": 5.5,
+  "description": "Abhishek Verma, a fund consultant, gets trapped in a web of lies, deception and blackmail after a good-for-nothing but cunning woman, failing to make ends meet, gets her hands on his phone, which lets slip more than anyone should know, forcing him to comply.",
+  "created_at": "2026-07-09T16:49:45.331Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 761,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ek%20Chatur%20Naar%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ek%20Chatur%20Naar%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0b0c2bd6-1fc2-42c2-815e-f7e913230fbe",
+  "title": "Te3n",
+  "slug": "te3n",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gSkghZtZygWBTmv6DQVKcn69mUZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 136,
+  "rating": 6.913,
+  "description": "A grandfather, police officer and a priest join hands to investigate and find a missing child.",
+  "created_at": "2026-07-22T15:50:27.615Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6535,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

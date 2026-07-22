@@ -1,0 +1,32 @@
+{
+  "id": "6a60e82d-546e-4758-b0a2-c8a773be3c86",
+  "title": "Insight",
+  "slug": "insight",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oyD5Fqesaw1h1B6OQEkaAONedj9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 80,
+  "rating": 5.6,
+  "description": "Jian is a counter terrorism agent who blends his skills as a martial artist and clairvoyant to bring the world's most nefarious individuals to justice. This lone wolf is is forced to make an unexpected detour to Los Angeles upon receipt of the devastating news of a cover up surrounding his brother's alleged suicide. With the reluctant help of LAPD detectives, Abby, Carl, and Captain Duke, the unlikely group become involved in the investigation. Jian and Abby fight against a high-tech criminal looking to exploit the brothers' gifts in his own quest to power.",
+  "created_at": "2026-07-22T15:19:31.579Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3707,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

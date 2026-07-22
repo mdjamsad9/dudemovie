@@ -1,0 +1,24 @@
+{
+  "id": "4b44c805-9f9e-4253-976c-e84aa735db7a",
+  "title": "Yaar Anmulle Returns",
+  "slug": "yaar-anmulle-returns",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kRtFTeB0uPbmh5PVlG2fl9MeXOU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2021,
+  "duration": 130,
+  "rating": null,
+  "description": "Deep returns to India to get married and meets his friend Guri. Guri reveals to Deep the truth about their friend Tinka, who separated from them three years ago. Will the three friends reunite?",
+  "created_at": "2026-07-22T15:15:11.365Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3363,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

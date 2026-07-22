@@ -1,0 +1,32 @@
+{
+  "id": "08d5b840-45f6-4405-80d1-e391bbc71611",
+  "title": "Raazi",
+  "slug": "raazi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fF2xXApETxZqyluokyJ1x4gIiTf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 138,
+  "rating": 7.226,
+  "description": "An Indian spy is married to a Pakistani military officer during the Indo-Pakistani War of 1971.",
+  "created_at": "2026-07-22T15:36:34.688Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5625,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e9bd8fec-937c-4f88-80f6-82e55e20eda7",
+  "title": "India's Most Wanted",
+  "slug": "india-s-most-wanted",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p8vy15IqBvGx13kfM0ZqQC4xBDI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 123,
+  "rating": 5.2,
+  "description": "Officer Prabhat and his team arrive in Nepal to verify a terror suspect and arrest him within a deadline of four days. A race against time ensues when Pakistani agencies start chasing them.",
+  "created_at": "2026-07-22T15:30:03.247Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4527,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

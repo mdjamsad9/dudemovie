@@ -1,0 +1,32 @@
+{
+  "id": "f3f03646-3fb0-46b3-bc0b-ea1668bc9249",
+  "title": "The Darkest Minds",
+  "slug": "the-darkest-minds",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 105,
+  "rating": 7.019,
+  "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.",
+  "created_at": "2026-07-22T15:35:02.948Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5362,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

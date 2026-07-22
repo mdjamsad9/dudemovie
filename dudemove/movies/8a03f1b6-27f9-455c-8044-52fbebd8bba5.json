@@ -1,0 +1,28 @@
+{
+  "id": "8a03f1b6-27f9-455c-8044-52fbebd8bba5",
+  "title": "Mastizaade",
+  "slug": "mastizaade",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 119,
+  "rating": 2.8,
+  "description": "Two womanizing bachelors fall in love with twin sisters who run a sex addiction clinic.",
+  "created_at": "2026-07-22T15:23:27.439Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6787,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

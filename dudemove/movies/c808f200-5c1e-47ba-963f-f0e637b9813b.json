@@ -1,0 +1,32 @@
+{
+  "id": "c808f200-5c1e-47ba-963f-f0e637b9813b",
+  "title": "Night Teeth",
+  "slug": "night-teeth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1i8SJSdjAqd6PI5lPxhPaYKhUU3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 107,
+  "rating": 6.433,
+  "description": "A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions—and their dangerous, shadowy underworld—he must fight to stay alive.",
+  "created_at": "2026-07-22T15:17:10.196Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3509,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

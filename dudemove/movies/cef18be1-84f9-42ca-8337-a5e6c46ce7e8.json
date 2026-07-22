@@ -1,0 +1,24 @@
+{
+  "id": "cef18be1-84f9-42ca-8337-a5e6c46ce7e8",
+  "title": "Annabelle Comes Home",
+  "slug": "annabelle-comes-home",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 106,
+  "rating": 6.4,
+  "description": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens' ten-year-old daughter, Judy, and her friends.",
+  "created_at": "2026-07-22T15:28:39.546Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4928,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

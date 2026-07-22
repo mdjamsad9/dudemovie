@@ -1,0 +1,32 @@
+{
+  "id": "ff75e466-2c60-428c-a248-4657612cc886",
+  "title": "Good Kill",
+  "slug": "good-kill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oO9nK1bqssxRdNHFSFGiucffiA8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 104,
+  "rating": 5.954,
+  "description": "In the shadowy world of drone warfare, combat unfolds like a video game–only with real lives at stake. After six tours of duty, Air Force pilot Tom Egan now fights the Taliban from an air-conditioned bunker in the Nevada desert. But as he yearns to get back in the cockpit of a real plane and becomes increasingly troubled by the collateral damage he causes each time he pushes a button, Egan’s nerves—and his relationship with his wife—begin to unravel.",
+  "created_at": "2026-07-22T15:51:42.515Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 7014,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

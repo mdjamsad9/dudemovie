@@ -1,0 +1,24 @@
+{
+  "id": "6e16215d-3e59-462b-909e-4a51e8518cca",
+  "title": "Concrete Plans",
+  "slug": "concrete-plans",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/djLYTimZpr1t8Z5MDb79GE1nbXr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 91,
+  "rating": 6.111,
+  "description": "When their employer tries to cheat them out of a job, a rugged crew of workmen turn first on him then each other, leading to a bloody confrontation.",
+  "created_at": "2026-07-22T15:21:03.296Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4201,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

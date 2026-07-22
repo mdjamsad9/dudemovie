@@ -1,0 +1,24 @@
+{
+  "id": "f7be5bdc-35aa-45fb-9bfb-bd028320d22b",
+  "title": "Cardboard Boxer",
+  "slug": "cardboard-boxer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7PcdXBLsTaZKSO2aUONgPlZVriK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 88,
+  "rating": 6.387,
+  "description": "Gentle and broken, a homeless man fights others on video for money but soon finds comfort in an unlikely friend and the lost diary of a young girl.",
+  "created_at": "2026-07-22T15:48:31.766Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6644,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

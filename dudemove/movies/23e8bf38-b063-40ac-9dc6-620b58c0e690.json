@@ -1,0 +1,28 @@
+{
+  "id": "23e8bf38-b063-40ac-9dc6-620b58c0e690",
+  "title": "Bhool Bhulaiyaa 2",
+  "slug": "bhool-bhulaiyaa-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 143,
+  "rating": 6.16,
+  "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.",
+  "created_at": "2026-07-22T15:14:11.120Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3278,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

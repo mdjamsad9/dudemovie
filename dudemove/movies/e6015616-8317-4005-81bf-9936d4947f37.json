@@ -1,0 +1,24 @@
+{
+  "id": "e6015616-8317-4005-81bf-9936d4947f37",
+  "title": "Cut Shoot Kill",
+  "slug": "cut-shoot-kill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xDJAZWq7kS1G6eps4oJCKOgutHU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 98,
+  "rating": 4.7,
+  "description": "Serena Brooks, an ambitious young actress, signs on as the star of a horror film with a crew of backwoods filmmakers that have worked together for years. When the cast starts disappearing, Serena has to become her character if she wants to survive.",
+  "created_at": "2026-07-22T15:39:57.654Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5854,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c953c1e0-1b3e-421f-8ba2-2631d54e9599",
+  "title": "The 16th Episode",
+  "slug": "the-16th-episode",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o2CkoNuhYludbc2PvH6rX3HVRvr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 4.26,
+  "description": "Three YouTubers struggling to get more views on their adventure channel, travel to the mythical city of Casablanca, unaware that it hides a terrifying secret.",
+  "created_at": "2026-07-22T15:29:02.310Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4412,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

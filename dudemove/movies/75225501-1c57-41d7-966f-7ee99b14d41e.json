@@ -1,0 +1,28 @@
+{
+  "id": "75225501-1c57-41d7-966f-7ee99b14d41e",
+  "title": "Ek Din",
+  "slug": "ek-din",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kZn71TZDhV5c58cmWmOLyZGQ6U9.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 125,
+  "rating": null,
+  "description": "Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+  "created_at": "2026-07-09T16:34:21.071Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 227,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ek%20Din%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Ek%20Din%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

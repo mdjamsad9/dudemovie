@@ -1,0 +1,32 @@
+{
+  "id": "aa37c964-9bf7-4fac-9dec-2e3d7fab24e1",
+  "title": "The Lady of Heaven",
+  "slug": "the-lady-of-heaven",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j7pZEzOKDGalpH5fTWZnVO9yKLV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 141,
+  "rating": 6.208,
+  "description": "Two stories separated by 1400 years. After losing his mother in the midst of a war-torn country, an Iraqi child learns the importance and power of patience by discovering the historical story of Lady Fatima and her suffering.",
+  "created_at": "2026-07-22T15:16:22.986Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3471,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

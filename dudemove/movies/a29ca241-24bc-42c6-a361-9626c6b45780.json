@@ -1,0 +1,24 @@
+{
+  "id": "a29ca241-24bc-42c6-a361-9626c6b45780",
+  "title": "Galveston",
+  "slug": "galveston",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 91,
+  "rating": 6.111,
+  "description": "After a violent encounter, Roy finds Rocky and sees something in her eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.",
+  "created_at": "2026-07-22T15:35:03.704Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5378,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

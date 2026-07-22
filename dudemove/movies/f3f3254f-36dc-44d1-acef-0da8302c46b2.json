@@ -1,0 +1,24 @@
+{
+  "id": "f3f3254f-36dc-44d1-acef-0da8302c46b2",
+  "title": "M.S. Dhoni: The Untold Story",
+  "slug": "m-s-dhoni-the-untold-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 190,
+  "rating": 7.257,
+  "description": "Based on the life story of Mahendra Singh Dhoni, and his journey to being the world cup winning captain of the Indian cricket team.",
+  "created_at": "2026-07-22T15:24:13.256Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6778,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

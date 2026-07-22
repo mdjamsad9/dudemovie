@@ -1,0 +1,28 @@
+{
+  "id": "7250c974-8784-40cc-bea9-f3cc78c471b5",
+  "title": "4th Man Out",
+  "slug": "4th-man-out",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yeDDUCQ7VUjvwsjDBFtoYDrXyvS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 87,
+  "rating": 6.857,
+  "description": "After a night of drinking, Adam Hutcherson stumbles out of the closet to his three straight buddies.  A disruption to their dynamic which they now must try and overcome through alcohol, Tinder dates and forgiveness.",
+  "created_at": "2026-07-22T15:48:40.186Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7050,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

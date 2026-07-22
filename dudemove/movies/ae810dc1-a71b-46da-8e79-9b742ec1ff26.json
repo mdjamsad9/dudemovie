@@ -1,0 +1,24 @@
+{
+  "id": "ae810dc1-a71b-46da-8e79-9b742ec1ff26",
+  "title": "Halkaa",
+  "slug": "halkaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vtlPhfQ1ZaoMYUNdP5LJT5bKN7v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 114,
+  "rating": 5.333,
+  "description": "Halkaa is a story of a eight year old boy who lives in the slums of delhi and wants proper access to a toilet. This story is of a boy who is a real life Superhero who fights against the system to get what he wants and deserves.",
+  "created_at": "2026-07-22T15:34:40.219Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5390,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

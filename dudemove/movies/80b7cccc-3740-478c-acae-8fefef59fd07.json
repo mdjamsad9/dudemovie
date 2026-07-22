@@ -1,0 +1,28 @@
+{
+  "id": "80b7cccc-3740-478c-acae-8fefef59fd07",
+  "title": "Two Lovers and a Bear",
+  "slug": "two-lovers-and-a-bear",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8anLL9m6ON7kTJ4Pbcuofls4gQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 6.481,
+  "description": "Set in a small town near the North Pole where roads lead to nowhere, the story follows Roman and Lucy, two burning souls who come together to make a leap for life and inner peace.",
+  "created_at": "2026-07-22T15:44:02.335Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6822,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

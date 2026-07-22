@@ -1,0 +1,28 @@
+{
+  "id": "213c71e5-9cb1-4654-9587-08e14d599285",
+  "title": "Bloodsucking Bastards",
+  "slug": "bloodsucking-bastards",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ymDJQsmDSgQ4IGZAxW4aR0WpVAr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 84,
+  "rating": 5.543,
+  "description": "A down on his luck cubicle worker and his slacker best friend discover their new boss is a vampire who is turning their coworkers into the un-dead.",
+  "created_at": "2026-07-22T15:42:29.095Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6865,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

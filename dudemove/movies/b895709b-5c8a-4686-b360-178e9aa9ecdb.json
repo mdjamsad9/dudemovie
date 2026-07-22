@@ -1,0 +1,24 @@
+{
+  "id": "b895709b-5c8a-4686-b360-178e9aa9ecdb",
+  "title": "Wonderstruck",
+  "slug": "wonderstruck",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7hPnW1yWlIJcKCEQ5Kbr5dMtrDp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 116,
+  "rating": 6.081,
+  "description": "The story of a young boy in the Midwest is told simultaneously with a tale about a young girl in New York from fifty years ago as they both seek the same mysterious connection.",
+  "created_at": "2026-07-22T15:38:59.046Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5825,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

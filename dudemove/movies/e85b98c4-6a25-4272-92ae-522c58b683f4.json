@@ -1,0 +1,28 @@
+{
+  "id": "e85b98c4-6a25-4272-92ae-522c58b683f4",
+  "title": "The Corrupted",
+  "slug": "the-corrupted",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/elf6HOIOAwMlxc4ZBsprEc5VQHc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 6.072,
+  "description": "Set ahead of the 2012 London Olympics, the film follows Liam, an ex-con trying to win back the love and trust of his family. He has lost everything at the hands of a local crime syndicate run by Clifford Cullen, who has high-level connections in politics, finance and the police force. Liam's drive for redemption sees him caught up in a web of conspiracy, crime, and corruption.",
+  "created_at": "2026-07-22T15:25:52.729Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4643,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "60996b6e-8398-4de5-afe5-0b5e8e9b36bc",
+  "title": "Don't Worry, He Won't Get Far on Foot",
+  "slug": "don-t-worry-he-won-t-get-far-on-foot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 115,
+  "rating": 6.685,
+  "description": "On the rocky path to sobriety after a life-changing accident, John Callahan discovers the healing power of art, willing his injured hands into drawing hilarious, often controversial cartoons, which bring him a new lease on life.",
+  "created_at": "2026-07-22T15:35:28.631Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5497,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

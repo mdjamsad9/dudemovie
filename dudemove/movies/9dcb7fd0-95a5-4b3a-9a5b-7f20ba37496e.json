@@ -1,0 +1,24 @@
+{
+  "id": "9dcb7fd0-95a5-4b3a-9a5b-7f20ba37496e",
+  "title": "Tracktown",
+  "slug": "tracktown",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o5ym6La6Czr9vUGS28rJV8aXoPE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 88,
+  "rating": 5.5,
+  "description": "A bright, talented and lonely long-distance runner twists her ankle as she prepares for the Olympic Trials and must do something she's never done before: take a day off.",
+  "created_at": "2026-07-22T15:45:40.074Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6227,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

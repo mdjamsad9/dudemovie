@@ -1,0 +1,28 @@
+{
+  "id": "9cf2823c-b79f-48ba-89fd-d9b15e315d52",
+  "title": "Finding You",
+  "slug": "finding-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nRR9d7g83shu1Cd4GhoIKloqmQR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 119,
+  "rating": 6.896,
+  "description": "Finley, a talented aspiring violinist, meets Beckett, a famous young movie star, on the way to her college semester abroad program in a small coastal village in Ireland. An unexpected romance emerges as the heartthrob Beckett leads the uptight Finley on an adventurous reawakening, and she emboldens him to take charge of his future, until the pressures of his stardom get in the way.",
+  "created_at": "2026-07-22T15:18:05.563Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3640,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

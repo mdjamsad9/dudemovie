@@ -1,0 +1,28 @@
+{
+  "id": "c2ab2b89-7d34-4383-a599-0efd04b44ff5",
+  "title": "Partisan",
+  "slug": "partisan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4x7gzun1Llfgt9AtMj9Jx8druIF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 98,
+  "rating": 6.128,
+  "description": "On the edge of a crumbling city, 11-year-old Alexander lives in a sequestered commune alongside other children, their mothers, and charismatic leader, Gregori. Gregori teaches the children how to raise livestock, grow vegetables, work as a community - and how to kill. With the birth of a new baby brother weighing on his mind, Alexander begins to question Gregori’s overpowering influence on the children and their training to become assassins. Threatened by his increasing unwillingness to fall in line, Gregori’s behavior turns erratic and adversarial toward the child he once considered a son. With the two set dangerously at odds and the commune’s way of life disintegrating, the residents fear a violent resolution is at hand.",
+  "created_at": "2026-07-22T15:44:20.524Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6896,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

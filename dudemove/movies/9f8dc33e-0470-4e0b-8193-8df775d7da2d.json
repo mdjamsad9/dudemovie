@@ -1,0 +1,28 @@
+{
+  "id": "9f8dc33e-0470-4e0b-8193-8df775d7da2d",
+  "title": "Mara",
+  "slug": "mara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 5.698,
+  "description": "Criminal psychologist Kate Fuller is assigned to the murder of a man who has seemingly been strangled in his sleep by his wife and the only witness is their eight-year-old daughter, Sophie. As Kate digs into the mystery of an ancient demon which kills people in their sleep, she experiences the same petrifying symptoms as all previous victims and spirals through a chilling nightmare to save herself and Sophie before she dares fall asleep again.",
+  "created_at": "2026-07-22T15:35:53.559Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5545,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

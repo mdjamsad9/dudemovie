@@ -1,0 +1,32 @@
+{
+  "id": "f83d88f6-133d-4608-a51f-e4ee1af645ff",
+  "title": "A Thursday",
+  "slug": "a-thursday",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": 6.615,
+  "description": "When a kindergarten teacher takes her 16 students hostage and makes a set of demands, it not only rattles the Mumbai police and the city but also sends shockwaves through the country and its leaders as the motive behind the hostage situation is unearthed.",
+  "created_at": "2026-07-22T15:15:23.050Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3319,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

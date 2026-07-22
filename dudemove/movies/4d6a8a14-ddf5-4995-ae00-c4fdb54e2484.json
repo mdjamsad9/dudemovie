@@ -1,0 +1,28 @@
+{
+  "id": "4d6a8a14-ddf5-4995-ae00-c4fdb54e2484",
+  "title": "Endless Poetry",
+  "slug": "endless-poetry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iJTWnSa3YOnD15zMME3ox9GP8XA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2016,
+  "duration": 128,
+  "rating": 7.432,
+  "description": "A portrait of the director’s young adulthood, set in the 1940s–1950s, in the electric capital city of Santiago. There, he decides to become a poet and is introduced, by destiny, into the foremost bohemian and artistic circle of the time.",
+  "created_at": "2026-07-22T15:44:16.063Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6808,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

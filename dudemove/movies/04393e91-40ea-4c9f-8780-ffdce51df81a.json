@@ -1,0 +1,28 @@
+{
+  "id": "04393e91-40ea-4c9f-8780-ffdce51df81a",
+  "title": "Family Blood",
+  "slug": "family-blood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 4.594,
+  "description": "Ellie, a recovering drug addict, has just moved to a new city with her two teenage children. She has struggled to stay sober in the past and is determined to make it work this time, finding a stable job and regularly attending her meetings. Unfortunately, new friends, a new job, and the chance of a new life, can’t keep Ellie from slipping once again. Her life changes when she meets Christopher – a different kind of addict – which forces her daughter and son to accept a new version of Ellie.",
+  "created_at": "2026-07-22T15:27:39.978Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5171,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

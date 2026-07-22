@@ -1,0 +1,28 @@
+{
+  "id": "f711f1b5-5135-496a-b383-affd533ceea1",
+  "title": "Bekhudi",
+  "slug": "bekhudi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wdbpcrb89FREWzJCj2M1uobDRQW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 122,
+  "rating": 7.5,
+  "description": "A rich boy, Abhishek, falls for Sanya, who has a dark past. Will he manage to keep his cool after listening to various people describing various incidents about her life?",
+  "created_at": "2026-07-22T15:15:59.345Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3446,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

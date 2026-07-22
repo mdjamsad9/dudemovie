@@ -1,0 +1,28 @@
+{
+  "id": "f026d8f2-b33e-41cd-a1ad-c05db0189c30",
+  "title": "Coolie No. 1",
+  "slug": "coolie-no-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ahkaPWW2SU9AaDhpD31phQKhTtT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 135,
+  "rating": 5.1,
+  "description": "Insulted by Rosario, a rich businessman, Jai Kishen a Matchmaker teaches him a lesson by getting his daughter married to Raju, a Coolie, who poses to be a millionaire. They sense something fishy and Raju's deceptions are discovered. In an attempt to cover it up, he cooks up a story of having a filthy rich twin. One lie leads to another and things start to go awry culminating in a comedy of errors.",
+  "created_at": "2026-07-22T15:20:29.478Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4015,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

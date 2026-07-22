@@ -1,0 +1,28 @@
+{
+  "id": "1d3132e0-e197-4522-9a6a-e0fa10d59aae",
+  "title": "Can You Keep a Secret?",
+  "slug": "can-you-keep-a-secret-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uNWk5HZfVBHpARcV1z9cwUAbtpF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2019,
+  "duration": 94,
+  "rating": 6.364,
+  "description": "Emma Corrigan, a girl with a few secrets, thinks she’s about to die on a turbulent plane ride. She spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about her.",
+  "created_at": "2026-07-22T15:28:50.133Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4991,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

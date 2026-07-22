@@ -1,0 +1,28 @@
+{
+  "id": "4b0eb838-9350-4a49-b920-2d88661b8a6b",
+  "title": "6 Below: Miracle on the Mountain",
+  "slug": "6-below-miracle-on-the-mountain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wgHFllRwPp5CUVbWNmQGX6lRBWt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 97,
+  "rating": 5.8,
+  "description": "An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....",
+  "created_at": "2026-07-22T15:42:34.837Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6165,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

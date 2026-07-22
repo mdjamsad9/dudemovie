@@ -1,0 +1,32 @@
+{
+  "id": "196ac15e-9a44-4d12-b236-1fcfb8234e97",
+  "title": "The Late Bloomer",
+  "slug": "the-late-bloomer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/al9PDW3lxsDGNnphpVWdO9GvSGU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 5.426,
+  "description": "A sex therapist goes through puberty after the successful removal of a benign tumor resting against his pituitary gland. He experiences all the changes and effects of puberty over a three-week period.",
+  "created_at": "2026-07-22T15:49:03.212Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6698,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

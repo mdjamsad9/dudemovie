@@ -1,0 +1,28 @@
+{
+  "id": "fceebfda-847f-4ebe-a877-8612b4d5eb24",
+  "title": "Barbershop: The Next Cut",
+  "slug": "barbershop-the-next-cut",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9mwzidlGgWfr2hcMWUKM86lOqdo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 111,
+  "rating": 6.292,
+  "description": "To survive harsh economic times, Calvin and Angie have merged the barbershop and beauty salon into one business. The days of male bonding are gone as Eddie and the crew must now contend with sassy female co-workers and spirited clientele. As the battle of the sexes rages on, a different kind of conflict has taken over Chicago. Crime and gangs are on the rise, leaving Calvin worried about the fate of his son. Together, the friends come up with a bold plan to take back their beloved neighborhood.",
+  "created_at": "2026-07-22T15:50:25.714Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6532,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

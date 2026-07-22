@@ -1,0 +1,28 @@
+{
+  "id": "deea44b7-1105-4273-b70b-747ba456b623",
+  "title": "Captain Fantastic",
+  "slug": "captain-fantastic",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Esperanto",
+  "release_year": 2016,
+  "duration": 119,
+  "rating": 7.889,
+  "description": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.",
+  "created_at": "2026-07-22T15:48:56.333Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6684,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

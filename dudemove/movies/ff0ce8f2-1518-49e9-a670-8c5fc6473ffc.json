@@ -1,0 +1,32 @@
+{
+  "id": "ff0ce8f2-1518-49e9-a670-8c5fc6473ffc",
+  "title": "Ode to Joy",
+  "slug": "ode-to-joy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tpYPids0rVYTrtEjKPeXWZNwBk3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 6.188,
+  "description": "Charlie suffers from a serious disease that causes acute narcolepsy whenever he is happy. Although he develops a variety of techniques to deny himself pleasure and deal with his sleep issues, they’re put to the test when he falls in love.",
+  "created_at": "2026-07-22T15:29:27.484Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4381,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

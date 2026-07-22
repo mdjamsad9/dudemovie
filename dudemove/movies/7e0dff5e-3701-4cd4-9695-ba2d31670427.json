@@ -1,0 +1,28 @@
+{
+  "id": "7e0dff5e-3701-4cd4-9695-ba2d31670427",
+  "title": "Fender Bender",
+  "slug": "fender-bender",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 91,
+  "rating": 5,
+  "description": "In a small New Mexico town, teenager Hilary gets into a fender bender and innocently exchanges her personal information with the other driver, a terrifying and bizarre serial killer who stalks the country’s endless miles of roads and streets with his old rusty car, hungrily searching for his next unsuspecting victim.",
+  "created_at": "2026-07-22T15:48:17.049Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6615,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

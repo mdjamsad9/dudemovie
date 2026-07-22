@@ -1,0 +1,28 @@
+{
+  "id": "90370210-54e1-4f8a-ac41-aa89562c8be5",
+  "title": "Don't Leave Home",
+  "slug": "don-t-leave-home",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Y296xLDoTOsts35P3dGErBrZbL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 86,
+  "rating": 4.7,
+  "description": "An American artist's obsession with a disturbing urban legend leads her to an investigation of the story's origins at the crumbling estate of a reclusive painter in Ireland.",
+  "created_at": "2026-07-22T15:35:42.040Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5496,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1448a96e-6a14-4aee-a5f6-9c7116d30119",
+  "title": "LEGO DC Comics Super Heroes: Justice League - Cosmic Clash",
+  "slug": "lego-dc-comics-super-heroes-justice-league-cosmic-clash",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 78,
+  "rating": 6.337,
+  "description": "Earth, a shiny jewel floating in the blackness of space... and for the robot known as Brainiac, the last piece to capture for his collection of planets. Not if the Justice League has anything to say about it!",
+  "created_at": "2026-07-22T15:42:00.802Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6796,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "51a60f7c-a8db-453d-b4de-7df0c913c2a1",
+  "title": "He Knows Your Every Move",
+  "slug": "he-knows-your-every-move",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aBleopGrdYuEMTC97Gcx104M12c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 86,
+  "rating": 4.75,
+  "description": "Molly begins a romance with Jack shortly after having her laptop repaired. Soon, Jack turns clingy and Molly breaks it off. Suddenly, her bank accounts are being drained, and she finds half-naked photos of herself posted online.",
+  "created_at": "2026-07-22T15:28:36.582Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5101,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

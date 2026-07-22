@@ -1,0 +1,44 @@
+{
+  "id": "c2458a6b-58ea-43e2-9dab-5c4e475b46bd",
+  "title": "Teen Titans Go! vs. Teen Titans",
+  "slug": "teen-titans-go-vs-teen-titans",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/GWJEdzVC9aOBSOMF9NHodYxSsE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 77,
+  "rating": 7.5,
+  "description": "The comedic modern-day quintet takes on their 2003 counterparts when villains from each of their worlds join forces to pit the two Titan teams against each other. They'll need to set aside their differences and work together to combat Trigon, Hexagon, Santa Claus (that's right, Santa!) and time itself in order to save the multiverse.",
+  "created_at": "2026-07-22T15:28:23.503Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5005,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

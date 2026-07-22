@@ -1,0 +1,32 @@
+{
+  "id": "3ed32858-3593-4d33-b222-f68404bc67c9",
+  "title": "The Great Gilly Hopkins",
+  "slug": "the-great-gilly-hopkins",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/twSO8TPhEB9AKWGwXZYI40ImnfP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 99,
+  "rating": 6.6,
+  "description": "Young and feisty Gilly Hopkins devises a scheme to escape from her new foster home and reunite with her birth mother.",
+  "created_at": "2026-07-22T15:49:03.608Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6947,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

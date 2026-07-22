@@ -1,0 +1,28 @@
+{
+  "id": "dbbad46c-d247-4786-b320-0c4c01561352",
+  "title": "The Guilty",
+  "slug": "the-guilty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 89,
+  "rating": 6.425,
+  "description": "A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.",
+  "created_at": "2026-07-22T15:17:23.267Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3753,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

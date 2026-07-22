@@ -1,0 +1,28 @@
+{
+  "id": "1cb473a6-b98f-4172-8a7c-271eb8373e90",
+  "title": "The Choice",
+  "slug": "the-choice",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6MF3cdAasnF17SG9bmeamQ066iJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 111,
+  "rating": 7.201,
+  "description": "Travis and Gabby first meet as neighbors in a small coastal town and wind up in a relationship that is tested by life's most defining events.",
+  "created_at": "2026-07-22T15:43:26.481Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6714,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

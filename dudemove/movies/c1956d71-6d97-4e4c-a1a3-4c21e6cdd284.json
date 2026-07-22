@@ -1,0 +1,28 @@
+{
+  "id": "c1956d71-6d97-4e4c-a1a3-4c21e6cdd284",
+  "title": "200: Halla Ho",
+  "slug": "200-halla-ho",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t6Py6jXrJ1SuHU29DdwxYxEwNtf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 115,
+  "rating": 8,
+  "description": "Inspired by true events, the film narrates the story of women terrorised by a mobster who gang-raped, robbed, terrorised and murdered 300 families for 15 years until he met his nemesis in a young Dalit girl.",
+  "created_at": "2026-07-22T15:17:49.511Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3696,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

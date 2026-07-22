@@ -1,0 +1,28 @@
+{
+  "id": "fe27243e-36a2-415d-ad5e-4c2cfc03e791",
+  "title": "The Many Saints of Newark",
+  "slug": "the-many-saints-of-newark",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2021,
+  "duration": 120,
+  "rating": 6.301,
+  "description": "Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.",
+  "created_at": "2026-07-22T15:17:23.640Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3658,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

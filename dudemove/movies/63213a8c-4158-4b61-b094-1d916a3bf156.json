@@ -1,0 +1,32 @@
+{
+  "id": "63213a8c-4158-4b61-b094-1d916a3bf156",
+  "title": "Chicken Curry Law",
+  "slug": "chicken-curry-law",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oisyFeOWYp87cx1tHqepwBAs4Xo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 127,
+  "rating": null,
+  "description": "When a foreign national is raped by an influential minister’s sons, she attempts to seek justice, but it only leads to an agonising and infuriating series of events.",
+  "created_at": "2026-07-22T15:16:03.401Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4369,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

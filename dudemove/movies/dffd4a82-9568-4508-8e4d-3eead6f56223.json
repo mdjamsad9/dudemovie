@@ -1,0 +1,28 @@
+{
+  "id": "dffd4a82-9568-4508-8e4d-3eead6f56223",
+  "title": "Tell Me How I Die",
+  "slug": "tell-me-how-i-die",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/edfgo6pyT1QFjbThLR1HfbNYl3g.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 107,
+  "rating": 5.4,
+  "description": "When a group of college students take part in a clinical drug trial, an unexpected side effect of the experimental medicine gives them terrifying visions of their own deaths...which begin to come true. As they scramble to escape their fate, they discover that the killer is among them and shares their ability to see the future - only he seems to be one step ahead of their efforts to survive.",
+  "created_at": "2026-07-22T15:44:59.306Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6733,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

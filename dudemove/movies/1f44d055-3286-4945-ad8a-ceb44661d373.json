@@ -1,0 +1,36 @@
+{
+  "id": "1f44d055-3286-4945-ad8a-ceb44661d373",
+  "title": "Skiptrace",
+  "slug": "skiptrace",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jki396PIIGja0NoFjUq1AdBbMGc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 107,
+  "rating": 5.771,
+  "description": "A detective from Hong Kong teams up with an American gambler to battle against a notorious Chinese criminal.",
+  "created_at": "2026-07-22T15:48:58.867Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6688,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

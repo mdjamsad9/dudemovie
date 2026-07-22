@@ -1,0 +1,24 @@
+{
+  "id": "bc266ab3-f8e7-4f84-8b9c-deea061ecd26",
+  "title": "The Intern",
+  "slug": "the-intern",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 121,
+  "rating": 7.23,
+  "description": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+  "created_at": "2026-07-22T15:44:33.111Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6890,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "3c40caba-2309-4d46-9a51-e68bf0520f68",
+  "title": "Red Island",
+  "slug": "red-island",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ze8k02YlacHV8GTX6oCxLQfwOi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 4.1,
+  "description": "A distressed couple become stranded on an isolated island only to get hunted by an unforeseen force.",
+  "created_at": "2026-07-22T15:32:40.704Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5209,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "83049be6-297d-406f-89b6-757df9282c71",
+  "title": "Woody Woodpecker Goes to Camp",
+  "slug": "woody-woodpecker-goes-to-camp",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6hw6zvAsBSMyDxnk68XPpjZZyvz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 101,
+  "rating": 6.43,
+  "description": "After getting kicked out of the forest, Woody thinks he's found a forever home at Camp Woo Hoo — until an inspector threatens to shut down the camp.",
+  "created_at": "2026-07-09T17:25:02.744Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 1531,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Woody.Woodpecker.Goes.To.Camp.2024.1080p.WEBRip.x264%20%5BDDN%5D/Woody.Woodpecker.Goes.To.Camp.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

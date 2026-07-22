@@ -1,0 +1,28 @@
+{
+  "id": "334dcecb-712e-49d9-9e53-895084d6576b",
+  "title": "Beiimaan Love",
+  "slug": "beiimaan-love",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xgNAJbjfaQE9mp8ffGY1TSot13G.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 120,
+  "rating": 2.6,
+  "description": "A  young and ambitious woman's life suddenly comes crashing down when she is betrayed in love. Determined to get revenge she reinvents herself as a successful businesswoman.",
+  "created_at": "2026-07-22T15:48:09.656Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6605,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

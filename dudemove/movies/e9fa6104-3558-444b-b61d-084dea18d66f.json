@@ -1,0 +1,28 @@
+{
+  "id": "e9fa6104-3558-444b-b61d-084dea18d66f",
+  "title": "Summerland",
+  "slug": "summerland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/owfKp0rbBa8vHoNO30MdB3GiaYU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 99,
+  "rating": 7.537,
+  "description": "A woman during the Second World War opens her heart to an evacuee after initially resolving to be rid of him.",
+  "created_at": "2026-07-22T15:20:21.626Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4125,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

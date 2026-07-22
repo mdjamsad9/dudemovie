@@ -1,0 +1,32 @@
+{
+  "id": "e2cc939c-4040-4d83-a71f-15921cbe1ed5",
+  "title": "The Mitchells vs. the Machines",
+  "slug": "the-mitchells-vs-the-machines",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 110,
+  "rating": 7.834,
+  "description": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+  "created_at": "2026-07-22T15:16:28.198Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3555,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

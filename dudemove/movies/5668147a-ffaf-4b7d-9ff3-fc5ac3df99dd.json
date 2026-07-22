@@ -1,0 +1,28 @@
+{
+  "id": "5668147a-ffaf-4b7d-9ff3-fc5ac3df99dd",
+  "title": "Patient Seven",
+  "slug": "patient-seven",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m5r7gdj65mfcghrzEob42YRyvAX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Icelandic",
+  "release_year": 2016,
+  "duration": 116,
+  "rating": 5.214,
+  "description": "Dr. Marcus, a renowned psychiatrist, has selected 6 severe mentally ill and dangerous patients from the Spring Valley Mental Hospital to interview as part of research for his new book. As Dr. Marcus interviews each patient, one by one the horrors they have committed begin to unfold. However, Dr. Marcus soon learns that there is one patient who ties them all together - Patient Seven.",
+  "created_at": "2026-07-22T15:48:59.734Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6690,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

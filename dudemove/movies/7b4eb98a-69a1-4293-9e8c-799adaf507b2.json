@@ -1,0 +1,28 @@
+{
+  "id": "7b4eb98a-69a1-4293-9e8c-799adaf507b2",
+  "title": "Good Luck to You, Leo Grande",
+  "slug": "good-luck-to-you-leo-grande",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 97,
+  "rating": 6.982,
+  "description": "Nancy Stokes, a retired schoolteacher, is pretty sure she has never had good sex. Now that her husband has died, she is determined to take a tour of sexual vistas that until now she has only imagined. She even has a plan; it involves an anonymous hotel room, and a sex worker who calls himself Leo Grande.",
+  "created_at": "2026-07-22T15:14:12.382Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3276,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

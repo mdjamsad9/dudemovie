@@ -1,0 +1,24 @@
+{
+  "id": "0cd46b26-a84f-430a-9521-dcc03d603b48",
+  "title": "Jaane kyun de yaaron",
+  "slug": "jaane-kyun-de-yaaron",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5SOYgKRmGE1ychsHOct1uUhdHSU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 211,
+  "rating": null,
+  "description": "Two boys with the dreams to change their ordinary lives change the entire corruption system as they take a stand against police brutality with the little help of a benevolent guardian.",
+  "created_at": "2026-07-22T15:34:27.889Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5308,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

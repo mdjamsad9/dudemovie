@@ -1,0 +1,36 @@
+{
+  "id": "98aa020a-28cc-4c3e-ae15-d00b353eb97f",
+  "title": "A Babysitter's Guide to Monster Hunting",
+  "slug": "a-babysitter-s-guide-to-monster-hunting",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bkld8Me0WiLWipLORRNfF1yIPHu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 95,
+  "rating": 6.202,
+  "description": "Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she's watching on Halloween.",
+  "created_at": "2026-07-22T15:21:43.376Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4249,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

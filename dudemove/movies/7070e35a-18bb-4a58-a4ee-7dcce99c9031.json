@@ -1,0 +1,28 @@
+{
+  "id": "7070e35a-18bb-4a58-a4ee-7dcce99c9031",
+  "title": "The Story of My Wife",
+  "slug": "the-story-of-my-wife",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4PilF6fzZpbHVuT0EIYwqElSyc0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2021,
+  "duration": 170,
+  "rating": 5.767,
+  "description": "A sea captain makes a bet in a cafe with a friend that he will marry the first woman who walks in.",
+  "created_at": "2026-07-22T15:16:47.745Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3605,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7b7e40de-6ccc-459c-ae63-de3ebe458c81",
+  "title": "The Gallows",
+  "slug": "the-gallows",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4oBk2DsYRO0VuloOX52ROmz2QhU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 81,
+  "rating": 4.9,
+  "description": "20 years after a horrific accident during a small town school play, students at the school resurrect the failed show in a misguided attempt to honor the anniversary of the tragedy - but soon discover that some things are better left alone.",
+  "created_at": "2026-07-22T15:51:09.542Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 7041,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cfc67176-4f90-4817-99f7-5ce72a882ca9",
+  "title": "I Am Wrath",
+  "slug": "i-am-wrath",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6NvLA3BP5ktLaZ1qdLY0oHsaqwD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 92,
+  "rating": 5.766,
+  "description": "A man is out for justice after a group of corrupt police officers are unable to catch his wife's killer.",
+  "created_at": "2026-07-22T15:42:01.697Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6793,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

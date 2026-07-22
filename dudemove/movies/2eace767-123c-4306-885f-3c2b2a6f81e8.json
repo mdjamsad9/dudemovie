@@ -1,0 +1,24 @@
+{
+  "id": "2eace767-123c-4306-885f-3c2b2a6f81e8",
+  "title": "Jama",
+  "slug": "jama",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zWOwRCoSxtdSWpFhdEary3mgKlD.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 133,
+  "rating": 8,
+  "description": "A poignant tale of Kalyanam, a young Koothu artist, struggles to uphold his father’s legacy in traditional folk art amidst rivals suppressions , torn between his love, mothers wishes, societal expectations, and self-doubt in his quest to lead his own Jama.",
+  "created_at": "2026-07-09T17:14:12.050Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 869,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Jama%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jama%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

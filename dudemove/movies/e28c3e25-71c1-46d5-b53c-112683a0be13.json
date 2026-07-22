@@ -1,0 +1,24 @@
+{
+  "id": "e28c3e25-71c1-46d5-b53c-112683a0be13",
+  "title": "The Fallout",
+  "slug": "the-fallout",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 96,
+  "rating": 7.5,
+  "description": "In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.",
+  "created_at": "2026-07-22T15:15:42.620Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3357,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

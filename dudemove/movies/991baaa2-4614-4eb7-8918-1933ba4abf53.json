@@ -1,0 +1,28 @@
+{
+  "id": "991baaa2-4614-4eb7-8918-1933ba4abf53",
+  "title": "Prem Geet 3",
+  "slug": "prem-geet-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l9CE2XNoJaoXt2Iv78y7eDOkJyV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Nepali",
+  "release_year": 2022,
+  "duration": 130,
+  "rating": 10,
+  "description": "The epic story of the mighty khazak kingdom from the beyul of himalayas set on an ancient periodic setup. The story revolves around two major characters PREM and GEET, where prem is supposed to be the heir to the throne as he was born on the most auspicious time according to astrology. However he had to overcome one obstacle, that is Prem (love) itself.",
+  "created_at": "2026-07-22T15:13:16.926Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 3206,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

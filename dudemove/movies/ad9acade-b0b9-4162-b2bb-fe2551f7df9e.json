@@ -1,0 +1,28 @@
+{
+  "id": "ad9acade-b0b9-4162-b2bb-fe2551f7df9e",
+  "title": "After We Fell",
+  "slug": "after-we-fell",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 99,
+  "rating": 7.006,
+  "description": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+  "created_at": "2026-07-22T15:17:10.572Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3733,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

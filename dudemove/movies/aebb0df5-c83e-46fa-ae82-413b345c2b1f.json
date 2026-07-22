@@ -1,0 +1,28 @@
+{
+  "id": "aebb0df5-c83e-46fa-ae82-413b345c2b1f",
+  "title": "Bomb City",
+  "slug": "bomb-city",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 98,
+  "rating": 7.125,
+  "description": "An ongoing feud between punk rockers and a more affluent clique in a small Texas town leads to a hate crime.",
+  "created_at": "2026-07-22T15:38:36.264Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5727,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

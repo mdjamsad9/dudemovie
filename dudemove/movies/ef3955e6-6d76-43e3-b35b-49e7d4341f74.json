@@ -1,0 +1,32 @@
+{
+  "id": "ef3955e6-6d76-43e3-b35b-49e7d4341f74",
+  "title": "Momacu",
+  "slug": "momacu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5y8TWMT7ebnqk0ehT1zHPvKN9n9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 129,
+  "rating": null,
+  "description": "On a freezing winter night in rural Haryana, three men steal an ATM and hide it in a tube well room. Overnight, mistrust and chaos shatter their desperate plan.",
+  "created_at": "2026-07-22T15:09:17.316Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 173,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

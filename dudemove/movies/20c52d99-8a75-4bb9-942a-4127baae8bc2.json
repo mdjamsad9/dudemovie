@@ -1,0 +1,24 @@
+{
+  "id": "20c52d99-8a75-4bb9-942a-4127baae8bc2",
+  "title": "Devil's Revenge",
+  "slug": "devil-s-revenge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/40ILf3yIPAl0JeVHA3iIOtlDTEu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 4,
+  "description": "John Brock is a down-on-his-luck archaeologist who returns from an expedition to the caves of rural Kentucky after unsuccessfully trying to locate a mysterious relic that his family has sought for generations. Upon his return, John starts to see dream-like visions of a ferocious bird-like creature from ancient folklore. John soon learns that the cave he came into contact with on his last expedition was indeed the cave that contains the relic and also a portal to Hell and a place of worship for the Occult. John discovers that the only way to stop the increasingly realistic visions is to go back to the cave with his family, find the relic once and for all, and destroy it.",
+  "created_at": "2026-07-22T15:28:28.489Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4927,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

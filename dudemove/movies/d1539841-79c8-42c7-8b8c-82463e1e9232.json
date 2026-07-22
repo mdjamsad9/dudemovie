@@ -1,0 +1,32 @@
+{
+  "id": "d1539841-79c8-42c7-8b8c-82463e1e9232",
+  "title": "Greta",
+  "slug": "greta",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9hBpFyJ3pGdupXbaC2L7nGvLMBn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 6.553,
+  "description": "A young woman returns a lonely widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers the widow might not be all that she seems.",
+  "created_at": "2026-07-22T15:31:42.341Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4612,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

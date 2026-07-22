@@ -1,0 +1,32 @@
+{
+  "id": "88659795-b9bd-4e9c-af21-ca3d51855f47",
+  "title": "Satyabhama",
+  "slug": "satyabhama",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7I0VTzrqJ4erQHNjrwwhAA5rOTv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 6.4,
+  "description": "ACP Satyabhama confronts her haunted past, diving into a high-stakes investigation to find a missing man. As she unravels dark secrets in various towns cloaked in shadows, redemption hangs in the balance. Will she triumph over the past or be consumed by its shadows?",
+  "created_at": "2026-07-09T17:14:28.332Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1279,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Satyabhama%20(2024)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Satyabhama%20(2024)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

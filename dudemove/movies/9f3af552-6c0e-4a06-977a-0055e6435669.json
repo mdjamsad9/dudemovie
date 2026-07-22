@@ -1,0 +1,32 @@
+{
+  "id": "9f3af552-6c0e-4a06-977a-0055e6435669",
+  "title": "Frozen: The Hit Broadway Musical",
+  "slug": "frozen-the-hit-broadway-musical",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 112,
+  "rating": 7.8,
+  "description": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+  "created_at": "2026-07-09T16:56:29.958Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 443,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Frozen.The.Hit.Broadway.Musical.2025.1080p.WEBRip.x264%20%5BDDN%5D/Frozen.The.Hit.Broadway.Musical.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

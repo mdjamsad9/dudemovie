@@ -1,0 +1,32 @@
+{
+  "id": "20c92254-c6f0-41b4-bc2c-cb0a444b35b5",
+  "title": "Robinson Crusoe",
+  "slug": "robinson-crusoe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oW2CeCoFJKD57iyml0vWGRKKPaI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 5.806,
+  "description": "On a tiny exotic island, Tuesday, an outgoing parrot lives with his quirky animal friends in paradise. However, Tuesday can't stop dreaming about discovering the world. After a violent storm, Tuesday and his friends wake up to find a strange creature on the beach: Robinson Crusoe. Tuesday immediately views Crusoe as his ticket off the island to explore new lands. Likewise, Crusoe soon realizes that the key to surviving on the island is through the help of Tuesday and the other animals. It isn't always easy at first, as the animals don't speak \"human.\" Slowly but surely, they all start living together in harmony, until one day, when their comfortable life is overturned by two savage cats, who wish to take control of the island. A battle ensues between the cats and the group of friends but Crusoe and the animals soon discover the true power of friendship up against all odds (even savage cats).",
+  "created_at": "2026-07-22T15:50:16.598Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6518,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

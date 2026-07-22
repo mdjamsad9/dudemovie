@@ -1,0 +1,32 @@
+{
+  "id": "485175c2-8c54-495c-8a7f-4606339d6025",
+  "title": "Cold Pursuit",
+  "slug": "cold-pursuit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5RILVnOchQyL1LbcVzmabipdJfc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 119,
+  "rating": 5.9,
+  "description": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+  "created_at": "2026-07-22T15:31:49.180Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5018,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

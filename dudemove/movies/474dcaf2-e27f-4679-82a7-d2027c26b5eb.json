@@ -1,0 +1,32 @@
+{
+  "id": "474dcaf2-e27f-4679-82a7-d2027c26b5eb",
+  "title": "Harpoon",
+  "slug": "harpoon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/36zt0v54vRmgn1Zgvlfw0azQK9h.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 82,
+  "rating": 5.993,
+  "description": "Rivalries, dark secrets, and sexual tension emerge when three best friends find themselves stranded on a yacht in the middle of the ocean under suspicious circumstances.",
+  "created_at": "2026-07-22T15:28:15.149Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4997,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

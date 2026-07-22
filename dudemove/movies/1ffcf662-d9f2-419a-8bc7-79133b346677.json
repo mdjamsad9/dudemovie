@@ -1,0 +1,24 @@
+{
+  "id": "1ffcf662-d9f2-419a-8bc7-79133b346677",
+  "title": "Fatal Affair",
+  "slug": "fatal-affair",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 5.686,
+  "description": "After a brief encounter with David Hammond, an old college friend, successful lawyer Ellie Warren tries to mend her marriage with her husband Marcus. But she finds herself caught in a terrifying game of cat and mouse when the encounter escalates into an obsession that jeopardizes everyone she loves.",
+  "created_at": "2026-07-22T15:23:32.768Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4283,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

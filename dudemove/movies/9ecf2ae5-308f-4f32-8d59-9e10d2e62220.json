@@ -1,0 +1,36 @@
+{
+  "id": "9ecf2ae5-308f-4f32-8d59-9e10d2e62220",
+  "title": "Sing Street",
+  "slug": "sing-street",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 105,
+  "rating": 7.859,
+  "description": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+  "created_at": "2026-07-22T15:50:26.553Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6534,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

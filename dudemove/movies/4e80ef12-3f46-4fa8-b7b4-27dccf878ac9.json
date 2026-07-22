@@ -1,0 +1,36 @@
+{
+  "id": "4e80ef12-3f46-4fa8-b7b4-27dccf878ac9",
+  "title": "Rattlesnake",
+  "slug": "rattlesnake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 85,
+  "rating": 5.259,
+  "description": "After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.",
+  "created_at": "2026-07-22T15:27:54.695Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4957,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

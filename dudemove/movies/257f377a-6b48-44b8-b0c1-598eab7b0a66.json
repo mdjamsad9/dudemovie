@@ -1,0 +1,28 @@
+{
+  "id": "257f377a-6b48-44b8-b0c1-598eab7b0a66",
+  "title": "Kidnap Capital",
+  "slug": "kidnap-capital",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vobrbRe2hurRyorbeUk60AlVusl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 93,
+  "rating": 6.4,
+  "description": "Imagine leaving everything you have, everyone you know, everyone you love, behind. Having to cross half a continent on foot, atop freight trains, inside truck trailers. Swimming across wild rivers. Crossing borders illegally. Walking across the Arizona desert. Being shot at, robbed and beaten. Raped. Surviving it all. Crossing into the USA, after life in the poorest parts of Central America. Succeeding. Now. In the “promised” land, you don’t belong, legally; or socially. You don’t understand the language. No one knows you arrived, no one knows you exist. Imagine…. being Nobody. Then imagine a bag being shoved over your head. Getting your clothes stripped from you. Getting tossed in a closed room with a dozen others. A loaded gun is pointed at your head. You are forced to call back home and beg for money, a ransom for your life.",
+  "created_at": "2026-07-22T15:45:33.896Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6809,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

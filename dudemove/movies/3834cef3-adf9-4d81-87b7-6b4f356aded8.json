@@ -1,0 +1,28 @@
+{
+  "id": "3834cef3-adf9-4d81-87b7-6b4f356aded8",
+  "title": "The Visit",
+  "slug": "the-visit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mtMfKRCa2V5b7d9k4piogB72mcY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 94,
+  "rating": 6.318,
+  "description": "A brother and sister are sent to their grandparents' remote Pennsylvania farm for a week, where they discover that the elderly couple is involved in something deeply disturbing.",
+  "created_at": "2026-07-22T15:44:31.965Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6895,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

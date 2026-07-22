@@ -1,0 +1,32 @@
+{
+  "id": "b1e07909-0cdb-4d52-832b-3c6451fd1244",
+  "title": "The Changeover",
+  "slug": "the-changeover",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vfXRe0oE2A6JnbmBUNyr0pfRkFA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 95,
+  "rating": 5.639,
+  "description": "Laura Chant, 16, lives with her mother and four-year-old brother Jacko in a poor new suburb on the edge of a partially demolished Christchurch, New Zealand. Laura is drawn into a supernatural battle with an ancient spirit who attacks Jacko and slowly drains the life out of him as the spirit becomes ever younger. Laura discovers her true identity and the supernatural ability within her, and must harness it to save her brother's life.",
+  "created_at": "2026-07-22T15:33:22.534Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5784,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ad0c81e5-563e-4789-ac8a-dca4973e72c7",
+  "title": "Collider",
+  "slug": "collider",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4VMHLhqxwtx3zbE7CmQE5mhUTAq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 84,
+  "rating": 3.9,
+  "description": "In the year 2033, a young girl trapped in a mysterious orphanage recklessly travels back in time to find her parents and amend her past.",
+  "created_at": "2026-07-22T15:36:31.283Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5539,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

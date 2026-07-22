@@ -1,0 +1,32 @@
+{
+  "id": "4a5465a0-746c-483d-a106-f5061e8ccbc3",
+  "title": "Aghathiyaa",
+  "slug": "aghathiyaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gCXjEAJRaZZi5bMowWJQxK0827c.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 134,
+  "rating": 4.8,
+  "description": "Things go awry when a haunted mansion is opened as a tourist attraction by Aghathiyan leading to the unraveling of the dark history behind the mansion's previous occupant.",
+  "created_at": "2026-07-09T16:59:41.145Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 509,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aghathiyaa%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aghathiyaa%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

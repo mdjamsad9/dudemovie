@@ -1,0 +1,28 @@
+{
+  "id": "d9d6ca72-bcb0-488a-a3ee-aa8fa9347a94",
+  "title": "The Two Popes",
+  "slug": "the-two-popes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2019,
+  "duration": 125,
+  "rating": 7.486,
+  "description": "Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.",
+  "created_at": "2026-07-22T15:26:30.478Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4745,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

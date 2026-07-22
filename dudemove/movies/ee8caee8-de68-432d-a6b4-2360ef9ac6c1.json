@@ -1,0 +1,32 @@
+{
+  "id": "ee8caee8-de68-432d-a6b4-2360ef9ac6c1",
+  "title": "Resistance",
+  "slug": "resistance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/As22MQ8G3ILsdzsSIv1u9qEz6hE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": 6.9,
+  "description": "The story of mime Marcel Marceau as he works with a group of Jewish boy scouts and the French Resistance to save the lives of ten thousand orphans during World War II.",
+  "created_at": "2026-07-22T15:23:29.416Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4312,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

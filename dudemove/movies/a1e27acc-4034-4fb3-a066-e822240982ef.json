@@ -1,0 +1,24 @@
+{
+  "id": "a1e27acc-4034-4fb3-a066-e822240982ef",
+  "title": "Absolutely Fabulous: The Movie",
+  "slug": "absolutely-fabulous-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qNzbuLMEf1zAk7jbQeA19sXFYlK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 91,
+  "rating": 5.288,
+  "description": "Edina and Patsy are still oozing glitz and glamour, living the high life they're accustomed to; shopping, drinking and clubbing around London's trendiest hotspots. Blamed for a major incident at an uber fashionable launch party, they become entangled in a media storm and are relentlessly pursued by the paparazzi. Fleeing penniless to the glamorous playground of the super-rich, the French Riviera, they hatch a plan to make their escape permanent and live the high life forever more!",
+  "created_at": "2026-07-22T15:48:28.072Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6637,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

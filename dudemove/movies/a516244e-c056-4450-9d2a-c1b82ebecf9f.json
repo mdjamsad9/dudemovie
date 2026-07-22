@@ -1,0 +1,28 @@
+{
+  "id": "a516244e-c056-4450-9d2a-c1b82ebecf9f",
+  "title": "The 33",
+  "slug": "the-33",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hpXkIuAlIlcNYACRE2MssxnHvZQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2015,
+  "duration": 120,
+  "rating": 6.392,
+  "description": "Based on the true story of the collapse of a mine in San Jose, Chile—that left 33 miners isolated underground for 69 days.",
+  "created_at": "2026-07-22T15:42:15.061Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6854,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

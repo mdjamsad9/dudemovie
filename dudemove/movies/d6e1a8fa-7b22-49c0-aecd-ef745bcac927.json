@@ -1,0 +1,28 @@
+{
+  "id": "d6e1a8fa-7b22-49c0-aecd-ef745bcac927",
+  "title": "Sanak",
+  "slug": "sanak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 117,
+  "rating": 6.2,
+  "description": "Set in Mumbai, the story unfolds in a hospital that is under siege, where Vivaan Ahuja and his wife Anshika are trapped. Does he manage to rescue her and other hostages from the dangerous hoodlums?",
+  "created_at": "2026-07-22T15:17:13.250Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3551,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

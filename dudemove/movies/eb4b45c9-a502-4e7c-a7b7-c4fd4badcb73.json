@@ -1,0 +1,24 @@
+{
+  "id": "eb4b45c9-a502-4e7c-a7b7-c4fd4badcb73",
+  "title": "Sword of Vengeance",
+  "slug": "sword-of-vengeance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jzGCV0V4B5L0VgmAYGMawqaIhha.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 86,
+  "rating": 4.835,
+  "description": "Returning to his homeland after years of slavery, a Norman prince seeks revenge on his father's  murderer – his ruthless uncle, Earl Durant. Gaining the trust of a band of exiled farmers, he leads them into battle against Durant, exploiting them in his inexorable quest for vengeance. As one by one they are slaughtered in the brutal battle, will the prince sacrifice everything an everyone to fulfil his quest for blood?",
+  "created_at": "2026-07-22T15:51:26.230Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6983,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

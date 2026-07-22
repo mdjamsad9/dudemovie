@@ -1,0 +1,28 @@
+{
+  "id": "398b4c0e-3994-4086-9c4b-843f61a81efd",
+  "title": "Warfare",
+  "slug": "warfare",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Arabic",
+  "release_year": 2025,
+  "duration": 95,
+  "rating": 7.082,
+  "description": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+  "created_at": "2026-07-09T16:59:22.306Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 492,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Warfare.2025.1080p.WEBRip.x264%20%5BDDN%5D/Warfare.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

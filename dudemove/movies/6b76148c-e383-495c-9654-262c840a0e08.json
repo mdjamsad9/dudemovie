@@ -1,0 +1,28 @@
+{
+  "id": "6b76148c-e383-495c-9654-262c840a0e08",
+  "title": "Genius",
+  "slug": "genius-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jdEJ2dgus9d0pAQjC8086SVcx2n.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 164,
+  "rating": 5.6,
+  "description": "An orphan, with a brilliant mind, joins RAW and is burdened by the killing of his entire team. Until he doesn't avenge their death, he can't live in peace with his love. So, he hatches a genius plan.",
+  "created_at": "2026-07-22T15:34:48.705Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5343,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

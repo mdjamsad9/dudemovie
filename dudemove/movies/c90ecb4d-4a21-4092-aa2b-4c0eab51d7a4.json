@@ -1,0 +1,28 @@
+{
+  "id": "c90ecb4d-4a21-4092-aa2b-4c0eab51d7a4",
+  "title": "Mission: Impossible - Rogue Nation",
+  "slug": "mission-impossible-rogue-nation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2015,
+  "duration": 131,
+  "rating": 7.226,
+  "description": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+  "created_at": "2026-07-22T15:45:53.445Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6979,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

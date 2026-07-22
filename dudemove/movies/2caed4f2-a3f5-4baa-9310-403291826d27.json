@@ -1,0 +1,28 @@
+{
+  "id": "2caed4f2-a3f5-4baa-9310-403291826d27",
+  "title": "Citizen Soldier",
+  "slug": "citizen-soldier",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2oh4twGG5GaqVz8TtQfHt8a2fbf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 105,
+  "rating": 5.9,
+  "description": "CITIZEN SOLDIER is a dramatic feature film, told from the point of view of a group of Soldiers in the Oklahoma Army National Guard's 45th Infantry Brigade Combat Team, known since World War II as the \"Thunderbirds.” Set in one of the most dangerous parts of Afghanistan at the height of the surge, it is a heart-pounding, heartfelt grunts' eye-view of the war. A modern day Band of Brothers, Citizen Soldier tells the true story of a group of young Soldiers and their life-changing tour of duty in Afghanistan, offering an excruciatingly personal look into modern warfare, brotherhood, and patriotism. Using real footage from multiple cameras, including helmet cams, these Citizen Soldiers give the audience an intimate view into the chaos and horrors of combat and, in the process, display their bravery and valor under the most hellish of conditions.",
+  "created_at": "2026-07-22T15:49:39.748Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6463,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

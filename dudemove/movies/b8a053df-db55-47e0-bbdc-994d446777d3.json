@@ -1,0 +1,32 @@
+{
+  "id": "b8a053df-db55-47e0-bbdc-994d446777d3",
+  "title": "Spinning Man",
+  "slug": "spinning-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lb73nmpv97C4C5WXoxTE0DD7ptU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 5.584,
+  "description": "Evan Birch is a family man and esteemed professor at a distinguished university. When a female student goes missing, police Detective Malloy has reason to be suspicious when crucial evidence makes Evan the prime suspect in her disappearance.",
+  "created_at": "2026-07-22T15:37:19.971Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5578,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

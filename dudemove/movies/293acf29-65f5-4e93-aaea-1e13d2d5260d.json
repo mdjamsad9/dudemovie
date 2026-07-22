@@ -1,0 +1,24 @@
+{
+  "id": "293acf29-65f5-4e93-aaea-1e13d2d5260d",
+  "title": "Voyage of Time: The IMAX Experience",
+  "slug": "voyage-of-time-the-imax-experience",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2ScetO35rdhBIdYPXvhPJdXPUVm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 45,
+  "rating": 6.9,
+  "description": "A celebration of the universe, displaying the whole of time, from its start to its final collapse. This film examines all that occurred to prepare the world that stands before us now: science and spirit, birth and death, the grand cosmos and the minute life systems of our planet.",
+  "created_at": "2026-07-22T15:43:06.769Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6803,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

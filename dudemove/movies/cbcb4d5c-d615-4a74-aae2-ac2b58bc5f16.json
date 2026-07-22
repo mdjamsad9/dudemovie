@@ -1,0 +1,32 @@
+{
+  "id": "cbcb4d5c-d615-4a74-aae2-ac2b58bc5f16",
+  "title": "Paydirt",
+  "slug": "paydirt",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jAGGV80ZO10YcmUJXK7YSBh1yvK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 81,
+  "rating": 5.7,
+  "description": "A parolee teams up with his old crew determined to find a buried bag of cash stolen a decade ago from a DEA bust gone bad, while being tracked by a retired Sheriff.",
+  "created_at": "2026-07-22T15:23:10.035Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4247,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

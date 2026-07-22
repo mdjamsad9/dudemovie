@@ -1,0 +1,28 @@
+{
+  "id": "1e34e233-c2d6-4ec3-ad3e-55b2e4098ccb",
+  "title": "Werewolves Within",
+  "slug": "werewolves-within",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5CGgbgyvmE39Yoqa80GKsgClbQm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 96,
+  "rating": 6.028,
+  "description": "When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.",
+  "created_at": "2026-07-22T15:18:17.710Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3732,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0d1314ee-db95-4e69-894c-9b82d472c3c9",
+  "title": "Paper Planes",
+  "slug": "paper-planes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wpcAApL7oydxKeU2TR5y2RwNQ78.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2014,
+  "duration": 96,
+  "rating": 6,
+  "description": "Dylan discovers he has a talent for making paper planes. He has a chance to compete in a world championship, but he'll have to face bullies and self-doubt to do so.",
+  "created_at": "2026-07-22T15:51:34.741Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7082,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

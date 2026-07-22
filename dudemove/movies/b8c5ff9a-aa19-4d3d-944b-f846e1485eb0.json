@@ -1,0 +1,28 @@
+{
+  "id": "b8c5ff9a-aa19-4d3d-944b-f846e1485eb0",
+  "title": "The Paper Tigers",
+  "slug": "the-paper-tigers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x54tAgLfS51fO5EcipNJJ9tfSRK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 108,
+  "rating": 6.71,
+  "description": "Three middle aged men polish their martial arts skills to avenge their fallen master.",
+  "created_at": "2026-07-22T15:18:55.787Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3850,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

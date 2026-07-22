@@ -1,0 +1,24 @@
+{
+  "id": "d3511e3e-b40f-4f75-9106-4711f7e6c292",
+  "title": "Antebellum",
+  "slug": "antebellum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 106,
+  "rating": 6.3,
+  "description": "Successful author Veronica finds herself trapped in a horrifying reality and must uncover the mind-bending mystery before it's too late.",
+  "created_at": "2026-07-22T15:21:37.092Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4281,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

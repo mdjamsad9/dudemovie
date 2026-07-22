@@ -1,0 +1,28 @@
+{
+  "id": "cec90018-74ae-48d6-8256-78176f0012bd",
+  "title": "Die Hart 2 Die Harter",
+  "slug": "die-hart-2-die-harter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fL6LtY7ugWSNxooVvIquI3Y1dSF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "Hart plans an innovative action film with unscripted, unexpected scenes to cement his legacy as the greatest. However, a blind spot leads him to fall victim to a vengeful plot from his past.",
+  "created_at": "2026-07-22T15:10:33.526Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1136,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d49c4447-645d-4d6a-bc0f-f8c174b4304a",
+  "title": "Penguin Bloom",
+  "slug": "penguin-bloom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5l6k0Z9tYddXW9327V2jZrfWG00.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 95,
+  "rating": 6.892,
+  "description": "When an unlikely ally enters the Bloom family's world in the form of an injured baby magpie they name Penguin, the bird’s arrival makes a profound difference in the struggling family’s life.",
+  "created_at": "2026-07-22T15:19:57.211Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3783,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

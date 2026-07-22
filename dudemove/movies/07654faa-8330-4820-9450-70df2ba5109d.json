@@ -1,0 +1,32 @@
+{
+  "id": "07654faa-8330-4820-9450-70df2ba5109d",
+  "title": "Handling the Undead",
+  "slug": "handling-the-undead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Norwegian",
+  "release_year": 2024,
+  "duration": 98,
+  "rating": 5.888,
+  "description": "On a hot summer day in Oslo, the dead mysteriously awaken, and three families are thrown into chaos when their deceased loved ones come back to them. Who are they, and what do they want?",
+  "created_at": "2026-07-09T17:18:15.916Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 969,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Handling.The.Undead.2024.1080p.WEBRip.x264%20%5BDDN%5D/Handling.The.Undead.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

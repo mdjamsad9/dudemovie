@@ -1,0 +1,24 @@
+{
+  "id": "587a91e2-2a0e-40e0-b5b4-bb29e05e0c3a",
+  "title": "Cruel Hearts",
+  "slug": "cruel-hearts",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cL135d6y3CXwmttM9yb9VHbxwm0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 86,
+  "rating": 6.9,
+  "description": "A young man, Guy, discovers the woman he's been sleeping with is not only married, but married to Burt Walker, a notorious low-level crime boss. Worried that Walker will at some point discover the affair and kill him, Guy decides to be upfront, tell Walker about his transgression and beg for forgiveness. The ploy works, and the pair form a very unusual, and ultimately dangerous, friendship.",
+  "created_at": "2026-07-22T15:26:05.135Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5170,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

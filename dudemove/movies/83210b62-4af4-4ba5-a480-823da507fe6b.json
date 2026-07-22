@@ -1,0 +1,32 @@
+{
+  "id": "83210b62-4af4-4ba5-a480-823da507fe6b",
+  "title": "A Normal Woman",
+  "slug": "a-normal-woman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2I8hMyZX9WXAjkvCTBLMM7XYBVL.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Indonesian",
+  "release_year": 2025,
+  "duration": 110,
+  "rating": 5.887,
+  "description": "When an unidentified disease starts to upend her life, a socialite must unravel the mystery behind it — before her whole sense of self falls apart.",
+  "created_at": "2026-07-09T16:55:06.561Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 405,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/A%20Normal%20Woman%20(2025)%20English%20Indonesian%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Normal%20Woman%20%282025%29%20English%20Indonesian%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

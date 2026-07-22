@@ -1,0 +1,28 @@
+{
+  "id": "ce31461b-f98a-4ea0-8208-0db931957f53",
+  "title": "Curve",
+  "slug": "curve",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9AGJMNrUfBMIGkCeKNccQbj0Nyg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 86,
+  "rating": 5.769,
+  "description": "A soon-to-be bride on her way to a wedding rehearsal is having second thoughts and decides to take a detour. Her car breaks down and a hitch-hiker offers help. Could it be fate?",
+  "created_at": "2026-07-22T15:11:02.371Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6899,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

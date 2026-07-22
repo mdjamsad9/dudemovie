@@ -1,0 +1,36 @@
+{
+  "id": "6414998d-275b-4a44-95b8-825e84bb6230",
+  "title": "No Man of God",
+  "slug": "no-man-of-god",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 100,
+  "rating": 6.605,
+  "description": "The complicated relationship that formed between the FBI analyst Bill Hagmaier and serial killer Ted Bundy during Bundy's final years on death row.",
+  "created_at": "2026-07-22T15:17:44.446Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3679,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

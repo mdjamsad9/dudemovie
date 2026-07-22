@@ -1,0 +1,32 @@
+{
+  "id": "0e79b2cc-474f-4cc8-bbac-3d92a0477f73",
+  "title": "Murder on the Orient Express",
+  "slug": "murder-on-the-orient-express",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Arabic",
+  "release_year": 2017,
+  "duration": 114,
+  "rating": 6.707,
+  "description": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+  "created_at": "2026-07-22T15:39:50.924Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5901,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

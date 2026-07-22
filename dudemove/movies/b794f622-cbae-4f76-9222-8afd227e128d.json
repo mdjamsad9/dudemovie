@@ -1,0 +1,32 @@
+{
+  "id": "b794f622-cbae-4f76-9222-8afd227e128d",
+  "title": "Cyborg X",
+  "slug": "cyborg-x",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7py7DuHIYJx2a0Pp5JMyaK3OYtu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 5.237,
+  "description": "After X-Corp, a radical weapons manufacturer, is taken over by a Cyber Virus, a group of survivors must fight to save humanity from the army of Machines the Virus now controls.",
+  "created_at": "2026-07-22T15:45:48.890Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6430,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

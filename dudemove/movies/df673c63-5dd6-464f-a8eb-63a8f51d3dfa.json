@@ -1,0 +1,36 @@
+{
+  "id": "df673c63-5dd6-464f-a8eb-63a8f51d3dfa",
+  "title": "Mechanic: Resurrection",
+  "slug": "mechanic-resurrection",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Bulgarian",
+  "release_year": 2016,
+  "duration": 99,
+  "rating": 6.064,
+  "description": "Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents.",
+  "created_at": "2026-07-22T15:48:32.628Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6646,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

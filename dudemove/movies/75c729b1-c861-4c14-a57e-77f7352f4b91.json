@@ -1,0 +1,28 @@
+{
+  "id": "75c729b1-c861-4c14-a57e-77f7352f4b91",
+  "title": "Lost in London",
+  "slug": "lost-in-london",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sMZbWKHRzWDjzUsSkfhCnLlJxMx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 103,
+  "rating": 5.947,
+  "description": "Within the course of a night, Woody Harrelson finds himself in a misadventure in London that winds him up in prison.",
+  "created_at": "2026-07-22T15:37:18.213Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5716,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b72ddf2c-0a58-4b25-8a11-68ff1afb904f",
+  "title": "The Promise",
+  "slug": "the-promise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Armenian",
+  "release_year": 2016,
+  "duration": 133,
+  "rating": 6.845,
+  "description": "Set during the last days of the Ottoman Empire, a love triangle develops between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris, a renowned American journalist based in Paris.",
+  "created_at": "2026-07-22T15:44:06.092Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6702,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

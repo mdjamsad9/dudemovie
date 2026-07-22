@@ -1,0 +1,32 @@
+{
+  "id": "7dcd89ff-a121-48f7-aa0f-e517da202067",
+  "title": "Hardcore Henry",
+  "slug": "hardcore-henry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 97,
+  "rating": 6.412,
+  "description": "Henry, a newly resurrected cyborg who must save his wife/creator from the clutches of a psychotic tyrant with telekinetic powers, AKAN, and his army of mercenaries. Fighting alongside Henry is Jimmy, who is Henry's only hope to make it through the day. Hardcore Henry takes place over the course of one day, in Moscow, Russia.",
+  "created_at": "2026-07-22T15:50:24.683Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6987,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "89dd7c0b-4bed-4d45-a0c2-3c60641531af",
+  "title": "The Current War",
+  "slug": "the-current-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eqTjO8yTaPRSKWj7i6Qnr7R5cls.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 108,
+  "rating": 6.693,
+  "description": "Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.",
+  "created_at": "2026-07-22T15:27:47.331Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5130,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

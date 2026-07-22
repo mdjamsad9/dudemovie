@@ -1,0 +1,24 @@
+{
+  "id": "a2410f5f-b076-46d4-9202-cb89cc2b6772",
+  "title": "The Good Liar",
+  "slug": "the-good-liar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6kmxXfg3aSWrzUlEPt2L0YD4jz9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": 6.679,
+  "description": "Career con man Roy sets his sights on his latest mark: recently widowed Betty, worth millions. And he means to take it all. But as the two draw closer, what should have been another simple swindle takes on the ultimate stakes.",
+  "created_at": "2026-07-22T15:26:20.784Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4727,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

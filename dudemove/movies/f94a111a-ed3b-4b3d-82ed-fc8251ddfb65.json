@@ -1,0 +1,24 @@
+{
+  "id": "f94a111a-ed3b-4b3d-82ed-fc8251ddfb65",
+  "title": "Bethany",
+  "slug": "bethany",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Ohl5ebLGtzMezOqYTOVbdMXQWy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 5.3,
+  "description": "Claire and her husband find themselves moving back into Claire's childhood home only to have the abusive and traumatic memories of her mother come back to haunt her. As her husband starts to get more work, Claire finds herself mixed up in a fog of past and present with a mysterious figure haunting her memories. What is this small figure that is trying to reach out to her, and what does it want?",
+  "created_at": "2026-07-22T15:46:26.862Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6263,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

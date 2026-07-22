@@ -1,0 +1,28 @@
+{
+  "id": "9dceb8fb-ed0d-48e6-bc2b-18fd93de0be3",
+  "title": "Deadlock",
+  "slug": "deadlock",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nNZOJnWWaCnfst7LIU8dOuB9h8q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 96,
+  "rating": 5.2,
+  "description": "Mack is a former soldier who, after the war, moved to a town with a nuclear power plant, where nearly everybody works. Life is peaceful for him there, until a gang of mercenaries led by Ron storm the reactor and take everybody hostage, including a group of children on a school trip. Now Mack is in a race against the clock and must use his military training to defeat Ron before he puts the reactor into meltdown. Along the way he discovers Ron’s motive, which unravels a greater secret Mack’s town is hiding.",
+  "created_at": "2026-07-22T15:16:34.409Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3549,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f7517f6b-99db-4907-8eb8-4b0b6086c0cf",
+  "title": "Whiskey Tango Foxtrot",
+  "slug": "whiskey-tango-foxtrot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 112,
+  "rating": 6.314,
+  "description": "Stuck in a rut, reporter Kim Baker decides to shake things up by leaving her desk job in New York and taking a dangerous assignment in Afghanistan. Far from home and completely out of her comfort zone, a culture-shocked Kim befriends an adventurous reporter Tanya Vanderpoel, a stern Colonel, and a charming photojournalist to help her navigate this crazy new world.",
+  "created_at": "2026-07-22T15:50:43.433Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6521,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

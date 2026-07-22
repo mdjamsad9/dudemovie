@@ -1,0 +1,28 @@
+{
+  "id": "1f540448-4179-459c-ba46-548add8d1ea4",
+  "title": "Barot House",
+  "slug": "barot-house",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/abzKYvfeFYCLJvwc4ZUpdU3YQ7Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.8,
+  "description": "A series of inexplicable and gruesome killings tear the Barot family apart and destroy the close relationship between father and son. Who could be behind this mindless slaughter? When the truth is discovered, it throws the family into further turmoil. But is the truth really the truth or games of a troubled mind?",
+  "created_at": "2026-07-22T15:29:30.668Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4364,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

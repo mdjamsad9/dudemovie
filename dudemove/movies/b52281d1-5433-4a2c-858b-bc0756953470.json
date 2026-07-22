@@ -1,0 +1,24 @@
+{
+  "id": "b52281d1-5433-4a2c-858b-bc0756953470",
+  "title": "The Elephant Whisperers",
+  "slug": "the-elephant-whisperers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rRn0Uj2WXal7FkWWyKK0bleQlOy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 40,
+  "rating": 7.29,
+  "description": "Bomman and Bellie, a couple in south India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other.",
+  "created_at": "2026-07-22T15:12:32.262Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 3174,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

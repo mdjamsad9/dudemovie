@@ -1,0 +1,36 @@
+{
+  "id": "f2e4aad2-51bc-4c70-a0f7-d03aa647bbd1",
+  "title": "Capture the Flag",
+  "slug": "capture-the-flag",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vHzwrSVDnu6Uza6GL0WYzkeXHS1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2015,
+  "duration": 94,
+  "rating": 6.105,
+  "description": "When the brave and determined 12-year-old Mike Goldwing discovers that an eccentric billionaire plans to fly to the moon, steal its vast, valuable natural resources, and destroy the American flag planted by the Apollo XI astronauts during man's historic moon landing, the countdown to a spectacular adventure begins! Mike, teamed with his grandfather, best friends Amy and Marty, and a clever chameleon, blasts off on an incredible moon-bound mission, determined to thwart the billionaire's evil plan, capture the flag, and reunite his family.",
+  "created_at": "2026-07-22T15:50:30.778Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6953,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

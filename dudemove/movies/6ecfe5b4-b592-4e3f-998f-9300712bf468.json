@@ -1,0 +1,32 @@
+{
+  "id": "6ecfe5b4-b592-4e3f-998f-9300712bf468",
+  "title": "The Phoenician Scheme",
+  "slug": "the-phoenician-scheme",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 102,
+  "rating": 6.499,
+  "description": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins.",
+  "created_at": "2026-07-09T16:56:28.624Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 444,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Phoenician.Scheme.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Phoenician.Scheme.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

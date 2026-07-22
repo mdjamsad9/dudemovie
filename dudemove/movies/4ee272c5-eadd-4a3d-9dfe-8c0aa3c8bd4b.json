@@ -1,0 +1,32 @@
+{
+  "id": "4ee272c5-eadd-4a3d-9dfe-8c0aa3c8bd4b",
+  "title": "The Shape of Water",
+  "slug": "the-shape-of-water",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 123,
+  "rating": 7.236,
+  "description": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+  "created_at": "2026-07-22T15:39:20.873Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5869,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

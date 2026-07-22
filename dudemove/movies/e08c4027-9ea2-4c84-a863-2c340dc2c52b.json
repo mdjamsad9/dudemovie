@@ -1,0 +1,32 @@
+{
+  "id": "e08c4027-9ea2-4c84-a863-2c340dc2c52b",
+  "title": "Mortal Kombat",
+  "slug": "mortal-kombat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2021,
+  "duration": 110,
+  "rating": 7.05,
+  "description": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+  "created_at": "2026-07-22T15:19:07.311Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3745,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

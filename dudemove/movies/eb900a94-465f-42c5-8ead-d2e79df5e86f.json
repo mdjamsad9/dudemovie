@@ -1,0 +1,24 @@
+{
+  "id": "eb900a94-465f-42c5-8ead-d2e79df5e86f",
+  "title": "Bromance",
+  "slug": "bromance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/szITM6yIJX1IDCZ255BkA4KFp6H.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Czech",
+  "release_year": 2025,
+  "duration": null,
+  "rating": null,
+  "description": "Sometimes a friendship can crack under the most banal strain. Two burly men deal with such a loss in their own way – with a lot of strangely tender violence. Guided by a mysterious mentor, they finally reunite for one last round.",
+  "created_at": "2026-07-09T16:59:36.659Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 813,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bromance%20(2025)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bromance%20(2025)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

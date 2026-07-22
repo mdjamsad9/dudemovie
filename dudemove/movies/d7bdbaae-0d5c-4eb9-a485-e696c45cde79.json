@@ -1,0 +1,28 @@
+{
+  "id": "d7bdbaae-0d5c-4eb9-a485-e696c45cde79",
+  "title": "Azaad",
+  "slug": "azaad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 147,
+  "rating": 6.417,
+  "description": "In 1920s India, a young stable boy bonds with a spirited horse. Amid rebellion and tyranny, his quest to ride the majestic animal becomes a journey of courage, awakening him to the country's fight for freedom.",
+  "created_at": "2026-07-09T17:01:26.806Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 809,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Azaad%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Azaad%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

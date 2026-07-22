@@ -1,0 +1,36 @@
+{
+  "id": "f1655235-1efe-401c-adc8-9b487c53da97",
+  "title": "The Outfit",
+  "slug": "the-outfit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 7.093,
+  "description": "Leonard is an English tailor who used to craft suits on London’s world-famous Savile Row. After a personal tragedy, he’s ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.",
+  "created_at": "2026-07-22T15:14:51.260Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3314,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

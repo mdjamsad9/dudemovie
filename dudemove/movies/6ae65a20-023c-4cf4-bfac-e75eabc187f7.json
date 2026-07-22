@@ -1,0 +1,28 @@
+{
+  "id": "6ae65a20-023c-4cf4-bfac-e75eabc187f7",
+  "title": "Morris from America",
+  "slug": "morris-from-america",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i3mFOlegdIaeZY8qHvZEtcYd8Te.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2016,
+  "duration": 89,
+  "rating": 6.2,
+  "description": "13-year-old Morris Gentry has just relocated with his single father, Curtis to Heidelberg, Germany. Morris, who fancies himself the next Notorious B.I.G., is a complete fish-out-of-water—a budding hip-hop star in an EDM world. To complicate matters further, Morris quickly falls hard for his cool, rebellious, 15-year-old classmate Katrin. Morris sets out against all odds to take the hip-hop world by storm and win the girl of his dreams.",
+  "created_at": "2026-07-22T15:48:29.497Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6638,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

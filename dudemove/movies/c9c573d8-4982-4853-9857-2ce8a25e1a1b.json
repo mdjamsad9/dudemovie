@@ -1,0 +1,24 @@
+{
+  "id": "c9c573d8-4982-4853-9857-2ce8a25e1a1b",
+  "title": "A Kid Like Jake",
+  "slug": "a-kid-like-jake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xb0lsEUyytspi7fo1ggDybRvZVK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 6.01,
+  "description": "On the eve of the admissions cycle for New York City kindergartens, Alex and Greg Wheeler have high hopes for four-year-old Jake. The director of Jake's preschool encourages them to accentuate Jake's gender expansive behavior to help him stand out. As Alex and Greg navigate their roles as parents, a rift grows between them, one that forces them to confront their own concerns about what's best for Jake, and each other.",
+  "created_at": "2026-07-22T15:37:31.169Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5579,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5a97bd31-bd52-496a-83b2-13e701928803",
+  "title": "Game of Aces",
+  "slug": "game-of-aces",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fio8fGoLHzKvPYMUwufB5C4g8sz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 4.5,
+  "description": "A rescue attempt of a German traitor during World War I has unexpected consequences and sets off an adventure across the Arabian desert.",
+  "created_at": "2026-07-22T15:44:41.735Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6711,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

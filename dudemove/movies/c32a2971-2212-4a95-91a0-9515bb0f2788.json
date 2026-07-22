@@ -1,0 +1,28 @@
+{
+  "id": "c32a2971-2212-4a95-91a0-9515bb0f2788",
+  "title": "Free Solo",
+  "slug": "free-solo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 7.899,
+  "description": "Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.",
+  "created_at": "2026-07-22T15:32:57.687Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5211,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

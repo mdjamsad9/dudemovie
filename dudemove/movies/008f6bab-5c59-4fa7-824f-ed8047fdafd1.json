@@ -1,0 +1,32 @@
+{
+  "id": "008f6bab-5c59-4fa7-824f-ed8047fdafd1",
+  "title": "People, Places, Things",
+  "slug": "people-places-things",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Tt4phUBTF2Uhdth5ZW9KdYV87Y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 85,
+  "rating": 6.532,
+  "description": "Will Henry is a newly single graphic novelist balancing being a parent to his young twin daughters and teaching a classroom full of college students, all the while trying to navigate the rich complexities of new love and letting go of the woman who left him.",
+  "created_at": "2026-07-22T15:51:16.203Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6968,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

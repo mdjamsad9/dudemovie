@@ -1,0 +1,36 @@
+{
+  "id": "96f9dde0-56f3-4b83-95d0-4fdabe6c52c4",
+  "title": "Ghosts of War",
+  "slug": "ghosts-of-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jR2SSICqmyaVV4lcR3PfNldJBPc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 94,
+  "rating": 6.242,
+  "description": "A group of World War II American soldiers encounter a supernatural enemy as they occupy a French castle previously under Nazi control.",
+  "created_at": "2026-07-22T15:21:39.616Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4285,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

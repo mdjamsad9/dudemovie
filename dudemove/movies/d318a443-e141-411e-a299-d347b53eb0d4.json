@@ -1,0 +1,32 @@
+{
+  "id": "d318a443-e141-411e-a299-d347b53eb0d4",
+  "title": "The Birdcatcher",
+  "slug": "the-birdcatcher",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oYRWp7S9gpERJFvVt9TaTDWRPQV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 5.5,
+  "description": "Norway, 1942, during World War II. After being separated from her family, Esther, a young Jewish girl from Trondheim, arrives at an isolated farm where she must assume a new identity in order to survive the Nazi persecution.",
+  "created_at": "2026-07-22T15:28:24.803Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 4938,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

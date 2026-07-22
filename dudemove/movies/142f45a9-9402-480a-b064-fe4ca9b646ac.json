@@ -1,0 +1,28 @@
+{
+  "id": "142f45a9-9402-480a-b064-fe4ca9b646ac",
+  "title": "Rent-A-Pal",
+  "slug": "rent-a-pal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wFaO4uc8po7uNCTSdvbqduMTyuu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 108,
+  "rating": 6.518,
+  "description": "Set in 1990, a lonely bachelor named David searches for an escape from the day-to-day drudgery of caring for his aging mother.  While seeking a partner through a video dating service, he discovers a strange VHS tape called Rent-A-Pal. Hosted by the charming and charismatic Andy, the tape offers him much-needed company, compassion, and friendship. But Andy's friendship comes at a cost, and David desperately struggles to afford the price of admission.",
+  "created_at": "2026-07-22T15:19:36.282Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3946,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

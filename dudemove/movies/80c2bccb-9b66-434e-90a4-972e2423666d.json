@@ -1,0 +1,36 @@
+{
+  "id": "80c2bccb-9b66-434e-90a4-972e2423666d",
+  "title": "Gotti",
+  "slug": "gotti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6vdCoMp68u6JbnlqeXEvxrTNPSm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 106,
+  "rating": 5.3,
+  "description": "John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.",
+  "created_at": "2026-07-22T15:36:50.241Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5488,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

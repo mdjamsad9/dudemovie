@@ -1,0 +1,24 @@
+{
+  "id": "d52afcf7-3d5c-4c3c-a955-8dac25800ad3",
+  "title": "Salem's Lot",
+  "slug": "salem-s-lot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wkx5cdXVo6G8UEeNibthKIZEY3Y.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 113,
+  "rating": 5.992,
+  "description": "Author Ben Mears returns to his childhood home of Jerusalem's Lot only to discover his hometown is being preyed upon by a bloodthirsty vampire.",
+  "created_at": "2026-07-09T17:12:35.101Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 1617,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Salems.Lot.2024.1080p.BluRay.x264%20%5BDDN%5D/Salems.Lot.2024.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

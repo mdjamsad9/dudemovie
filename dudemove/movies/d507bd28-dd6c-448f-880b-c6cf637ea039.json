@@ -1,0 +1,28 @@
+{
+  "id": "d507bd28-dd6c-448f-880b-c6cf637ea039",
+  "title": "ANYA",
+  "slug": "anya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cC5Py0CMalpWGLDGf7IdpMTHgVt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 80,
+  "rating": 3.571,
+  "description": "A newlywed couple turns to a scientist for help having a baby and find themselves at the center of a genetic puzzle with far reaching implications and an ethically ambiguous solution.",
+  "created_at": "2026-07-22T15:27:04.403Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4811,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

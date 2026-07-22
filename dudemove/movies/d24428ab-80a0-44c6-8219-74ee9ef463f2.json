@@ -1,0 +1,24 @@
+{
+  "id": "d24428ab-80a0-44c6-8219-74ee9ef463f2",
+  "title": "American Honey",
+  "slug": "american-honey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/41SVO0AElBAl7zks9dFhJ0OjHni.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 163,
+  "rating": 6.8,
+  "description": "A restless teenager escapes her troubled home and joins a traveling crew of young drifters selling magazines across the American Midwest. Immersed in a world of reckless partying, risky hustles, and fleeting romances, she searches for freedom and belonging on the open road.",
+  "created_at": "2026-07-22T15:48:08.709Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6603,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

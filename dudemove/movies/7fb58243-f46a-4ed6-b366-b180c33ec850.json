@@ -1,0 +1,28 @@
+{
+  "id": "7fb58243-f46a-4ed6-b366-b180c33ec850",
+  "title": "Bound to Vengeance",
+  "slug": "bound-to-vengeance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bA6GPWd69RBlcD1wpowtMhgOmFr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 80,
+  "rating": 5.641,
+  "description": "A young woman, Eve, fights back and manages to escape a malicious abductor. However, after discovering she may not be the only victim, Eve unravels a darker truth and decides to turn the tables on her captor.",
+  "created_at": "2026-07-22T15:51:48.851Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6951,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

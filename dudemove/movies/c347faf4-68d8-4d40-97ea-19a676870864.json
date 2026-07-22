@@ -1,0 +1,32 @@
+{
+  "id": "c347faf4-68d8-4d40-97ea-19a676870864",
+  "title": "Kuberaa",
+  "slug": "kuberaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xjLC5DeA4FQTBv4xe8r3wYqh8lu.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 185,
+  "rating": 6.95,
+  "description": "A ruthless billionaire, Neeraj, uses beggars as benamis to launder money, with the help of a disgraced civil submit servant, Deepak. One of the beggars, Deva, escapes with ₹10,000 crores and becomes the target of a deadly manhunt. He meets Sameera, who joins him in his mission to use the money to uplift society's poor. With Deepak's help, Deva fights back.",
+  "created_at": "2026-07-09T16:56:41.025Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 685,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kuberaa%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/Kuberaa%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

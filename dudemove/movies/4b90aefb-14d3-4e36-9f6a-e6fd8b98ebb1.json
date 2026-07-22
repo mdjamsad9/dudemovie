@@ -1,0 +1,32 @@
+{
+  "id": "4b90aefb-14d3-4e36-9f6a-e6fd8b98ebb1",
+  "title": "OtherLife",
+  "slug": "otherlife",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/stSDsKsb4fS6NPzuHwfAWD2jim8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 6.426,
+  "description": "Ren Amari is the driven inventor of a revolutionary new drug. OtherLife expands the brain's sense of time and creates virtual reality directly in the user's mind. With OtherLife, mere seconds in real life feel like hours or days of exciting adventures. As Ren and her colleagues race around the clock to launch OtherLife, the government muscles in to use the drugs as a radical solution to prison overcrowding. They will create virtual cells where criminals serve long sentences in just minutes of real time. When Ren resists, she finds herself an unwilling guinea pig trapped in a prison cell in her mind. She must escape before she descends into madness, and then regain control of OtherLife before others suffer the same fate.",
+  "created_at": "2026-07-22T15:41:49.294Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6079,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

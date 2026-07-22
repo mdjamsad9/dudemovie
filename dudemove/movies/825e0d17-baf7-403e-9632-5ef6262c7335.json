@@ -1,0 +1,24 @@
+{
+  "id": "825e0d17-baf7-403e-9632-5ef6262c7335",
+  "title": "The Ballad of Lefty Brown",
+  "slug": "the-ballad-of-lefty-brown",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p4L5DM3ZeEuAawFxd2ftgISQMZQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": 6.2,
+  "description": "Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But when a rustler kills Eddie, Lefty is forced from his partner’s shadow and must confront the ugly realities of frontier justice.",
+  "created_at": "2026-07-22T15:39:41.901Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 5862,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

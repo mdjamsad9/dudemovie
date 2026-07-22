@@ -1,0 +1,28 @@
+{
+  "id": "88a8beb0-fa6f-4076-94b7-93e9b2778ef0",
+  "title": "Dear Zindagi",
+  "slug": "dear-zindagi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 151,
+  "rating": 6.998,
+  "description": "Kaira, a young girl, faces problems in her relationships. She meets Dr Jehangir, who helps her resolve her issues with her parents and get a new perspective on life, which leads to her following her passion and an improvement in her love life.",
+  "created_at": "2026-07-22T15:11:06.639Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6766,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

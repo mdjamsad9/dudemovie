@@ -1,0 +1,32 @@
+{
+  "id": "2df3f3b6-89d4-4ba4-9d10-02fcc57d5f12",
+  "title": "Skyscraper",
+  "slug": "skyscraper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cantonese",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 6.311,
+  "description": "Framed and on the run, a former FBI agent must save his family from a blazing fire in the world's tallest building.",
+  "created_at": "2026-07-22T15:35:32.444Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5432,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

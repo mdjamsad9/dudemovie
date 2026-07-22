@@ -1,0 +1,36 @@
+{
+  "id": "4e7353d2-2a1f-4c50-8189-596f7b15967d",
+  "title": "The Dark Kingdom",
+  "slug": "the-dark-kingdom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4kWGZYrTqBRsPIsnZmV3DzJtTi9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 5.7,
+  "description": "To save their Kingdom from an army of undead, a group of warriors must travel through the forbidden lands fighting the fearsome beasts that call The Dark Kingdom their home.",
+  "created_at": "2026-07-22T15:24:06.762Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5194,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

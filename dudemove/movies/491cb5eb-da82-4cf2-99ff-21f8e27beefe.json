@@ -1,0 +1,24 @@
+{
+  "id": "491cb5eb-da82-4cf2-99ff-21f8e27beefe",
+  "title": "God's Not Dead: We The People",
+  "slug": "god-s-not-dead-we-the-people",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rEwacCPCUSdncxZ3RWplQd2WhIe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 91,
+  "rating": 6.635,
+  "description": "Reverend Dave has to defend himself and a group of Christian homeschooling families after an inspection by local government officials.",
+  "created_at": "2026-07-22T15:17:18.976Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3626,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

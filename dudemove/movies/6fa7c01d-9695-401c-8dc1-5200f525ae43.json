@@ -1,0 +1,36 @@
+{
+  "id": "6fa7c01d-9695-401c-8dc1-5200f525ae43",
+  "title": "They Remain",
+  "slug": "they-remain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pCsB2IePfLj5eQXXziGb8Xyxblm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 4.611,
+  "description": "Two scientists investigate the root of environmental changes and strange animal behavior at a remote site where a cult committed atrocities. The isolated location, the unraveling of their relationship, and the biome itself begin to lead them down a path of doom where primeval forces threaten to consume them.  An adaptation of Laird Barron's short story \"–30–\".",
+  "created_at": "2026-07-22T15:37:42.306Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5681,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

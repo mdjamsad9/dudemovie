@@ -1,0 +1,24 @@
+{
+  "id": "fa9dd08b-6366-4e63-8f5c-9cb1566ebcb6",
+  "title": "Raaz Reboot",
+  "slug": "raaz-reboot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9S7KOgIFlr2F3Zv6dFK22rIeR1a.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 127,
+  "rating": 3.983,
+  "description": "Newly-weds Rehaan and Shaina move to Romania after the former is offered a job. When Shaina senses paranormal activity around her, she learns that her husband is harbouring a secret from her.",
+  "created_at": "2026-07-22T15:24:03.329Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6779,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

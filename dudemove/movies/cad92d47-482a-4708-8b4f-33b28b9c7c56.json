@@ -1,0 +1,28 @@
+{
+  "id": "cad92d47-482a-4708-8b4f-33b28b9c7c56",
+  "title": "Mistrust",
+  "slug": "mistrust",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fA4gVCohuVrW4gyB9FeFrzvBk67.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 4.1,
+  "description": "Happy, beautiful and independent, Veronica enjoys being a mistress. No commitment, no strings and she never has to be vulnerable. She has carefully laid every brick in the walls of the fortress surrounding her heart. She's safe and having a great time. However, there is one person who knew her heart before those walls were erected, her best friend Brandon, who has stood by her for too many years to count. And while Veronica has tried to keep her feelings at bay, he is the one who holds the key that opens her Pandora's box of emotions.",
+  "created_at": "2026-07-22T15:37:38.278Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5592,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

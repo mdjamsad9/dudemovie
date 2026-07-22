@@ -1,0 +1,28 @@
+{
+  "id": "b8b17da1-3770-4c87-9eb4-5118cd564d6a",
+  "title": "French Exit",
+  "slug": "french-exit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l5iZuQr62YCs72AZ9P3HwApowaC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2021,
+  "duration": 113,
+  "rating": 5.628,
+  "description": "“My plan was to die before the money ran out,” says 60-year-old penniless Manhattan socialite Frances Price, but things didn’t go as planned. Her husband Franklin has been dead for 12 years and with his vast inheritance gone, she cashes in the last of her possessions and resolves to live out her twilight days anonymously in a borrowed apartment in Paris, accompanied by her directionless son Malcolm and a cat named Small Frank—who may or may not embody the spirit of Frances’s dead husband.",
+  "created_at": "2026-07-22T15:18:55.279Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3726,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

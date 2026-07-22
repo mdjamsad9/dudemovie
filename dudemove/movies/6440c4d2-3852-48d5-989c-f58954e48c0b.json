@@ -1,0 +1,28 @@
+{
+  "id": "6440c4d2-3852-48d5-989c-f58954e48c0b",
+  "title": "Out of the Shadows",
+  "slug": "out-of-the-shadows",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/62jQD0UP8uJO05dukPwLdWndG81.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 6.6,
+  "description": "A newly married detective and his pregnant wife move into their dream home unaware of its dark history. When his wife claims their baby is being tormented by a supernatural force and seeks the help of a renegade demonologist, he must investigate the past to save his family.",
+  "created_at": "2026-07-22T15:37:25.248Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5714,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5b33767-decd-459b-a6b3-7ad981bdc821",
+  "title": "Saala",
+  "slug": "saala",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/snPMaSassBJqbfWoeQyjauykDV7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 121,
+  "rating": null,
+  "description": "A power struggle unfolds over the reopening of a famous 'Parvathy Bar' in Royapuram, pitting two rival factions against each other and a passionate anti-alcohol activist.",
+  "created_at": "2026-07-09T17:13:06.020Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1018,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Saala%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Saala%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7cc03b20-bbb5-4762-abc5-a6624fe5141c",
+  "title": "Good Boy",
+  "slug": "good-boy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/daInKxjoRNLFWIus64fHAy91V0k.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 73,
+  "rating": 6.657,
+  "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+  "created_at": "2026-07-09T16:50:31.193Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 730,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Good.Boy.2025.1080p.WEBRip.x264%20%5BDDN%5D/Good.Boy.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

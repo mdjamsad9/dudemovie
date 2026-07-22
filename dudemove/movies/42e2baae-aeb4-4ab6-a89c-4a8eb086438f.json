@@ -1,0 +1,24 @@
+{
+  "id": "42e2baae-aeb4-4ab6-a89c-4a8eb086438f",
+  "title": "Pagla Ghoda",
+  "slug": "pagla-ghoda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1YAVSYO4MWG7XpZdi4tSciNCWtK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 114,
+  "rating": 6.333,
+  "description": "The story of four men gathered to cremate an unknown girl, each with a personal reason in mind. While sharing a round of drinks after the cremation, their curiosity about the girl's origin piques, and the ensuing discussion reveals secrets hidden to the world.",
+  "created_at": "2026-07-22T15:45:04.089Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6191,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2c26025a-c32a-4213-b41c-13cc2d2832ee",
+  "title": "The Hollow Point",
+  "slug": "the-hollow-point",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/I3nqs2RHuGNjhIHrU7yG3Ai0fc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 5.732,
+  "description": "Los Reyes County, Arizona. Leland, a retired lawman, works with Wallace, the new sheriff who replaces him, when a vicious hit man, sent by a Mexican drug cartel, threatens their border small town.",
+  "created_at": "2026-07-22T15:48:06.988Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6600,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

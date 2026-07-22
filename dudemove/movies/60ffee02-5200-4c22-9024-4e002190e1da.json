@@ -1,0 +1,28 @@
+{
+  "id": "60ffee02-5200-4c22-9024-4e002190e1da",
+  "title": "American Underdog",
+  "slug": "american-underdog",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bzWkU9E1wUEywduYg3cX6iXGMk9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 112,
+  "rating": 7.12,
+  "description": "The true story of Kurt Warner, who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback.",
+  "created_at": "2026-07-22T15:15:32.500Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3418,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

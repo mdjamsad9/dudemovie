@@ -1,0 +1,28 @@
+{
+  "id": "4bbf42a8-dbec-49c4-962f-07c99d017ba4",
+  "title": "Motichoor Chaknachoor",
+  "slug": "motichoor-chaknachoor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9viHDkVC1Xl08jmau6ikudz7eH8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 150,
+  "rating": 6.442,
+  "description": "A woman whose single purpose in life is to marry a foreign-settled groom decides to marry a 36-year-old Dubai-returned professional who is desperate for a bride.",
+  "created_at": "2026-07-22T15:26:23.774Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4797,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

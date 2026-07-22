@@ -1,0 +1,28 @@
+{
+  "id": "786643ea-a9b4-4495-a7b8-52f25d07cd59",
+  "title": "Just One More Kiss",
+  "slug": "just-one-more-kiss",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x0ZjmnLjYfwprQiqmb3NXlgLJgQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 100,
+  "rating": 4,
+  "description": "\"Til death do us part\" wasn't nearly long enough for Max and Abby as his ghost returns to help her get over him. But with a second chance to be together, neither will ever want to say goodbye again.",
+  "created_at": "2026-07-22T15:25:45.786Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4654,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

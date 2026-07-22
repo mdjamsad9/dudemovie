@@ -1,0 +1,32 @@
+{
+  "id": "7bf3358e-623e-4252-b471-fa807d745a87",
+  "title": "Saramsha",
+  "slug": "saramsha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vdcAJCuUyDiv7InkjDMNhOtIOLc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": null,
+  "description": "Tejas, an aspiring writer's world bizarrely collides with Abhay's one evening. A drama begins to unfold as he comes face to face with a character of his story - asking whether a writer writes the story, or does the story choose its writer?",
+  "created_at": "2026-07-09T17:16:14.674Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 1541,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Saramsha%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Saramsha%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

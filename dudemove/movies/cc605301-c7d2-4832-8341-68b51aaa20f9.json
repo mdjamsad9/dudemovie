@@ -1,0 +1,28 @@
+{
+  "id": "cc605301-c7d2-4832-8341-68b51aaa20f9",
+  "title": "Love Games",
+  "slug": "love-games",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bZbfW7ZycVrruGl3tEQcrTECwBo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 114,
+  "rating": 4.538,
+  "description": "A pair of nymphomaniacs compete in seducing couples to sleep with them.",
+  "created_at": "2026-07-22T15:50:40.228Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6554,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

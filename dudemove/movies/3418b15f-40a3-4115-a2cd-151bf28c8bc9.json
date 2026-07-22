@@ -1,0 +1,32 @@
+{
+  "id": "3418b15f-40a3-4115-a2cd-151bf28c8bc9",
+  "title": "The Peanut Butter Falcon",
+  "slug": "the-peanut-butter-falcon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 7.393,
+  "description": "A down-on-his-luck crab fisherman embarks on a journey to get a young man with Down syndrome to a professional wrestling school in rural North Carolina and away from the retirement home where he’s lived for the past two and a half years.",
+  "created_at": "2026-07-22T15:27:42.245Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4925,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

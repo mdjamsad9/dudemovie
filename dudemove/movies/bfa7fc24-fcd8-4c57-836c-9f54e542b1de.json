@@ -1,0 +1,24 @@
+{
+  "id": "bfa7fc24-fcd8-4c57-836c-9f54e542b1de",
+  "title": "My Birthday Song",
+  "slug": "my-birthday-song",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2Yb3m0xxJnhWMI2WWRwiLRdJPaH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 5.667,
+  "description": "Rajiv Kaul, a successful ad-filmmaker, is celebrating his 40th birthday. Everything is as always: friends, food, wine, music. The only thing different is the absence of his wife and kids and the presence of a beautiful stranger, Sandy. Who is she? Why does she stare at him? Do they know each other from before?  A dangerous liaison ensues and throws Rajiv’s life upside down. Nothing is what it seems and there is no one who Rajiv can trust. Neither his wife nor his best friend, but most dangerously, not even himself.  Can Rajiv undo the past and save himself from the impending doom?  A series of twisted events blurs the fine line between past, present and future. Between what’s real and what may not be…",
+  "created_at": "2026-07-22T15:37:04.417Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5604,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

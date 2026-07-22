@@ -1,0 +1,36 @@
+{
+  "id": "8e3bf107-0dfb-4f7b-9a14-cdb26e3f2dc9",
+  "title": "Back to the Outback",
+  "slug": "back-to-the-outback",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 92,
+  "rating": 7.603,
+  "description": "Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.",
+  "created_at": "2026-07-22T15:16:24.493Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3570,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

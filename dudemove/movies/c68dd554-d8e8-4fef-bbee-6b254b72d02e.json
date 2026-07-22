@@ -1,0 +1,36 @@
+{
+  "id": "c68dd554-d8e8-4fef-bbee-6b254b72d02e",
+  "title": "Jack Reacher: Never Go Back",
+  "slug": "jack-reacher-never-go-back-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 118,
+  "rating": 6.026,
+  "description": "Years after resigning command of an elite military police unit, the nomadic, righter-of-wrongs Reacher is drawn back into the life he left behind when his friend and successor, Major Susan Turner is framed for espionage. Reacher will stop at nothing to prove her innocence and to expose the real perpetrators behind the killings of his former soldiers.",
+  "created_at": "2026-07-22T15:47:44.308Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6571,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

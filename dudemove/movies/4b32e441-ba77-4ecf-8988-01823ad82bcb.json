@@ -1,0 +1,28 @@
+{
+  "id": "4b32e441-ba77-4ecf-8988-01823ad82bcb",
+  "title": "The Comeback Trail",
+  "slug": "the-comeback-trail",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ublJIJbc2NZ30ptXj4O2d2apo1t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 104,
+  "rating": 5.834,
+  "description": "Two movie producers who owe money to the mob set up their aging movie star for an insurance scam to try and save themselves. But they wind up getting more than they ever imagined.",
+  "created_at": "2026-07-22T15:19:15.324Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 3820,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

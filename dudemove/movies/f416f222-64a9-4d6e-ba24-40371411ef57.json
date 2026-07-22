@@ -1,0 +1,28 @@
+{
+  "id": "f416f222-64a9-4d6e-ba24-40371411ef57",
+  "title": "The Remains",
+  "slug": "the-remains",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k76aHHeRgqZsdjcSvkzq2KBQLj4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 85,
+  "rating": 4.651,
+  "description": "After a family moves into an old Victorian home, they discover a chest in the attic containing antiques tainted by a malevolent spirit. As the antiques slowly possess each family member, the spirit grows stronger, hellbent on kidnapping the children.",
+  "created_at": "2026-07-22T15:50:08.122Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6500,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

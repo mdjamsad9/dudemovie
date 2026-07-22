@@ -1,0 +1,28 @@
+{
+  "id": "2c5f5fed-471e-4ace-9ea0-df9ddcd2c565",
+  "title": "Plus One",
+  "slug": "plus-one",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4w3bCp5UkLeemdq8MBNlyA3Zl2J.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 6.831,
+  "description": "Longtime single friends, Ben and Alice, agree to be each other's respective plus one at every wedding they're invited to, during a busy summer of wedding fever.",
+  "created_at": "2026-07-22T15:29:31.731Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4365,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

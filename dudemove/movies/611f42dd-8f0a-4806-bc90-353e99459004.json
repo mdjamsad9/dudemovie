@@ -1,0 +1,28 @@
+{
+  "id": "611f42dd-8f0a-4806-bc90-353e99459004",
+  "title": "Akshardham: Operation Vajra Shakti",
+  "slug": "akshardham-operation-vajra-shakti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ckghAN8FuYY2icUyJjVkKXiBrek.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 106,
+  "rating": 10,
+  "description": "NSG commando Hanut Singh, scarred by a past mission, defies orders during a temple siege in Gujarat. He leads a risky operation against terrorists demanding a militant's release, while confronting personal demons.",
+  "created_at": "2026-07-09T16:53:31.643Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 717,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Akshardham%20Operation%20Vajra%20Shakti%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Akshardham%20Operation%20Vajra%20Shakti%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2bc5213b-28d0-417f-be8d-150bb8744a40",
+  "title": "Jagga Jasoos",
+  "slug": "jagga-jasoos",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qXZCEyFkNe5cm7xfkUDvV41Xnfh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 180,
+  "rating": 6.138,
+  "description": "A gifted teenage detective searches for his missing father with his ladylove assistant.",
+  "created_at": "2026-07-22T15:21:25.683Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6288,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

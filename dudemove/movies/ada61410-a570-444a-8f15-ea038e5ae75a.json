@@ -1,0 +1,40 @@
+{
+  "id": "ada61410-a570-444a-8f15-ea038e5ae75a",
+  "title": "Kidnapping Mr. Heineken",
+  "slug": "kidnapping-mr-heineken",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6JAb9jQa4sONkutfqfR3I7LFpGd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2015,
+  "duration": 95,
+  "rating": 6.015,
+  "description": "The true story of the kidnapping of Freddy Heineken, the grandson of the founder of the Heineken brewery, and his driver. They were released after a ransom of 35 million Dutch guilders was paid.",
+  "created_at": "2026-07-22T15:51:35.832Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 7004,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

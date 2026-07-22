@@ -1,0 +1,36 @@
+{
+  "id": "bcdb40e8-77c9-42ec-b0b9-db219a1dc279",
+  "title": "Pride and Prejudice and Zombies",
+  "slug": "pride-and-prejudice-and-zombies",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 108,
+  "rating": 6.166,
+  "description": "A zombie outbreak has fallen upon the land in this reimagining of Jane Austen's classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet is a master of martial arts and weaponry and the handsome Mr. Darcy is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all.",
+  "created_at": "2026-07-22T15:38:00.777Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6713,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

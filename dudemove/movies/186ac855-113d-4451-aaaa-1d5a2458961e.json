@@ -1,0 +1,24 @@
+{
+  "id": "186ac855-113d-4451-aaaa-1d5a2458961e",
+  "title": "The Beautiful Game",
+  "slug": "the-beautiful-game",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 125,
+  "rating": 6.276,
+  "description": "A group of advocates to end homelessness organize an annual tournament for homeless people to compete in a series of football matches known as The Homeless World Cup.",
+  "created_at": "2026-07-09T17:25:23.045Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1518,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Beautiful.Game.2024.1080p.BluRay.x264%20%5BDDN%5D/The.Beautiful.Game.2024.1080p.BluRay.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

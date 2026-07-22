@@ -1,0 +1,28 @@
+{
+  "id": "185b1bf1-43f5-40e1-a87a-a9e1e82c284a",
+  "title": "North v South",
+  "slug": "north-v-south",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gRXTvnEoxCljMC6F2wc5WWWAYog.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 97,
+  "rating": 5.1,
+  "description": "For decades the criminal underworlds of the North and South bumped along begrudgingly. Like the Cold War, territories were respected out of the necessity to avoid apocalypse, with each side keeping tabs on the other’s capability. Such a precarious false harmony could not last forever. Now someone has crossed the line, and there’s no going back. An illicit love affair smolders, breaking taboo and threatening catastrophe at the smallest mistake. It is a romance of purest, unadulterated love, yet so forbidden that its discovery would wreak total carnage. The story is told through vignettes of strikingly original characters, with intertwining subplots that echo the complexity of life in the dog-eat-dog criminal underworld.",
+  "created_at": "2026-07-22T15:50:53.389Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7048,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "189bca18-7e4b-4359-bc4c-fcaeefc94068",
+  "title": "I Love My Mum",
+  "slug": "i-love-my-mum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mGnprNDPsBRHPDOOyjKllZyqbtH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5,
+  "description": "A mother and son duo get inadvertently shipped in a container from London to Morocco with nothing but their pajamas. The adventure takes them through Spain and France on a journey to get home and rebuild their rocky relationship.",
+  "created_at": "2026-07-22T15:30:34.658Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4813,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

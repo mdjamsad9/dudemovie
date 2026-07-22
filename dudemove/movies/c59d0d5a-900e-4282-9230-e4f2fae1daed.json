@@ -1,0 +1,28 @@
+{
+  "id": "c59d0d5a-900e-4282-9230-e4f2fae1daed",
+  "title": "Seal Team",
+  "slug": "seal-team",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2021,
+  "duration": 98,
+  "rating": 6.904,
+  "description": "After his best friend is killed in a shark attack, Quinn, a lovable yet tenacious seal assembles a SEAL TEAM to fight back against a gang of sharks overtaking the neighborhood. But this merry band of international seals are not at all trained for such a mission. They seek the help of a much more skillful combatant, Claggart, but even his tricks and flips can’t whip these guys into shape. However, with a little bit of ingenuity, intelligence and a lot of heart, our SEAL TEAM may actually be able to bring peace back to their undersea community.",
+  "created_at": "2026-07-22T15:16:07.937Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3552,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

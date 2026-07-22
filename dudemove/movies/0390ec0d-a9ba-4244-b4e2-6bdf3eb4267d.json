@@ -1,0 +1,36 @@
+{
+  "id": "0390ec0d-a9ba-4244-b4e2-6bdf3eb4267d",
+  "title": "True to the Game 3",
+  "slug": "true-to-the-game-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hdkmO1feRH5gewP9vAw27Ax2tyY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 98,
+  "rating": 7.3,
+  "description": "The trilogy picks right up where True 2 left us. Gena's awakes to find that her mysterious savior is Quadir. Before happily ever after, Gena has 72 hours to go back to Philly to check on Bria and Gah Git and let them know of her plans.",
+  "created_at": "2026-07-22T15:16:29.094Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3486,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

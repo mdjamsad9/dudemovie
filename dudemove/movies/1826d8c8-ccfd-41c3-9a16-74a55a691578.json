@@ -1,0 +1,24 @@
+{
+  "id": "1826d8c8-ccfd-41c3-9a16-74a55a691578",
+  "title": "The Tragedy of Macbeth",
+  "slug": "the-tragedy-of-macbeth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 105,
+  "rating": 6.9,
+  "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+  "created_at": "2026-07-22T15:15:49.812Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3516,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

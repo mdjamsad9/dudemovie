@@ -1,0 +1,28 @@
+{
+  "id": "50fa67a2-4f63-428b-9175-94fed2cf92e6",
+  "title": "The Manson Family Massacre",
+  "slug": "the-manson-family-massacre",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r1jzT5lb6kb3LSD80ElJl8vsN44.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.1,
+  "description": "A musician begins experiencing terrifying visions when she moves into the house where the Manson Family committed their infamous crimes.",
+  "created_at": "2026-07-22T15:29:47.259Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4343,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

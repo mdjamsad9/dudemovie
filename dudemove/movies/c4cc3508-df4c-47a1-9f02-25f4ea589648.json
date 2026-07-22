@@ -1,0 +1,32 @@
+{
+  "id": "c4cc3508-df4c-47a1-9f02-25f4ea589648",
+  "title": "Heropanti 2",
+  "slug": "heropanti-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cfKTqIwMRYblzesiidC91E1g5Cf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 142,
+  "rating": 3.7,
+  "description": "Babloo is a computer genius and Inaaya is a self-made billionaire. The two fall in love but due to unforeseen circumstances they suddenly part ways as the cybercrime lord, Laila wants him dead.",
+  "created_at": "2026-07-22T15:14:26.974Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3294,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

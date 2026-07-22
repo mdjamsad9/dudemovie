@@ -1,0 +1,32 @@
+{
+  "id": "39f992d7-db95-400d-a5be-9eecb7bbd366",
+  "title": "Alappuzha Gymkhana",
+  "slug": "alappuzha-gymkhana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q4OwzcY6r2L1M1S6uYzmtzjwAqX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 140,
+  "rating": 6.538,
+  "description": "A group of youngsters, after failing their plus two exams, aims to join a common college through the sports quota. They choose boxing as their sport. By luck, they manage to survive the district-level competitions. But what will happen at the higher levels?",
+  "created_at": "2026-07-09T16:56:53.574Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 459,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Alappuzha%20Gymkhana%20(2025)%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Alappuzha%20Gymkhana%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

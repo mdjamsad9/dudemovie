@@ -1,0 +1,32 @@
+{
+  "id": "5b0f4dd5-4d4e-46f5-a440-1c0f6e27d7bd",
+  "title": "In Stereo",
+  "slug": "in-stereo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8gcxX3stp4UYEdY7ucB3XdDTJ4t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 97,
+  "rating": 4.8,
+  "description": "David and Brenda are perfect for each other, and everyone knows it except David and Brenda. After a break-up, they each experience their own rough patch. For David, a self-destructive artistic endeavor and a relationship with an immature beauty—for Brenda, a failing acting career, an eviction notice, and a boyfriend who just doesn’t do it for her. A chance encounter brings them together on the streets of New York at a particularly bad time. David invites Brenda to the opening of his first photography exhibit and the stage is set for a night of drinking and flirting which leads to an untraditional proposal of how they can be together without getting back together. A sharply observed, un-romantic comedy by writer/director Mel Rodriguez III, IN STEREO is a stylish and striking first feature that offers an unflinching look at the complexity of modern relationships.",
+  "created_at": "2026-07-22T15:51:38.179Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7008,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

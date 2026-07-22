@@ -1,0 +1,28 @@
+{
+  "id": "e5f77420-b9a3-4253-a889-9e2fd0a1db85",
+  "title": "Blinded by the Light",
+  "slug": "blinded-by-the-light",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1KsKNrgs7D3zPh9FT9f6MD3ampH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 117,
+  "rating": 6.924,
+  "description": "In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.",
+  "created_at": "2026-07-22T15:27:38.324Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4819,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

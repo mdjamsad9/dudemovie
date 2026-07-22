@@ -1,0 +1,32 @@
+{
+  "id": "9fe824d0-e61e-482b-ad4b-0d0b0e19404e",
+  "title": "Raid 2",
+  "slug": "raid-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/562SAxZP1sLuYqDDTuODu3hdGyx.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 139,
+  "rating": 6.435,
+  "description": "Set seven years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who is attempting to take down a seemingly benevolent politician.",
+  "created_at": "2026-07-09T16:58:31.391Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 483,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Raid%202%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raid%202%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c827370e-9c1e-48c5-8a89-0195ca436aa4",
+  "title": "Amateur Night",
+  "slug": "amateur-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 89,
+  "rating": 5.52,
+  "description": "Guy Carter, an insecure expectant father unable to find work in his field, accepts a job driving hookers around Los Angeles. One long and crazy evening proves to our hero that he is, in fact, up to the task of fatherhood.",
+  "created_at": "2026-07-22T15:49:55.695Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6472,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

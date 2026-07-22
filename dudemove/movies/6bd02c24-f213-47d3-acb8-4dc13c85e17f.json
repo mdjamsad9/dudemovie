@@ -1,0 +1,32 @@
+{
+  "id": "6bd02c24-f213-47d3-acb8-4dc13c85e17f",
+  "title": "The Wonderful Story of Henry Sugar and Three More",
+  "slug": "the-wonderful-story-of-henry-sugar-and-three-more",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8gBOtLTs0GNMEZnisAK132o5V67.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 89,
+  "rating": 7.47,
+  "description": "Four tales unfold in Wes Anderson's anthology of short films adapted from Roald Dahl's beloved stories, \"The Wonderful Story of Henry Sugar\", \"The Swan\", \"The Rat Catcher\", and \"Poison.\"",
+  "created_at": "2026-07-09T17:19:41.666Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 997,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Wonderful.Story.Of.Henry.Sugar.And.Three.More.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Wonderful.Story.Of.Henry.Sugar.And.Three.More.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

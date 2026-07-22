@@ -1,0 +1,28 @@
+{
+  "id": "2c43d2bc-3095-4e69-bab3-5062d80820b6",
+  "title": "Night Hunter",
+  "slug": "night-hunter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 95,
+  "rating": 6.6,
+  "description": "A Minnesota police officer crosses paths with a committed and tireless vigilante as he follows the trail of a ruthless predator responsible for several abductions and murders.",
+  "created_at": "2026-07-22T15:11:49.655Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4411,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

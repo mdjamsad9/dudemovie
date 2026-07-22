@@ -1,0 +1,32 @@
+{
+  "id": "d30316dd-eedf-4463-852a-bbb04a34a408",
+  "title": "Raees",
+  "slug": "raees",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 143,
+  "rating": 6.663,
+  "description": "Set in the early ’80s and ’90s in Gujarat, India, ‘Raees’ is a fictitious story of a crime lord named Raees, who builds an entire empire from scratch, and a police officer who is determined to bring him down.",
+  "created_at": "2026-07-22T15:45:23.398Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6244,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

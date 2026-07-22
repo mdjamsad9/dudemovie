@@ -1,0 +1,32 @@
+{
+  "id": "6750824d-3d7b-4701-acef-512b1d40e36e",
+  "title": "The Hateful Eight",
+  "slug": "the-hateful-eight",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2015,
+  "duration": 188,
+  "rating": 7.757,
+  "description": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+  "created_at": "2026-07-22T15:39:05.398Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 6904,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "de36b1b8-9cc7-4f82-805c-97c1c6f66ab7",
+  "title": "Blaze",
+  "slug": "blaze",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g3rMWJRP6rQO5qP9E6umeRq9hGA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 129,
+  "rating": 6.283,
+  "description": "Inspired by the life of Blaze Foley, the unsung songwriting legend of the Texas outlaw country movement that spawned the likes of Merle Haggard and Willie Nelson. The film weaves together three periods in Blaze's life, exploring his love affair with Sybil Rosen; his last, dark night on Earth; and the impact his songs and his death had on his fans, friends, and foes.",
+  "created_at": "2026-07-22T15:34:09.959Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5292,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

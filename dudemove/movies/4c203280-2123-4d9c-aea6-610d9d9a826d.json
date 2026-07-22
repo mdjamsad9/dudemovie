@@ -1,0 +1,28 @@
+{
+  "id": "4c203280-2123-4d9c-aea6-610d9d9a826d",
+  "title": "Are We Dead Yet",
+  "slug": "are-we-dead-yet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ls0AqBqG32twe7ma846LYN8IJy3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 94,
+  "rating": 5.7,
+  "description": "A robbery goes horrifyingly wrong when five have a go criminals are forced to take refuge from the police in an old castle. What starts out as 'one last job' quickly becomes a hilarious fun filled journey of ghostly misfortunes.",
+  "created_at": "2026-07-22T15:22:23.916Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4484,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

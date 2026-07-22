@@ -1,0 +1,28 @@
+{
+  "id": "3d3814ad-85d8-49b7-ba8e-65cc9b011711",
+  "title": "All These Sleepless Nights",
+  "slug": "all-these-sleepless-nights",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fvvJW25w6ooWAnBHdA9QBIm6J35.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Polish",
+  "release_year": 2016,
+  "duration": 100,
+  "rating": 6.3,
+  "description": "What does it mean to be awake in a world that seems satisfied to be asleep? Kris and Michal push their experiences of life and love to a breaking point as they restlessly roam the city streets in search of answers, adrift in the euphoria and uncertainty of youth.",
+  "created_at": "2026-07-22T15:41:03.197Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6704,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

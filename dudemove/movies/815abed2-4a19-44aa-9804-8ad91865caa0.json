@@ -1,0 +1,32 @@
+{
+  "id": "815abed2-4a19-44aa-9804-8ad91865caa0",
+  "title": "Echoes of War",
+  "slug": "echoes-of-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s594RW4LJ6SEzpcO2qyiTEmCJ3W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 100,
+  "rating": 6.025,
+  "description": "A Civil War veteran returns home to the quiet countryside, only to find himself embroiled in a conflict between his family and the brutish cattle rancher harassing them.",
+  "created_at": "2026-07-22T15:51:46.246Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7024,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

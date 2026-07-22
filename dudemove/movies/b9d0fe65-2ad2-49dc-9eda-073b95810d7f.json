@@ -1,0 +1,24 @@
+{
+  "id": "b9d0fe65-2ad2-49dc-9eda-073b95810d7f",
+  "title": "Gunehgaar",
+  "slug": "gunehgaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nThbym8MQhyW5qORaOBwdiz6sAf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 54,
+  "rating": 3,
+  "description": "Mr. Bansal, a very dubious man, invites Mrinalini, a famous journalist, over to his flat on the premise of discussing top secret news. Once there, she is surprised when Om, the man with whom she is having an affair, also arrives for an entirely different reason. But nothing is as it seems and as the plot twists and turns, the motive of their host Mr. Bansal is revealed.",
+  "created_at": "2026-07-22T15:12:09.590Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3155,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

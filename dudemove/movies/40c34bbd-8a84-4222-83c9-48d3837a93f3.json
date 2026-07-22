@@ -1,0 +1,24 @@
+{
+  "id": "40c34bbd-8a84-4222-83c9-48d3837a93f3",
+  "title": "Fall of Grace",
+  "slug": "fall-of-grace",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oDbYNGiyJUoAcUgyOklyV2YLUlH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 84,
+  "rating": 3,
+  "description": "A troubled couple's lives descend into violence and madness after a demonic entity takes their daughter.",
+  "created_at": "2026-07-22T15:41:01.595Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5956,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

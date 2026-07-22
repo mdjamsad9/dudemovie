@@ -1,0 +1,32 @@
+{
+  "id": "903c18ea-9d87-4315-a185-44251393173f",
+  "title": "The Standoff at Sparrow Creek",
+  "slug": "the-standoff-at-sparrow-creek",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 88,
+  "rating": 6.1,
+  "description": "After a mass shooting at a police funeral, reclusive ex-cop Gannon finds himself unwittingly forced out of retirement when he realizes that the killer belongs to the same militia he joined after quitting the force.",
+  "created_at": "2026-07-22T15:33:14.758Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5003,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

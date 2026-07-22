@@ -1,0 +1,32 @@
+{
+  "id": "778f709b-1f4e-49cb-a051-1d8f59947865",
+  "title": "My Generation",
+  "slug": "my-generation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yiSX8gGmy7zXPdLAe7rJEqMjygs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 87,
+  "rating": 7.1,
+  "description": "The vivid and inspiring story of British film icon Michael Caine's personal journey through 1960s swinging London.",
+  "created_at": "2026-07-22T15:37:35.584Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5708,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

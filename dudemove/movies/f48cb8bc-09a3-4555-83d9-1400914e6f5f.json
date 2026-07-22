@@ -1,0 +1,28 @@
+{
+  "id": "f48cb8bc-09a3-4555-83d9-1400914e6f5f",
+  "title": "Downton Abbey: A New Era",
+  "slug": "downton-abbey-a-new-era",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 7.203,
+  "description": "The Crawley family goes on a grand journey to the south of France to uncover the mystery of the dowager countess's newly inherited villa. Meanwhile, a Hollywood director seeks to film his latest production at Downton.",
+  "created_at": "2026-07-22T15:14:17.453Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3236,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

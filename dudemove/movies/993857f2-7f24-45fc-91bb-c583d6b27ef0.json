@@ -1,0 +1,28 @@
+{
+  "id": "993857f2-7f24-45fc-91bb-c583d6b27ef0",
+  "title": "Anesthesia",
+  "slug": "anesthesia",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ydJYMqO7hk8jL9dMt2W0FjWO0M2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 5.733,
+  "description": "Multiple lives intersect in the aftermath of the violent mugging of a Columbia University philosophy professor.",
+  "created_at": "2026-07-22T15:50:39.299Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6552,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c8558845-2f9f-4171-8a76-743fa80b7976",
+  "title": "Khaali Peeli",
+  "slug": "khaali-peeli",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ovmbklvzSu8pbIthunlKPgIjlOo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 113,
+  "rating": 5.571,
+  "description": "The story is about two childhood sweethearts Pooja and Blackie who gets separated due to certain circumstances when they were kids. Pooja, who is now aprostitute, decides to escape the brothel on turning 18, with a bag full of  stolen money. She bumps into Blackie who is now a very ‘chalu’ Bombay taxi driver. He agrees to ‘drive’ her to freedom, in exchange for a hefty amount.This leads to a series of chase and escape – with the goons on Pooja's trail and the cops on the goons’ trail.",
+  "created_at": "2026-07-22T15:22:14.193Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4192,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

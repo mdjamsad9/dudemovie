@@ -1,0 +1,28 @@
+{
+  "id": "b674eded-c643-4e78-913b-c32189da7357",
+  "title": "Ajji",
+  "slug": "ajji",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l9o0MyXY9n7oukVLmH84v9yMCoT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 104,
+  "rating": 6.632,
+  "description": "After her 10-year-old granddaughter Manda is brutally raped by a serial sex offender, the young girl's Ajji sets out to seek revenge, after custodians of law refuse to bring the rapist to book, thanks to his influential political background.",
+  "created_at": "2026-07-22T15:38:11.305Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5743,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c4cb9697-9e22-4fcb-be72-75277f40d5e4",
+  "title": "The Monster",
+  "slug": "the-monster",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/daQg6pnZj10Ir25uMZ0lMacHKOP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 91,
+  "rating": 5.5,
+  "description": "Stranded on a desolate road at night, a troubled mother and her daughter are stalked by a terrifying woodland creature while confronting the trauma of their fractured relationship.",
+  "created_at": "2026-07-22T15:47:43.546Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6570,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

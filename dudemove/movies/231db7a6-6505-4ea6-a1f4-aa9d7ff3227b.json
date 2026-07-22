@@ -1,0 +1,24 @@
+{
+  "id": "231db7a6-6505-4ea6-a1f4-aa9d7ff3227b",
+  "title": "Naledi: A Baby Elephant's Tale",
+  "slug": "naledi-a-baby-elephant-s-tale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xRzdlU1EZZKefAWmR6I8eWnAQAL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 6.3,
+  "description": "The incredible, true-life story of a baby elephant born into a rescue camp in the wilderness of Botswana. When she's suddenly orphaned at one month of age, it's up to the men who look after her herd to save her life.",
+  "created_at": "2026-07-22T15:39:52.164Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6705,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

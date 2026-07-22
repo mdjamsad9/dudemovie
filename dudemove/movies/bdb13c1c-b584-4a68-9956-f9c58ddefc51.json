@@ -1,0 +1,32 @@
+{
+  "id": "bdb13c1c-b584-4a68-9956-f9c58ddefc51",
+  "title": "The Good Dinosaur",
+  "slug": "the-good-dinosaur",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 93,
+  "rating": 6.748,
+  "description": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
+  "created_at": "2026-07-22T15:42:43.521Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6898,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

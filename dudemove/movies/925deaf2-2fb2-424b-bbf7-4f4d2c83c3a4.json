@@ -1,0 +1,28 @@
+{
+  "id": "925deaf2-2fb2-424b-bbf7-4f4d2c83c3a4",
+  "title": "Arctic",
+  "slug": "arctic",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Danish",
+  "release_year": 2018,
+  "duration": 98,
+  "rating": 6.5,
+  "description": "A man stranded in the Arctic is finally about to receive his long awaited rescue. However, after a tragic accident, his opportunity is lost and he must then decide whether to remain in the relative safety of his camp or embark on a deadly trek through the unknown for potential salvation.",
+  "created_at": "2026-07-22T15:32:07.343Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5081,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

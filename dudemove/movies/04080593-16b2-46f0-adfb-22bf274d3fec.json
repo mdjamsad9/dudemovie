@@ -1,0 +1,28 @@
+{
+  "id": "04080593-16b2-46f0-adfb-22bf274d3fec",
+  "title": "Temple",
+  "slug": "temple",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AjG0N5uWAWfF4HlYT2feb7tnFHo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2017,
+  "duration": 78,
+  "rating": 3.89,
+  "description": "Three American tourists follow a mysterious map deep into the jungles of Japan searching for an ancient temple. When spirits entrap them, their adventure quickly becomes a horrific nightmare.",
+  "created_at": "2026-07-22T15:43:12.636Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6065,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

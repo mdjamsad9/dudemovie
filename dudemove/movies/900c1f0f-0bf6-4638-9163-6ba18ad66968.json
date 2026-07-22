@@ -1,0 +1,36 @@
+{
+  "id": "900c1f0f-0bf6-4638-9163-6ba18ad66968",
+  "title": "Suburbicon",
+  "slug": "suburbicon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": 5.895,
+  "description": "In the quiet family town of Suburbicon during the 1950s, the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge and murder.",
+  "created_at": "2026-07-22T15:40:06.321Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5933,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

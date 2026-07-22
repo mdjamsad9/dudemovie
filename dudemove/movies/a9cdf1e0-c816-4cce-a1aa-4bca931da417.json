@@ -1,0 +1,24 @@
+{
+  "id": "a9cdf1e0-c816-4cce-a1aa-4bca931da417",
+  "title": "American Factory",
+  "slug": "american-factory",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2019,
+  "duration": 110,
+  "rating": 7.194,
+  "description": "In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk of an abandoned General Motors plant, hiring two thousand blue-collar Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.",
+  "created_at": "2026-07-22T15:19:29.550Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4326,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

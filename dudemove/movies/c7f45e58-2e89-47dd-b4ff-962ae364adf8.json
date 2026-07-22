@@ -1,0 +1,36 @@
+{
+  "id": "c7f45e58-2e89-47dd-b4ff-962ae364adf8",
+  "title": "Ron's Gone Wrong",
+  "slug": "ron-s-gone-wrong",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 107,
+  "rating": 7.857,
+  "description": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+  "created_at": "2026-07-22T15:16:37.119Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3489,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3545ab0f-a17a-4259-890e-39bcb0fe1e2a",
+  "title": "29 to Life",
+  "slug": "29-to-life",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qpQnV4EM5ayLZbNUtbm8HtEifT7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 6.5,
+  "description": "Coming of age story about a young adult who is living out of his car and his journey to get his life together.",
+  "created_at": "2026-07-22T15:30:37.597Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5145,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

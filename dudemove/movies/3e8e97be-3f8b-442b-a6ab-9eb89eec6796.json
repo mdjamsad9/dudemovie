@@ -1,0 +1,36 @@
+{
+  "id": "3e8e97be-3f8b-442b-a6ab-9eb89eec6796",
+  "title": "Walking Out",
+  "slug": "walking-out",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wK3l4ZfcRXFph6uop7yr7scM2SP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 5.899,
+  "description": "A city teen travels to Montana to go hunting with his estranged father, only for the strained trip to become a battle for survival when they encounter a grizzly bear.",
+  "created_at": "2026-07-22T15:39:56.467Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5856,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

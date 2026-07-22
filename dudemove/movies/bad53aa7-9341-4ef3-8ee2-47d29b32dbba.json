@@ -1,0 +1,32 @@
+{
+  "id": "bad53aa7-9341-4ef3-8ee2-47d29b32dbba",
+  "title": "Black",
+  "slug": "black",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rIoIQ4JX8wNQWynnwhghtgkAu0G.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.647,
+  "description": "Vasanth and Aaranya, a couple move into a serene row house, eager for peace and privacy, but a violent storm leaves them trapped inside, unsettling supernatural disturbances threaten to unravel their marriage. Vasanth must uncover the truth behind these supernatural occurrences before everything falls apart.",
+  "created_at": "2026-07-22T15:09:57.479Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 1371,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c84f4f44-8e59-4da3-b090-87fa443fa5a8",
+  "title": "The Killer",
+  "slug": "the-killer-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2024,
+  "duration": 126,
+  "rating": 6.255,
+  "description": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+  "created_at": "2026-07-09T17:14:05.832Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 873,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Killer.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Killer.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

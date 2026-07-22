@@ -1,0 +1,32 @@
+{
+  "id": "7b4f2ab1-4574-4b98-a4ec-a60916aaac31",
+  "title": "Crypto",
+  "slug": "crypto",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fzTvnA3buXsjdmjrYRDozKBFF78.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 105,
+  "rating": 5.368,
+  "description": "A young agent is tasked with investigating a tangled web of corruption and fraud in New York.",
+  "created_at": "2026-07-22T15:31:10.269Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4929,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

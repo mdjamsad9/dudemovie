@@ -1,0 +1,36 @@
+{
+  "id": "23729b4d-4c25-4cd1-a008-18fd44aa8273",
+  "title": "BLAME!",
+  "slug": "blame",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7eoRQY7VUMawwBnuD6uwN4szc8k.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2017,
+  "duration": 106,
+  "rating": 6.54,
+  "description": "In the distant technological future, civilization has reached its ultimate Net-based form. An \"infection\" in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city's controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.",
+  "created_at": "2026-07-22T15:40:40.260Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5942,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

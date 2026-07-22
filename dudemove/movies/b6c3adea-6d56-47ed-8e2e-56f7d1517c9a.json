@@ -1,0 +1,28 @@
+{
+  "id": "b6c3adea-6d56-47ed-8e2e-56f7d1517c9a",
+  "title": "Ideal Home",
+  "slug": "ideal-home",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bmXBT2uL4HQGimyfy5iu4ESnEaJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 91,
+  "rating": 6.4,
+  "description": "A couple is going through marital troubles made worse when a previously unknown grandson shows up.",
+  "created_at": "2026-07-22T15:37:09.817Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5685,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

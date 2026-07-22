@@ -1,0 +1,32 @@
+{
+  "id": "9a7a5013-7fb3-48e1-813f-52bf0272c133",
+  "title": "Frantz",
+  "slug": "frantz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cL77uNb2BB8eXjYl9JIrWXCM8so.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2016,
+  "duration": 113,
+  "rating": 7.346,
+  "description": "In the aftermath of WWI, a young German who grieves the death of her fiancé in France meets a mysterious French man who visits the fiance’s grave to lay flowers.",
+  "created_at": "2026-07-22T15:44:17.581Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6780,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

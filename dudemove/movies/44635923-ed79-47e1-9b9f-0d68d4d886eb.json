@@ -1,0 +1,28 @@
+{
+  "id": "44635923-ed79-47e1-9b9f-0d68d4d886eb",
+  "title": "Swan Song",
+  "slug": "swan-song",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wvjlNWpwtAwVksnMirtNKohf1kh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 105,
+  "rating": 6.836,
+  "description": "An aging hairdresser escapes his nursing home to embark on an odyssey across his small town to style a dead woman's hair for her funeral, rediscovering his sparkle along the way.",
+  "created_at": "2026-07-22T15:16:19.478Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3478,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

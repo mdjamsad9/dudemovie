@@ -1,0 +1,28 @@
+{
+  "id": "4c3c9b1a-e1ba-431a-9e50-7d46e973097b",
+  "title": "Madness in the Method",
+  "slug": "madness-in-the-method",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g17vNW5wj341VpsQirNCppIhVNn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 5.216,
+  "description": "Jason wants to be taken more seriously as an actor, so he asks his friend Kevin Smith for advice, and decides to become a method actor. Trouble is, being a method actor drives him mad and he slowly becomes a serial killer.",
+  "created_at": "2026-07-22T15:29:36.266Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4357,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

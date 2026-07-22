@@ -1,0 +1,36 @@
+{
+  "id": "3201d65c-7ae5-4645-bd3d-c2326860d5c9",
+  "title": "Snowden",
+  "slug": "snowden",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 135,
+  "rating": 7.111,
+  "description": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+  "created_at": "2026-07-22T15:48:11.224Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6607,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "52f8736f-2e48-43e0-8c94-db0d6fcff41c",
+  "title": "The Wedding Invitation",
+  "slug": "the-wedding-invitation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iARCUwpqX5G21VZfxy5eRDBIJTP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 3.8,
+  "description": "Three best friends endure heartbreak, humiliation & hangovers to find a date to the wedding of a lifetime.",
+  "created_at": "2026-07-22T15:44:50.025Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6264,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

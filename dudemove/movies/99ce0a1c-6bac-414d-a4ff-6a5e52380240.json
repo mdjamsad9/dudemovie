@@ -1,0 +1,28 @@
+{
+  "id": "99ce0a1c-6bac-414d-a4ff-6a5e52380240",
+  "title": "Do Not Reply",
+  "slug": "do-not-reply",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ryHaa5HMMOzcDXM9nExW0puZwGN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 5.691,
+  "description": "Chelsea, a high school introvert, is abducted through a social media app and is forced to look like other girls Brad holds captive. Chelsea desperately attempts to persuade them to escape before they all become victims in his virtual reality filmed murders.",
+  "created_at": "2026-07-22T15:22:14.688Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4474,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

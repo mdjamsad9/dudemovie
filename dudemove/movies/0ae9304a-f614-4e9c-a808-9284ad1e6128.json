@@ -1,0 +1,32 @@
+{
+  "id": "0ae9304a-f614-4e9c-a808-9284ad1e6128",
+  "title": "The Beast Within",
+  "slug": "the-beast-within",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8cKyTYUMHcgGCq46pppGC3zt2w3.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 97,
+  "rating": 5.685,
+  "description": "Ten-year-old Willow follows her parents on one of their secret late-night treks to the heart of an ancient forest. After witnessing her father undergo a terrible transformation, she too becomes ensnared by the dark ancestral secret that they've so desperately tried to conceal.",
+  "created_at": "2026-07-09T17:15:11.084Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 897,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Beast.Within.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Beast.Within.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

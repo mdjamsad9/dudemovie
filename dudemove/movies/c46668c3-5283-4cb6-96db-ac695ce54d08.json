@@ -1,0 +1,28 @@
+{
+  "id": "c46668c3-5283-4cb6-96db-ac695ce54d08",
+  "title": "Snake Eyes: G.I. Joe Origins",
+  "slug": "snake-eyes-g-i-joe-origins",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 121,
+  "rating": 6.434,
+  "description": "After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes' honor and allegiance will be tested – even if that means losing the trust of those closest to him.",
+  "created_at": "2026-07-22T15:17:12.204Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3546,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

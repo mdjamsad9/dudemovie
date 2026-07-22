@@ -1,0 +1,24 @@
+{
+  "id": "01a52d59-46cc-4138-a746-dd2883291bff",
+  "title": "God's Not Dead 2",
+  "slug": "god-s-not-dead-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xsRYqQJv6t0f4J6DYeYraM9uKKT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 121,
+  "rating": 6.151,
+  "description": "When a high school teacher is asked a question in class about Jesus, her reasoned response lands her in deep trouble and could expel God from the public square once and for all.",
+  "created_at": "2026-07-22T15:50:05.914Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6497,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

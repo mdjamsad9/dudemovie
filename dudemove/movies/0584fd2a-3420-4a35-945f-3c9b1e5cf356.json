@@ -1,0 +1,28 @@
+{
+  "id": "0584fd2a-3420-4a35-945f-3c9b1e5cf356",
+  "title": "Governor",
+  "slug": "governor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 122,
+  "rating": 6,
+  "description": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+  "created_at": "2026-07-09T16:33:16.426Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 229,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Governor%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Governor%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

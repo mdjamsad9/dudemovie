@@ -1,0 +1,24 @@
+{
+  "id": "de065035-7e50-45a3-a671-c0dcae3764e3",
+  "title": "I Know You're in There",
+  "slug": "i-know-you-re-in-there",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bbdbfrn9sx76NeH8q5vsooZtoTS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 84,
+  "rating": 5.1,
+  "description": "When his mother commits suicide, Tom Redding discovers he has a long lost sister that cannot move or talk. Together they travel to their dead mother's isolated home, where Tom hopes to document her illness, only to be driven to the brink of madness by a supernatural evil.",
+  "created_at": "2026-07-22T15:48:51.504Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6676,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

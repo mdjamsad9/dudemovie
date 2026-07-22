@@ -1,0 +1,28 @@
+{
+  "id": "dc780a98-d3ed-4408-89ba-549c73530f42",
+  "title": "47 Meters Down: Uncaged",
+  "slug": "47-meters-down-uncaged",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g4z7mDmJmx23vsVg6XNWcnXb6gc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.717,
+  "description": "Four teenage girls go on a diving adventure to explore a submerged Mayan city. Once inside, their rush of excitement turns into a jolt of terror as they discover the sunken ruins are a hunting ground for deadly great white sharks. With their air supply steadily dwindling, the friends must navigate the underwater labyrinth of claustrophobic caves and eerie tunnels in search of a way out of their watery hell.",
+  "created_at": "2026-07-22T15:27:41.710Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4870,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

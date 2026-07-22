@@ -1,0 +1,28 @@
+{
+  "id": "d90a61b1-c8b7-46ca-ad3f-e64c6dd21551",
+  "title": "The Pale Door",
+  "slug": "the-pale-door",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jkAZb9jteax1XRnEFlCU9Oer1YJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 96,
+  "rating": 5.16,
+  "description": "The Dalton gang escape to a nearby town after a train robbery goes south, but they are met by a coven of witches with sinister plans for the unsuspecting outlaws.",
+  "created_at": "2026-07-22T15:22:58.332Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 4295,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

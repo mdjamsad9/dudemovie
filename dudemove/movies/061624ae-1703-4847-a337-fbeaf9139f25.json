@@ -1,0 +1,32 @@
+{
+  "id": "061624ae-1703-4847-a337-fbeaf9139f25",
+  "title": "Cuckoo",
+  "slug": "cuckoo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 103,
+  "rating": 5.737,
+  "description": "After reluctantly moving to the German Alps with her father and his new family, Gretchen discovers that their new town hides sinister secrets, as she's plagued by strange noises and frightening visions of a woman pursuing her.",
+  "created_at": "2026-07-09T17:13:41.269Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1015,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Cuckoo.2024.1080p.WEBRip.x264%20%5BDDN%5D/Cuckoo.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

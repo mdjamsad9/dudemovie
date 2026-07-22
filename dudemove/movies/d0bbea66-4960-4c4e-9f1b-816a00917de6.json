@@ -1,0 +1,24 @@
+{
+  "id": "d0bbea66-4960-4c4e-9f1b-816a00917de6",
+  "title": "Daawat-e-Biryani",
+  "slug": "daawat-e-biryani",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oO2prVWE5QhN4DOx7bW8X8YvvYk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 85,
+  "rating": 10,
+  "description": "Panchali travels from Kolkata to Lucknow and discovers her grandmother's secret biryani recipe. During this journey, she also discovers interesting aspects of her grandmother's life.",
+  "created_at": "2026-07-22T15:28:21.670Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4907,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

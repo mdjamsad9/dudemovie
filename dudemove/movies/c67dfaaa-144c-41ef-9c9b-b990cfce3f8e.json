@@ -1,0 +1,40 @@
+{
+  "id": "c67dfaaa-144c-41ef-9c9b-b990cfce3f8e",
+  "title": "Rock Dog",
+  "slug": "rock-dog",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 6.259,
+  "description": "When a radio falls from the sky into the hands of a wide-eyed Tibetan Mastiff, he leaves home to fulfill his dream of becoming a musician, setting into motion a series of completely unexpected events.",
+  "created_at": "2026-07-22T15:45:50.863Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6414,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

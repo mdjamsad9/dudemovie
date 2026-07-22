@@ -1,0 +1,28 @@
+{
+  "id": "8db57c15-d731-406a-aba9-1196f7bf8d7e",
+  "title": "Monsters of Man",
+  "slug": "monsters-of-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sENLgxCVtZqCMQIeuLep8FmdInr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 132,
+  "rating": 6.4,
+  "description": "A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they'd be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.",
+  "created_at": "2026-07-22T15:20:46.478Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4169,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

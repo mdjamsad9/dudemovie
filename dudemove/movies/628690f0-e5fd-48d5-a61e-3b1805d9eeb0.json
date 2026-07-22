@@ -1,0 +1,32 @@
+{
+  "id": "628690f0-e5fd-48d5-a61e-3b1805d9eeb0",
+  "title": "Spiral",
+  "slug": "spiral",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mkIek8qY0tc8YxSgUs83bkWFihD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5.707,
+  "description": "A same-sex couple moves to a small town so they can enjoy a better quality of life and raise their 16 year-old daughter with the best social values. But nothing is as it seems in their picturesque neighborhood.",
+  "created_at": "2026-07-22T15:22:21.737Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4487,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

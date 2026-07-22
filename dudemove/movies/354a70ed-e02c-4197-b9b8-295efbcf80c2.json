@@ -1,0 +1,24 @@
+{
+  "id": "354a70ed-e02c-4197-b9b8-295efbcf80c2",
+  "title": "HAK_MTL",
+  "slug": "hak-mtl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/K0yMAzSRt5YUZaqmKGSATe7AAc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 67,
+  "rating": 7.1,
+  "description": "Does privacy still exist in 2019? In less than a generation, the internet has become a mass surveillance machine based on one simple mindset: If it's free, you're the product. Our information is captured, stored and made accessible to corporations and governments across the world. To the hacker community, Big Brother is real and only a technological battle can defeat him.",
+  "created_at": "2026-07-22T15:30:47.529Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4458,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

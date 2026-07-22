@@ -1,0 +1,24 @@
+{
+  "id": "2277cc0f-7c7c-49a4-ae9f-b18c1c1faf04",
+  "title": "The Spearhead Effect",
+  "slug": "the-spearhead-effect",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cYJu2EebHsCNizovuGsflm26Tdl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 6.5,
+  "description": "After exposing police corruption, a journalist is drawn into an underground world of violent vigilantism.",
+  "created_at": "2026-07-22T15:40:21.224Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5887,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

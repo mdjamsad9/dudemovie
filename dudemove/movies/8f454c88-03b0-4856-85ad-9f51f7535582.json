@@ -1,0 +1,32 @@
+{
+  "id": "8f454c88-03b0-4856-85ad-9f51f7535582",
+  "title": "Siberia",
+  "slug": "siberia-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 91,
+  "rating": 4.858,
+  "description": "Clint is a dead man who lives alone in a frozen tundra. However, this isolation cannot bring either evasion or peace. One night, he begins a journey where he must confront his dreams, memories, and visions, crossing the darkness into the light.",
+  "created_at": "2026-07-22T15:18:26.358Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3838,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2d930f9d-0598-4146-a01b-07e23cc1fe70",
+  "title": "The Giant",
+  "slug": "the-giant",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Nsckncd6KF4P7sNKtNhsTwhmzw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 3.25,
+  "description": "When her first love suddenly reappears in her small Georgia town the same night that a series of killings begin, Charlotte is forced to reconcile her past and present, her traumas and nostalgia, as it becomes increasingly clear that her life is at risk in ways she never imagined.",
+  "created_at": "2026-07-22T15:21:14.144Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4507,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9a4f8040-f1a0-4347-a9e0-8fe47add0f9e",
+  "title": "Hamid",
+  "slug": "hamid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/35QHuEC4cUP1R7O0XtPIfRPF4mz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 108,
+  "rating": 7,
+  "description": "Eight year-old Hamid learns that 786 is God's number and decides to try and reach out to God, by dialing this number. He wants to talk to his father, who his mother tells him has gone to Allah. One fine day the phone call is answered.",
+  "created_at": "2026-07-22T15:31:39.984Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4948,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

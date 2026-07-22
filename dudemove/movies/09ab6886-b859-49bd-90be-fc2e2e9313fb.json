@@ -1,0 +1,28 @@
+{
+  "id": "09ab6886-b859-49bd-90be-fc2e2e9313fb",
+  "title": "Koi Jaane Na",
+  "slug": "koi-jaane-na",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDf9CzhjMf0xh8Z4ZNM7tMiVsgQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 141,
+  "rating": 5.5,
+  "description": "A heartbroken writer struggling with writer`s block goes to a quiet hill station where he finds love again but uncovers a copycat serial killer who has mysteriously come alive and is killing everyone around him.",
+  "created_at": "2026-07-22T15:18:43.483Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3708,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

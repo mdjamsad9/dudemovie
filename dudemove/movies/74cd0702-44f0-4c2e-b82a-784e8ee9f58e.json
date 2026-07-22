@@ -1,0 +1,24 @@
+{
+  "id": "74cd0702-44f0-4c2e-b82a-784e8ee9f58e",
+  "title": "Addicted to Fresno",
+  "slug": "addicted-to-fresno",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lFoDP8JBZFA0r0wMgPGvQyi6IrA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 85,
+  "rating": 5.3,
+  "description": "Two co-dependent sisters, a recovering sex addict and a lonely lesbian who work as hotel maids in Fresno, go to ludicrous lengths to cover up an accidental crime.",
+  "created_at": "2026-07-22T15:51:11.592Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7076,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

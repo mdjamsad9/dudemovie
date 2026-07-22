@@ -1,0 +1,36 @@
+{
+  "id": "0944eedd-462c-4a9b-9284-c4c24bb045e6",
+  "title": "Once Upon a Time in Venice",
+  "slug": "once-upon-a-time-in-venice",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5rr7tQfzS0ARqEea3W9SNSFGRzb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 94,
+  "rating": 5.224,
+  "description": "Steve Ford is a private detective in Venice Beach, Calif., who's good with the ladies, bad with the punches and wild about his dog Buddy. When local thugs steal Buddy, Ford turns to Spyder, their devious leader, and forges an unlikely alliance. With help from his best friend, Steve pulls out the big guns to retrieve Spyder's stolen cash and cocaine and save Buddy.",
+  "created_at": "2026-07-22T15:44:09.079Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6225,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

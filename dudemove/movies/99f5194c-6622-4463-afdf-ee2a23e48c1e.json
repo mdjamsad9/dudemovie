@@ -1,0 +1,32 @@
+{
+  "id": "99f5194c-6622-4463-afdf-ee2a23e48c1e",
+  "title": "Akira",
+  "slug": "akira",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jU0gw5z6JrazhGOh4UfULKqt268.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 138,
+  "rating": 5.49,
+  "description": "Akira Sharma is your average Jane from Jodhpur. Early in life she sees an atrocity committed on a neighbour and learns to defend herself. And, a spitfire is born.",
+  "created_at": "2026-07-22T15:47:58.170Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6587,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

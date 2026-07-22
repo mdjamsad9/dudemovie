@@ -1,0 +1,32 @@
+{
+  "id": "5ea21d8b-5f71-4d1c-911a-368cead57bc1",
+  "title": "Zoolander 2",
+  "slug": "zoolander-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n8AJzALlTPBwe9Tkv3tdxbiAr9i.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 100,
+  "rating": 4.929,
+  "description": "Derek and Hansel are modelling again when an opposing company attempts to take them out from the business.",
+  "created_at": "2026-07-22T15:44:28.586Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6718,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

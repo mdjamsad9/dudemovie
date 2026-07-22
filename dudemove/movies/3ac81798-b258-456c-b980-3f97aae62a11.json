@@ -1,0 +1,32 @@
+{
+  "id": "3ac81798-b258-456c-b980-3f97aae62a11",
+  "title": "Bad Times at the El Royale",
+  "slug": "bad-times-at-the-el-royale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 141,
+  "rating": 6.8,
+  "description": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.",
+  "created_at": "2026-07-22T15:35:07.332Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5465,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

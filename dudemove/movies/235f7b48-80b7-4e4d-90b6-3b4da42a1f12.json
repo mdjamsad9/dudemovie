@@ -1,0 +1,36 @@
+{
+  "id": "235f7b48-80b7-4e4d-90b6-3b4da42a1f12",
+  "title": "Prisoners of the Ghostland",
+  "slug": "prisoners-of-the-ghostland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2021,
+  "duration": 103,
+  "rating": 5,
+  "description": "In the treacherous frontier city of Samurai Town, a ruthless bank robber is sprung from jail by wealthy warlord The Governor, whose adopted granddaughter Bernice has gone missing. The Governor offers the prisoner his freedom in exchange for retrieving the runaway. Strapped into a leather suit that will self-destruct within five days, the bandit sets off on a journey to find the young woman—and his own path to redemption.",
+  "created_at": "2026-07-22T15:17:32.220Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 3575,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

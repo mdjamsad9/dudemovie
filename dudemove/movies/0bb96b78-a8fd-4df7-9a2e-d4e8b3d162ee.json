@@ -1,0 +1,24 @@
+{
+  "id": "0bb96b78-a8fd-4df7-9a2e-d4e8b3d162ee",
+  "title": "Minari",
+  "slug": "minari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 115,
+  "rating": 7.326,
+  "description": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+  "created_at": "2026-07-22T15:20:22.922Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3779,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

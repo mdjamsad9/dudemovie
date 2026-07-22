@@ -1,0 +1,28 @@
+{
+  "id": "08a619d7-b3d6-4201-a48f-0b6835596646",
+  "title": "Eaten by Lions",
+  "slug": "eaten-by-lions",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pmKaUE4XL5gKiNn1ix8JZHbdqzP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 5.6,
+  "description": "Omar and Pete are half brothers. When their parents are eaten by lions they embark on a journey to find Omar's real father. What follows is a funny, heart-warming journey of self-discovery for both boys...in Blackpool. The Choudray family represents a truly contemporary example of modern multicultural Britain - but what will the brothers make of their eccentric newfound family? Will they be going to Mecca or Mecca bingo? In contrast to the old fashioned stereotypes about Blackpool, the comedy is sharp, current and non-stop.",
+  "created_at": "2026-07-22T15:29:57.889Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5678,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

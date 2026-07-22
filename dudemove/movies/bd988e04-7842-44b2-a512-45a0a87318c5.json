@@ -1,0 +1,36 @@
+{
+  "id": "bd988e04-7842-44b2-a512-45a0a87318c5",
+  "title": "Harmony",
+  "slug": "harmony",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4brb3rtSdafSXV1QMS75gbqcl3W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 6.318,
+  "description": "Born with an energetic power to absorb fear from others, a young woman must find love to balance the fears of her own and fight an ever growing storm of negative energy.",
+  "created_at": "2026-07-22T15:30:32.222Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5174,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

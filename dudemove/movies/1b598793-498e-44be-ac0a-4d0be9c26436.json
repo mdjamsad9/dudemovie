@@ -1,0 +1,32 @@
+{
+  "id": "1b598793-498e-44be-ac0a-4d0be9c26436",
+  "title": "Elliot: The Littlest Reindeer",
+  "slug": "elliot-the-littlest-reindeer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sYq809WTep01HO5oJR9o9VbEDJv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 89,
+  "rating": 5.7,
+  "description": "When Blitzen announces his retirement on December 21st, a miniature horse has 3 days to fulfill his lifelong dream of earning a spot on Santa's team at the North Pole try-outs.",
+  "created_at": "2026-07-22T15:34:30.087Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5389,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

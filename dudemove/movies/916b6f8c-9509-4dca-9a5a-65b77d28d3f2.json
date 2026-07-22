@@ -1,0 +1,28 @@
+{
+  "id": "916b6f8c-9509-4dca-9a5a-65b77d28d3f2",
+  "title": "Harbinger Down",
+  "slug": "harbinger-down",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9vmjC5lfEdb26H8hjt73TWTvyNN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 82,
+  "rating": 4.541,
+  "description": "A group of grad students have booked passage on the fishing trawler Harbinger to study the effects of global warming on a pod of Orcas in the Bering Sea. When the ship's crew dredges up a recently thawed piece of old Soviet space wreckage, things get downright deadly. It seems that the Russians experimented with tardigrades, tiny resilient animals able to withstand the extremes of space radiation. The creatures survived, but not without mutation. Now the crew is exposed to aggressively mutating organisms. And after being locked in ice for 3 decades, the creatures aren't about to give up the warmth of human companionship.",
+  "created_at": "2026-07-22T15:51:41.166Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 7013,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

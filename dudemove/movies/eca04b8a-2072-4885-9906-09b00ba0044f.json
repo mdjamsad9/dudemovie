@@ -1,0 +1,24 @@
+{
+  "id": "eca04b8a-2072-4885-9906-09b00ba0044f",
+  "title": "Fire in the Mountains",
+  "slug": "fire-in-the-mountains",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gyCjyKR6cCW9reeN3yCgNDoDpjJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 84,
+  "rating": 8,
+  "description": "A mother toils to save money to build a road in a Himalayan village to take her wheelchair-bound son for physiotherapy, but her husband, who believes that an expensive religious ritual is the remedy, steals her savings.",
+  "created_at": "2026-07-22T15:12:13.743Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3153,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "057628f1-35df-4f3c-8e14-cd5b4348f9f6",
+  "title": "Ordinary World",
+  "slug": "ordinary-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mEJGrkLvo34nJDLjmLGIqb3SvPb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 86,
+  "rating": 5.719,
+  "description": "Perry is a happily married father of two living a comfortable but sedate life in the suburbs. On the occasion of his 40th birthday, he seeks to revisit his former life as the lead singer in a popular punk band though his middle-aged reality quickly (and hilariously) clashes with the indulgences of his youth.",
+  "created_at": "2026-07-22T15:37:52.845Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6798,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

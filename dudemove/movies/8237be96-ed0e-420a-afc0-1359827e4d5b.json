@@ -1,0 +1,28 @@
+{
+  "id": "8237be96-ed0e-420a-afc0-1359827e4d5b",
+  "title": "Narivetta",
+  "slug": "narivetta",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 139,
+  "rating": 6.4,
+  "description": "A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
+  "created_at": "2026-07-09T16:57:29.418Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 469,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Narivetta.2025.720p.HDCAM.Hindi.HC.ESub.x264%20%5BDDN%5D/Narivetta.2025.720p.HDCAM.Hindi.HC.ESub.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a8c36e54-ff58-4dc9-b7de-af4d0bedb02d",
+  "title": "Lords of Chaos",
+  "slug": "lords-of-chaos",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 118,
+  "rating": 6.768,
+  "description": "A teenager's quest to launch Norwegian Black Metal in Oslo in the 1990s results in a very violent outcome.",
+  "created_at": "2026-07-22T15:32:37.183Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5141,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

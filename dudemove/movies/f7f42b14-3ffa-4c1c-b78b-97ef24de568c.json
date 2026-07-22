@@ -1,0 +1,28 @@
+{
+  "id": "f7f42b14-3ffa-4c1c-b78b-97ef24de568c",
+  "title": "The Chosen",
+  "slug": "the-chosen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ntc1h25jQiz1twYFcg1zJ0gkTYF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2015,
+  "duration": 88,
+  "rating": 4.4,
+  "description": "When a child-stealing demon attaches itself to a little girl, her family is thrust into a battle against time in order to save the girl and send the demon back to hell.",
+  "created_at": "2026-07-22T15:49:15.607Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6990,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

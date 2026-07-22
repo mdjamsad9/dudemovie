@@ -1,0 +1,28 @@
+{
+  "id": "b20ad199-cb2e-492a-8c0b-155360bfbae2",
+  "title": "2 Hearts",
+  "slug": "2-hearts",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a7bW3uKOMPBnmHs8gnlpfhTD8YQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 7.2,
+  "description": "When illness strikes two people who are polar opposites, life and death bring them together in surprising ways.",
+  "created_at": "2026-07-22T15:21:34.216Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4119,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

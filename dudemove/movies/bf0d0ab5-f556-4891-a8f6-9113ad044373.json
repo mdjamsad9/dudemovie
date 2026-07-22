@@ -1,0 +1,36 @@
+{
+  "id": "bf0d0ab5-f556-4891-a8f6-9113ad044373",
+  "title": "Midnight in the Switchgrass",
+  "slug": "midnight-in-the-switchgrass",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 99,
+  "rating": 5.79,
+  "description": "FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a FDLE agent to put an end to the infamous 'Truck Stop Killer'.",
+  "created_at": "2026-07-22T15:18:07.826Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3747,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

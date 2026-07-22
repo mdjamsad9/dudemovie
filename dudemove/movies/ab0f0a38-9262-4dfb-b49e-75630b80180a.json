@@ -1,0 +1,32 @@
+{
+  "id": "ab0f0a38-9262-4dfb-b49e-75630b80180a",
+  "title": "Burn Country",
+  "slug": "burn-country",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lovPmTGfxeWkUF8eTKqroXna8Ih.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 102,
+  "rating": 5,
+  "description": "A former war journalist now writing for a paper in Northern California is drawn into conflict at home.",
+  "created_at": "2026-07-22T15:48:13.015Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6609,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

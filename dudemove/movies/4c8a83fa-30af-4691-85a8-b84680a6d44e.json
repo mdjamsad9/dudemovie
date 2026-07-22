@@ -1,0 +1,28 @@
+{
+  "id": "4c8a83fa-30af-4691-85a8-b84680a6d44e",
+  "title": "Sorry For Your Loss",
+  "slug": "sorry-for-your-loss",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qnzov4Gn2YU97GxwOtk2Qk7LFa4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 5,
+  "description": "When a new dad has to return home to bury his estranged father, things take a turn for the complicated when the dead man's final wish is to have his ashes scattered on the field of his favorite professional sports team.",
+  "created_at": "2026-07-22T15:35:24.148Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5399,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

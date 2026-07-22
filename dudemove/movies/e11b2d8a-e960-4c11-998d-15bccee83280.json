@@ -1,0 +1,36 @@
+{
+  "id": "e11b2d8a-e960-4c11-998d-15bccee83280",
+  "title": "LEGO DC Batman: Family Matters",
+  "slug": "lego-dc-batman-family-matters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 72,
+  "rating": 6.696,
+  "description": "Suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.",
+  "created_at": "2026-07-22T15:30:21.519Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4470,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

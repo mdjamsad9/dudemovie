@@ -1,0 +1,28 @@
+{
+  "id": "9fe81a7b-e511-4519-b5b1-03cbf265d8fb",
+  "title": "Scarlett",
+  "slug": "scarlett",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iDOxuzoRcDa9RoNDu8zNdLUtTeX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 103,
+  "rating": 6.667,
+  "description": "A college student must draw upon all the skills her spy-father taught her to protect herself and save her father from weapons dealers.",
+  "created_at": "2026-07-22T15:18:35.196Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 3864,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

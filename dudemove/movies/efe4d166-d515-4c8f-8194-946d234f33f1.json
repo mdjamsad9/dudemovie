@@ -1,0 +1,28 @@
+{
+  "id": "efe4d166-d515-4c8f-8194-946d234f33f1",
+  "title": "Falling Inn Love",
+  "slug": "falling-inn-love",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 6.522,
+  "description": "When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.",
+  "created_at": "2026-07-22T15:29:07.324Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4410,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

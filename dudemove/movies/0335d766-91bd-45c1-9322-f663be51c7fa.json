@@ -1,0 +1,28 @@
+{
+  "id": "0335d766-91bd-45c1-9322-f663be51c7fa",
+  "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+  "slug": "straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 72,
+  "rating": 7.695,
+  "description": "With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustace, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.",
+  "created_at": "2026-07-22T15:17:30.257Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3781,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

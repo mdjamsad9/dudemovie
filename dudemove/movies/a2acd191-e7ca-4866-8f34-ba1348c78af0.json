@@ -1,0 +1,28 @@
+{
+  "id": "a2acd191-e7ca-4866-8f34-ba1348c78af0",
+  "title": "Red Joan",
+  "slug": "red-joan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uTQWDi31W4RpxviHGyiwEYHXDDA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 101,
+  "rating": 6.6,
+  "description": "London, England, May 2000. The peaceful life of elderly Joan Stanley is suddenly disrupted when she is arrested by the British Intelligence Service and accused of providing information to communist Russia during the forties.",
+  "created_at": "2026-07-22T15:29:29.405Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5049,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

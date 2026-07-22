@@ -1,0 +1,24 @@
+{
+  "id": "65eda0ca-36c6-46b1-aea3-a8f0e286a244",
+  "title": "A Bad Moms Christmas",
+  "slug": "a-bad-moms-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 104,
+  "rating": 6.3,
+  "description": "Amy, Kiki and Carla – three under-appreciated and over-burdened women – rebel against the challenges and expectations of the Super Bowl for mothers: Christmas. And if creating a more perfect holiday for their families wasn’t hard enough, they have to do all of that while hosting and entertaining their own mothers.",
+  "created_at": "2026-07-22T15:40:35.717Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5967,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

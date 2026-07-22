@@ -1,0 +1,28 @@
+{
+  "id": "326381d9-932e-4164-b94b-564458be5cc6",
+  "title": "Dreamland",
+  "slug": "dreamland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 5.887,
+  "description": "Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. Discovering fugitive bank robber Allison Wells hiding in his small town, he is torn between claiming the bounty on her head and his growing attraction to the seductive criminal.",
+  "created_at": "2026-07-22T15:20:13.861Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5022,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

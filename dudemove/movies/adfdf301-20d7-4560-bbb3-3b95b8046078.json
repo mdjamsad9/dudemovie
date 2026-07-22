@@ -1,0 +1,28 @@
+{
+  "id": "adfdf301-20d7-4560-bbb3-3b95b8046078",
+  "title": "Code Name: Tiranga",
+  "slug": "code-name-tiranga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mAcdxgmbLvflTz9cASmsURO09N2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 137,
+  "rating": 4.4,
+  "description": "Tasked with capturing a wanted criminal, a fierce undercover agent wrestles with perilously high stakes when her heart is pulled into the mission.",
+  "created_at": "2026-07-22T15:12:52.909Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3168,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

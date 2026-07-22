@@ -1,0 +1,32 @@
+{
+  "id": "81f5c78f-50f0-45f8-a91d-a23ccafc87e9",
+  "title": "Running with the Devil",
+  "slug": "running-with-the-devil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qJ2H94PpXxZgiGGUNkyLSKZzm8u.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 100,
+  "rating": 5.407,
+  "description": "A leader of a drug cartel sends his two toughest henchmen to investigate why a shipment was botched.",
+  "created_at": "2026-07-22T15:27:00.794Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4869,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

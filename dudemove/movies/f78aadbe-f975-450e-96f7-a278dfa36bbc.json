@@ -1,0 +1,28 @@
+{
+  "id": "f78aadbe-f975-450e-96f7-a278dfa36bbc",
+  "title": "Miracles from Heaven",
+  "slug": "miracles-from-heaven",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hz9VF1TfaM0D04pYneSXUkNeOZv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 119,
+  "rating": 7.452,
+  "description": "When Christy discovers her 10-year-old daughter Anna has a rare, incurable disease, she becomes a ferocious advocate for her daughter’s healing as she searches for a solution. After Anna has a freak accident and falls three stories, a miracle unfolds in the wake of her dramatic rescue that leaves medical specialists mystified, her family restored and their community inspired.",
+  "created_at": "2026-07-22T15:50:42.289Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6557,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

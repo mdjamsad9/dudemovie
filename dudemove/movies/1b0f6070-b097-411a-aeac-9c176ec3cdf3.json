@@ -1,0 +1,32 @@
+{
+  "id": "1b0f6070-b097-411a-aeac-9c176ec3cdf3",
+  "title": "The Walk",
+  "slug": "the-walk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2015,
+  "duration": 123,
+  "rating": 6.988,
+  "description": "The story of French high-wire artist Philippe Petit's attempt to cross the Twin Towers of the World Trade Center in 1974.",
+  "created_at": "2026-07-22T15:50:55.444Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 7051,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5bae189d-e50e-4bc6-82a5-5e4b13a01f68",
+  "title": "Don't Look Up",
+  "slug": "don-t-look-up",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 138,
+  "rating": 7.061,
+  "description": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+  "created_at": "2026-07-22T15:16:13.257Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3519,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

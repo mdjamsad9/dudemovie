@@ -1,0 +1,32 @@
+{
+  "id": "3c461f0f-cc8e-43d1-9b72-15f0e80dc73d",
+  "title": "Aliens Stole My Body",
+  "slug": "aliens-stole-my-body",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8hORwWyXsNqX7eDZPSNN5iVTckF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 88,
+  "rating": 4.1,
+  "description": "The Galactic Patrol is back - but they've lost Deputy Rod Allbright's body. It's been stolen by B'KR, the most fiendish villain in the galaxy, which leaves Rod's mind sharing one body with his annoying cousin Elspeth. Stranded on a mysterious alien planet, our young heroes embark on a mission to find the only being who can stop B'KR once and for all, the legendary time-strider himself; Art Allbright - who also happens to be Rod's dad. The Galactic Patrol's high-flying adventures continue in this thrilling second film based on the global best-selling book series from acclaimed author Bruce Coville and Simon and Schuster Children's Publishing. This rip-roaring sequel draws the crew of the Good Ship Ferkel into a web of alien plots that will test their courage to the utmost -- and ultimately bring them face-to-face with one of the galaxy's most guarded secrets.",
+  "created_at": "2026-07-22T15:23:15.134Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4264,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

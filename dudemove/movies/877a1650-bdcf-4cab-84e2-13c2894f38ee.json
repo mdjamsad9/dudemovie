@@ -1,0 +1,28 @@
+{
+  "id": "877a1650-bdcf-4cab-84e2-13c2894f38ee",
+  "title": "Me and Earl and the Dying Girl",
+  "slug": "me-and-earl-and-the-dying-girl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eLjS2bLMjln2n2I73Xu6TaANPDZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 105,
+  "rating": 7.536,
+  "description": "Greg is coasting through senior year of high school as anonymously as possible, avoiding social interactions like the plague while secretly making spirited, bizarre films with Earl, his only friend. But both his anonymity and friendship threaten to unravel when his mother forces him to befriend a classmate with leukemia.",
+  "created_at": "2026-07-22T15:51:16.886Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6969,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

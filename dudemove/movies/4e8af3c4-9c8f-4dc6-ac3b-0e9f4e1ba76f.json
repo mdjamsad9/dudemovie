@@ -1,0 +1,28 @@
+{
+  "id": "4e8af3c4-9c8f-4dc6-ac3b-0e9f4e1ba76f",
+  "title": "Andron",
+  "slug": "andron",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xVyHjAwCVYcoCQQHyc1zQH9DSoU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2015,
+  "duration": 100,
+  "rating": 3.632,
+  "description": "A group of people are plunged into a dark, claustrophobic maze, where they must fight to survive, as the outside world watches.",
+  "created_at": "2026-07-22T15:42:35.757Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6891,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

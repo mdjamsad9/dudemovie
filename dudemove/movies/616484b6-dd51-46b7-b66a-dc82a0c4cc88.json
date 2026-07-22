@@ -1,0 +1,28 @@
+{
+  "id": "616484b6-dd51-46b7-b66a-dc82a0c4cc88",
+  "title": "The Surrender",
+  "slug": "the-surrender",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t45V9B1kSvwVpupWie1t9e1YWXe.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 95,
+  "rating": 6.022,
+  "description": "A fraught mother-daughter relationship is put to a terrifying test when the family patriarch dies, and the grieving mother hires a mysterious stranger to bring her husband back from the dead.",
+  "created_at": "2026-07-09T16:57:40.076Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 468,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Surrender.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Surrender.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

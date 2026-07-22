@@ -1,0 +1,28 @@
+{
+  "id": "7a03a639-295c-4756-8f67-0e049e000924",
+  "title": "Pocket Full of Game",
+  "slug": "pocket-full-of-game",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dfHX80RXH0UEm0Y3HsdXGSc6ZDR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 125,
+  "rating": null,
+  "description": "Porsha is a female hustler who has it all money, beauty, respect. She earned it all by being loyal and respecting the codes of the street. A chance encounter with a stick up kid named Fresh introduces her to a whole new world.",
+  "created_at": "2026-07-22T15:21:07.992Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4209,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

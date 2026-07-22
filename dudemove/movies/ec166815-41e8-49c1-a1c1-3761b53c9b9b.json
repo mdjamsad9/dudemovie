@@ -1,0 +1,36 @@
+{
+  "id": "ec166815-41e8-49c1-a1c1-3761b53c9b9b",
+  "title": "Baaghi",
+  "slug": "baaghi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4IEqNeF3PzL06Y2YKsvi4uMGJ1q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 134,
+  "rating": 6.4,
+  "description": "Ronny is a rebellious man, who falls in love with Sia but circumstances separate them. Years later, Ronny learns that Sia is abducted by a martial arts champion, Raghav.",
+  "created_at": "2026-07-22T15:50:38.375Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6550,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

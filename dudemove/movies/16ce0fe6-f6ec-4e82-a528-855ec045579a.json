@@ -1,0 +1,24 @@
+{
+  "id": "16ce0fe6-f6ec-4e82-a528-855ec045579a",
+  "title": "Mass",
+  "slug": "mass",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c3MQ3YZKJadrH2Yv45i07qMHGPM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 111,
+  "rating": 7.287,
+  "description": "Two couples meet for a painful and raw conversation in the aftermath of a violent tragedy.",
+  "created_at": "2026-07-22T15:16:11.594Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3518,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

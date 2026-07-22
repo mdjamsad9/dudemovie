@@ -1,0 +1,32 @@
+{
+  "id": "b92b39ea-690c-411d-b8cf-e30066da2f4e",
+  "title": "Hedda",
+  "slug": "hedda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 107,
+  "rating": 5.6,
+  "description": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
+  "created_at": "2026-07-09T16:50:10.405Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 811,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Hedda.2025.1080p.WEBRip.x264%20%5BDDN%5D/Hedda.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

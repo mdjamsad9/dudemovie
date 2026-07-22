@@ -1,0 +1,28 @@
+{
+  "id": "c5ee6433-c380-4a9d-92b6-91ed44ffb596",
+  "title": "Rocketry: The Nambi Effect",
+  "slug": "rocketry-the-nambi-effect",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o7A1agEoXvwyyOmIbHnUhfnC34j.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": 154,
+  "rating": 7.703,
+  "description": "The story of the great Indian rocket scientist, Shri Nambi Narayanan's life, a true patriot, who was turned into a villain in the blink of an eye after being falsely accused of treason.",
+  "created_at": "2026-07-22T15:13:59.873Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3258,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

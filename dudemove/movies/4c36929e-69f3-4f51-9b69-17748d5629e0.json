@@ -1,0 +1,28 @@
+{
+  "id": "4c36929e-69f3-4f51-9b69-17748d5629e0",
+  "title": "Denial",
+  "slug": "denial",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cJLbcWqV6sKwPpX5uT4xaklTgQz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 109,
+  "rating": 6.848,
+  "description": "Acclaimed writer and historian Deborah E. Lipstadt must battle for historical truth to prove the Holocaust actually occurred when David Irving, a renowned denier, sues her for libel.",
+  "created_at": "2026-07-22T15:48:06.156Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6566,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1568f188-4feb-4958-913f-1aa78ca92537",
+  "title": "Unexpected",
+  "slug": "unexpected",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hTLFVY6egfTRhMNAI71LyT0tVGj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 86,
+  "rating": 5.693,
+  "description": "An inner-city high school teacher discovers she is pregnant at the same time as one of her most promising students and the two develop an unlikely friendship while struggling to navigate their unexpected pregnancies.",
+  "created_at": "2026-07-22T15:51:15.830Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6967,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

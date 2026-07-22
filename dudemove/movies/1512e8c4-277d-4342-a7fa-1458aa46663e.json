@@ -1,0 +1,32 @@
+{
+  "id": "1512e8c4-277d-4342-a7fa-1458aa46663e",
+  "title": "Fan",
+  "slug": "fan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ui7DYyQB4wsbBvom97KPNkldYWa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 138,
+  "rating": 6.2,
+  "description": "A man who bears a striking resemblance to a renowned movie star becomes an obsessive fan, but when his fierce love is spurned by the star, he decides to destroy the star's life and reputation.",
+  "created_at": "2026-07-22T15:50:47.166Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6526,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

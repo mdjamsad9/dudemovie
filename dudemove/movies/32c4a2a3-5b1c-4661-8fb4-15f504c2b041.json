@@ -1,0 +1,28 @@
+{
+  "id": "32c4a2a3-5b1c-4661-8fb4-15f504c2b041",
+  "title": "Dead Awake",
+  "slug": "dead-awake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2962UpmXU2flDWCQj9ImeHfWXRG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 99,
+  "rating": 5.175,
+  "description": "Kate Bowman (Jocelin Donahue) is an average social worker who, after the sudden death of her twin sister, is investigating the mysterious deaths of other people who died in their sleep. Shortly before their deaths, the victims all reported a supernatural force that appeared to them while they were suffering from sleep paralysis. When Kate investigates further into the case, she opens herself up to the creature's wrath and soon finds herself and her family suffering from an ancient evil.",
+  "created_at": "2026-07-22T15:43:41.651Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6785,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

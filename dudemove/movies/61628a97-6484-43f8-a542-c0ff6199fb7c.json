@@ -1,0 +1,28 @@
+{
+  "id": "61628a97-6484-43f8-a542-c0ff6199fb7c",
+  "title": "Ramam Raghavam",
+  "slug": "ramam-raghavam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tmlHe006pSdY7IZukT9hVLA3h9U.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 118,
+  "rating": null,
+  "description": "In a tale of deceit and redemption, a son's greed leads him to betray his honest father, a government official in India, but as he plots his downfall, unexpected revelations force him to confront his own conscience.",
+  "created_at": "2026-07-09T17:02:15.679Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 577,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ramam%20Raghavam%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Ramam%20Raghavam%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

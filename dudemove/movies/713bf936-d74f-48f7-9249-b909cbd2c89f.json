@@ -1,0 +1,24 @@
+{
+  "id": "713bf936-d74f-48f7-9249-b909cbd2c89f",
+  "title": "Azhar",
+  "slug": "azhar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jwvpI85cqfVfs3ioFHu4invTLeI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 130,
+  "rating": 5.645,
+  "description": "The famous and idolized Indian cricketer Mohammad Azharuddin, known as Azhar, faces in court those who accuse him of match-fixing in exchange for large sums of money during the national team's tour of South Africa.",
+  "created_at": "2026-07-22T15:50:10.410Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6502,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

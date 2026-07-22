@@ -1,0 +1,32 @@
+{
+  "id": "1a626054-2f78-45f7-a610-fb1162a2bf14",
+  "title": "13 Hours: The Secret Soldiers of Benghazi",
+  "slug": "13-hours-the-secret-soldiers-of-benghazi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Arabic",
+  "release_year": 2016,
+  "duration": 144,
+  "rating": 7.276,
+  "description": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+  "created_at": "2026-07-22T15:50:47.569Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6527,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

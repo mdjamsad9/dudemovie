@@ -1,0 +1,32 @@
+{
+  "id": "527f9b9f-20fd-427b-bf02-15fcb5f2df5c",
+  "title": "Brothers of the Wind",
+  "slug": "brothers-of-the-wind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uA3urgwFH0ctZAAS61ohM9iGOB5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 98,
+  "rating": 7.134,
+  "description": "The way of the eagle is to raise two chicks. The stronger is destined always to throw the weaker from the nest. Man also has his ways, often to hurt those closest to him.  Lukas suffers at the hands of a father who has withdrawn since the loss of his wife. Killed whilst rescuing the infant Lukas, the boy now carries the burden of her death.  Our eagle’s story begins in the nest. The first-born chick pushes his weaker brother to a certain death on the forest floor. But fate intervenes and the chick is found by Lukas. Naming him Abel, Lukas cares for the creature in secret, finding a love and companionship denied to him at home. But when the day comes to release Abel back into the wild, will Lukas find his own release into a new life?",
+  "created_at": "2026-07-22T15:12:40.293Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6923,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

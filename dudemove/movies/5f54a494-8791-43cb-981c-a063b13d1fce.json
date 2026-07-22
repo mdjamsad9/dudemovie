@@ -1,0 +1,28 @@
+{
+  "id": "5f54a494-8791-43cb-981c-a063b13d1fce",
+  "title": "Experimenter",
+  "slug": "experimenter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kMTLGbekuHkpw4M8XKdN2d7n2aF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 97,
+  "rating": 6.498,
+  "description": "Yale University, 1961. Stanley Milgram designs a psychology experiment that still resonates to this day, in which people think they’re delivering painful electric shocks to an affable stranger strapped into a chair in another room. Despite his pleads for mercy, the majority of subjects don’t stop the experiment, administering what they think is a near-fatal electric shock, simply because they’ve been told to do so. With Nazi Adolf Eichmann’s trial airing in living rooms across America, Milgram strikes a nerve in popular culture and the scientific community with his exploration into people’s tendency to comply with authority. Celebrated in some circles, he is also accused of being a deceptive, manipulative monster, but his wife Sasha stands by him through it all.",
+  "created_at": "2026-07-22T15:50:52.463Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 7045,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "72d23a50-b989-46c9-a1c4-fc828f243a1a",
+  "title": "Snatched",
+  "slug": "snatched",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gsleO1KultziWltEAngAEZkxQhf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 5.336,
+  "description": "When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.",
+  "created_at": "2026-07-22T15:43:44.861Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6297,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "17282383-c7bb-4912-aa04-7f02e1186dfb",
+  "title": "211",
+  "slug": "211",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/81RColr4rau6DZ7z9eMsksokcfk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 86,
+  "rating": 5.276,
+  "description": "Inspired by one of the longest and bloodiest real-life events in police history, Officer Mike Chandler and a young civilian passenger find themselves under-prepared and outgunned when fate puts them squarely in the crosshairs of a daring bank heist in progress by a fearless team of highly-trained and heavily-armed men.",
+  "created_at": "2026-07-22T15:37:12.197Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5689,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "730b4480-8835-4a28-85c3-ae4197e73f99",
+  "title": "Zipper",
+  "slug": "zipper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qHQbXfdYhh3CRtIufoiD4AxPWi0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 103,
+  "rating": 5.5,
+  "description": "Sam Ellis is a man on the rise — a hot-shot federal prosecutor on the cusp of a bright political future. But what was meant to be a one-time experience with an escort turns into a growing addiction — a new demon threatening to destroy his life, family, and career.",
+  "created_at": "2026-07-22T15:51:14.393Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6964,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

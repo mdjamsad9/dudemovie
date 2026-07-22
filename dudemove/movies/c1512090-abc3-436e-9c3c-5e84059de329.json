@@ -1,0 +1,32 @@
+{
+  "id": "c1512090-abc3-436e-9c3c-5e84059de329",
+  "title": "Critters Attack!",
+  "slug": "critters-attack",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iQJQNElDQqQ3iXf46pyMmhReoyp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 6,
+  "description": "Mysterious alien Critters have crash-landed in a small college town, devouring every living thing they encounter. Drea and the kids she's babysitting must try desperately to save themselves from the ravenous, rolling beasts. Will Drea discover her inner badass, and will it be enough to stop the Critter onslaught?",
+  "created_at": "2026-07-22T15:29:53.980Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 3873,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

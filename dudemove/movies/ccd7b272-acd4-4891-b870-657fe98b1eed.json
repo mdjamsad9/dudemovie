@@ -1,0 +1,24 @@
+{
+  "id": "ccd7b272-acd4-4891-b870-657fe98b1eed",
+  "title": "Blood Quantum",
+  "slug": "blood-quantum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pQnfrys3nyOpUxktxK2CBnm7Rv8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 5.8,
+  "description": "The dead are coming back to life outside the isolated Mi'kmaq reserve of Red Crow, except for its Indigenous inhabitants who are strangely immune to the zombie plague.",
+  "created_at": "2026-07-22T15:23:54.094Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4435,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

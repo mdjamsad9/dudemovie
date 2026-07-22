@@ -1,0 +1,28 @@
+{
+  "id": "25b1028b-b8c7-48a4-9b58-be6404151096",
+  "title": "Mona Darling",
+  "slug": "mona-darling",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f7NhXgX6PbbRs3wExlop8p5VpIM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 103,
+  "rating": 5,
+  "description": "A contemporary who-dunnit, with a splash of supernatural, set in a college campus somewhere in India (a la Indian Institute Of Technology) where a few mysterious deaths occur and the only common link between the victims is that, seconds before their deaths, they all accepted a 'facebook friend request' from a certain profile page of Mona_Darling. The person behind the said page, Mona happens to be missing. Her friend, and a fellow student, Sarah recruits the help of a classmate, Wiki - a borderline sociopathic genius. This odd-couple of amateur sleuths carry on their investigation as the story leads them into unexpected corners and terrifying revelations. It's a pacy thriller, confined to limited locations on one single campus, populated by fresh, sexy, young characters that can be executed on a fairly shoestring budget. More importantly it captures the present zeitgeist of young India and its obsession with social networking.",
+  "created_at": "2026-07-22T15:36:41.167Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5724,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

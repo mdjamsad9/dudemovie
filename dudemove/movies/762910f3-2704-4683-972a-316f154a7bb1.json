@@ -1,0 +1,28 @@
+{
+  "id": "762910f3-2704-4683-972a-316f154a7bb1",
+  "title": "Promised",
+  "slug": "promised",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tMxSoMlnztsmFX3uLulUwTDHQPG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 5.5,
+  "description": "In 1953, two young Italian children are promised in marriage by their fathers. Twenty one years on - despite changing times, fading traditions and 70's liberation - the pair are expected to marry, or face the consequences.",
+  "created_at": "2026-07-22T15:23:03.363Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4450,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

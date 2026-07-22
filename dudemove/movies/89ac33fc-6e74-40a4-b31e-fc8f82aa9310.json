@@ -1,0 +1,24 @@
+{
+  "id": "89ac33fc-6e74-40a4-b31e-fc8f82aa9310",
+  "title": "Equity",
+  "slug": "equity",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rCl96gJRjX4R1l1jArouQpPc5qw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 100,
+  "rating": 5.62,
+  "description": "Senior investment banker Naomi Bishop’s world of high-power big money is brutal and fierce, and one she thrives in. When a controversial IPO threatens the fragile balance of power and confidentiality, Naomi finds herself entangled in a web of politics and deception.",
+  "created_at": "2026-07-22T15:48:21.462Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6628,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

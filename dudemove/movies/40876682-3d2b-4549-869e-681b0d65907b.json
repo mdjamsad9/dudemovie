@@ -1,0 +1,32 @@
+{
+  "id": "40876682-3d2b-4549-869e-681b0d65907b",
+  "title": "People You May Know",
+  "slug": "people-you-may-know",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xweS8KHCYU84GNNUpsrQ7CV8ZeV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 92,
+  "rating": 5.2,
+  "description": "An introvert realizes he can be whomever he wants to be on the Internet.",
+  "created_at": "2026-07-22T15:39:02.007Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5787,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

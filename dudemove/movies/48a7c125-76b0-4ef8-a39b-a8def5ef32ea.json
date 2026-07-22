@@ -1,0 +1,32 @@
+{
+  "id": "48a7c125-76b0-4ef8-a39b-a8def5ef32ea",
+  "title": "Asylum: Twisted Horror and Fantasy Tales",
+  "slug": "asylum-twisted-horror-and-fantasy-tales",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3rxKic2PDrheSXMCG82vm9LAm8e.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Korean",
+  "release_year": 2020,
+  "duration": 105,
+  "rating": 5.854,
+  "description": "Brandon prepares to give his last stand-up comedy show. As his stories and jokes pass, the public begins to cheer up. But at that precise moment Brandon will realize that these stories have a strong relationship with his past. More than he imagines.",
+  "created_at": "2026-07-22T15:20:52.684Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4047,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

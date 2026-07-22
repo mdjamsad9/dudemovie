@@ -1,0 +1,28 @@
+{
+  "id": "3a5c016f-665a-4ee3-9fc0-7b67f48e4617",
+  "title": "Hell Hath No Fury",
+  "slug": "hell-hath-no-fury",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wltdRZfeKDux9yKThlGKwjWhUil.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 94,
+  "rating": 6.4,
+  "description": "Branded a traitor by her countrymen, French national Marie DuJardin is rescued by American soldiers on one condition: to survive, she must lead them to a cache of gold - before the Nazis return to claim it for themselves.",
+  "created_at": "2026-07-22T15:16:55.485Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 3537,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

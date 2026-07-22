@@ -1,0 +1,28 @@
+{
+  "id": "0be020ff-5cc6-4c1e-8aa2-c71cc5b15fff",
+  "title": "Freaky",
+  "slug": "freaky",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 6.555,
+  "description": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+  "created_at": "2026-07-22T15:19:56.083Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3941,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

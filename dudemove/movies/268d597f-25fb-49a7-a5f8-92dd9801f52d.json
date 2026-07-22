@@ -1,0 +1,40 @@
+{
+  "id": "268d597f-25fb-49a7-a5f8-92dd9801f52d",
+  "title": "Women Who Kill",
+  "slug": "women-who-kill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/MYyIlw7IRjEotTNdXU6rTOSyzY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 93,
+  "rating": 4.948,
+  "description": "Morgan and Jean work well together as true crime podcasters because they didn’t work well, at all, as a couple. However, when Morgan strikes up a new relationship with the mysterious Simone, their shared interest turns into suspicion, paranoia, and fear.",
+  "created_at": "2026-07-22T15:43:16.035Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6750,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

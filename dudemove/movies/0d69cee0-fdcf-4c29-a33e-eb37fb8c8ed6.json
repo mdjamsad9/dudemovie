@@ -1,0 +1,28 @@
+{
+  "id": "0d69cee0-fdcf-4c29-a33e-eb37fb8c8ed6",
+  "title": "Above the Shadows",
+  "slug": "above-the-shadows",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3FrGhwhyZdNtdZRXS6jQbFw9KYB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 111,
+  "rating": 6.73,
+  "description": "A young woman who has faded to the point of becoming invisible must find her way back with the help of the one man who can see her.",
+  "created_at": "2026-07-22T15:29:59.643Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4614,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

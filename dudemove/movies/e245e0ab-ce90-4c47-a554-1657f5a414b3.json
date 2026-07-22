@@ -1,0 +1,24 @@
+{
+  "id": "e245e0ab-ce90-4c47-a554-1657f5a414b3",
+  "title": "Cagefighter: Worlds Collide",
+  "slug": "cagefighter-worlds-collide",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 98,
+  "rating": 6.573,
+  "description": "Reiss is the greatest champion to ever fight in a LEGENDS cage. But when promoter Max Black pits him against wrestling superstar Randy Stone, Reiss finds himself in the toughest fight of his life.",
+  "created_at": "2026-07-22T15:20:58.114Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4189,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

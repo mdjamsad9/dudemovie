@@ -1,0 +1,36 @@
+{
+  "id": "cf426c77-6667-4e5e-9c2d-88bd6f0449a3",
+  "title": "Barely Lethal",
+  "slug": "barely-lethal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 98,
+  "rating": 5.709,
+  "description": "A 16-year-old international assassin yearning for a \"normal\" adolescence fakes her own death and enrolls as a senior in a suburban high school. She quickly learns that being popular can be more painful than getting water-boarded.",
+  "created_at": "2026-07-22T15:42:30.110Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6867,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

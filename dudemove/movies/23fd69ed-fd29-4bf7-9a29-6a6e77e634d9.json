@@ -1,0 +1,32 @@
+{
+  "id": "23fd69ed-fd29-4bf7-9a29-6a6e77e634d9",
+  "title": "Trespass Against Us",
+  "slug": "trespass-against-us",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qrzFIhudK8sjigTFVlCpYJXwjOt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2016,
+  "duration": 99,
+  "rating": 5.8,
+  "description": "Three generations of the rowdy Cutler family live as outlaws in some of Britain's richest countryside – hunting hares, ram-raiding stately homes, and taunting the police. Struggling to retain a way of life fast becoming extinct, Chad Cutler ends up caught between his father's archaic principles and trying to do right by his kids, whilst the full force of the law is finally catching up with him.",
+  "created_at": "2026-07-22T15:47:43.016Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6569,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

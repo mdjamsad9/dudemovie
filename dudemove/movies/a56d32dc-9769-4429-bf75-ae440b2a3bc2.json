@@ -1,0 +1,32 @@
+{
+  "id": "a56d32dc-9769-4429-bf75-ae440b2a3bc2",
+  "title": "Snakehead",
+  "slug": "snakehead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 89,
+  "rating": 6,
+  "description": "Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.",
+  "created_at": "2026-07-22T15:17:05.528Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 3525,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

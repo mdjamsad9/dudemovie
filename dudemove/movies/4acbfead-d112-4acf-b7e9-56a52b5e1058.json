@@ -1,0 +1,24 @@
+{
+  "id": "4acbfead-d112-4acf-b7e9-56a52b5e1058",
+  "title": "Sold",
+  "slug": "sold",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/B65AvIa3hh8Wb6LmRjuJEmNyUr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 6.378,
+  "description": "Lakshmi is a thirteen-year-old girl who lives with her family in a small hut on a mountain in Nepal. When the Himalayan monsoons wash away all that remains of the family's crops, Lakshmi's father says she must leave home and take a job to support her family. He introduces her to a glamorous stranger who tells her she will find her a job as a maid in the city. Glad to be able to help, Lakshmi journeys to India and arrives at \"Happiness House\" full of hope. But she soon learns the unthinkable truth: she has been sold into prostitution...",
+  "created_at": "2026-07-22T15:47:50.718Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6578,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

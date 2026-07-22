@@ -1,0 +1,32 @@
+{
+  "id": "27fa9b6f-9479-49c0-96ab-3be45163721c",
+  "title": "Parmanu: The Story of Pokhran",
+  "slug": "parmanu-the-story-of-pokhran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 129,
+  "rating": 7.1,
+  "description": "A look at India's second confidential nuclear test series at Pokhran lead by Dr. APJ Abdul Kalam, during the time of PM Atal Bihari Vajpayee's tenure.",
+  "created_at": "2026-07-22T15:36:48.591Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5593,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

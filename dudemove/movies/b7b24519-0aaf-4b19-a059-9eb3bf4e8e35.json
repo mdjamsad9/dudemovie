@@ -1,0 +1,24 @@
+{
+  "id": "b7b24519-0aaf-4b19-a059-9eb3bf4e8e35",
+  "title": "Cinemaa Zindabad",
+  "slug": "cinemaa-zindabad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3PIvh3Zd0p0s1ap92V0BXY8vGsc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 125,
+  "rating": null,
+  "description": "Cinemaa Zindabad is a 2021 Indian Hindi Film based on the Real Life story of the artist. This film is directed by Ajay Kailash Yadav, written by Ajay Kailash Yadav - Rajesh Chaurasia,and Produced By Ajay Kailash Yadav.",
+  "created_at": "2026-07-22T15:15:57.198Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3501,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

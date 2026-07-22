@@ -1,0 +1,32 @@
+{
+  "id": "a6e38c86-816f-4fc0-96ae-a33aa1c5d409",
+  "title": "Come and Find Me",
+  "slug": "come-and-find-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 112,
+  "rating": 5.557,
+  "description": "When his girlfriend goes missing, David must track down her whereabouts after he realizes she's not who she was pretending to be.",
+  "created_at": "2026-07-22T15:48:35.062Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6623,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

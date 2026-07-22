@@ -1,0 +1,28 @@
+{
+  "id": "059ed3e9-5d5e-4ce4-8102-3ac2656402ea",
+  "title": "The Drowning",
+  "slug": "the-drowning",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2wBAtIPUvBK4FORbXXAocy2qxFL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 95,
+  "rating": 4.5,
+  "description": "A psychiatrist faces his past, present and future when he finds himself involved in the treatment of a young man recently released from prison for a murder committed when the boy was just 11 years old.",
+  "created_at": "2026-07-22T15:43:53.678Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6813,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

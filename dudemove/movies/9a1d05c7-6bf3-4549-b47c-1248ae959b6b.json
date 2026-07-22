@@ -1,0 +1,28 @@
+{
+  "id": "9a1d05c7-6bf3-4549-b47c-1248ae959b6b",
+  "title": "Creep 2",
+  "slug": "creep-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 80,
+  "rating": 6.337,
+  "description": "After finding an ad online for “video work,” Sara, a video artist whose primary focus is creating intimacy with lonely men, thinks she may have found the subject of her dreams. She drives to a remote house in the forest and meets a man claiming to be a serial killer. Unable to resist the chance to create a truly shocking piece of art, she agrees to spend the day with him. However, as the day goes on, she discovers she may have dug herself into a hole from which she can’t escape.",
+  "created_at": "2026-07-22T15:41:54.325Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6109,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

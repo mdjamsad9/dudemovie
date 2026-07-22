@@ -1,0 +1,32 @@
+{
+  "id": "dfb7d3c8-7fd4-4ed0-8fdb-e4a246f47a11",
+  "title": "Diary of a Wimpy Kid",
+  "slug": "diary-of-a-wimpy-kid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 58,
+  "rating": 6.251,
+  "description": "Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.",
+  "created_at": "2026-07-22T15:16:31.410Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3536,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

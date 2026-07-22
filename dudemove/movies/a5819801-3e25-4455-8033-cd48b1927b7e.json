@@ -1,0 +1,32 @@
+{
+  "id": "a5819801-3e25-4455-8033-cd48b1927b7e",
+  "title": "Unhinged",
+  "slug": "unhinged",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xfIcONZO4AiWpzm3jEpbR4llzVX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 6.4,
+  "description": "Rachel is a divorced single mother whose bad day gets even worse. She's running late to drop her son off at school when she honks her horn impatiently at a fellow driver during rush-hour traffic. After an exchange of words, she soon realizes that the mysterious man is following her and her young son in his truck. A case of road rage quickly escalates, at horrifyingly psychotic proportions, into full-blown terror as Rachel discovers the psychopath's sinister plan for revenge. He is single-mindedly determined to teach her a deadly lesson.",
+  "created_at": "2026-07-22T15:21:21.218Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4235,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

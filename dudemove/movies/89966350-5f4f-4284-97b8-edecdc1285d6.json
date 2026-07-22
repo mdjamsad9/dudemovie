@@ -1,0 +1,32 @@
+{
+  "id": "89966350-5f4f-4284-97b8-edecdc1285d6",
+  "title": "Nekrotronic",
+  "slug": "nekrotronic",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zT0G9rNziv26mx5Q2QS1ecwzaQ6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 99,
+  "rating": 5.858,
+  "description": "A man discovers that he is part of a secret sect of magical beings who hunt down and destroy demons in the internet.",
+  "created_at": "2026-07-22T15:29:28.127Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5051,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

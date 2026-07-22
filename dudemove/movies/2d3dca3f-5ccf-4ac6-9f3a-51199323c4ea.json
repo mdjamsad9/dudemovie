@@ -1,0 +1,24 @@
+{
+  "id": "2d3dca3f-5ccf-4ac6-9f3a-51199323c4ea",
+  "title": "When the Fever Breaks",
+  "slug": "when-the-fever-breaks",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4A5SCb8OHxcYfR6ZrO1bzP0zKM6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 65,
+  "rating": 2,
+  "description": "Faced with the zombie apocalypse overrunning her town, Skye and her few remaining friends seek refuge in the only remaining house not swarming with zombies. However, when a zombie slips past and infects Skye, she must now fear her friends who see her as a threat along with the zombies fighting their way in. With only two hours before she turns, can Skye find a way to survive for her daughter’s sake or must she accept her fate?",
+  "created_at": "2026-07-22T15:21:44.172Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4495,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

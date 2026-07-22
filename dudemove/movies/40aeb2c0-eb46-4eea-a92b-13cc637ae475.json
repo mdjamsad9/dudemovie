@@ -1,0 +1,32 @@
+{
+  "id": "40aeb2c0-eb46-4eea-a92b-13cc637ae475",
+  "title": "Multiverse",
+  "slug": "multiverse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jMhWb00KXwnYbneENxImQslRzUs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2021,
+  "duration": 93,
+  "rating": 6.614,
+  "description": "Four brilliant university students are forced to confront themselves in terrifying ways when their Quantum Physics experiment leads to an entangled parallel existence that leaves them questioning who they are and what is real.",
+  "created_at": "2026-07-22T15:16:48.456Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3520,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

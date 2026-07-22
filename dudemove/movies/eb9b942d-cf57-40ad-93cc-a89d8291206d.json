@@ -1,0 +1,28 @@
+{
+  "id": "eb9b942d-cf57-40ad-93cc-a89d8291206d",
+  "title": "Lines",
+  "slug": "lines",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iSZbej29t97YF2plgfp8UXM1PDr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 10,
+  "rating": 2,
+  "description": "Six poems written by six young prisoners animated to tell their stories, thoughts, fears and hopes.",
+  "created_at": "2026-07-22T15:17:59.324Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 3628,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "368ca082-9a6f-4456-a26a-0fda6d436f40",
+  "title": "Chalo Jeete Hain",
+  "slug": "chalo-jeete-hain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AtL7vqN4N4CQkZxkOIGFJGS1ZLa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 31,
+  "rating": null,
+  "description": "An impressionable boy is struck hard by Swami Vivekananda's quote, \"Wahi jeete hain, jo doosro ke liye jeete hain\" (translation: \"Only those who live for others, actually live\"). On the quest for purpose of life, he tries to pursue what he can do for others in his small world.",
+  "created_at": "2026-07-22T15:36:39.771Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5507,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

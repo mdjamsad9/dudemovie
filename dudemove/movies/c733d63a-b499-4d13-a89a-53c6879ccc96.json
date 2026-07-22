@@ -1,0 +1,28 @@
+{
+  "id": "c733d63a-b499-4d13-a89a-53c6879ccc96",
+  "title": "What Lies Below",
+  "slug": "what-lies-below",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/25FaS1xPTz1reG95D1M68Gc7NNG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 88,
+  "rating": 5.283,
+  "description": "A socially awkward teenager is blindsided when her mother introduces her to her new fiancée. At first, his charm, intelligence, and beauty seem too good to be true, and after a series of strange occurrences, the teenage daughter realizes that this new member of their family is not exactly who he seems.",
+  "created_at": "2026-07-22T15:20:52.180Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4181,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d25c4e27-483a-4abd-9991-652189ee8061",
+  "title": "Mumbai Saga",
+  "slug": "mumbai-saga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4xTtLkGEmUD5Oqjsv3lrkeLr2NW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 125,
+  "rating": 5.667,
+  "description": "The film, set in the 1980s and 90s, chronicles the transformation of Bombay to Mumbai. The story is a cat and mouse game between a deadly don, Amartya Rao, who doesn’t think twice before killing, and there’s nobody who could stop him and a cop, who is dogging his every step.",
+  "created_at": "2026-07-22T15:19:03.342Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 3735,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

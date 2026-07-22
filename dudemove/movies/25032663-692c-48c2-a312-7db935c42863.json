@@ -1,0 +1,32 @@
+{
+  "id": "25032663-692c-48c2-a312-7db935c42863",
+  "title": "A Feral World",
+  "slug": "a-feral-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sUiHLQrIeEjExIqhn4sFNxDvY6b.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 105,
+  "rating": 5.8,
+  "description": "An orphaned boy in a post-apocalyptic world, meets a grieving woman who is trying to find her lost daughter. Their journey leads them face-to-face with a despot who may have the daughter held captive.",
+  "created_at": "2026-07-22T15:22:31.025Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4240,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

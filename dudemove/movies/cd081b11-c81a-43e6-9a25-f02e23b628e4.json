@@ -1,0 +1,28 @@
+{
+  "id": "cd081b11-c81a-43e6-9a25-f02e23b628e4",
+  "title": "A Journal for Jordan",
+  "slug": "a-journal-for-jordan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t8xX6kYZj6y0XIxniJdFmaFkvp1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 131,
+  "rating": 6.949,
+  "description": "Based on the true story of First Sergeant Charles Monroe King, a soldier deployed to Iraq begins to keep a journal of love and advice for his infant son. Back at home, senior New York Times editor Dana Canedy revisits the story of her unlikely, life-altering relationship with King and his enduring devotion to her and their child.",
+  "created_at": "2026-07-22T15:15:55.500Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3500,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

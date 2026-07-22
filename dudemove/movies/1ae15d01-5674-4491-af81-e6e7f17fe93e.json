@@ -1,0 +1,32 @@
+{
+  "id": "1ae15d01-5674-4491-af81-e6e7f17fe93e",
+  "title": "Juliet, Naked",
+  "slug": "juliet-naked",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tj4lbeWQBvPwGjadEAAjJdQolko.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 6.295,
+  "description": "Annie is stuck in a long-term relationship with Duncan – an obsessive fan of obscure rocker Tucker Crowe. When the acoustic demo of Tucker's hit record from 25 years ago surfaces, its discovery leads to a life-changing encounter with the elusive rocker himself.",
+  "created_at": "2026-07-22T15:35:01.717Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5437,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

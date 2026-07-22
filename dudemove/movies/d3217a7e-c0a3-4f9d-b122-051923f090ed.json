@@ -1,0 +1,24 @@
+{
+  "id": "d3217a7e-c0a3-4f9d-b122-051923f090ed",
+  "title": "Hokum",
+  "slug": "hokum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 107,
+  "rating": 6.959,
+  "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+  "created_at": "2026-07-09T16:34:07.157Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 221,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Hokum%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hokum%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e21ea47e-790b-4926-8f9a-4612eeac6108",
+  "title": "Baby John",
+  "slug": "baby-john",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Oqsh17dq0cIRFPynPNy5elmyxW.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 162,
+  "rating": 6.038,
+  "description": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
+  "created_at": "2026-07-09T17:03:23.088Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 1381,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Baby%20John%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Baby%20John%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e65263b1-f9e1-4b75-bc5d-3351521b0fa6",
+  "title": "Descendants 2",
+  "slug": "descendants-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 111,
+  "rating": 7.364,
+  "description": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
+  "created_at": "2026-07-22T15:43:48.800Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 6192,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

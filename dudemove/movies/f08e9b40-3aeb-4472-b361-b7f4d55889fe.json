@@ -1,0 +1,32 @@
+{
+  "id": "f08e9b40-3aeb-4472-b361-b7f4d55889fe",
+  "title": "The Other Lamb",
+  "slug": "the-other-lamb",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ynPJkpmWNi4rnDUb0PuzDnJj5JI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 97,
+  "rating": 5.688,
+  "description": "For her entire life, the cult she was born into has been all that teenage Selah has known. Along with a band of similarly cloistered young women she lives seemingly unstuck in time, cut off from modern society in a remote forest commune presided over by a man called Shepherd, a controlling, messiah-like figure with a frightening dark side. But when her insular world is rocked by a series of nightmarish visions and disturbing revelations, Selah begins to question everything about her existence—including her allegiance to the increasingly dangerous Shepherd.",
+  "created_at": "2026-07-22T15:23:33.161Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4265,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

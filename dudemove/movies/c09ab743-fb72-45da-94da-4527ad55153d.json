@@ -1,0 +1,24 @@
+{
+  "id": "c09ab743-fb72-45da-94da-4527ad55153d",
+  "title": "Singularity",
+  "slug": "singularity",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hMWiOdsN5VK5hgZYocUDxXWSjtQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 92,
+  "rating": 3.653,
+  "description": "When Elias van Dorne, CEO of the world's largest robotics company, introduces his most powerful invention, Kronos-a super-computer designed to end all wars-it determines that humans are the biggest threat and launches a worldwide attack on mankind. A small band of survivors must form an unlikely alliance to survive the greatest artificial intelligence threat man will ever know.",
+  "created_at": "2026-07-22T15:41:01.182Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6013,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

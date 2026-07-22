@@ -1,0 +1,28 @@
+{
+  "id": "359beb34-94dc-41a0-8071-13577dfb2fca",
+  "title": "Target Number One",
+  "slug": "target-number-one",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wb2VpOZTSINPI7jQww0fYCEppcE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2020,
+  "duration": 135,
+  "rating": 6.2,
+  "description": "Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong people for the wrong reasons. When the deal goes sour, Daniel gets thrown into a Thai prison and slapped with a 100-year sentence. While he tries to survive his Bangkok incarceration, the news of his conviction captures the attention of Globe and Mail journalist Victor Malarek, who decides to go after the shady undercover cops responsible for wrongly accusing Daniel.",
+  "created_at": "2026-07-22T15:23:25.854Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4296,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

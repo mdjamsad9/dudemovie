@@ -1,0 +1,24 @@
+{
+  "id": "6b97f7ac-c04a-44ad-8280-b250a93dca38",
+  "title": "Steve Jobs: The Man in the Machine",
+  "slug": "steve-jobs-the-man-in-the-machine",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y8zA8Vdh5AQRULuDDp2xx08DNNx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 129,
+  "rating": 6.6,
+  "description": "When Steve Jobs died the world wept. But what accounted for the grief of millions of people who didn’t know him? This evocative film navigates Jobs' path from a small house in the suburbs, to zen temples in Japan, to the CEO's office of the world's richest company, exploring how Jobs’ life and work shaped our relationship with the computer. The Man in the Machine is a provocative and sometimes startling re-evaluation of the legacy of an icon.",
+  "created_at": "2026-07-22T15:51:01.795Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 7061,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

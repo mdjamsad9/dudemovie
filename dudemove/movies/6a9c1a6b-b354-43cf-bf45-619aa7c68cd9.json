@@ -1,0 +1,32 @@
+{
+  "id": "6a9c1a6b-b354-43cf-bf45-619aa7c68cd9",
+  "title": "Vikram Vedha",
+  "slug": "vikram-vedha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8L4vvIQvO8viLw8wyi2slQmU2sW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 160,
+  "rating": 6.7,
+  "description": "Vikram, an honest officer with the Lucknow police, is on a mission to find and eliminate gangster Vedha. However, when Vedha surrenders himself to the police and starts narrating stories to Vikram, it blurs the lines between good and evil. Vedha questions Vikram's righteousness while the latter believes he is fair and just. But is he?",
+  "created_at": "2026-07-22T15:12:21.041Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3126,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

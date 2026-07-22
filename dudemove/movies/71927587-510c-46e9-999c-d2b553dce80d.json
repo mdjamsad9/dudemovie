@@ -1,0 +1,40 @@
+{
+  "id": "71927587-510c-46e9-999c-d2b553dce80d",
+  "title": "Monica, O My Darling",
+  "slug": "monica-o-my-darling",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 129,
+  "rating": 7.027,
+  "description": "A slick robotics expert joins a murderous plot after a passionate affair takes a sudden turn, but nothing — not even death — is what it seems to be.",
+  "created_at": "2026-07-22T15:13:07.416Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3187,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

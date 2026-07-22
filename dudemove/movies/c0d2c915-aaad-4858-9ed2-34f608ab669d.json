@@ -1,0 +1,32 @@
+{
+  "id": "c0d2c915-aaad-4858-9ed2-34f608ab669d",
+  "title": "Suspiria",
+  "slug": "suspiria",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 152,
+  "rating": 6.896,
+  "description": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+  "created_at": "2026-07-22T15:33:52.088Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5310,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

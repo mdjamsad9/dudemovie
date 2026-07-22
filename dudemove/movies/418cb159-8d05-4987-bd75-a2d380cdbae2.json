@@ -1,0 +1,32 @@
+{
+  "id": "418cb159-8d05-4987-bd75-a2d380cdbae2",
+  "title": "The Devil Has a Name",
+  "slug": "the-devil-has-a-name",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1qfJI2RTMPsCn75ngWQMVrUcWZm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 5.3,
+  "description": "An oil baron and a farmer standoff after the water on his farm is poisoned by her company.",
+  "created_at": "2026-07-22T15:21:49.146Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4496,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

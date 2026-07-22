@@ -1,0 +1,24 @@
+{
+  "id": "3fac50eb-1d10-442b-bd35-827b7a62076b",
+  "title": "Global Baba",
+  "slug": "global-baba",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k2h1JK1dFT9ziyjgr06ZOw3Ma42.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 120,
+  "rating": 4.25,
+  "description": "A conman finds refuge in becoming a baba and carries out his various criminal activities under the guise. A policeman, a journalist and politicians get entangled in his Web of deceit.",
+  "created_at": "2026-07-22T15:50:06.735Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6498,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c52fe397-1a84-42ee-a880-3a1199e4be65",
+  "title": "Minamata",
+  "slug": "minamata",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tjn9yxa5QNFsV2mFPsaWdqOOk2g.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2020,
+  "duration": 115,
+  "rating": 6.931,
+  "description": "War photographer W. Eugene Smith travels back to Japan where he documents the devastating effect of mercury poisoning in coastal communities.",
+  "created_at": "2026-07-22T15:18:35.908Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3866,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

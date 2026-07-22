@@ -1,0 +1,32 @@
+{
+  "id": "081aeee7-8a83-4fc8-8f75-e79d3b68a5a6",
+  "title": "Stick Man",
+  "slug": "stick-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hChFSATMxo9cDpDGl5iit5dx7yy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 27,
+  "rating": 6.808,
+  "description": "Stick Man lives in the family tree with his Stick Lady Love and their stick children three, and he's heading on an epic adventure across the seasons. Will he get back to his family in time for Christmas?",
+  "created_at": "2026-07-22T15:41:46.396Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 6918,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

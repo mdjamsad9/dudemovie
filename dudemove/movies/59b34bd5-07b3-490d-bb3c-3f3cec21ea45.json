@@ -1,0 +1,24 @@
+{
+  "id": "59b34bd5-07b3-490d-bb3c-3f3cec21ea45",
+  "title": "Sample People",
+  "slug": "sample-people",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6WuTLAY7XEZVDw8RP0DjjAd0vDU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2000,
+  "duration": 93,
+  "rating": 3.889,
+  "description": "Sample People is an upbeat dramatic thriller that follows four groups of Sydney-siders as they seek escape routes over one sweltering weekend. 'Len the dreamer' who stutters shyly just wants the gorgeous DJ Lush Puppy. Sem is a funky musician who has a premonition warning him that his girlfriend, Cleo, is in danger. He just wants to get them both out of their inner-city world. Andy is the charismatic drifter who's conned his way through life and stolen money from his boss, TT. He just wants to head up the coast with TT's girlfriend, Jess, but seems to be falling deeper into a love triangle of drugs and delusion. Finally, there's Joey, a TV affected homeboy, who reveals to his best friend Gus that he's got a gun and will use it sooner or later. The inevitable moment will arrive whin his violent gangster fantisies become reality. As the lives of our heroes become dramatically entwined, the consequences of their actions ricochet off each other.",
+  "created_at": "2026-07-22T15:49:21.100Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7103,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

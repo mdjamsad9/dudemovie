@@ -1,0 +1,24 @@
+{
+  "id": "1ed12c5b-3926-4e61-9f5c-b70fc6ecdd10",
+  "title": "FryDay",
+  "slug": "fryday",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wQ3Vt9lthFqPsCAlt1MmwfoXHYl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 108,
+  "rating": 6,
+  "description": "What happens when an honest salesman and a flirtatious married man cross path?\r Chaos ensues on a Friday as one outrageously hilarious lie leads to another.",
+  "created_at": "2026-07-22T15:34:25.445Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5045,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

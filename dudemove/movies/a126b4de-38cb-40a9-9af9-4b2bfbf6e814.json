@@ -1,0 +1,28 @@
+{
+  "id": "a126b4de-38cb-40a9-9af9-4b2bfbf6e814",
+  "title": "Chhappad Phaad Ke",
+  "slug": "chhappad-phaad-ke",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6iuQY6fskvN6nOcctzG5IJXocxn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 120,
+  "rating": 7.8,
+  "description": "Meet the Gupchups, a typical Indian middle-class family, financially weak but morally rich. Their ordinary life takes an extraordinary twist when they find a bag containing ₹ 5 crores. Will they give up ethics for money?",
+  "created_at": "2026-07-22T15:28:06.537Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4840,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

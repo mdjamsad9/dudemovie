@@ -1,0 +1,32 @@
+{
+  "id": "08516c0a-8f63-45f9-937f-1558f904ec97",
+  "title": "The Peanuts Movie",
+  "slug": "the-peanuts-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 88,
+  "rating": 6.976,
+  "description": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest.",
+  "created_at": "2026-07-22T15:50:51.578Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 7029,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

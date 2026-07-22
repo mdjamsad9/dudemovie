@@ -1,0 +1,28 @@
+{
+  "id": "d8259944-996a-463d-a96f-a983ff43170f",
+  "title": "Support the Girls",
+  "slug": "support-the-girls",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 91,
+  "rating": 6.084,
+  "description": "Lisa Conroy is general manager at a highway-side 'sports bar with curves', Double Whammies. She nurtures and protects her employees fiercely - but over the course of one trying day, her optimism is battered from every direction. Double Whammies sells a big, weird American fantasy, but what happens when reality pokes a bunch of holes in it?",
+  "created_at": "2026-07-22T15:36:08.357Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5486,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

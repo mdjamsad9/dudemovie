@@ -1,0 +1,36 @@
+{
+  "id": "7deffe36-7a08-4c0a-b6a8-92f7a65abc98",
+  "title": "Rebel Ridge",
+  "slug": "rebel-ridge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 131,
+  "rating": 6.963,
+  "description": "A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.",
+  "created_at": "2026-07-09T17:13:33.333Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1010,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Rebel.Ridge.2024.1080p.WEBRip.x264%20%5BDDN%5D/Rebel.Ridge.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

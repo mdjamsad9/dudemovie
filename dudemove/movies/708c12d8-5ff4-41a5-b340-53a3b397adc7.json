@@ -1,0 +1,24 @@
+{
+  "id": "708c12d8-5ff4-41a5-b340-53a3b397adc7",
+  "title": "The God Committee",
+  "slug": "the-god-committee",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p1dXPdz5C1tPpPIy3kth3rTCOQe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 98,
+  "rating": 6.589,
+  "description": "Medicine, money and morality clash when a hospital's Heart Transplant Selection Committee has only minutes to decide which of three patients on the transplant list will receive a heart that has suddenly become available.",
+  "created_at": "2026-07-22T15:18:18.099Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3674,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

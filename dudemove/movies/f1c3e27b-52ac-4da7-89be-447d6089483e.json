@@ -1,0 +1,24 @@
+{
+  "id": "f1c3e27b-52ac-4da7-89be-447d6089483e",
+  "title": "A Family Man",
+  "slug": "a-family-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s8utY6usadSNU82yFnAlFRZyScM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 108,
+  "rating": 6.694,
+  "description": "Dane Jensen is a driven, Chicago-based headhunter, working at a cut-throat job placement firm. When his boss pits Dane against Lynn Vogel, Dane's equally driven but polar-opposite rival at the firm, in a battle for control over the company. When his young son is then given a harrowing diagnosis, Dane is suddenly pulled between achieving his professional dream and spending time with the family that needs him now more than ever.",
+  "created_at": "2026-07-22T15:43:12.030Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6789,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "59b96344-b500-4fe9-8301-47062bb63c92",
+  "title": "Urge",
+  "slug": "urge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9OxOFZcn1DRKeYrxtFoKUVGXIqk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 91,
+  "rating": 4.34,
+  "description": "A group of friends on holiday on an island experiment with a new designer drug that makes them lose their ability to control their urges.",
+  "created_at": "2026-07-22T15:49:57.304Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6473,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

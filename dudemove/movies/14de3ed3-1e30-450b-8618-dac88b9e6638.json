@@ -1,0 +1,24 @@
+{
+  "id": "14de3ed3-1e30-450b-8618-dac88b9e6638",
+  "title": "All Girls Weekend",
+  "slug": "all-girls-weekend",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6eNRMSAqSyZvfS3cpBGn4uDrdFL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 86,
+  "rating": 3.413,
+  "description": "High school friends reunite after many years to spend a weekend in the mountains, but when everything goes wrong, there is no time for girl bonding.",
+  "created_at": "2026-07-22T15:42:04.546Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6709,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

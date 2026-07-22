@@ -1,0 +1,28 @@
+{
+  "id": "f778fc86-0f5e-4ff1-a470-00632b78d738",
+  "title": "Madura Veera",
+  "slug": "madura-veera",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sBdNuBIvNa16rSdCjcSZcDtuix8.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6,
+  "description": "Durai returns to his village from Malaysia after 20 years in the pretext of getting married. However, his prime aim is to conduct jallikattu along with the panchayats of five neighbouring villages and fulfill his father's dream. Will he succeed?",
+  "created_at": "2026-07-09T17:24:59.917Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 1527,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Madura%20Veera%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Madura%20Veera%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4a297583-3469-4c39-8862-6b815cbb8909",
+  "title": "Columbus",
+  "slug": "columbus",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 104,
+  "rating": 7.09,
+  "description": "When a renowned architecture scholar falls suddenly ill during a speaking tour, his son Jin finds himself stranded in Columbus, Indiana - a small Midwestern city celebrated for its many significant modernist buildings. Jin strikes up a friendship with Casey, a young architecture enthusiast who works at the local library.",
+  "created_at": "2026-07-22T15:41:51.987Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6043,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

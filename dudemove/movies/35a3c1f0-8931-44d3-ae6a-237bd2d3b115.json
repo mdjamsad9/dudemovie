@@ -1,0 +1,28 @@
+{
+  "id": "35a3c1f0-8931-44d3-ae6a-237bd2d3b115",
+  "title": "Staged Killer",
+  "slug": "staged-killer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9ZrZgzaMD11Ny6uiBmtz3o5QRho.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 88,
+  "rating": 4.833,
+  "description": "When a former co-host, Jake Everett, works his way back into the professional life of popular TV morning show host Naomi Spencer, the show's success skyrockets, but Naomi's personal life begins to fall apart.",
+  "created_at": "2026-07-22T15:30:39.531Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4909,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

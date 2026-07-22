@@ -1,0 +1,24 @@
+{
+  "id": "cae50245-db3e-4dad-874a-4e8ec2c395e7",
+  "title": "The Curse of La Llorona",
+  "slug": "the-curse-of-la-llorona",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hETrPpoKs6BwoilK64YJ7Z5GcRT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 5.65,
+  "description": "In 1970s Los Angeles, the legendary ghost La Llorona is stalking the night -- and the children. Ignoring the eerie warning of a troubled mother, a social worker and her own kids are drawn into a frightening supernatural realm. Their only hope of surviving La Llorona's deadly wrath is a disillusioned priest who practices mysticism to keep evil at bay.",
+  "created_at": "2026-07-22T15:29:59.132Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4599,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

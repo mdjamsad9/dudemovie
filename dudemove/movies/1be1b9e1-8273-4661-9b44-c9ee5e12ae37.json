@@ -1,0 +1,28 @@
+{
+  "id": "1be1b9e1-8273-4661-9b44-c9ee5e12ae37",
+  "title": "The Dead Don't Die",
+  "slug": "the-dead-don-t-die",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fgGzTEoNxptCRtEOpOPvIEdlxAq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 104,
+  "rating": 5.432,
+  "description": "In the sleepy town of Centerville, the lives of a number of interconnected characters are disrupted by the undead.",
+  "created_at": "2026-07-22T15:29:01.898Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4417,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

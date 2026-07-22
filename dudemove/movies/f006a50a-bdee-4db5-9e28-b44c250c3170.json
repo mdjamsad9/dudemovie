@@ -1,0 +1,36 @@
+{
+  "id": "f006a50a-bdee-4db5-9e28-b44c250c3170",
+  "title": "Kill Command",
+  "slug": "kill-command",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xn6t1nYJaUMmudnHHiK390AORNu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 99,
+  "rating": 5.677,
+  "description": "Set in a near future, technology-reliant society that pits man against killing machines. Against this backdrop an elite army unit is helicoptered to a remote, off-the-grid island training facility. What starts out as a simple training exercise for Captain Bukes and his tight-knit unit, descends into a terrifying battle to the death, as the marines discover the island is overrun by an enemy that transcends the human concept of evil.",
+  "created_at": "2026-07-22T15:42:01.255Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6795,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f152def0-9dfd-4fcb-bb65-5241cf6a139b",
+  "title": "Jab Harry Met Sejal",
+  "slug": "jab-harry-met-sejal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yraJilUVLSd6BmQ4f1YtJGmcNkf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 144,
+  "rating": 6.376,
+  "description": "A middle-aged tour guide develops profound affection for a bubbly traveller while helping her search for a lost engagement ring across various picturesque European destinations.",
+  "created_at": "2026-07-22T15:21:26.845Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6284,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

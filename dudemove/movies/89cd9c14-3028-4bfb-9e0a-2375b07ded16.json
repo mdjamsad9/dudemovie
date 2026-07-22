@@ -1,0 +1,24 @@
+{
+  "id": "89cd9c14-3028-4bfb-9e0a-2375b07ded16",
+  "title": "Adopt a Highway",
+  "slug": "adopt-a-highway",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y2nzyAsOufAhqEEhsr0ArTCQBPz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 81,
+  "rating": 6.662,
+  "description": "Russ Millings has just been released from prison after serving 21 years for a 3rd strike conviction for possessing an ounce of marijuana. As he tries to adapt to a world he doesn’t recognize – including trying to learn how to use the internet – he finds an abandoned baby in a dumpster behind the fast food restaurant where he works as a dishwasher. Unsure of what to do, and caught between impulses of kindness and panic, Russ soon realizes this could be his chance at redemption.",
+  "created_at": "2026-07-22T15:27:43.761Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4805,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3cf4c1dd-2cf4-474e-8e3d-e9c643e2aa89",
+  "title": "Jungle Cruise",
+  "slug": "jungle-cruise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 127,
+  "rating": 7.283,
+  "description": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
+  "created_at": "2026-07-22T15:17:58.763Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3690,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f87da103-e94c-4f3f-b2b7-ba6974847fda",
+  "title": "The Violin Player",
+  "slug": "the-violin-player",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2oX55o8YSMEWwh0QQHcfEdHjXMt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 72,
+  "rating": 5.4,
+  "description": "A Bollywood session violinist finds expression in an unlikely place. The day unfolds to reveal startling truths about music, art, life and survival.",
+  "created_at": "2026-07-22T15:48:01.377Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6593,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

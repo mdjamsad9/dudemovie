@@ -1,0 +1,24 @@
+{
+  "id": "d6525865-079f-45a2-8a52-ebfce0d38319",
+  "title": "Bait",
+  "slug": "bait",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kM9uIcRIgG9dmZF3Zf7yMR2zftt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 89,
+  "rating": 6.564,
+  "description": "Martin Ward is a cove fisherman, without a boat. His brother Steven has repurposed their father’s vessel as a tourist tripper, driving a wedge between the brothers. With their childhood home now a getaway for London money, Martin is displaced to the estate above the picturesque harbour. As his struggle to restore the family to their traditional place creates increasing friction with tourists and locals alike, a tragedy at the heart of the family changes his world.",
+  "created_at": "2026-07-22T15:26:22.084Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4711,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4fb27994-5be6-4413-8b3c-bf402b8e0fee",
+  "title": "Lady Driver",
+  "slug": "lady-driver",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/co6rMdGpL8q549uf6GAqzOFQA94.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 104,
+  "rating": 6.385,
+  "description": "When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.",
+  "created_at": "2026-07-22T15:23:54.974Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4300,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

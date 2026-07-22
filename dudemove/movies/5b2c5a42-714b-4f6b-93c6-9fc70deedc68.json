@@ -1,0 +1,28 @@
+{
+  "id": "5b2c5a42-714b-4f6b-93c6-9fc70deedc68",
+  "title": "Dhaakad",
+  "slug": "dhaakad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w9kCrVZI9sHcu2vilqCuSBfGAvQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 131,
+  "rating": 4.714,
+  "description": "Special Agent Agni is tasked to find information and eventually, eliminate Rudraveer, an international human trafficker and a coal mafioso. Things turn personal when Agni discovers a truth that connects her to Rudraveer.",
+  "created_at": "2026-07-22T15:14:03.043Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3184,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

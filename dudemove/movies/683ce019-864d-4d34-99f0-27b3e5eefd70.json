@@ -1,0 +1,28 @@
+{
+  "id": "683ce019-864d-4d34-99f0-27b3e5eefd70",
+  "title": "Atkan Chatkan",
+  "slug": "atkan-chatkan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8baBQYXAxdFykN7uXcgCJ0E5uP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 122,
+  "rating": 4,
+  "description": "The story revolves around a 13 year old Guddu who works as a helper at a tea stall. His father, an ex musician is a penniless alcoholic, and his mother a singer has abandoned the family. Therefore, he has to take the responsibility of his family at a tender age. Music is his passion, he loves to observe, listen and create new tunes. On his daily chai delivery visits, he watches a wedding band practice keenly, completely losing the sense of time. He has a desire to join the band one day. Along with Guddu, the film also tells the tale of other street children who work near Guddu’s tea stall. One day while wandering in the city, they come across a carnival where they see an orchestra performing for money which inspires them to form their own band. Atkan Chatkan shows the dreams of millions of young children who do not have the means but only a burning passion that needs careful nurturing to grow and succeed in life.",
+  "created_at": "2026-07-22T15:22:46.984Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 4292,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

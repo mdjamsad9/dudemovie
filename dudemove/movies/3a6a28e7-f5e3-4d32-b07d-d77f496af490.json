@@ -1,0 +1,28 @@
+{
+  "id": "3a6a28e7-f5e3-4d32-b07d-d77f496af490",
+  "title": "Khamiyaza",
+  "slug": "khamiyaza",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2mjpDoz8mmJ4qcCPXa4P902wDoq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 130,
+  "rating": 4,
+  "description": "Khamiyaza is the story of a common man Abhimanyu who dares to save the life of a social worker Satya Prakash without knowing that Satya Prakash is on Mantri's target. so in return, Abhimanyu sacrifices his own life for his good deeds Khamiyaza is a story of corruption",
+  "created_at": "2026-07-22T15:27:20.978Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4769,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

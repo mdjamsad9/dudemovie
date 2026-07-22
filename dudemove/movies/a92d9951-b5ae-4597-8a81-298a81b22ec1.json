@@ -1,0 +1,24 @@
+{
+  "id": "a92d9951-b5ae-4597-8a81-298a81b22ec1",
+  "title": "Four Good Days",
+  "slug": "four-good-days",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 100,
+  "rating": 6.798,
+  "description": "A mother helps her daughter work through four crucial days of recovery from substance abuse.",
+  "created_at": "2026-07-22T15:18:44.639Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3700,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

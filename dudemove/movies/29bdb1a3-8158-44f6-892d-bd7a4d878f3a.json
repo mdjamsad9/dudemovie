@@ -1,0 +1,28 @@
+{
+  "id": "29bdb1a3-8158-44f6-892d-bd7a4d878f3a",
+  "title": "Superfast!",
+  "slug": "superfast",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2015,
+  "duration": 99,
+  "rating": 5.095,
+  "description": "Undercover cop Lucas White joins Vin Serento's gang of illegal street racers. They are fast and they are furious and they plan to double cross Los Angeles kingpin Juan Carlos de la Sol, who hides his cash in a downtown Taco Bell.",
+  "created_at": "2026-07-22T15:51:43.056Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7015,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7e358851-b58e-4806-80f3-773fb0022ace",
+  "title": "The Ice Road",
+  "slug": "the-ice-road",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 108,
+  "rating": 6.753,
+  "description": "After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.",
+  "created_at": "2026-07-22T15:18:22.565Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3668,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "4f3ce1d8-5a31-426d-b90b-2777e0431f23",
+  "title": "The Curse of Downers Grove",
+  "slug": "the-curse-of-downers-grove",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fTpYTV0a23Diw344tE199bIHo7l.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 89,
+  "rating": 4.7,
+  "description": "The town of Downers Grove looks like your average suburban neighborhood -- but Downers Grove has a disturbing secret.... For the past eight years, one senior from every high school graduating class has met a bizarre death right before graduation day. And this year, Chrissie Swanson has a terrible feeling that she is going to be the one to die. Can Chrissie survive the curse of Downers Grove or will she, like those seniors before her, fall prey to the town's deadly secret?",
+  "created_at": "2026-07-22T15:51:14.943Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

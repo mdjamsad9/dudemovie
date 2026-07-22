@@ -1,0 +1,32 @@
+{
+  "id": "28cb8fa6-24f1-4c59-a95c-59acdb4d4d53",
+  "title": "The Messenger",
+  "slug": "the-messenger",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xMubDsMhzFliqN6Fz6R95exAQiV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 95,
+  "rating": 4.9,
+  "description": "The Messenger is the story of Jack’s last melt down: a story of frustration and guilt, love and betrayal, family and blame. Unwillingly becoming embroiled in the unfinished business of Mark, a journalist brutally murdered in the local park and his television presenter wife, Sarah, to whom he’s desperate to say one last goodbye, Jack finds himself getting closer to Sarah, obsessed with passing on Mark’s message. Discovering hidden secrets and lies finally pushes the fragile Jack over the edge but there is hope when his estranged sister, Emma, gets in touch. Jack starts to remember the past they shared together and as the memories come flooding back, he confronts the truth about the death of his father.",
+  "created_at": "2026-07-22T15:51:11.215Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 7043,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

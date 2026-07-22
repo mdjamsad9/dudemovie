@@ -1,0 +1,28 @@
+{
+  "id": "b5fc1293-2655-41ea-abb2-bcf773caaa8d",
+  "title": "The Trip to Spain",
+  "slug": "the-trip-to-spain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 115,
+  "rating": 6.515,
+  "description": "Steve Coogan and Rob Brydon embark on a road trip along the coast of Spain.",
+  "created_at": "2026-07-22T15:41:27.634Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6057,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

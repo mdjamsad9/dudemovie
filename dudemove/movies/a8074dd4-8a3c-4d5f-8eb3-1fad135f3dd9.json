@@ -1,0 +1,28 @@
+{
+  "id": "a8074dd4-8a3c-4d5f-8eb3-1fad135f3dd9",
+  "title": "Devil's Tree: Rooted Evil",
+  "slug": "devil-s-tree-rooted-evil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rG1fR6YDvc2Wsmr4MrruASbcTgb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 75,
+  "rating": 5.1,
+  "description": "Inspired by true events, The Devils Tree follows Samantha, a college student studying journalism, who needs to finish her thesis with one last breaking news story. Along with her friend Rob, Samantha stumbles across a news article about an old tree in a local park where many horrible acts occurred. The locals have given the tree the name Devils Tree because of its urban legends of mass murders, satanic rituals, and paranormal activity. She decides this is the perfect story to finish her thesis on. As Sam digs deeper into the realm of the tree, she begins to uncover the truth about these urban legends. Struggling with her own demons of her past, Samantha is confronted with a the true demon of the tree and now must expose the truth in hopes to set it free. In the end, Samantha founds the real reason why evil is so rooted at The Devils Tree.",
+  "created_at": "2026-07-22T15:39:24.069Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5669,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

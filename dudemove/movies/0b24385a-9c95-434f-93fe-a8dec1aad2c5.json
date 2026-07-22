@@ -1,0 +1,28 @@
+{
+  "id": "0b24385a-9c95-434f-93fe-a8dec1aad2c5",
+  "title": "Acceleration",
+  "slug": "acceleration",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/50F3NSV89s13oN43h1wXpCoqY5t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 85,
+  "rating": 5.4,
+  "description": "After being double crossed by his most trusted operative, a ruthless crime lord takes revenge by kidnapping the her son. Overwhelmed with fear, the operative is given one night to make up for her misdeeds by systematically eliminating his enemies. As the hours rush by, the steaks begin to rise and the darkened city streets turn into a brutal and bloody battle ground.",
+  "created_at": "2026-07-22T15:27:29.804Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4851,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

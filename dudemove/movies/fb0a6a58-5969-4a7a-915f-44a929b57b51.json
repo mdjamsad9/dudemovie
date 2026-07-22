@@ -1,0 +1,24 @@
+{
+  "id": "fb0a6a58-5969-4a7a-915f-44a929b57b51",
+  "title": "The Kindergarten Teacher",
+  "slug": "the-kindergarten-teacher",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pwavkdZb2xNRh5Y9MHhkZJ2UaHT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 96,
+  "rating": 6.547,
+  "description": "Lisa Spinelli is a Staten Island teacher who is unusually devoted to her students. When she discovers one of her five-year-olds is a prodigy, she becomes fascinated with the boy, ultimately risking her family and freedom to nurture his talent.",
+  "created_at": "2026-07-22T15:30:42.548Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5095,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

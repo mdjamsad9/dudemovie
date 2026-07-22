@@ -1,0 +1,28 @@
+{
+  "id": "30c04162-1449-4c27-a791-de9c0074f187",
+  "title": "Kapkapiii",
+  "slug": "kapkapiii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9m1lSId0hswbOZZozQanUVyf21D.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 138,
+  "rating": 4.5,
+  "description": "In a men's hostel, seven bachelors try to summon a spirit via Ouija board.",
+  "created_at": "2026-07-09T16:55:58.230Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 433,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Kapkapiii%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kapkapiii%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

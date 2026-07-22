@@ -1,0 +1,36 @@
+{
+  "id": "38543f11-b871-4925-8eb0-bb27cee2b9ac",
+  "title": "Criminal Audition",
+  "slug": "criminal-audition",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e7e8uSryYTeIH79VVNugonQm6tQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 92,
+  "rating": 5.8,
+  "description": "An ex-lawyer and his team run an underworld service, they seek the most desperate and greedy to become fake criminals to take the fall for the rich and powerful's crimes in a process known as `Criminal Audition'.",
+  "created_at": "2026-07-22T15:21:53.412Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4493,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

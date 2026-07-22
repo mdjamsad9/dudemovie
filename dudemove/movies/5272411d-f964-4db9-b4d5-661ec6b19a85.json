@@ -1,0 +1,32 @@
+{
+  "id": "5272411d-f964-4db9-b4d5-661ec6b19a85",
+  "title": "Angel of Mine",
+  "slug": "angel-of-mine",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 6.179,
+  "description": "A woman grieving over the death of her daughter loses grip of reality when she begins to think her girl may still be alive.",
+  "created_at": "2026-07-22T15:28:34.254Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4943,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "99ce963c-3a57-4697-b4a2-e48966c56782",
+  "title": "Mirror Game",
+  "slug": "mirror-game",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tfq9N7lqWWXqK6U9h76ogf3Gaq9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 113,
+  "rating": 5.3,
+  "description": "Professor Jay Verma finds himself in a precarious situation amidst his failing career and crumbling marital relationship. Struggling to make his way out, he seeks help from Ronnie, a student in lieu of his help to complete Ronnie's thesis. The two strike a deal, however, soon things go awry and the professor begins to question his own sanity.",
+  "created_at": "2026-07-22T15:27:05.494Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5819,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

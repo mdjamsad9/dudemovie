@@ -1,0 +1,28 @@
+{
+  "id": "54d68c4a-881c-41c3-ad37-82f368d27ce5",
+  "title": "Wyrmwood: Apocalypse",
+  "slug": "wyrmwood-apocalypse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b1OSwHDIflDSbirMr6k3Ivqf2yu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 88,
+  "rating": 5.793,
+  "description": "In a zombie-infested Australian wasteland, soldier Rhys has dedicated his life to tracking and capturing survivors for the Surgeon General in hopes of finding a cure.",
+  "created_at": "2026-07-22T15:14:48.854Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3274,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

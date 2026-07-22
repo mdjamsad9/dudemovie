@@ -1,0 +1,32 @@
+{
+  "id": "decef841-fc07-4e0e-95d8-4af44608ae75",
+  "title": "Rootwood",
+  "slug": "rootwood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gIoYub6Kwsv3EI1MF5uRqUfXHHP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2019,
+  "duration": 83,
+  "rating": 3.2,
+  "description": "Rootwood follows two students who host ‘The Spooky Hour’, a podcast about paranormal phenomena and urban legends. When they are hired by a Hollywood film producer to shoot a horror documentary about the curse of The Wooden Devil, they smell their chance to become famous. Together, with their friend, they enter Rootwood Forest and investigate the area to find out the truth about The Wooden Devil and his victims.",
+  "created_at": "2026-07-22T15:27:04.753Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4784,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

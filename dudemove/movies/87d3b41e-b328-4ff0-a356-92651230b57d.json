@@ -1,0 +1,28 @@
+{
+  "id": "87d3b41e-b328-4ff0-a356-92651230b57d",
+  "title": "Wishlist",
+  "slug": "wishlist",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7QQli2J73feuiHkHRsxnkRfqE8w.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 6,
+  "description": "A couple lived 7 years of their married lives planning for their future but one incident brings their world upside down. That's the moment they decide to live their lives and embark on a long wishlist trip to live each moment of live and fulfill their bucket list before one of them die.",
+  "created_at": "2026-07-22T15:19:10.642Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3908,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "18df3a60-2c8b-432b-ba06-64c498684cf4",
+  "title": "Invader Zim: Enter the Florpus",
+  "slug": "invader-zim-enter-the-florpus",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lYy5EBxl8cwpyejcy85LgSdf34m.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2019,
+  "duration": 71,
+  "rating": 7.416,
+  "description": "ZIM discovers his almighty leaders never had any intention of coming to Earth and he loses confidence in himself for the first time in his life, which is the big break his human nemesis, Dib has been waiting for.",
+  "created_at": "2026-07-22T15:29:18.620Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4387,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

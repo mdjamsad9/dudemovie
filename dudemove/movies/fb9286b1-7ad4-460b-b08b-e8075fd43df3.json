@@ -1,0 +1,32 @@
+{
+  "id": "fb9286b1-7ad4-460b-b08b-e8075fd43df3",
+  "title": "Sui Dhaaga - Made in India",
+  "slug": "sui-dhaaga-made-in-india",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dit1yb4Z5WBtCFqn7Bl3oN8l7A1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 150,
+  "rating": 7.208,
+  "description": "A heartwarming story of pride and self-reliance capturing the journey of Mauji and his wife Mamta, who pursue their passion by overcoming all odds.",
+  "created_at": "2026-07-22T15:34:29.424Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5324,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f70f12a6-5534-4eb0-8efd-5ef4e02776ab",
+  "title": "Holland",
+  "slug": "holland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 108,
+  "rating": 5.375,
+  "description": "Teacher Nancy's life with her husband in Holland, Michigan, tumbles into a twisted tale when she and a colleague become suspicious of a secret.",
+  "created_at": "2026-07-09T17:01:00.109Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 598,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Holland.2025.1080p.WEBRip.x264%20DDN%5D/Holland.2025.1080p.WEBRip.x264%20DDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

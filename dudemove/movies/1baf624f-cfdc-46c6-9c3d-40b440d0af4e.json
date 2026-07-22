@@ -1,0 +1,24 @@
+{
+  "id": "1baf624f-cfdc-46c6-9c3d-40b440d0af4e",
+  "title": "Hamlet",
+  "slug": "hamlet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1BZhswTQ2ClqnQl1zKbpLbqgCsa.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 154,
+  "rating": 9.5,
+  "description": "From The Public Theater’s Free Shakespeare in the Park at The Delacorte Theater in Central Park, experience this Shakespearean classic directed by Tony Award winner Kenny Leon featuring Tony Award nominee Ato Blankson-Wood (“Slave Play”) in the title role and Solea Pfeiffer as Ophelia (“Hadestown”).",
+  "created_at": "2026-07-09T17:00:57.476Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1533,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Hamlet.2024.1080p.BluRay.x264%20%5BDDN%5D/Hamlet.2024.1080p.BluRay.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

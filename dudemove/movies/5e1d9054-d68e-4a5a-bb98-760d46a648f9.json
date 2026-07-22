@@ -1,0 +1,32 @@
+{
+  "id": "5e1d9054-d68e-4a5a-bb98-760d46a648f9",
+  "title": "Robin Hood: The Rebellion",
+  "slug": "robin-hood-the-rebellion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yYbJl9D2woKQTXVOaQs01Qs7CCa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 5.02,
+  "description": "With his true love captured by the villainous Sheriff of Nottingham, the legendary Robin Hood and his crew of outlaws execute a daring rescue to save her.",
+  "created_at": "2026-07-22T15:34:51.693Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5421,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

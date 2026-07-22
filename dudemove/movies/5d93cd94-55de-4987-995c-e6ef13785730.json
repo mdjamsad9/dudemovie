@@ -1,0 +1,32 @@
+{
+  "id": "5d93cd94-55de-4987-995c-e6ef13785730",
+  "title": "The Dark Stranger",
+  "slug": "the-dark-stranger",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGbYV9NZn2jFC1RQDpFXB3JbLkg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 4.897,
+  "description": "Haunted by a terrifying spirit out of her graphic novel, a young artist struggles to overcome her psychosis before it destroys her.",
+  "created_at": "2026-07-22T15:48:56.825Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6656,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

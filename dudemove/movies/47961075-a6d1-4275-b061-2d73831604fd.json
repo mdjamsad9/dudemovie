@@ -1,0 +1,28 @@
+{
+  "id": "47961075-a6d1-4275-b061-2d73831604fd",
+  "title": "Barbarians",
+  "slug": "barbarians",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 90,
+  "rating": 5.107,
+  "description": "A civilized dinner party in a country house sees four friends, Lucas, Adam, Chloe, and Eve, coming together for a birthday celebration. As the night progresses secrets and lies force themselves into the light and polite pretensions are dropped.  A knock at the door reveals three masked intruders with an agenda of their own.  Will their friendship stand the test? Can they survive the night or will their secrets eventually catch up with them?",
+  "created_at": "2026-07-22T15:14:55.965Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3456,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

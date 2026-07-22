@@ -1,0 +1,32 @@
+{
+  "id": "a3f4cc48-5fc2-4139-ae07-10cd1398553e",
+  "title": "Bitch",
+  "slug": "bitch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dsFUHJgMVViUsRggDThtwRPmS9i.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 5.341,
+  "description": "A woman snaps and assumes the psyche of a vicious dog as her checked-out, philandering husband attempts to keep the family together.",
+  "created_at": "2026-07-22T15:41:32.729Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5700,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "226776ac-abf0-400e-aac1-8b668e2defb0",
+  "title": "Frankenstein",
+  "slug": "frankenstein",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 150,
+  "rating": 7.645,
+  "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+  "created_at": "2026-07-09T16:49:41.696Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 249,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Frankenstein.2025.1080p.WEBRip.x264%20%5BDDN%5D/Frankenstein.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

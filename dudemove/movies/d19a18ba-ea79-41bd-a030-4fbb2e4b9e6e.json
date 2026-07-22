@@ -1,0 +1,28 @@
+{
+  "id": "d19a18ba-ea79-41bd-a030-4fbb2e4b9e6e",
+  "title": "Eye Without a Face",
+  "slug": "eye-without-a-face",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2GpBfMFcCEbIb2uLRKxEkOg1lzn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 94,
+  "rating": 4.2,
+  "description": "Agoraphobic young man Henry, living with a Youtuber and struggling actor Eric, hacks the webcams of young women, and suspects that one of them is a serial killer.",
+  "created_at": "2026-07-22T15:17:56.254Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3615,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

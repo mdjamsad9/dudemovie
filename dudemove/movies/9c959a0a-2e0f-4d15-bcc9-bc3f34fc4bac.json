@@ -1,0 +1,24 @@
+{
+  "id": "9c959a0a-2e0f-4d15-bcc9-bc3f34fc4bac",
+  "title": "Dil Jo Na Keh Saka",
+  "slug": "dil-jo-na-keh-saka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6cCDyozwYILUi6HTJKzQQjCJtZl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 110,
+  "rating": 4,
+  "description": "Starring Himansh Kohli and Priya Banerjee, a romantic drama that follows the story of two childhood friends who end up going separate ways to follow their dreams. Eventually, they return to their hometown where they chance across each other and soon discover that there is more to their relationship than just friendship.",
+  "created_at": "2026-07-22T15:36:21.243Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5744,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

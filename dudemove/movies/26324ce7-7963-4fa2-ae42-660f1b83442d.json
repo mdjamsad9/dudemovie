@@ -1,0 +1,24 @@
+{
+  "id": "26324ce7-7963-4fa2-ae42-660f1b83442d",
+  "title": "Firefly",
+  "slug": "firefly",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iIpz2NaPmwy1lF15ZMRPsQSPdjN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "en",
+  "release_year": 2025,
+  "duration": null,
+  "rating": null,
+  "description": "When things in her house start to change, a delightfully curious young girl, Maya, senses that a monster may be the culprit. In an effort to protect her mother and grandmother, she takes the monster hunt into her own hands. She soon learns that, while the threat it poses may be real, the monster itself is more someone than something.",
+  "created_at": "2026-07-09T16:56:05.142Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 429,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Firefly%20(2025)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Firefly%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

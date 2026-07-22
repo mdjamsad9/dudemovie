@@ -1,0 +1,28 @@
+{
+  "id": "868652d8-2757-4706-a659-23cc8e9937de",
+  "title": "The Swap",
+  "slug": "the-swap",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4GvjFcWaSnVrbHjFof1Sy8tZK1r.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 89,
+  "rating": 6.686,
+  "description": "Based on the book by Megan Shull, The Swap follows the adventures of a rhythmic gymnast named Ellie with a make-it-or-break-it competition, and the younger brother named Jack in a hockey family who's vying for a varsity spot on his school team. But when a simple text causes the two to swap bodies, their paths take an unexpected cross.",
+  "created_at": "2026-07-22T15:49:01.642Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 6694,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

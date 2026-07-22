@@ -1,0 +1,32 @@
+{
+  "id": "b4abc6a1-8473-492c-9d1d-1fc959515fa3",
+  "title": "Shivam Bhaje",
+  "slug": "shivam-bhaje",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gmmXxCKT4E24PMfnMGRm7xPNuc7.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 124,
+  "rating": 7,
+  "description": "Chandrasekhar, a humble loan recovery agent gets unwittingly entangled into a sinister international conspiracy to cause mass destruction in India. Realizing it's divine orchestration to avert an impending disaster, he stands up to face the dangers.",
+  "created_at": "2026-07-09T17:13:50.906Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1293,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Shivam%20Bhaje%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Shivam%20Bhaje%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

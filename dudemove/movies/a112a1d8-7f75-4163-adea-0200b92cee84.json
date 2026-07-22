@@ -1,0 +1,32 @@
+{
+  "id": "a112a1d8-7f75-4163-adea-0200b92cee84",
+  "title": "City of Tiny Lights",
+  "slug": "city-of-tiny-lights",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eX9iEZdU2w1elGQhNY50DmKqiaE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 110,
+  "rating": 5.212,
+  "description": "In the teeming, multicultural metropolis of modern-day London, a seemingly straightforward missing-person case launches a down-at-heel private eye into a dangerous world of religious fanaticism and political intrigue.",
+  "created_at": "2026-07-22T15:43:43.046Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6765,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

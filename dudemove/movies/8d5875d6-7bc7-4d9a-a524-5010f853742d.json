@@ -1,0 +1,28 @@
+{
+  "id": "8d5875d6-7bc7-4d9a-a524-5010f853742d",
+  "title": "Pretty Thing",
+  "slug": "pretty-thing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 96,
+  "rating": 5.6,
+  "description": "A successful executive fights back when a scorned young lover takes his obsession too far.",
+  "created_at": "2026-07-09T16:55:54.717Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 693,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Pretty.Thing.2025.1080p.WEBRip.x264%20%5BDDN%5D/Pretty.Thing.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

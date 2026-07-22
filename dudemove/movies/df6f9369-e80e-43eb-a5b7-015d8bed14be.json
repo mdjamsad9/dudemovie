@@ -1,0 +1,32 @@
+{
+  "id": "df6f9369-e80e-43eb-a5b7-015d8bed14be",
+  "title": "Kudumbasthan",
+  "slug": "kudumbasthan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xSF6fDlSKI1qrftN9OKOnBLvGZH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 153,
+  "rating": 7.2,
+  "description": "Naveen's relationship with his parents becomes strained after he marries a oppressed-caste girl. Though they eventually reconcile, his sudden unemployment puts him in a difficult position. As financial pressures mount, Naveen must navigate societal challenges and personal struggles to regain stability and rebuild harmony within his middle-class family.",
+  "created_at": "2026-07-09T17:03:13.555Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 604,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kudumbasthan%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kudumbasthan%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

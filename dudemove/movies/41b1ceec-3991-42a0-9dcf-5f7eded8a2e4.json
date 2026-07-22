@@ -1,0 +1,28 @@
+{
+  "id": "41b1ceec-3991-42a0-9dcf-5f7eded8a2e4",
+  "title": "8-Bit Christmas",
+  "slug": "8-bit-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 98,
+  "rating": 6.426,
+  "description": "In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.",
+  "created_at": "2026-07-22T15:16:40.153Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3490,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

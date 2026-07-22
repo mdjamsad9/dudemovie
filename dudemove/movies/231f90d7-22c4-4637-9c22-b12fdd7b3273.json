@@ -1,0 +1,36 @@
+{
+  "id": "231f90d7-22c4-4637-9c22-b12fdd7b3273",
+  "title": "Race 3",
+  "slug": "race-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wtnA5mmNumYkeevokar6IskyrZP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 160,
+  "rating": 3.608,
+  "description": "The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.",
+  "created_at": "2026-07-22T15:36:16.762Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5581,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

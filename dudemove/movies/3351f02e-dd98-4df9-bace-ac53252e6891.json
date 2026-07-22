@@ -1,0 +1,24 @@
+{
+  "id": "3351f02e-dd98-4df9-bace-ac53252e6891",
+  "title": "General Magic",
+  "slug": "general-magic-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3bgwKDO3B3Bv6vyUwxL2kXVqrkt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 92,
+  "rating": 7.286,
+  "description": "A tale of how the great vision and epic failure of General Magic, the \"greatest dead company in Silicon Valley\", changed the lives of billions.",
+  "created_at": "2026-07-22T15:30:22.872Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4430,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

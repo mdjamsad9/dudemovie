@@ -1,0 +1,32 @@
+{
+  "id": "7f2816a2-9312-43a3-adc8-5cbd9a2dd678",
+  "title": "Antboy 3",
+  "slug": "antboy-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b0pxLqYkEifszG3aelMnyNd5BWx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Danish",
+  "release_year": 2016,
+  "duration": 85,
+  "rating": 6.9,
+  "description": "Antboy is challenged by the release of archenemy Loppen from prison, the new super villain, Alicia Dufort, and competition from an all new vigilante; the Hero Without a Name.",
+  "created_at": "2026-07-22T15:50:23.832Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6529,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

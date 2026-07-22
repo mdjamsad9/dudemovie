@@ -1,0 +1,32 @@
+{
+  "id": "2cbeb355-60ab-4e5b-9a44-ab1943327444",
+  "title": "The Rising Hawk",
+  "slug": "the-rising-hawk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qmLNbyXKpuEKXjmaEWIEAoiS0OB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 110,
+  "rating": 5.862,
+  "description": "During the 13th century, a small village fights for freedom in the frontier landscape of the Carpathian Mountains against Mongolian invaders.",
+  "created_at": "2026-07-22T15:21:05.054Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4547,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

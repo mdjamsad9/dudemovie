@@ -1,0 +1,24 @@
+{
+  "id": "25bcdbaf-c276-4fdc-a097-3be72a40b196",
+  "title": "Heritage",
+  "slug": "heritage",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "No Language",
+  "release_year": 2019,
+  "duration": 5,
+  "rating": null,
+  "description": "Heritage is an animated story about the destruction of the lives of a happy family and how the only surviving child is trying to keep on going by himself.",
+  "created_at": "2026-07-22T15:26:22.956Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 4695,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

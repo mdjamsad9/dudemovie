@@ -1,0 +1,28 @@
+{
+  "id": "263c3fc4-b3ea-4464-bb9f-e5071f4abd3d",
+  "title": "Detour",
+  "slug": "detour",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9BHMuMQPe62UG9DlQH97rm7jKnG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Korean",
+  "release_year": 2016,
+  "duration": 103,
+  "rating": 6,
+  "description": "Three friends from college are now on the brink of turning 40. To attend a funeral on Jeju Island, they go on an unexpected trip as a getaway and wind up at a guest house, where water shimmers, wind blows, and pretty women are seductive, inviting the trio back to their 20s.",
+  "created_at": "2026-07-22T15:47:41.604Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6561,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

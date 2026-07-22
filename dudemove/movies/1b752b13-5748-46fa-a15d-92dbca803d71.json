@@ -1,0 +1,28 @@
+{
+  "id": "1b752b13-5748-46fa-a15d-92dbca803d71",
+  "title": "Kabir Singh",
+  "slug": "kabir-singh",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g0bIMJRQyibCEaGy8V48VviFVKM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 172,
+  "rating": 6.358,
+  "description": "Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off.",
+  "created_at": "2026-07-22T15:28:54.010Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4995,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

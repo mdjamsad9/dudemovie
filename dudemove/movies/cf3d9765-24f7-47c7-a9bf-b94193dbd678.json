@@ -1,0 +1,24 @@
+{
+  "id": "cf3d9765-24f7-47c7-a9bf-b94193dbd678",
+  "title": "Dirty Grandpa",
+  "slug": "dirty-grandpa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k0Lz1TfSlbcQthQKYGwE7blDfwN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 102,
+  "rating": 5.94,
+  "description": "Jason Kelly is one week away from marrying his boss's uber-controlling daughter, putting him on the fast track for a partnership at the law firm. However, when the straight-laced Jason is tricked into driving his foul-mouthed grandfather, Dick, to Daytona for spring break, his pending nuptials are suddenly in jeopardy. Between riotous frat parties, bar fights, and an epic night of karaoke, Dick is on a quest to live his life to the fullest and bring Jason along for the ride.",
+  "created_at": "2026-07-22T15:32:58.157Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6814,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

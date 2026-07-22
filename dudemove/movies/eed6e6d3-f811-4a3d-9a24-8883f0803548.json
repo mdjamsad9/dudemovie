@@ -1,0 +1,24 @@
+{
+  "id": "eed6e6d3-f811-4a3d-9a24-8883f0803548",
+  "title": "Hot Tub Time Machine 2",
+  "slug": "hot-tub-time-machine-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lBroHetSm8RMI8zp7ThpFJsw9E1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 93,
+  "rating": 5.188,
+  "description": "After their first adventure with the Hot Tub Time Machine, Lou and Nick are living very well off their ill-gotten gains, while Jacob still cannot rely on Lou to be a positive role model. When an unknown assailant breaks into Lou's mansion and shoots him, Nick and Jacob take him for another trip in the hot tub. They emerge in the year 2025, where they must figure out who shot Lou and prevent it from happening again.",
+  "created_at": "2026-07-22T15:44:38.345Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6925,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

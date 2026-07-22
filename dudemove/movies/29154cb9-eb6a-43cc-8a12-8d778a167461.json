@@ -1,0 +1,28 @@
+{
+  "id": "29154cb9-eb6a-43cc-8a12-8d778a167461",
+  "title": "Freddy",
+  "slug": "freddy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/av8OONk9vmm0OmGWNYzZpAbOJP3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 6.962,
+  "description": "Introverted and awkward Dr. Freddy Ginwala desperately searches for a soulmate. When he finally finds her, the relationship becomes as painful as a root canal.",
+  "created_at": "2026-07-22T15:12:59.934Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3229,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

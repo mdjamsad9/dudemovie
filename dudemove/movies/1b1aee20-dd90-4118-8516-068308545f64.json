@@ -1,0 +1,28 @@
+{
+  "id": "1b1aee20-dd90-4118-8516-068308545f64",
+  "title": "Lipstick Under My Burkha",
+  "slug": "lipstick-under-my-burkha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/watd7f9icZYuXd7ODenxw0tMAhE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 116,
+  "rating": 6.8,
+  "description": "Four ordinary women, inflicted by silly societal norms, have to steal, lie, cheat and hide in order to lead the lives that they rightfully deserve.",
+  "created_at": "2026-07-22T15:09:40.176Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5710,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

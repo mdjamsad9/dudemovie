@@ -1,0 +1,24 @@
+{
+  "id": "53875850-14e5-4b4f-ae26-ba8b368009f8",
+  "title": "Bioscopewala",
+  "slug": "bioscopewala",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xMuvkJZLecyAA75CJJTV7dN6T97.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 7,
+  "description": "Based on Rabindranath Tagore’s famous short story 'Kabuliwala', the film is about a young girl’s quest to discover more about her dead father’s friend who used to play bioscope shows for her as a kid.",
+  "created_at": "2026-07-22T15:36:48.285Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5641,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

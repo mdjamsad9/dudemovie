@@ -1,0 +1,28 @@
+{
+  "id": "c84deac9-8d72-47af-abcb-133e4b7a76a9",
+  "title": "Rock On 2",
+  "slug": "rock-on-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bHXLurduTMZByPwSUss3LbSsgiU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 143,
+  "rating": 4.833,
+  "description": "The musical drama is a sequel to the 2008 blockbuster 'Rock On' that tells the story of four friends and their passion for music. This time around, the film centers around the regional conflict prevailing in the North Eastern states of India.",
+  "created_at": "2026-07-22T15:45:32.092Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6703,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

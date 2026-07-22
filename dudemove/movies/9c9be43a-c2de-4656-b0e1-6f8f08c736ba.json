@@ -1,0 +1,28 @@
+{
+  "id": "9c9be43a-c2de-4656-b0e1-6f8f08c736ba",
+  "title": "MDMA",
+  "slug": "mdma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jYfQ2QEK03ruxKQkP3r4yzM4Juu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 93,
+  "rating": 4.522,
+  "description": "When an Asian American girl from the wrong side of the tracks is accepted by a prestigious university, she finds that her academic prowess can be put to lucrative use.",
+  "created_at": "2026-07-22T15:35:43.515Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5750,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

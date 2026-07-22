@@ -1,0 +1,40 @@
+{
+  "id": "181ed1a1-1cc4-46fd-a741-76001708ffa7",
+  "title": "Castle Falls",
+  "slug": "castle-falls",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g918jDm2NxYtnOQ83nda82otfdG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 90,
+  "rating": 6.216,
+  "description": "Rival gangs seek out millions of dollars hidden inside a luxury condominium that's scheduled to be demolished, but first they have to deal with the demolition prep crewman who found the loot first.",
+  "created_at": "2026-07-22T15:16:34.028Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 3494,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

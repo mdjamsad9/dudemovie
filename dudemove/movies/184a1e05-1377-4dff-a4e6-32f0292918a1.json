@@ -1,0 +1,32 @@
+{
+  "id": "184a1e05-1377-4dff-a4e6-32f0292918a1",
+  "title": "Bad Asses on the Bayou",
+  "slug": "bad-asses-on-the-bayou",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/moZSQaD6GPRELWZO9qbRJjzq7re.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 85,
+  "rating": 5.973,
+  "description": "The third installment in the successful Bad Ass action-comedy franchise. Bad Asses on the Bayou reunites the dynamic duo, Frank Vega and Bernie Pope, as they travel to Louisiana to attend the wedding of their dear friend Carmen Gutierrez. What was pictured as a wedding weekend escape to the south turns violently ugly as madness and mayhem ensue, pressing our senior heroes to once again serve justice.",
+  "created_at": "2026-07-22T15:51:49.726Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6952,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

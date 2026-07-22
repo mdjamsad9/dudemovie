@@ -1,0 +1,32 @@
+{
+  "id": "72392a84-d195-44aa-b1aa-7869d199d34c",
+  "title": "Spell",
+  "slug": "spell",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9clw9UBQXmi3EFgjgIPGJSluQr7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 91,
+  "rating": 6.388,
+  "description": "A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.",
+  "created_at": "2026-07-22T15:20:13.458Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4306,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

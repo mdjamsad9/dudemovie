@@ -1,0 +1,32 @@
+{
+  "id": "27f1612d-3fb6-40bc-a580-203f62b4a8a7",
+  "title": "Red Devil",
+  "slug": "red-devil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pbgi9JIRc9dMr8kS9zYVKppsUE4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 5.737,
+  "description": "An intertwining tale of sex, drugs, rock and woe.  Lives criss-cross and converge thanks to the most addictive drug in human history, Red Devil—which also happens to be the title of Savvas D. Michael’s tale of sex, drugs, and guns. An anonymous voice at the start of the film warns, “Once you’ve tasted the devil’s cum, everything else is dull and numb.” The current problem with the Red Devil drug is the supply has dried up. Addicts are so desperate for it they’re willing to kill for it…and they do.",
+  "created_at": "2026-07-22T15:26:57.592Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4800,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

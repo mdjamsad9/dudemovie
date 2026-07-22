@@ -1,0 +1,24 @@
+{
+  "id": "86d3fa50-f427-4c06-a184-a3b9412bf62b",
+  "title": "Lovedale",
+  "slug": "lovedale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qI9SP3Ao1LoKSmFEoppBCfcNSuv.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "te",
+  "release_year": 2025,
+  "duration": 106,
+  "rating": 3,
+  "description": "Isha, an air hostess and model, joins photographer Ruben for a shoot at his iconic spot, Lovedale. A night in a remote forest bungalow takes a terrifying turn as unexpected dangers arise. Will they survive the horrors that await?",
+  "created_at": "2026-07-09T16:58:14.546Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 673,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Lovedale%20(2025)%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Lovedale%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

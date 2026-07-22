@@ -1,0 +1,32 @@
+{
+  "id": "6c3173d2-4618-4405-8198-1af927abc7d9",
+  "title": "Pixels",
+  "slug": "pixels",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 106,
+  "rating": 5.784,
+  "description": "Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.",
+  "created_at": "2026-07-22T15:42:18.901Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6861,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

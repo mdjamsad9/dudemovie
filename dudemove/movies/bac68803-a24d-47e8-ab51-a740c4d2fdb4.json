@@ -1,0 +1,36 @@
+{
+  "id": "bac68803-a24d-47e8-ab51-a740c4d2fdb4",
+  "title": "The Angry Birds Movie 2",
+  "slug": "the-angry-birds-movie-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 7.052,
+  "description": "Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.",
+  "created_at": "2026-07-22T15:27:58.934Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4822,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

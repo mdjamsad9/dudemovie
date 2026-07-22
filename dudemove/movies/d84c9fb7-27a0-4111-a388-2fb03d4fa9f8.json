@@ -1,0 +1,32 @@
+{
+  "id": "d84c9fb7-27a0-4111-a388-2fb03d4fa9f8",
+  "title": "Edagaiye Apaghatakke Karana",
+  "slug": "edagaiye-apaghatakke-karana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vVCr2fpROnnKO9gZybmC9SObPIJ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 120,
+  "rating": 1,
+  "description": "Lohit Rajesh, a man who works on an IT firm and infamously known to be a lefty gets caught up in a murder after he meets with a mysterious woman.",
+  "created_at": "2026-07-09T16:55:01.376Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 407,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Edagaiye%20Apaghatakke%20Karana%20(2025)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Edagaiye%20Apaghatakke%20Karana%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

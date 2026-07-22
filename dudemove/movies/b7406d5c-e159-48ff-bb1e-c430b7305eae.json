@@ -1,0 +1,36 @@
+{
+  "id": "b7406d5c-e159-48ff-bb1e-c430b7305eae",
+  "title": "Shark Bait",
+  "slug": "shark-bait",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mVVU9zC8snNHlcqYONY2HOsh9ob.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 87,
+  "rating": 5.7,
+  "description": "A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.",
+  "created_at": "2026-07-22T15:14:35.876Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3255,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

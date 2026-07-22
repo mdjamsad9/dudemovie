@@ -1,0 +1,32 @@
+{
+  "id": "7024bf32-2016-403b-9fa0-2dfa91c9e409",
+  "title": "Base",
+  "slug": "base",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eOqhm7sXbgmeIpmvsAguOB3j0tY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 80,
+  "rating": 4.6,
+  "description": "JC (Alexander Polli) is a B.A.S.E. Jumper, a global playboy who lives his life quite literally on the edge, pursuing man’s greatest dream – to fly. When a jump goes wrong, that dream is violently shattered. Haunted by the event, JC is drawn to his best friend’s lover, ASH (Julie Dray), as he pushes himself harder than ever before – flying lower, closer, faster and recording every moment on film. Soon JC’s dark descent threatens not only his own life but the lives of all those around him. BASE follows a man over the edge and watches him fall.",
+  "created_at": "2026-07-22T15:41:38.584Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6085,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

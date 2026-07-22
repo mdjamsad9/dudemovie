@@ -1,0 +1,36 @@
+{
+  "id": "d1c10c15-722e-4591-be9b-398fbe8f16ef",
+  "title": "Marvel Rising: Heart of Iron",
+  "slug": "marvel-rising-heart-of-iron-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4IZv4EdqXNtMIpTqrwtLJubdYI2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 44,
+  "rating": 6.4,
+  "description": "Ironheart, AKA Riri Williams, is having difficulty adjusting to college life as the youngest student there when the college's engineering lab is demolished by an alien and her best friend is kidnapped. Inspired by Iron Man, she develops a plan to save her friend.",
+  "created_at": "2026-07-22T15:29:45.030Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4349,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

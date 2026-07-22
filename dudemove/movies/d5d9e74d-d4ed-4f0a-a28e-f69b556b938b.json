@@ -1,0 +1,28 @@
+{
+  "id": "d5d9e74d-d4ed-4f0a-a28e-f69b556b938b",
+  "title": "Fastey Fasaatey",
+  "slug": "fastey-fasaatey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yAeZFs7fZIi90wJmocAJAXLZNXJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 121,
+  "rating": null,
+  "description": "Modern day youngsters Aakash, Anisha, and Dev are caught in the traditional family values and while Aakash's family is forcing him to get married, he is trying his best to buy some time to marry his girlfriend Anisha. The free-spirited Anisha has her own pursuits and doesn't want to get married soon. Aakash uses the help of his best friend Dev who agrees to solve their problems.",
+  "created_at": "2026-07-22T15:30:25.142Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4537,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

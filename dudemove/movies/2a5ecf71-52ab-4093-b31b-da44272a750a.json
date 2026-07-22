@@ -1,0 +1,28 @@
+{
+  "id": "2a5ecf71-52ab-4093-b31b-da44272a750a",
+  "title": "Another Evil",
+  "slug": "another-evil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6q95Xs9HvBiwIeH69h44lqCCyzy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 92,
+  "rating": 5.908,
+  "description": "After encountering a ghost in his family's vacation home, Dan and his wife Mary hire an \"industrial-grade exorcist\" named Os to get rid of the beings.",
+  "created_at": "2026-07-22T15:44:10.067Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6805,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

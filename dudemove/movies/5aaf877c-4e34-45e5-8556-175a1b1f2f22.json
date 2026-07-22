@@ -1,0 +1,28 @@
+{
+  "id": "5aaf877c-4e34-45e5-8556-175a1b1f2f22",
+  "title": "The Dresser",
+  "slug": "the-dresser",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zu1RH6FJxRH3tavMrt1hSTSh6PP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 109,
+  "rating": 6.217,
+  "description": "One fateful night in a small English regional theatre during World War II a troupe of touring actors stage a production of Shakespeares King Lear. Bombs are falling, sirens are wailing, the curtain is up in an hour but the actor/manager Sir who is playing Lear is nowhere to be seen. His dresser Norman must scramble to keep the production alive but will Sir turn up in time and if he does will he be able to perform that night? The Dresser is a wickedly funny and deeply moving story of friendship and loyalty as Sir reflects on his lifelong accomplishments and seeks to reconcile his turbulent friendships with those in his employ before the final curtain.",
+  "created_at": "2026-07-22T15:49:37.127Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 7002,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

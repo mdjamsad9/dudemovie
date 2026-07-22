@@ -1,0 +1,36 @@
+{
+  "id": "37e792d0-7bad-49f2-9049-a67074a75e18",
+  "title": "AK vs AK",
+  "slug": "ak-vs-ak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 108,
+  "rating": 6.722,
+  "description": "After a public spat with a movie star,  a disgraced director retaliates by kidnapping the actor's daughter, filming the search for her in real-time.",
+  "created_at": "2026-07-22T15:20:29.096Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4137,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

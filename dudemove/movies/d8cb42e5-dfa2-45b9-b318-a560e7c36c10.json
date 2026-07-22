@@ -1,0 +1,28 @@
+{
+  "id": "d8cb42e5-dfa2-45b9-b318-a560e7c36c10",
+  "title": "The Bee Gees: How Can You Mend a Broken Heart",
+  "slug": "the-bee-gees-how-can-you-mend-a-broken-heart",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yyodIRVfyXXC9Z4Lq3b1u9ZqL4E.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 111,
+  "rating": 7.6,
+  "description": "The story of the triumphs and hurdles of brothers Barry, Maurice, and Robin Gibb, otherwise known as the Bee Gees. The iconic trio, who found early fame in the 1960s, went on to write over 1,000 songs and have 20 No. 1 hits throughout their career, transcending more than five decades of changing tastes and styles.",
+  "created_at": "2026-07-22T15:20:40.270Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4098,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

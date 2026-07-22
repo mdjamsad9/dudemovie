@@ -1,0 +1,24 @@
+{
+  "id": "187f6f1e-0361-4ffc-ab3c-0409c0bad438",
+  "title": "30 Minutes",
+  "slug": "30-minutes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d5hRtdr5ilNpdFO3mxaQ2lM6vM1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 114,
+  "rating": 6.5,
+  "description": "30 MINUTES is a Physiological thriller and it explains the value of time. The story revolves around the continuous torture and violent beating of a child by his father even for small and unimportant tasks in order to enforce absolute punctuality on him. These childhood experiences cause lifelong psychiatric problems in the life of the child as he grows up to adulthood. He is a normal person in daily life and is efficiently working in a private firm. He starts having a love affair with a girl working in the same office but his life gets into serious troubles on many occasions due to his childhood nightmares. Tired and desperate to get over such frequent problems, he plans a very interesting, thrilling and dangerous game called 30 minutes.",
+  "created_at": "2026-07-22T15:36:06.138Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6756,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8b5188d7-e385-4572-a963-2e44b50cb10a",
+  "title": "Gentlewoman",
+  "slug": "gentlewoman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xbF4NfyaQra7GkGR5OZAWglVhUE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 113,
+  "rating": 8,
+  "description": "A major turnaround of events takes place in the lives of Aravind and Poorni, a newly married intimate couple, when her sister visits for a job interview. Aravind mysteriously disappears, leading to revelations of his affair with a client. As authorities investigate, tensions rise between the women amid growing suspicions.",
+  "created_at": "2026-07-09T16:54:14.827Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 764,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Gentlewoman%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gentlewoman%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

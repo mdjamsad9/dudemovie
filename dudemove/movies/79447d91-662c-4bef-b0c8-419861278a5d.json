@@ -1,0 +1,28 @@
+{
+  "id": "79447d91-662c-4bef-b0c8-419861278a5d",
+  "title": "Attenborough and the Mammoth Graveyard",
+  "slug": "attenborough-and-the-mammoth-graveyard",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zJK70Jxl3kkwrAXRKOioSZrloWC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 58,
+  "rating": 7.4,
+  "description": "Sir David Attenborough joins an archaeological dig uncovering Britain's biggest mammoth discovery in almost 20 years. In 2017, in a gravel quarry near Swindon, two amateur fossil hunters found an extraordinary cache of Ice Age mammoth remains and a stone hand-axe made by a Neanderthal.",
+  "created_at": "2026-07-22T15:15:58.864Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 3445,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

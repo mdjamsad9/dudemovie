@@ -1,0 +1,28 @@
+{
+  "id": "2b774766-e1fa-4694-9b03-7c1b108cac54",
+  "title": "Supercool",
+  "slug": "supercool",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 91,
+  "rating": 5.745,
+  "description": "Best friends, Neil and Gilbert start their senior year of high school with high hopes and aspirations. Neil has always fantasized about being cool enough to date his long time crush and Gilbert has always dreamed of being a social media super star. After what is, by all accounts, a very disappointing and embarrassing first day in school, Neil makes a magical wish to be cool just at the magical moment when the clock strikes 11:11. The next morning, Neil wakes up to a reality that is straight from the comics of his dreams.",
+  "created_at": "2026-07-22T15:15:25.256Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3439,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

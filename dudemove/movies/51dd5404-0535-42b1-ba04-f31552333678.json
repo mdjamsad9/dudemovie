@@ -1,0 +1,32 @@
+{
+  "id": "51dd5404-0535-42b1-ba04-f31552333678",
+  "title": "A Prayer Before Dawn",
+  "slug": "a-prayer-before-dawn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/toYs3tZrHbSKJS1hmiTY1fJnPjm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 116,
+  "rating": 6.73,
+  "description": "The amazing true story of Billy Moore, an English boxer incarcerated in Thailand’s most notorious prison. Thrown into a world of drugs and violence, he finds his best chance to escape is to fight his way out in prison Muay Thai tournaments.",
+  "created_at": "2026-07-22T15:35:35.559Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5509,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

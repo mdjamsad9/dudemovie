@@ -1,0 +1,36 @@
+{
+  "id": "dafc12a4-90c1-455e-a813-bb54a2b13cb4",
+  "title": "The Vanished",
+  "slug": "the-vanished",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bYePSWEmMw9PQ9hNwMzgW1rQUtI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 115,
+  "rating": 6,
+  "description": "A family vacation takes a terrifying turn when parents Paul and Wendy discover their young daughter has vanished without a trace. Stopping at nothing to find her, the search for the truth leads to a shocking revelation.",
+  "created_at": "2026-07-22T15:22:57.772Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4260,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

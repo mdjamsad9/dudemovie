@@ -1,0 +1,28 @@
+{
+  "id": "b3a5b73c-b41a-4e4b-8e4b-de3c4ca63f1e",
+  "title": "Dean",
+  "slug": "dean",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qnGl6lcpZEJ4L9e24FSfcCCTd95.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 94,
+  "rating": 5.764,
+  "description": "A comedy about loss, grief, and the redemptive power of love. Dean is a NY illustrator who falls hard for an LA woman while trying to prevent his father from selling the family home in the wake of his mother's death.",
+  "created_at": "2026-07-22T15:43:16.880Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6762,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

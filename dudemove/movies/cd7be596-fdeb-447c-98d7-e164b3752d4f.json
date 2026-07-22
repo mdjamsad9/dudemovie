@@ -1,0 +1,28 @@
+{
+  "id": "cd7be596-fdeb-447c-98d7-e164b3752d4f",
+  "title": "Birth of the Dragon",
+  "slug": "birth-of-the-dragon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/odn4Hj2u7IQhJRmr15pTYZbkbc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2017,
+  "duration": 103,
+  "rating": 5.814,
+  "description": "Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.",
+  "created_at": "2026-07-22T15:41:35.037Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5992,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

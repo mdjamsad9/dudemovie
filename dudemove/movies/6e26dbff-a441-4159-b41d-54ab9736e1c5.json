@@ -1,0 +1,28 @@
+{
+  "id": "6e26dbff-a441-4159-b41d-54ab9736e1c5",
+  "title": "The Nursery",
+  "slug": "the-nursery",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oX1nGXnw2wQXuwwfXneyNCvWFD2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 88,
+  "rating": 3.8,
+  "description": "When college freshman Ranae agrees to babysit for a family with a tragic past, her run-of-the-mill Saturday night quickly turns into a confrontation with unspeakable horror. Stalked by a sinister presence and haunted by ghosts from her own past, Ranae and her friends must confront an angry, evil spirit determined to hunt them down one-by-one on a deliberate march toward its ultimate prey in THE NURSERY",
+  "created_at": "2026-07-22T15:37:27.402Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5664,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

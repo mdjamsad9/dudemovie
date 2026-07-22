@@ -1,0 +1,28 @@
+{
+  "id": "085aa1b5-c914-4954-8f14-e25e182e179d",
+  "title": "Little Woods",
+  "slug": "little-woods",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gvyikwFv2pwUyapTPx8Mx6JKZzX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 5.389,
+  "description": "For years, Ollie has illicitly helped the struggling residents of her North Dakota oil boomtown access Canadian health care and medication. When the authorities catch on, she plans to abandon her crusade, only to be dragged in even deeper after a desperate plea for help from her sister.",
+  "created_at": "2026-07-22T15:31:59.439Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4966,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

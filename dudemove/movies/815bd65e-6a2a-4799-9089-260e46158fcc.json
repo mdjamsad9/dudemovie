@@ -1,0 +1,24 @@
+{
+  "id": "815bd65e-6a2a-4799-9089-260e46158fcc",
+  "title": "Tere Bin Laden Dead or Alive",
+  "slug": "tere-bin-laden-dead-or-alive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vgph2hdk5kyWUWzd5TCEDKrsE1b.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 104,
+  "rating": 5.1,
+  "description": "A Bollywood director's plan to use an Osama Bin Laden look-alike in an upcoming film runs afoul of a Taliban arms dealer's desire to show that the terrorist is still alive.",
+  "created_at": "2026-07-22T15:46:00.604Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6378,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

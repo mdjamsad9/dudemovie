@@ -1,0 +1,28 @@
+{
+  "id": "07499b02-2e14-40c2-a07a-be71012dbeac",
+  "title": "Rifle Ganj",
+  "slug": "rifle-ganj",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iP1wDfUfcHX7b8de0kl8VP6SwKy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 122,
+  "rating": 3,
+  "description": "A young talented Engineer & Civil Services topper, Chandar turns into a naxal commander when the abuse of power and politics result in his sister's kidnapping and death of his much respected grandfather.",
+  "created_at": "2026-07-22T15:19:10.187Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3769,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

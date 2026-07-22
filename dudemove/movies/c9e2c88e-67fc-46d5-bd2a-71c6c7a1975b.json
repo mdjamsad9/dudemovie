@@ -1,0 +1,24 @@
+{
+  "id": "c9e2c88e-67fc-46d5-bd2a-71c6c7a1975b",
+  "title": "Centigrade",
+  "slug": "centigrade",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 5.822,
+  "description": "A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.",
+  "created_at": "2026-07-22T15:20:15.783Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4158,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

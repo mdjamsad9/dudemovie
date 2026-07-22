@@ -1,0 +1,24 @@
+{
+  "id": "6db6aeb5-f61e-474e-86e5-be24465efed1",
+  "title": "Vaamana",
+  "slug": "vaamana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3MoMjkrhqJMKESO2L7SQPghx2uK.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 134,
+  "rating": 5,
+  "description": "Explores the emotions and lifestyles of ordinary people, with a compelling hero Guna pursuing vengeance against antagonists. His actions are driven by his past life, which influences his present and future.",
+  "created_at": "2026-07-09T16:58:48.204Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 476,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vaamana%20(2025)%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vaamana%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

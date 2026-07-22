@@ -1,0 +1,32 @@
+{
+  "id": "926621e9-8deb-4c66-85ca-e88be79e9366",
+  "title": "Dead Dicks",
+  "slug": "dead-dicks",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fwOXjMaL4tk1Zr0XFI8UVwjgg8L.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 83,
+  "rating": 5.6,
+  "description": "After Becca receives a distressing call from her suicidal brother Richie, she rushes over to his apartment and finds him alive and well - surrounded by copies of his own dead body.",
+  "created_at": "2026-07-22T15:23:20.903Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4373,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

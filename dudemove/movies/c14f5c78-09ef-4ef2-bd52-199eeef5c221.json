@@ -1,0 +1,24 @@
+{
+  "id": "c14f5c78-09ef-4ef2-bd52-199eeef5c221",
+  "title": "Won't You Be My Neighbor?",
+  "slug": "won-t-you-be-my-neighbor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 7.986,
+  "description": "For more than thirty years, and through his television program, Fred Rogers (1928-2003), host, producer, writer and pianist, accompanied by his puppets and his many friends, spoke directly to young children about some of life's most important issues.",
+  "created_at": "2026-07-22T15:36:15.099Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5577,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

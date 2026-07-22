@@ -1,0 +1,24 @@
+{
+  "id": "a2a90fe8-6814-4314-ab93-d3c94f52dac9",
+  "title": "The Overnight",
+  "slug": "the-overnight",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ngHfsQ7chepu9GR4Qc01aF1Su8c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 90,
+  "rating": 3.6,
+  "description": "After a romantic weekend gets sidetracked, a young couple find themselves at an outdated hotel, caught up in murderous death-loops, and as bait for a demon.",
+  "created_at": "2026-07-22T15:14:22.093Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3237,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

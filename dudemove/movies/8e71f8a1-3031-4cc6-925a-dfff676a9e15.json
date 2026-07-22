@@ -1,0 +1,28 @@
+{
+  "id": "8e71f8a1-3031-4cc6-925a-dfff676a9e15",
+  "title": "A House of Dynamite",
+  "slug": "a-house-of-dynamite",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 112,
+  "rating": 6.4,
+  "description": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
+  "created_at": "2026-07-09T16:50:29.397Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 720,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/A.House.Of.Dynamite.2025.1080p.WEBRip.x264%20%5BDDN%5D/A.House.Of.Dynamite.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

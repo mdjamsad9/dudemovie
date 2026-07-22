@@ -1,0 +1,24 @@
+{
+  "id": "ad1485e0-9bdd-461c-a1dc-4115e077c801",
+  "title": "Safelight",
+  "slug": "safelight",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Fy3aBhBe9IWJdgL9HfCbYXpvpP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 84,
+  "rating": 5.8,
+  "description": "A teenage boy and girl discover a renewed sense of possibility as they go on a road trip to photograph lighthouses along the California coast.",
+  "created_at": "2026-07-22T15:51:30.424Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6992,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

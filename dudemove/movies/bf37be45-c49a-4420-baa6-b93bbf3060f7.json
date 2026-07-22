@@ -1,0 +1,40 @@
+{
+  "id": "bf37be45-c49a-4420-baa6-b93bbf3060f7",
+  "title": "In the Heart of the Sea",
+  "slug": "in-the-heart-of-the-sea",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 122,
+  "rating": 6.772,
+  "description": "In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believe—a whale of mammoth size and will, and an almost human sense of vengeance.",
+  "created_at": "2026-07-22T15:50:51.238Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 7036,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

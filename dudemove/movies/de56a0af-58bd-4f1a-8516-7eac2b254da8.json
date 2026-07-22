@@ -1,0 +1,28 @@
+{
+  "id": "de56a0af-58bd-4f1a-8516-7eac2b254da8",
+  "title": "Chor Nikal Ke Bhaga",
+  "slug": "chor-nikal-ke-bhaga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 110,
+  "rating": 6.878,
+  "description": "A flight attendant and her boyfriend must steal a cache of diamonds to clear an old debt — but the plan spins into a mayhem when the plane gets hijacked.",
+  "created_at": "2026-07-22T15:12:30.531Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2519,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

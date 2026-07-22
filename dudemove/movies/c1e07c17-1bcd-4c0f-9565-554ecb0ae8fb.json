@@ -1,0 +1,28 @@
+{
+  "id": "c1e07c17-1bcd-4c0f-9565-554ecb0ae8fb",
+  "title": "Being the Ricardos",
+  "slug": "being-the-ricardos",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 132,
+  "rating": 6.469,
+  "description": "Lucille Ball and Desi Arnaz face a crisis that could end their careers and another that could end their marriage.",
+  "created_at": "2026-07-22T15:16:17.678Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3466,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

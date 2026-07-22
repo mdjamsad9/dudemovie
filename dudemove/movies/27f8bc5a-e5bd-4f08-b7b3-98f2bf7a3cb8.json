@@ -1,0 +1,24 @@
+{
+  "id": "27f8bc5a-e5bd-4f08-b7b3-98f2bf7a3cb8",
+  "title": "Between Two Ferns: The Movie",
+  "slug": "between-two-ferns-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 82,
+  "rating": 5.919,
+  "description": "Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, 'Between Two Ferns' and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.",
+  "created_at": "2026-07-22T15:28:38.868Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4894,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

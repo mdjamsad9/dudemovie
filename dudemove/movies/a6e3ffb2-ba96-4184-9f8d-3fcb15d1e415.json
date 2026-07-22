@@ -1,0 +1,28 @@
+{
+  "id": "a6e3ffb2-ba96-4184-9f8d-3fcb15d1e415",
+  "title": "A Family Affair",
+  "slug": "a-family-affair",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 114,
+  "rating": 5.737,
+  "description": "The only thing worse than being the assistant to a high-maintenance movie star who doesn't take you seriously? Finding out he's smitten with your mom.",
+  "created_at": "2026-07-09T17:17:00.200Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 937,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/A.Family.Affair.2024.1080p.WEBRip.x264%20%5BDDN%5D/A.Family.Affair.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3bc03f81-81fb-4b0d-9e5d-d16760b2621d",
+  "title": "Chosen",
+  "slug": "chosen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x02EEkwMpV0TlFMpwB65F9jlLZQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 101,
+  "rating": 5.22,
+  "description": "An unassuming young lawyer leads a fight against the Nazis near the end of the Second World War.",
+  "created_at": "2026-07-22T15:50:15.603Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6510,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

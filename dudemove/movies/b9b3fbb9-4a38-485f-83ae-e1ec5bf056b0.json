@@ -1,0 +1,28 @@
+{
+  "id": "b9b3fbb9-4a38-485f-83ae-e1ec5bf056b0",
+  "title": "Chasing Bullitt",
+  "slug": "chasing-bullitt",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fe2cK1UKidq2W6p1yRqek7ZMpfM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 5.7,
+  "description": "January 1971- After an unexpected confrontation with his agent, Hollywood legend Steve McQueen makes a reluctant deal. He'll choose his next acting gig on one condition: his agent has to help him locate the iconic Ford Mustang GT 390 from his seminal film BULLITT. On his journey across the desert and back to Los Angeles, Steve ruminates on his triumphs and losses. Through his memories, a picture of the man's reality is slowly revealed: a crumbling marriage, therapy, financial troubles, and a waning career.",
+  "created_at": "2026-07-22T15:31:36.711Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5034,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

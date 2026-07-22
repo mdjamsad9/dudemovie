@@ -1,0 +1,28 @@
+{
+  "id": "743a34bf-b5cf-4d3b-a0fa-283e4eee6f1d",
+  "title": "True to the Game 2",
+  "slug": "true-to-the-game-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dliJ7mryIEHLerRlghP4wSA8ALT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 6.4,
+  "description": "Separating herself from Philly’s dangerous scene while still mourning from the death of Quadir, Gena has reinvented herself as a journalist, living and working in NYC. At a crossroads in her career, Gena comes across an opportunity to go to LA , and decides to use the time to find herself. Although Gena is far from home, her life in Philly seems to always make an appearance. Someone with ties to Quadir has hijacked Jerrell’s shipment causing him to hit the streets on a crusade to find out who. Jerrell is determined to get paid by any means necessary and he'll start with Gena.",
+  "created_at": "2026-07-22T15:20:34.191Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3996,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

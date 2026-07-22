@@ -1,0 +1,28 @@
+{
+  "id": "e99c80dc-e7cd-4705-a2fe-e8e14e92affd",
+  "title": "Edge of Winter",
+  "slug": "edge-of-winter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mgvdyOJV1Xv6XzhENFphtyW9XVV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 89,
+  "rating": 5.8,
+  "description": "When two brothers are stranded by a brutal winter storm with an unpredictable father they barely know, the boys begin to suspect their supposed protector may be their biggest threat.",
+  "created_at": "2026-07-22T15:50:11.551Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6642,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

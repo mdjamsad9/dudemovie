@@ -1,0 +1,32 @@
+{
+  "id": "d0dc4356-eca0-4dd1-91e0-d99b3fbb3480",
+  "title": "Twilight of the Warriors: Walled In",
+  "slug": "twilight-of-the-warriors-walled-in",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h0tunBO4tMjvKVVG7fXqHgwOr5C.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Cantonese",
+  "release_year": 2024,
+  "duration": 126,
+  "rating": 7.006,
+  "description": "In 1980s Hong Kong, troubled youth Chan Lok-kwun, a mainland refugee, struggles to survive in the Kowloon Walled City by joining underground fights. Betrayed by crime boss Mr. Big while trying to buy a fake ID, he steals drugs from him and seeks refuge in the Walled City, where he encounters Cyclone, a compassionate yet authoritative crime lord.",
+  "created_at": "2026-07-09T17:00:38.784Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1514,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Twilight.of.the.Warriors.Walled.In.2024.Hindi.Chinese.720p.BluRay.x264.ESub%20%5BDDN%5D/Twilight.of.the.Warriors.Walled.In.2024.Hindi.Chinese.720p.BluRay.x264.ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

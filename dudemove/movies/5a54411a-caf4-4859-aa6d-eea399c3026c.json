@@ -1,0 +1,28 @@
+{
+  "id": "5a54411a-caf4-4859-aa6d-eea399c3026c",
+  "title": "7500",
+  "slug": "7500",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Arabic",
+  "release_year": 2019,
+  "duration": 94,
+  "rating": 6.149,
+  "description": "When terrorists try to seize control of a Berlin-Paris flight, a soft-spoken young American co-pilot struggles to save the lives of the passengers and crew while forging a surprising connection with one of the hijackers.",
+  "created_at": "2026-07-22T15:24:20.543Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4490,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c60db0bf-c09e-4fd2-af03-4eecd0fa8f0f",
+  "title": "Jersey",
+  "slug": "jersey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oH5AWyhNlx6kEzIhYPYltnLgnoG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 175,
+  "rating": 7,
+  "description": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
+  "created_at": "2026-07-22T15:14:33.141Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3303,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

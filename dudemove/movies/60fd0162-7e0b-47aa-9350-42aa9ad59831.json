@@ -1,0 +1,24 @@
+{
+  "id": "60fd0162-7e0b-47aa-9350-42aa9ad59831",
+  "title": "Knock Down the House",
+  "slug": "knock-down-the-house",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uAfixuZIFVbWIsWytzROJDY85D7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 86,
+  "rating": 7.123,
+  "description": "In 2018, a young bartender in the Bronx, a coal miner’s daughter in West Virginia, a grieving mother in Nevada and a registered nurse in Missouri join a movement of insurgent candidates challenging powerful incumbents in Congress. Without political experience or corporate money, these four women are attempting to do what many consider impossible.",
+  "created_at": "2026-07-22T15:31:55.706Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4931,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

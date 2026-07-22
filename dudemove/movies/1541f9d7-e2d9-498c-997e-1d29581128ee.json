@@ -1,0 +1,24 @@
+{
+  "id": "1541f9d7-e2d9-498c-997e-1d29581128ee",
+  "title": "Maine",
+  "slug": "maine",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fTze8m40Zqpg64Amth7VUOhlCDs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 86,
+  "rating": 5.065,
+  "description": "Backpacking alone on the Appalachian trail, a married woman meets a younger hiker and the two strangers become inexplicably drawn to one another.",
+  "created_at": "2026-07-22T15:32:16.808Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5129,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

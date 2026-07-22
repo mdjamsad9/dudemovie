@@ -1,0 +1,36 @@
+{
+  "id": "e61a4327-7fb0-4025-a269-cd06f03a6b07",
+  "title": "One Less God",
+  "slug": "one-less-god",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zdRBRzaU8YgrKQxPwGkAU1qaRkh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 128,
+  "rating": 6,
+  "description": "In 2008, a band of young Islamic militants from Pakistan lands in Mumbai, their primary target, the iconic Taj Mahal hotel. With Indian forces unable to regain control, for 4 days the guests must battle to survive as the terrorists seek to drive them from hiding. The harrowing events that follow will come to be known as India's 9/11 and one of the most audacious terrorist attacks in history. Yet more than a tale of monsters and men, this is a story of our shared humanity at the dark crossroads to which we have now stumbled. Inspired by true events.",
+  "created_at": "2026-07-22T15:35:34.182Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5781,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

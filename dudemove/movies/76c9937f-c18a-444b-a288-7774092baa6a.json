@@ -1,0 +1,32 @@
+{
+  "id": "76c9937f-c18a-444b-a288-7774092baa6a",
+  "title": "Death of a Unicorn",
+  "slug": "death-of-a-unicorn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 107,
+  "rating": 6.4,
+  "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+  "created_at": "2026-07-09T16:59:43.147Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 508,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Death.Of.A.Unicorn.2025.1080p.WEBRip.x264%20%5BDDN%5D/Death.Of.A.Unicorn.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

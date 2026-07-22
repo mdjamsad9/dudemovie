@@ -1,0 +1,24 @@
+{
+  "id": "6eeb9662-aa2c-47de-88ef-919313dedcb1",
+  "title": "Naam Shabana",
+  "slug": "naam-shabana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 147,
+  "rating": 5.705,
+  "description": "Shabana Khan, a special agent, is entrusted with the task of assassinating a deadly arms dealer by the Indian Intelligence Agency.",
+  "created_at": "2026-07-22T15:37:32.752Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5711,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

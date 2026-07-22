@@ -1,0 +1,28 @@
+{
+  "id": "30109219-d56f-48ac-bd92-ff84d1656abc",
+  "title": "An Actor Prepares",
+  "slug": "an-actor-prepares",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8rSc59ajnmV9EsNWdLFSjRlFfT3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 5.8,
+  "description": "After suffering a heart attack, a world-famous and hard-drinking actor is forced to drive across country with his estranged son—who testified against him in his parents' divorce—on one last madcap adventure.",
+  "created_at": "2026-07-22T15:36:03.406Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5430,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

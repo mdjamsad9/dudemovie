@@ -1,0 +1,36 @@
+{
+  "id": "d494df72-ed70-428c-b313-ed62c97cf49d",
+  "title": "Dead Again in Tombstone",
+  "slug": "dead-again-in-tombstone",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yzwvAzM6TSgIlcD2HdKFVTw8TYO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 99,
+  "rating": 5,
+  "description": "The devil’s outlaw and reluctant servant, Guerrero returns from the dead again in this action-packed western which promises to be one hell of a ride. Guerrero is forced to protect a stolen relic from getting into the hands of Jackson Boomer and his gang of soldiers, but Jackson will stop at nothing to raise his comrades from the dead and bring the wrath of hell upon earth. Guerrero must use all his dark powers in order to defeat Jackson and find redemption…or die again trying.",
+  "created_at": "2026-07-22T15:43:14.951Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6219,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

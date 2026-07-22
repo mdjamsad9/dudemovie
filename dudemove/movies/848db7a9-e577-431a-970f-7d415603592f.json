@@ -1,0 +1,32 @@
+{
+  "id": "848db7a9-e577-431a-970f-7d415603592f",
+  "title": "Secret",
+  "slug": "secret",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7saO2J2wvmM3eZu1OzgfMlaYzKr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 2,
+  "description": "A man tries desperately to change his fate after an astrology reading predicts the death of his fiancé.",
+  "created_at": "2026-07-22T15:09:54.057Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1322,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

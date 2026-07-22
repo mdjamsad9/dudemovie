@@ -1,0 +1,32 @@
+{
+  "id": "587b966b-a647-4e32-a984-e0f482456e4f",
+  "title": "Lost at Christmas",
+  "slug": "lost-at-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aLv0wZoFQvEXupDphPn1TjNfq9M.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 101,
+  "rating": 5.5,
+  "description": "Set in the remote Scottish town of Fort William on Christmas Eve, when life is turned upside down for Jen and Rob. Suddenly finding themselves heartbroken, single and stranded, they team up to try and reach home 100 miles away to be with their families. \"Borrowing\" Jen’s now ex-boyfriend’s classic car, the pair hit the road, but it’s not long before the weather turns for the worse forcing them to continue their journey on foot.",
+  "created_at": "2026-07-22T15:20:46.896Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4173,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "140a0e08-7aaf-471b-80b4-d17dcf42b09f",
+  "title": "Janhit Mein Jaari",
+  "slug": "janhit-mein-jaari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A2bUJ6CBqimqcofBr4X0j0Ph89U.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 146,
+  "rating": 5.867,
+  "description": "A small-town girl from MP, Manokamna, gets a decent-paying job. But the work requires her to sell condoms. Will she be able to voice her beliefs while balancing her responsibilities and society?",
+  "created_at": "2026-07-22T15:14:14.615Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3312,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

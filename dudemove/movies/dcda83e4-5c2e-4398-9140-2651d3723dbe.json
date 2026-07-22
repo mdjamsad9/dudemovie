@@ -1,0 +1,24 @@
+{
+  "id": "dcda83e4-5c2e-4398-9140-2651d3723dbe",
+  "title": "Body Keepers",
+  "slug": "body-keepers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/exBTkhiGAgsjNtKJTp8r5GPZXEv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 82,
+  "rating": 4.7,
+  "description": "A group of teens break into a shed to steal a part for their school project where a body is kept on dry ice. Awakening an evil entity, they find out the true meaning of ice cold hell.",
+  "created_at": "2026-07-22T15:26:37.530Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5166,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

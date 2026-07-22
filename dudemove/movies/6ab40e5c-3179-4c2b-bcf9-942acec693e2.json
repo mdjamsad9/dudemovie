@@ -1,0 +1,28 @@
+{
+  "id": "6ab40e5c-3179-4c2b-bcf9-942acec693e2",
+  "title": "Made In China",
+  "slug": "made-in-china",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1WABVCwp81KWdCeRDvFOxuN1Is9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 130,
+  "rating": 5.826,
+  "description": "A struggling Gujarati businessman ventures into the world of China where he gets a brilliant business idea that could change his life forever.",
+  "created_at": "2026-07-22T15:27:54.069Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4887,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

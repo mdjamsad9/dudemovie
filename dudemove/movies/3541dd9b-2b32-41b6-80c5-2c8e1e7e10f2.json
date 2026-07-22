@@ -1,0 +1,36 @@
+{
+  "id": "3541dd9b-2b32-41b6-80c5-2c8e1e7e10f2",
+  "title": "Moana",
+  "slug": "moana-2026",
+  "thumbnail_url": "https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FzKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg&w=1920&q=75",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 115,
+  "rating": 6.1,
+  "description": null,
+  "created_at": "2026-07-12T12:26:39.827Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 179,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Moana%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Moana%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

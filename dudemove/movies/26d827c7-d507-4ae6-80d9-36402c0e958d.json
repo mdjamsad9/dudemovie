@@ -1,0 +1,36 @@
+{
+  "id": "26d827c7-d507-4ae6-80d9-36402c0e958d",
+  "title": "The Nut Job 2: Nutty by Nature",
+  "slug": "the-nut-job-2-nutty-by-nature",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xOfdQHNF9TlrdujyAjiKfUhxSXy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 6.146,
+  "description": "When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.",
+  "created_at": "2026-07-22T15:41:40.600Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6089,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

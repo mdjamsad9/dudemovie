@@ -1,0 +1,32 @@
+{
+  "id": "c00bd9cc-388c-49d4-9386-8453ba5f6ba2",
+  "title": "Shang-Chi and the Legend of the Ten Rings",
+  "slug": "shang-chi-and-the-legend-of-the-ten-rings",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Chinese",
+  "release_year": 2021,
+  "duration": 132,
+  "rating": 7.493,
+  "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+  "created_at": "2026-07-22T15:16:54.779Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3362,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

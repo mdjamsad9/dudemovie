@@ -1,0 +1,28 @@
+{
+  "id": "841ed7a3-42b3-4e64-9257-d98f84b71bd6",
+  "title": "Eliminators",
+  "slug": "eliminators",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pUB91wOMQrmkforP7ntIMy2zkdn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 95,
+  "rating": 6.37,
+  "description": "A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe's most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he's been hiding from tracks him down.",
+  "created_at": "2026-07-22T15:48:25.870Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6622,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

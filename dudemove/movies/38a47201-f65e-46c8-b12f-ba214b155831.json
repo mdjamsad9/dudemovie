@@ -1,0 +1,28 @@
+{
+  "id": "38a47201-f65e-46c8-b12f-ba214b155831",
+  "title": "Beyond the Clouds",
+  "slug": "beyond-the-clouds",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HvQ7UEngiSQ7Nxj1lH0HW8kOpj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 6.4,
+  "description": "A hedonistic teenager in Mumbai is busted for dealing drugs and goes to his estranged sister for help, but complications land her in jail.",
+  "created_at": "2026-07-22T15:36:54.314Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5613,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

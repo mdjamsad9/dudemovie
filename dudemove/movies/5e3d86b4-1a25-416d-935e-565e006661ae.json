@@ -1,0 +1,28 @@
+{
+  "id": "5e3d86b4-1a25-416d-935e-565e006661ae",
+  "title": "Vice",
+  "slug": "vice",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 132,
+  "rating": 7.014,
+  "description": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+  "created_at": "2026-07-22T15:32:52.910Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5169,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "af64c431-55c0-4693-9fab-c7df3f4e4891",
+  "title": "The Diary of a Teenage Girl",
+  "slug": "the-diary-of-a-teenage-girl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5YlUrdYKuscD7pwf3yy9duVLbui.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Turkish",
+  "release_year": 2015,
+  "duration": 102,
+  "rating": 6.564,
+  "description": "Minnie Goetze is a 15-year-old aspiring comic-book artist, coming of age in the haze of the 1970s in San Francisco. Insatiably curious about the world around her, Minnie is a pretty typical teenage girl. Oh, except that she’s sleeping with her mother’s boyfriend.",
+  "created_at": "2026-07-22T15:50:52.920Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7047,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

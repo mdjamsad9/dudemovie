@@ -1,0 +1,28 @@
+{
+  "id": "9d72afb6-01a7-4c88-8a61-b0d7bc628d49",
+  "title": "I Am the Pretty Thing That Lives in the House",
+  "slug": "i-am-the-pretty-thing-that-lives-in-the-house",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lq8ktDO2uqJFgV0jRlMQlPSmNm8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 89,
+  "rating": 4.607,
+  "description": "A young nurse takes care of an elderly author who lives in a haunted house.",
+  "created_at": "2026-07-22T15:48:44.941Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6664,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

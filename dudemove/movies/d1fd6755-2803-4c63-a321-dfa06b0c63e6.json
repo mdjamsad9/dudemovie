@@ -1,0 +1,36 @@
+{
+  "id": "d1fd6755-2803-4c63-a321-dfa06b0c63e6",
+  "title": "Trolls Holiday",
+  "slug": "trolls-holiday",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lJV03Etqdv9mJSixgIVn7dstoNc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 26,
+  "rating": 6.688,
+  "description": "When the eternally optimistic Poppy, queen of the Trolls, learns that the Bergens no longer have any holidays on their calendar, she enlists the help of Branch and the rest of the gang on a delightfully quirky mission to fix something that the Bergens don't think is broken.",
+  "created_at": "2026-07-22T15:41:38.042Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 6056,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

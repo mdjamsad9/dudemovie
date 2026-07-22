@@ -1,0 +1,28 @@
+{
+  "id": "cb5af9d4-673d-4ab1-8d7c-f04c624e12a0",
+  "title": "Jayeshbhai Jordaar",
+  "slug": "jayeshbhai-jordaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dv93VspYwwNPbvdB0AcddhiDrGU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 124,
+  "rating": 5.9,
+  "description": "A non-confrontational Jayesh decides to defy his patriarchal family and flee with his pregnant wife Mudra to save their unborn daughter from foeticide. A screwball, hilarious chase begins as Jayesh's father assembles all his might to nab them. Will this unlikely hero manage to create a safe and equal haven for his daughter?",
+  "created_at": "2026-07-22T15:14:16.967Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3280,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

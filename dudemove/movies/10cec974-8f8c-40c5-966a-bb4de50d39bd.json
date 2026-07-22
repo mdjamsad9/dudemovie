@@ -1,0 +1,28 @@
+{
+  "id": "10cec974-8f8c-40c5-966a-bb4de50d39bd",
+  "title": "Jo Tera Hai Woh Mera Hai",
+  "slug": "jo-tera-hai-woh-mera-hai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w35SdKO67nyy51CUQqbK60Vj3Co.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 102,
+  "rating": 6.5,
+  "description": "Mitesh Meghani a family man, attempts to buy back their love through a scheme of conning an old man and getting him to transfer his property in his name.",
+  "created_at": "2026-07-09T17:12:24.554Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1648,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Jo%20Tera%20Hai%20Woh%20Mera%20Hai%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jo%20Tera%20Hai%20Woh%20Mera%20Hai%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

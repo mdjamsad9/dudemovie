@@ -1,0 +1,32 @@
+{
+  "id": "075e80d3-c4b6-48a9-a1e4-55b3c00f9d39",
+  "title": "The Radleys",
+  "slug": "the-radleys",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/luQa5iUFp7pagD7jVhYM1FlWnJo.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 115,
+  "rating": 5.199,
+  "description": "A seemingly ordinary family harbors a dark secret: they are vampires. They choose not to drink blood despite their natural cravings, but one day, their truth comes to light.",
+  "created_at": "2026-07-09T17:12:32.758Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1044,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Radleys.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Radleys.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

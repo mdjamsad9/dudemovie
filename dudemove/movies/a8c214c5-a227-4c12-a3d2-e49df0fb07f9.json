@@ -1,0 +1,28 @@
+{
+  "id": "a8c214c5-a227-4c12-a3d2-e49df0fb07f9",
+  "title": "Capsule",
+  "slug": "capsule",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gEM78v0mhJwzWGvvyrJ43826YvJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malay",
+  "release_year": 2015,
+  "duration": 101,
+  "rating": null,
+  "description": "Zohri discovers a time capsule called Vision 2020 which was buried by Tun Dr. Mahathir Mohamad. He steals the time capsule but it ends up taking him back to the past, where he finds himself arriving at the era when the Malays are struggling to achieve independence. Zohri witnesses the admirable struggles and difficulties his ancestors go through and finally understands the true meaning of patriotism. Zohri`s adventures continue as he travels from one era to another while at the same time, he struggles to find his way back home.",
+  "created_at": "2026-07-22T15:49:13.482Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6986,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

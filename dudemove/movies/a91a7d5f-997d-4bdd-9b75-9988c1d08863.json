@@ -1,0 +1,28 @@
+{
+  "id": "a91a7d5f-997d-4bdd-9b75-9988c1d08863",
+  "title": "Just Getting Started",
+  "slug": "just-getting-started",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vtfYt7vi0cdzRCD7iUMTg3PPSoi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 4.924,
+  "description": "Duke Diver is living the high life as the freewheeling manager of a luxurious resort in Palm Springs, Calif. He soon faces competition from Leo, a former military man who likes the same woman that Duke is interested in. When Diver's past suddenly catches up with him, he must put aside his differences and reluctantly team up with Leo to stop whoever is trying to kill him.",
+  "created_at": "2026-07-22T15:39:42.569Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5834,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

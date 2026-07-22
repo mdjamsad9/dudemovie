@@ -1,0 +1,28 @@
+{
+  "id": "3de407c1-03aa-49f6-8cb0-047780c93da9",
+  "title": "The Night Sitter",
+  "slug": "the-night-sitter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c8Kf6XjU9Za5iNlkwHJWuqgC4eE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 88,
+  "rating": 4.8,
+  "description": "A scheming con artist poses as the innocent babysitter \"Amber\" to steal from a wealthy occult enthusiast with a reclusive son, Kevin. Her crew arrives to clean out the house just as Kevin stumbles upon a prized artifact and unwittingly summons a trio of witches known as The Three Mothers.",
+  "created_at": "2026-07-22T15:31:01.778Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5680,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

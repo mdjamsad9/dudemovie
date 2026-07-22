@@ -1,0 +1,24 @@
+{
+  "id": "b320cf7a-3928-4512-a3c2-238cc0aafbe5",
+  "title": "Fatima",
+  "slug": "fatima",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lfA46pZbk4kxIaQvHyBPq0KH84Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 113,
+  "rating": 7.234,
+  "description": "In 1917, outside the parish of Fátima, Portugal, a 10-year-old girl and her two younger cousins witness multiple visitations of the Virgin Mary, who tells them that only prayer and suffering will bring an end to World War I.  As secularist government officials and Church leaders try to force the children to recant their story, word of the sighting spreads across the country, inspiring religious pilgrims to flock to the site in hopes of witnessing a miracle..",
+  "created_at": "2026-07-22T15:22:52.470Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4206,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

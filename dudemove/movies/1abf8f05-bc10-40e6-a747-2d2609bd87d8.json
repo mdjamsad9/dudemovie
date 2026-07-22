@@ -1,0 +1,24 @@
+{
+  "id": "1abf8f05-bc10-40e6-a747-2d2609bd87d8",
+  "title": "Annabelle: Creation",
+  "slug": "annabelle-creation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 110,
+  "rating": 6.61,
+  "description": "Several years after the tragic death of their little girl, a doll maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the doll maker's possessed creation—Annabelle.",
+  "created_at": "2026-07-22T15:42:37.298Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6169,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

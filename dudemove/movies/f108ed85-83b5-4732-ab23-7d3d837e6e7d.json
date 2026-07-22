@@ -1,0 +1,28 @@
+{
+  "id": "f108ed85-83b5-4732-ab23-7d3d837e6e7d",
+  "title": "Crime Factory",
+  "slug": "crime-factory",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qdlFyEfdeD7vSYFh60105BCEqMb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 129,
+  "rating": null,
+  "description": "When you have nothing to lose, you are selfless, but when you have something to lose, you are selfish. Since the beginning of time, the three things that man feared losing, and which in turn have given birth to conflicts, wars, deceit and crimes, are power, money and woman. The same philosophy and practice come true in the lives of a group of 5 abandoned boys Sallu, Ajjal, Bikroo, Pappu and Bulbul who are brought up in a slum referred to as \"Crime Factory\", because of the number of criminals the slum bred. The easiest path for them to survive was the path of crime; starting from peddling weed to extortion, money laundering and murder.",
+  "created_at": "2026-07-22T15:13:05.787Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3358,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

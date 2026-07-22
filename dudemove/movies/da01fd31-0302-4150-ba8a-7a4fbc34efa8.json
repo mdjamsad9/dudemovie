@@ -1,0 +1,32 @@
+{
+  "id": "da01fd31-0302-4150-ba8a-7a4fbc34efa8",
+  "title": "Bahut Hua Sammaan",
+  "slug": "bahut-hua-sammaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6kDAeEiOkL14fwinIXzqwozjxKT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 125,
+  "rating": 6.875,
+  "description": "With their planned heist gone wrong, Bony and Fundoo get inextricably involved in the pursuit of 'Kohinoor' - quite possibly the biggest scandal the country will ever witness.",
+  "created_at": "2026-07-22T15:22:16.287Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4258,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

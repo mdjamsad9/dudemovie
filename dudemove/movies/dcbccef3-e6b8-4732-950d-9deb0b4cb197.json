@@ -1,0 +1,36 @@
+{
+  "id": "dcbccef3-e6b8-4732-950d-9deb0b4cb197",
+  "title": "Arcadian",
+  "slug": "arcadian",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h4T8Xeydkw53h9uIbulYsss25UF.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 92,
+  "rating": 6.043,
+  "description": "In the near future, on a decimated Earth, Paul and his twin sons face terror at night when ferocious creatures awaken. When Paul is nearly killed, the boys come up with a plan for survival, using everything their father taught them to keep him alive.",
+  "created_at": "2026-07-09T17:24:31.541Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 1603,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Arcadian.2024.1080p.WEBRip.x264%20%5BDDN%5D/Arcadian.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

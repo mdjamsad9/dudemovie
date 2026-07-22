@@ -1,0 +1,28 @@
+{
+  "id": "09f50113-52ce-4e73-a862-4bf3a2bc86d3",
+  "title": "Yaavarum Vallavare",
+  "slug": "yaavarum-vallavare",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j03OJ7eWcfngKezZsXBqvTFhXWO.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 125,
+  "rating": null,
+  "description": "Follows the events that take place in around 12 hours, from 6 pm to 6 am, in the lives of handful of people and propagates the idea that when a predicament arises, we need not await the arrival of a sole savior. Instead, common people who rise to the occasion are heroes by themselves.",
+  "created_at": "2026-07-09T17:24:54.098Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1599,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Yaavarum%20Vallavare%20(2024)%20Tamil%C2%A01080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Yaavarum%20Vallavare%20(2024)%20Tamil%c2%a01080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

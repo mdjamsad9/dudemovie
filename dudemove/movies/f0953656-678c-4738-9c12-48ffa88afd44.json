@@ -1,0 +1,28 @@
+{
+  "id": "f0953656-678c-4738-9c12-48ffa88afd44",
+  "title": "Malaal",
+  "slug": "malaal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AsnZdUdmfxEenKH3GNMtqIFAzDh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 136,
+  "rating": 5.5,
+  "description": "When a rowdy Shiva’s world collides with that of a demure Aastha’s, whose family has just moved into the chawl he resides in, sparks fly between them. But given their completely different backgrounds, is there any scope for their romance to bloom and survive?",
+  "created_at": "2026-07-22T15:28:34.624Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5013,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

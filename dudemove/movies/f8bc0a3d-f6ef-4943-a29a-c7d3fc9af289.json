@@ -1,0 +1,24 @@
+{
+  "id": "f8bc0a3d-f6ef-4943-a29a-c7d3fc9af289",
+  "title": "Every Time I Die",
+  "slug": "every-time-i-die",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f8Bk0T0ZzkMWn3sxkwfqenzyq3I.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 98,
+  "rating": 5.107,
+  "description": "When Sam is murdered in a remote lake, his consciousness begins to travel through the bodies of his friends in an effort to protect them from his killer. This dark passage leads him on a greater journey - discovering his own true identity.",
+  "created_at": "2026-07-22T15:29:28.618Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3813,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

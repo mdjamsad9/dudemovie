@@ -1,0 +1,28 @@
+{
+  "id": "3223751a-32ed-425d-b118-eb339439e1e0",
+  "title": "Tu Hai Mera Sunday",
+  "slug": "tu-hai-mera-sunday",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bCiLhBpJfqSAfHsjhUItxOZqcsi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 119,
+  "rating": 7.385,
+  "description": "Five friends struggle to find a place to play football in Mumbai.",
+  "created_at": "2026-07-22T15:39:12.879Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5861,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

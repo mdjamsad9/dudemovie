@@ -1,0 +1,32 @@
+{
+  "id": "574027d8-6a84-4657-83e5-5ae7265f2845",
+  "title": "Babyteeth",
+  "slug": "babyteeth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aINpljdt3VVMrCLtJW4BektwYOp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 118,
+  "rating": 6.856,
+  "description": "A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.",
+  "created_at": "2026-07-22T15:21:20.071Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4233,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

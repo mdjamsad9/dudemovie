@@ -1,0 +1,28 @@
+{
+  "id": "f1b8f882-58c5-41ad-9a45-6d0230a51d6a",
+  "title": "420 IPC",
+  "slug": "420-ipc",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 99,
+  "rating": 6.5,
+  "description": "CA Keswani is arrested for bank fraud and forgery. Keswani hires Birbal, a lawyer, to fight his case. But Birbal realises that there's more to it than what meets the eye.",
+  "created_at": "2026-07-22T15:16:20.539Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3482,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "db9b776b-a57a-4fd7-96f2-262f60914111",
+  "title": "Who am I to you?: A Love Arranged Story",
+  "slug": "who-am-i-to-you-a-love-arranged-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2BSRkA0lFBVTaiDFPtabd2fllg4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 96,
+  "rating": null,
+  "description": "It's a story of a middle-class girl who wished to marry Top Actor Salman Khan or a person who looks like, Salman Khan. But her family decides to arrange marriage and she is stuck with the man she doesn't like.",
+  "created_at": "2026-07-22T15:13:43.208Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3166,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

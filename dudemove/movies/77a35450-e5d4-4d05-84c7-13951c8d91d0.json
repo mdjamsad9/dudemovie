@@ -1,0 +1,28 @@
+{
+  "id": "77a35450-e5d4-4d05-84c7-13951c8d91d0",
+  "title": "Don't Breathe 2",
+  "slug": "don-t-breathe-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aOu6PJVO9RyGAzdUwG6fupu0gpz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 98,
+  "rating": 6.987,
+  "description": "The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.",
+  "created_at": "2026-07-22T15:17:08.479Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3601,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

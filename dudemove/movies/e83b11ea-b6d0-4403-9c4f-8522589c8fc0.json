@@ -1,0 +1,28 @@
+{
+  "id": "e83b11ea-b6d0-4403-9c4f-8522589c8fc0",
+  "title": "David Brent: Life on the Road",
+  "slug": "david-brent-life-on-the-road",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lhUKeZj7VlWAtavAzTLwClDWSpI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 6.089,
+  "description": "A camera crew catches up with David Brent, the former star of the fictional British series, \"The Office\" as he now fancies himself a rockstar on the road.",
+  "created_at": "2026-07-22T15:48:09.141Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6604,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "90e9d00d-4592-476d-a40a-0ab56b198b9e",
+  "title": "Dave Made a Maze",
+  "slug": "dave-made-a-maze",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f2sMi0iBt44E0M5jmSCaOAnGVZp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 81,
+  "rating": 6.4,
+  "description": "Dave, an artist who has yet to complete anything significant in his career, builds a fort in his living room out of pure frustration, only to wind up trapped by the fantastical pitfalls, booby traps, and critters of his own creation. Ignoring his warnings, Dave’s girlfriend Annie leads a band of oddball explorers on a rescue mission. Once inside, they find themselves trapped in an ever-changing supernatural world, threatened by booby traps and pursued by a bloodthirsty Minotaur.",
+  "created_at": "2026-07-22T15:43:28.577Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6265,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "18e56463-0d06-4d7d-a19f-9313e46b450b",
+  "title": "2:22",
+  "slug": "2-22",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f88O2AkBe7KXhQznFs6zOdpClcs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 99,
+  "rating": 6.023,
+  "description": "Two planes almost collide after a blinding flash of light paralyzes air traffic controller Dylan Branson for a few seconds. Suspended from his job, Dylan starts to notice an ominous pattern of sounds and events that repeats itself in exactly the same manner every day, ending precisely at 2:22 p.m. Also drawn into a complex relationship with a woman, Dylan must figure out a way to break the power of the past and take control of time itself.",
+  "created_at": "2026-07-22T15:43:03.972Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6229,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

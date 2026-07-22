@@ -1,0 +1,32 @@
+{
+  "id": "e9eb8f15-5ab8-44b9-a7a6-d7e782423552",
+  "title": "Prodigy",
+  "slug": "prodigy-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/40X6AW2uolBuWL3VLc7xG9hXrFc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 111,
+  "rating": 4.3,
+  "description": "A father must protect his son from government agents after the troubled adolescent correctly predicts three inexplicable events of potentially apocalyptic import.",
+  "created_at": "2026-07-22T15:32:19.059Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5112,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

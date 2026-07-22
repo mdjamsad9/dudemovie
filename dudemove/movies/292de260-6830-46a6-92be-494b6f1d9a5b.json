@@ -1,0 +1,24 @@
+{
+  "id": "292de260-6830-46a6-92be-494b6f1d9a5b",
+  "title": "Friends: The Reunion",
+  "slug": "friends-the-reunion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 104,
+  "rating": 7.8,
+  "description": "The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.",
+  "created_at": "2026-07-22T15:18:43.008Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 3738,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

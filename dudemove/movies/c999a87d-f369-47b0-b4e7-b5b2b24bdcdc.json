@@ -1,0 +1,24 @@
+{
+  "id": "c999a87d-f369-47b0-b4e7-b5b2b24bdcdc",
+  "title": "The House Next Door: Meet the Blacks 2",
+  "slug": "the-house-next-door-meet-the-blacks-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Yo3wwbzlKLgzH7Wd8YZniNYC24.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 97,
+  "rating": 5.27,
+  "description": "Bestselling author Carl Black moves his family back to his childhood home, he must team up with oddball neighbors to do battle with a pimp, who may or may not be an actual vampire.",
+  "created_at": "2026-07-22T15:18:12.308Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3651,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

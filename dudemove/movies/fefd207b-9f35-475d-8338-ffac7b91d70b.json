@@ -1,0 +1,24 @@
+{
+  "id": "fefd207b-9f35-475d-8338-ffac7b91d70b",
+  "title": "Primal Rage",
+  "slug": "primal-rage",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8tGM0Vv4X60r6zHDGcpanIrDcdm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 106,
+  "rating": 5.412,
+  "description": "A newly reunited young couple's drive through the Pacific Northwest turns into a nightmare as they are forced to face nature, unsavory locals, and a monstrous creature, known to the Native Americans as Oh-Mah.",
+  "created_at": "2026-07-22T15:38:12.745Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5632,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

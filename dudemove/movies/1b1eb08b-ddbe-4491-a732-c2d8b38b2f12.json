@@ -1,0 +1,28 @@
+{
+  "id": "1b1eb08b-ddbe-4491-a732-c2d8b38b2f12",
+  "title": "Dhadak 2",
+  "slug": "dhadak-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1XoyvBhNNdDlN5HKxWEAzhIOYSU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 146,
+  "rating": 6.974,
+  "description": "When Neelesh, an idealistic law student from a marginalised section of society, steps into a prestigious institution, he is thrust into a world that doesn't reflect his own. His friendship with Vidhi offers hope-until a wave of tragedy exposes the deep-rooted hierarchies he tried to outrun. He must confront the invisible forces that shape who we are allowed to become and who we are allowed to love.",
+  "created_at": "2026-07-09T16:52:22.529Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 733,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Dhadak%202%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Dhadak%202%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

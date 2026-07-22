@@ -1,0 +1,24 @@
+{
+  "id": "603944a9-3d07-478b-a2c6-02d222410546",
+  "title": "Ghosthunters",
+  "slug": "ghosthunters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A5trbZjaureXY7cj7Vpik7upw5R.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 4.7,
+  "description": "When one of their own loses his wife and daughter at the hands of a serial killer, a team of ghost hunters is determined to capture the spirits of the loved ones so their spirits can finally rest in peace. But as the team goes deeper into the house, the ghosts become more hostile, and the group discovers the true secrets of the house and its murderer.",
+  "created_at": "2026-07-22T15:49:48.307Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6481,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

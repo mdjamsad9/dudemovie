@@ -1,0 +1,28 @@
+{
+  "id": "bab241b1-191c-417a-9212-e7fb658bc74c",
+  "title": "Entertainment",
+  "slug": "entertainment",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Lngl5wLUnY9qvNdVLH7TPAAKOx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 113,
+  "rating": 5.586,
+  "description": "Set in the Mojave Desert, the film follows a broken-down comedian playing clubs across the Southwest, working his way to Los Angeles to meet his estranged daughter.",
+  "created_at": "2026-07-22T15:51:04.795Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7067,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

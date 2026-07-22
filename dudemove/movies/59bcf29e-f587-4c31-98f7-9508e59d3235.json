@@ -1,0 +1,24 @@
+{
+  "id": "59bcf29e-f587-4c31-98f7-9508e59d3235",
+  "title": "Guthlee Ladoo",
+  "slug": "guthlee-ladoo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6fXh8g5YRPoCbYjqcSaKkorf03m.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 105,
+  "rating": 7.667,
+  "description": "Guthlee, son of a poor sweeper, has a dream - to go to school. But the obstacle is his caste. A headmaster is sympathetic to him but powerless against caste discrimination. When they develop an unspoken bond, Guthlee's dream sees hope.",
+  "created_at": "2026-07-22T15:11:39.094Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3123,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

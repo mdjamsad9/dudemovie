@@ -1,0 +1,28 @@
+{
+  "id": "bacaf10b-b0c3-46fe-8f4c-3bdbdba97f57",
+  "title": "Nishaanchi 2",
+  "slug": "nishaanchi-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xUayFrF27SdDZYlKQBUlqxUOxcB.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 146,
+  "rating": 5.8,
+  "description": "After another stint in jail, Tony finds that Rinku, his one true love and hope, has been taken by his brother Dabloo. This shocks him into reforming, but Ambika drags him back into crime, with Kamal on his trail. How Manjari gets to have the last laugh, with Tony, Ambika and Kamal at the forefront, forms the rest of the two-part gangster drama.",
+  "created_at": "2026-07-09T16:49:18.500Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 765,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nishaanchi%202%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nishaanchi%202%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

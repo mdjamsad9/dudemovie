@@ -1,0 +1,24 @@
+{
+  "id": "d82dd7dc-c89c-41e5-a531-11f883241bef",
+  "title": "Imamdasta",
+  "slug": "imamdasta",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vtP6LJRFiZF61FEbl9gZBgWpGTd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 143,
+  "rating": null,
+  "description": "This film is about two unemployed roommates, Manoj and Firoz. Two unknown people, Mehmood and Jaanisaar visit Manoj and Firoz. The twist is, they have no intentions to go back anytime soon. What follows is a series of madness, confusion, cat and mouse chase, all in all, a potpourri of Hungama, a comedy of errors.",
+  "created_at": "2026-07-22T15:10:07.066Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1621,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

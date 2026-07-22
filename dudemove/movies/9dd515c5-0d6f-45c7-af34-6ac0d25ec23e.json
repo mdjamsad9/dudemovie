@@ -1,0 +1,28 @@
+{
+  "id": "9dd515c5-0d6f-45c7-af34-6ac0d25ec23e",
+  "title": "Virgin Bhanupriya",
+  "slug": "virgin-bhanupriya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cbPHqUpeHcHwVZkb4Jtqhv6dPJ9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 1,
+  "description": "Bhanupriya, a conservative girl decides to lose her virginity but fails in her every attempt. A soothsayer predicts that it is an impossible task and it will not happen to her. She decides to overcome this bad luck.",
+  "created_at": "2026-07-22T15:23:33.559Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4298,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

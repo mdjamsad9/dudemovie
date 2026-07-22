@@ -1,0 +1,24 @@
+{
+  "id": "d7237e26-1081-4646-8ccc-4bdc6eccd171",
+  "title": "Howl",
+  "slug": "howl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/XcwP3VGTRVHjc4doNP8w1fdOJ7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 89,
+  "rating": 5.58,
+  "description": "When passengers on a train are attacked by a creature, they must band together in order to survive until morning.",
+  "created_at": "2026-07-22T15:43:00.903Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6928,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

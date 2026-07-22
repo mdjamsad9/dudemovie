@@ -1,0 +1,40 @@
+{
+  "id": "e60fc3f1-6d3f-4616-8882-bd8f7d325f4f",
+  "title": "Bhabiji Ghar Par Hain! Fun on the Run",
+  "slug": "bhabiji-ghar-par-hain-fun-on-the-run",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuVlVRoBL1fHhBlVjS58MpBES05.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 136,
+  "rating": 3.5,
+  "description": "Two rival neighbors and their wives embark on a chaotic road trip, encountering two eccentric brothers who transform their journey into a hilarious adventure full of mishaps and unexpected twists.",
+  "created_at": "2026-07-09T16:41:56.463Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 146,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Bhabiji%20Ghar%20Par%20Hain%20(2026)%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Bhabiji%20Ghar%20Par%20Hain%20%282026%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d7ef20b5-0a9b-43fa-9a46-4939c5289dcf",
+  "title": "The Stand In",
+  "slug": "the-stand-in",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/twQeFldoNaDnMYXmZNXpm3NHlhP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 101,
+  "rating": 5.305,
+  "description": "When ordered to serve a year in rehab, actress Candy hires her on-set stand-in to take her place. The unassuming woman flips the script and steals her identity, career and boyfriend in this hilarious comedy about trading places.",
+  "created_at": "2026-07-22T15:20:41.891Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4161,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

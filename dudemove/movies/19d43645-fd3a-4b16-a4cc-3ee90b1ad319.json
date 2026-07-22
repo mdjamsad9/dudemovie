@@ -1,0 +1,32 @@
+{
+  "id": "19d43645-fd3a-4b16-a4cc-3ee90b1ad319",
+  "title": "The Siege of Jadotville",
+  "slug": "the-siege-of-jadotville",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/adrno1y0mKpMwjSlMQojZEUk82V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2016,
+  "duration": 108,
+  "rating": 7.106,
+  "description": "Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during the early 1960s.",
+  "created_at": "2026-07-22T15:49:02.793Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6697,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

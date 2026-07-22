@@ -1,0 +1,24 @@
+{
+  "id": "a2624fb0-b0a9-433d-be81-471bfaad64c1",
+  "title": "Freaks of Nurture",
+  "slug": "freaks-of-nurture",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/X6cLCpkIQHPPpDA2lYfVzcFnPk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 6,
+  "rating": 6.3,
+  "description": "Freaks of Nurture is an animated short about a neurotic mother-daughter relationship inspired by the filmmaker’s own unorthodox upbringing with her single-parent mom, who is also a foster parent and dog breeder. Self-deprecating and bursting with energy, the film reveals that no matter how grown-up we think we are, we never quite stop craving the love and support of a parent.",
+  "created_at": "2026-07-22T15:26:58.705Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 5139,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

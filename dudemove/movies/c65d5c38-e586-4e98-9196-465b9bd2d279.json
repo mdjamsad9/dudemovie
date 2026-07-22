@@ -1,0 +1,24 @@
+{
+  "id": "c65d5c38-e586-4e98-9196-465b9bd2d279",
+  "title": "Lady Macbeth",
+  "slug": "lady-macbeth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xWTJbhTwSTJmhLlX5xAOxPhdnXc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 86,
+  "rating": 6.56,
+  "description": "Rural England, 1865. Katherine, suffocated by her loveless marriage to a bitter man and restrained by his father's tyranny, unleashes an irresistible force within her, so powerful that she will stop at nothing to get what she wants.",
+  "created_at": "2026-07-22T15:43:25.614Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6738,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

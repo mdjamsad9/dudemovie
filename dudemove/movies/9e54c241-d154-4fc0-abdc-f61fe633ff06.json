@@ -1,0 +1,24 @@
+{
+  "id": "9e54c241-d154-4fc0-abdc-f61fe633ff06",
+  "title": "Kings",
+  "slug": "kings",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 3,
+  "rating": 6,
+  "description": "A man who grew up without a father finds fulfillment in mentoring another.",
+  "created_at": "2026-07-22T15:37:14.329Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5595,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

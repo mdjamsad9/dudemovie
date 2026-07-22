@@ -1,0 +1,24 @@
+{
+  "id": "57d5398d-f91a-43aa-b470-350943ccce88",
+  "title": "Quiet Storm: The Ron Artest Story",
+  "slug": "quiet-storm-the-ron-artest-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iDEoE7wWAjOk8eqIAKFWXUQyJ04.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 106,
+  "rating": 6.6,
+  "description": "In the world of professional sports, no American athlete ever came back from a mental health disorder....until Ron Artest, now known to the world as Metta World Peace.",
+  "created_at": "2026-07-22T15:31:23.545Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 4930,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

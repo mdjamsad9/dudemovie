@@ -1,0 +1,24 @@
+{
+  "id": "f7a3556c-2ff8-4a95-9854-27c9364cd08c",
+  "title": "The Tombs",
+  "slug": "the-tombs",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2UTjLukQTk5DzhsDFO8DG7XN0KV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 78,
+  "rating": 4.5,
+  "description": "A live streamed, publicity stunt, filmed inside London's most famous scare attraction takes a terrifying turn as the event awakes an evil spirit. Something relentless and seemingly unstoppable starts stalking the celebrity guests through the claustrophobic halls of this maze of terror.",
+  "created_at": "2026-07-22T15:26:39.156Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4714,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "395c40bc-31e7-4691-b839-307f76f654cc",
+  "title": "The Transfiguration",
+  "slug": "the-transfiguration",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b7DWSZeP9Rxbmoase8RaIg6I369.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 5.996,
+  "description": "When troubled teen Milo, who has a fascination with vampire lore, meets the equally alienated Sophie, the two form a bond that begins to blur Milo's fantasy into reality.",
+  "created_at": "2026-07-22T15:43:34.287Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6815,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
