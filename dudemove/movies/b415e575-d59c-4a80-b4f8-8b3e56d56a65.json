@@ -1,0 +1,24 @@
+{
+  "id": "b415e575-d59c-4a80-b4f8-8b3e56d56a65",
+  "title": "To No Man's Land",
+  "slug": "to-no-man-s-land",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cNLEXsp4RnFAP6fgoNtHvdaJ3T4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 12,
+  "rating": null,
+  "description": "When a catastrophic attack puts a peaceful galactic nation on the brink of war, a lowly Scout is sent to an isolated planet to obtain the whereabouts of the one man who may know who committed the attack. But he quickly finds out, that there are other players in the game, trying to incite a war between the peaceful factions in the universe.",
+  "created_at": "2026-07-22T15:30:43.966Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4857,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

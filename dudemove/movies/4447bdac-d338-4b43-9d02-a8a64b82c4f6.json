@@ -1,0 +1,32 @@
+{
+  "id": "4447bdac-d338-4b43-9d02-a8a64b82c4f6",
+  "title": "Mister",
+  "slug": "mister",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2HkAmFqwbkAq2RYKoNl6voGtUka.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 157,
+  "rating": null,
+  "description": "Chay is a happy-go-lucky guy living in Spain with his relatives.  A  mistaken identity at the airport results in him reaching out to Meera, with whom he falls in love at first site.  So far, so good.  All hell breaks loose for Chay when he comes to know that Meera is in love with one Siddharth, who ditches her in the last minute.  A heart-broken Meera falls back on Chay for emotional support.  Chay, who has this typical hero's quality of going to any extent to solve others' problems, takes it upon himself to bring smile back on Meera's face. In the process, the hero bumps into Chandramukhi, a village belle who has no idea what a mobile phone is, and a bunch of quirky characters.",
+  "created_at": "2026-07-31T07:22:31.034Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6226,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

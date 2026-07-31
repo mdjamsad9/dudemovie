@@ -1,0 +1,36 @@
+{
+  "id": "0256216d-8cfc-49b6-99d6-1f0befe13975",
+  "title": "Sing",
+  "slug": "sing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 108,
+  "rating": 7.125,
+  "description": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+  "created_at": "2026-07-22T15:46:53.680Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 6888,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "417422f9-d7ad-48dc-980c-e9cfa6077112",
+  "title": "The Man from Earth: Holocene",
+  "slug": "the-man-from-earth-holocene",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/krOWstmTUdfafRbXH9YAjVj2zE5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 98,
+  "rating": 5.505,
+  "description": "14,000-year-old \"Man from Earth\" John Oldman, now teaching in northern California, realizes that not only is he finally starting to age, but four students have discovered his deepest secret, putting his life in grave danger and potentially destroying the world's most popular religion.",
+  "created_at": "2026-07-22T15:40:25.526Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6637,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

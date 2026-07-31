@@ -1,0 +1,28 @@
+{
+  "id": "9a7f62be-1e78-4a93-945a-4d686a522b3a",
+  "title": "Radioflash",
+  "slug": "radioflash",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 5.167,
+  "description": "When a nuclear strike causes an electromagnetic pulse that cuts off all power, water, and communication to the entire western United States, Reese finds herself plunged into an all-too-real fight to survive. As pandemonium grips her city, Reese and her father set out on a desperate journey in search of safety--a perilous trek through a world gone mad where every encounter with a stranger could be your last.",
+  "created_at": "2026-07-22T15:25:54.022Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4510,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

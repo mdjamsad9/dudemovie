@@ -1,0 +1,32 @@
+{
+  "id": "6f7d5932-55c2-4c0a-b938-776fcccb38b1",
+  "title": "Arbor Demon",
+  "slug": "arbor-demon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7mJea8gSFBwTSdrKxDkzEsgCD0y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 92,
+  "rating": 4.773,
+  "description": "An adventurous woman with a secret from her husband insists they go for a romantic camping trip in a remote wood to reconnect and share some quality time. But their idyll is shockingly cut short after a group of nearby hunters are brutally killed by a mysterious creature. Trapped inside their tent, the couple is forced to help one of the injured hunters and together they plan their escape. Is there really something supernatural hidden in the forest?  Or is it just their imaginations running riot. Soon they must determine if the real threat is inside or outside their enclosure",
+  "created_at": "2026-07-22T15:47:28.835Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6962,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

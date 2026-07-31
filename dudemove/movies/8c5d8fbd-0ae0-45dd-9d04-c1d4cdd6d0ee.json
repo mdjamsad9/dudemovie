@@ -1,0 +1,32 @@
+{
+  "id": "8c5d8fbd-0ae0-45dd-9d04-c1d4cdd6d0ee",
+  "title": "303 Squadron",
+  "slug": "303-squadron",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a3O1zY9INsubcJp1od8ccQULfhm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 5.913,
+  "description": "After the fall of the September Campaign of 1939, two Polish pilots are forced to fight for their nation in foreign battlefronts.",
+  "created_at": "2026-07-22T15:31:42.817Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5706,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "37046d31-74ac-4209-8d0f-756086fa3f1e",
+  "title": "Long Nights Short Mornings",
+  "slug": "long-nights-short-mornings",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5qbWEr9ARQNymuiQn88n7m2s6CL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 100,
+  "rating": 4.7,
+  "description": "An examination of the romantic life of a young man in New York City and his sometimes fleeting, sometimes profound experiences with the women he encounters.",
+  "created_at": "2026-07-22T15:47:38.220Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6971,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

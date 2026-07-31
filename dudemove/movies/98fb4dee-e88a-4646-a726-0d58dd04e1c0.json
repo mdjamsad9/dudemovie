@@ -1,0 +1,32 @@
+{
+  "id": "98fb4dee-e88a-4646-a726-0d58dd04e1c0",
+  "title": "Cargo",
+  "slug": "cargo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cdPSUck4tBRvRu6DFk6XciDrssn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": null,
+  "description": "After being infected in the wake of a violent pandemic and with only 48 hours to live, a father struggles to find a new home for his baby daughter.",
+  "created_at": "2026-07-31T07:20:59.408Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6238,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d199490b-8c28-4aa4-aa31-b4d4d4f4c65e",
+  "title": "Badnaam Gali",
+  "slug": "badnaam-gali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8W7qKTyTjdcdgvhmlkL8mm8oOMp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 95,
+  "rating": 6.7,
+  "description": "A single pregnant woman living without her husband or any man, alone, in a society of people where everyone questions her character and mysterious lifestyle. Reluctantly, Divyendu Sharma finds himself involved in her life. His aunt, played by Dolly Ahluwalia, is a woman who lives in Badnaam lane (name of the residential complex in Delhi) and keeps track of the society she lives in and keeps her nephew informed about the whereabouts of its residents, particularly the Bengali surrogate woman, Patralekhaa.",
+  "created_at": "2026-07-22T15:31:46.014Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4981,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a5f32b28-ea33-450f-979d-3722231e7647",
+  "title": "Kasganj",
+  "slug": "kasganj",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4pIXubnvdR0K0W4bIC389auCo3l.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 78,
+  "rating": null,
+  "description": "A brooding, alcoholic police officer with a painful past is sent, against his will, to a government guest house high up in the icy cold, mountains of Himachal Pradesh to investigate the death of a 17 year old girl. The case, reported as a wolf attack, turns out to be a murder. The girl was shot in the head before being eaten by the wolves. All 5 inhabitants of the resoprt are suspects, with each one having an alibi. To the horror of Daljeet, the police officer, this also happens to be a dry resort without any access to alcohol for miles all around. As the the layers of the story start to unravel, the officer has to fight his own frail health and withdrawal from alcohol addiction to find the murderer before it is too late. The only sliver of hope is the one single witness- the murdered girl herself.",
+  "created_at": "2026-07-22T15:24:11.938Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4336,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

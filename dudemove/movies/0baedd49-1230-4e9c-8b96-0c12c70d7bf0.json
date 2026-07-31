@@ -1,0 +1,24 @@
+{
+  "id": "0baedd49-1230-4e9c-8b96-0c12c70d7bf0",
+  "title": "The Female Brain",
+  "slug": "the-female-brain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3YZrbhNQdZFE2yueFFw1QJ84YvF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 98,
+  "rating": 5.484,
+  "description": "The neurological inner workings of romantic relationships between men and women are studied for science.",
+  "created_at": "2026-07-22T15:39:33.502Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6437,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

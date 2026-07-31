@@ -1,0 +1,24 @@
+{
+  "id": "f4148b5d-d57c-457b-b26b-a0f16201adc7",
+  "title": "Dobaara: See Your Evil",
+  "slug": "dobaara-see-your-evil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kTN2AlNjerZb2HAGv4xm4FadKfm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 106,
+  "rating": 4.7,
+  "description": "An official adaptation of the cult horror film Oculus. The film revolves around a haunted mirror. It shows the emotional journey of siblings Natasha Merchant played by Huma Qureshi and Kabeer Merchant played by Saqib Saleem dealing with the death of their parents.",
+  "created_at": "2026-07-22T15:44:56.918Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6311,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

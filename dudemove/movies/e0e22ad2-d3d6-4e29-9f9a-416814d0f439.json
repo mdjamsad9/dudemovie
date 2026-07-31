@@ -1,0 +1,28 @@
+{
+  "id": "e0e22ad2-d3d6-4e29-9f9a-416814d0f439",
+  "title": "Ainthu Ainthu Ainthu",
+  "slug": "ainthu-ainthu-ainthu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/84SC1Z51pBjCjG75It3KV95L3Ts.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2013,
+  "duration": 146,
+  "rating": null,
+  "description": "Aravind suffers a serious brain damage from a car accident. He is somehow convinced that he lost his lover Liyana  in the unfortunate accident, but his brother swears that the girl did not even exist.",
+  "created_at": "2026-07-31T07:26:34.898Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7685,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e3f0ab0b-5fe4-4e45-a55e-8a858403a57b",
+  "title": "Carter & June",
+  "slug": "carter-june",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zSpuv5CLGG2WgQo38nzDpxFuKUG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 87,
+  "rating": 4.793,
+  "description": "A grifter indebted to a New Orleans gangster thinks he can make a killing and win back his money-troubled ex-lover with the help of a bank robbery already set to go down. The reunited lovers team up for the job, but get caught in a whirlwind of danger as the robbery turns deadly.",
+  "created_at": "2026-07-22T15:37:51.740Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5673,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

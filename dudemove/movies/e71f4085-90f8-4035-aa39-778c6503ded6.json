@@ -1,0 +1,24 @@
+{
+  "id": "e71f4085-90f8-4035-aa39-778c6503ded6",
+  "title": "Don't Go",
+  "slug": "don-t-go",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/K6OGjRF5s12HnZBY2ksvB4itWw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 4.92,
+  "description": "Devastated by his daughter's death in a terrible accident, Ben becomes convinced that he can bring her back through a recurring dream. But is it just a dream? Or is Ben losing his mind?",
+  "created_at": "2026-07-22T15:33:10.154Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5328,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "431641e9-761f-4568-a8b5-8b56ff3535db",
+  "title": "News of the World",
+  "slug": "news-of-the-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2020,
+  "duration": 118,
+  "rating": 6.92,
+  "description": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+  "created_at": "2026-07-22T15:20:09.919Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3865,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

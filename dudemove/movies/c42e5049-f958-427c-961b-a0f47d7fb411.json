@@ -1,0 +1,24 @@
+{
+  "id": "c42e5049-f958-427c-961b-a0f47d7fb411",
+  "title": "Shovel Buddies",
+  "slug": "shovel-buddies",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nFg0nHRkTsVOnO1H4RF7nzyQtqw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 85,
+  "rating": 5.9,
+  "description": "A group of friends attempt to successfully complete a list of tasks assigned to them as the \"Shovel List\" by their dead friend.",
+  "created_at": "2026-07-22T15:47:29.680Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6964,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

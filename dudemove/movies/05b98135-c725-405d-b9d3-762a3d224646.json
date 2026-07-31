@@ -1,0 +1,28 @@
+{
+  "id": "05b98135-c725-405d-b9d3-762a3d224646",
+  "title": "The Autopsy of Jane Doe",
+  "slug": "the-autopsy-of-jane-doe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 86,
+  "rating": 6.836,
+  "description": "Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
+  "created_at": "2026-07-22T15:46:21.191Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6897,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "63cff678-f2a1-408c-b838-36798b717a61",
+  "title": "Bhairava Geetha",
+  "slug": "bhairava-geetha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/518x61xneaQLqP0kIkUDWYE5IFs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2018,
+  "duration": 129,
+  "rating": null,
+  "description": "Set against the backdrop of violent class, a love story of a man who turns into a rebel in a battle between feudal-minded oppressors and the downtrodden.",
+  "created_at": "2026-07-31T07:11:33.338Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5846,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

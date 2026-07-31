@@ -1,0 +1,28 @@
+{
+  "id": "ec351d15-0089-40d2-a04c-3540a70ba1ad",
+  "title": "Loving",
+  "slug": "loving",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/teNPeDIRGWxtvMaJsNa7lw5IgiL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 123,
+  "rating": 6.692,
+  "description": "In 1958, in the state of Virginia, the idea of interracial marriage was not only considered to be immoral to many, it was also illegal. When Richard and Mildred fall in love, they are aware of the eyes staring at them and the words said behind their backs. It's when they get married, however, that words and looks become actions, and the two are arrested. The couple decide to take their case all of the way to the Supreme Court in order to fight for their love. Based on a true story.",
+  "created_at": "2026-07-22T15:47:20.659Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6955,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

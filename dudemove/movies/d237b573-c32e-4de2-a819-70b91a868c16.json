@@ -1,0 +1,24 @@
+{
+  "id": "d237b573-c32e-4de2-a819-70b91a868c16",
+  "title": "Amityville: The Awakening",
+  "slug": "amityville-the-awakening",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c9Nyu8YZfLsWWbze4DEGPbnwCcT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 87,
+  "rating": 5.354,
+  "description": "Belle, her little sister, and her comatose twin brother move into a new house with their single mother in order to save money to help pay for her brother's expensive healthcare. But when strange phenomena begin to occur including the miraculous recovery of her brother, Belle begins to suspect her mother isn't telling her everything and soon learns they moved into the infamous Amityville house.",
+  "created_at": "2026-07-22T15:41:25.285Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6444,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

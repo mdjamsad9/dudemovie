@@ -1,0 +1,28 @@
+{
+  "id": "04b367b9-c2d8-431b-9762-e3b4703cea31",
+  "title": "Second Show",
+  "slug": "second-show",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e36qfr45FS0d7WDFE8kHrJCL4fr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.9,
+  "description": "Lalu is a reckless youth who is willing to do anything for money, even if it means getting involved in the drugs business.",
+  "created_at": "2026-07-09T17:19:30.432Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 904,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Second%20Show%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Second%20Show%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

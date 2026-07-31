@@ -1,0 +1,32 @@
+{
+  "id": "95b3b251-93ea-4608-aadc-67a0397c214a",
+  "title": "Oru Melliya Kodu",
+  "slug": "oru-melliya-kodu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kd4ZlwLvGHK23jUIQMZmcyKw0f7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 124,
+  "rating": null,
+  "description": "A rich businesswoman is murdered and her body goes missing, putting her husband high on the investigating cop's suspect list.",
+  "created_at": "2026-07-31T07:24:03.853Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7289,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

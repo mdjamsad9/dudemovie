@@ -1,0 +1,28 @@
+{
+  "id": "41d3750d-b001-4a0d-b453-dfb5e5d94288",
+  "title": "The Olive Tree",
+  "slug": "the-olive-tree",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uyWCqamhJImIwLdPgSmXNn2UwX5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 6.716,
+  "description": "Alma’s family has been producing quality olive oil in the Baix Maestrat area of Spain’s Castellón for generations. Yet changing pressures in the industry have made their traditional practices economically untenable, and the family is now in the mass-production poultry business.  Alma’s grandfather has not spoken in years. Sadness envelopes him, and he no longer wants to eat. His sons—Alma’s father and uncle—are impatient with him, but Alma understands her grandfather. She realizes he has been grieving for a thousand-year-old olive tree that the family has uprooted and sold to pay some debts. (A sadly common reality in Castellón at present.) Unable to bear the idea that her grandfather could die without seeing this terrible wrong corrected, Alma undertakes a quixotic mission to locate the tree and return it to the family orchard, so that her grandfather may have peace in his final days.",
+  "created_at": "2026-07-22T15:45:27.681Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6864,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

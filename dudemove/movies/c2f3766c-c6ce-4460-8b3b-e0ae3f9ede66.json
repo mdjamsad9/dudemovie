@@ -1,0 +1,32 @@
+{
+  "id": "c2f3766c-c6ce-4460-8b3b-e0ae3f9ede66",
+  "title": "Daddy",
+  "slug": "daddy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hnpO5xuVOFhEgZ30B6xomYt4tiF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 134,
+  "rating": 5.808,
+  "description": "This is the gritty and sensational true story of Arun Gulab Gawli, a mill worker’s son who grew up in Mumbai’s impoverished Dagdi Chawl, to become an infamous don, politician and chief rival of the most powerful crime boss of the day, Dawood Ibrahim. Daddy realistically charts Mumbai’s true crime history from the 1970s and 1980s until 2012, when Gawli was finally sentenced to life imprisonment.",
+  "created_at": "2026-07-22T15:42:41.956Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6617,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

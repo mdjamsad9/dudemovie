@@ -1,0 +1,28 @@
+{
+  "id": "684a89eb-f1ec-4ab1-b997-01c494520aa9",
+  "title": "Bhoomi",
+  "slug": "bhoomi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zVh5RNjIcM3Wggp0Be3fGdLxz75.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 135,
+  "rating": 6,
+  "description": "A shoe-smith Arun Sachdeva is shattered when he discovers that his daughter, Bhoomi has been raped by Dhauli and his gang of three. The father and daughter grieve for a bit before planning revenge.",
+  "created_at": "2026-07-22T15:41:45.194Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6687,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

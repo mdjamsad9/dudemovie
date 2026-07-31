@@ -1,0 +1,24 @@
+{
+  "id": "c57ff54d-d67f-4574-b1cd-1c546115a59c",
+  "title": "Shobhayatra",
+  "slug": "shobhayatra",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 101,
+  "rating": null,
+  "description": "Shobhayatra is a Hindi ZEE Theatre play starring Ayaz Khan, Chirag Vohra, Nikhil Ratnaparakhi, Mansi Multani and Ganesh Yadav. In this satirical drama, a group of actors come together for an Independence Day skit where they play legendary characters of the Indian nationalist heroes such as Mahatma Gandhi, Jawaharlal Nehru, Subhash Chandra Bose and Lokmanya Tilak. However, things go awry when the actors realise that the play is sponsored by an underworld don.",
+  "created_at": "2026-07-22T15:36:26.651Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5517,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

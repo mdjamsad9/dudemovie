@@ -1,0 +1,28 @@
+{
+  "id": "516d92b5-f189-4705-adc6-06bc0c8d88b8",
+  "title": "Remo",
+  "slug": "remo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sACb5UVRdVbgEZklS5Wu5gNlmVF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 150,
+  "rating": null,
+  "description": "An aspiring actor dresses up as a female nurse to bag a role in a film, and more importantly, woo the love of his life.",
+  "created_at": "2026-07-31T07:20:19.563Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7278,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

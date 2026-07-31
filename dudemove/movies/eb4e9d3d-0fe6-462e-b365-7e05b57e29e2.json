@@ -1,0 +1,28 @@
+{
+  "id": "eb4e9d3d-0fe6-462e-b365-7e05b57e29e2",
+  "title": "Asuran",
+  "slug": "asuran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 141,
+  "rating": null,
+  "description": "A family from the underprivileged class is on the run after the teenaged son kills a rich man from the upper caste. Can the pacifist father be able to save his hot-blooded son?",
+  "created_at": "2026-07-31T07:08:10.181Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5027,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

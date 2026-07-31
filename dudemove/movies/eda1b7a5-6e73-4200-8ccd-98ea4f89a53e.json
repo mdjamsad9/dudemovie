@@ -1,0 +1,24 @@
+{
+  "id": "eda1b7a5-6e73-4200-8ccd-98ea4f89a53e",
+  "title": "Parava",
+  "slug": "parava",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2L6SAHw8VHEP18ePIK7L8ysAb7T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 146,
+  "rating": null,
+  "description": "Irshad and Haseeb, two teenage boys from Mattanchery, share a passion for pigeon flying, a local game. Later, Irshad opens up about a tragic incident that ruined many friendships in the neighbourhood.",
+  "created_at": "2026-07-31T07:22:00.726Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6230,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

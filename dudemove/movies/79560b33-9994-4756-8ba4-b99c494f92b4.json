@@ -1,0 +1,32 @@
+{
+  "id": "79560b33-9994-4756-8ba4-b99c494f92b4",
+  "title": "Puthan Panam",
+  "slug": "puthan-panam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jePXxUxwHCdZJiTrVnU9QuNF7B4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 147,
+  "rating": null,
+  "description": "The sudden implementation of demonetisation rattles the country, and a few black money hoarders in Kerala are trying their best to save their void currencies by hook or crook. Kasaragod-based financier Nithyananda Shenoy also gets embroiled in it, and drawn into the scene are also a few underprivileged folk in Kochi. Dramatic situations surrounding the hotchpotch ensue, as each one tries to set their lives straight.",
+  "created_at": "2026-07-31T07:31:38.661Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6274,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

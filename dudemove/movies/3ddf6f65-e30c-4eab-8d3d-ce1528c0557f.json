@@ -1,0 +1,28 @@
+{
+  "id": "3ddf6f65-e30c-4eab-8d3d-ce1528c0557f",
+  "title": "King of Thieves",
+  "slug": "king-of-thieves",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 108,
+  "rating": 5.564,
+  "description": "London, England, April 2015. Brian Reader, a retired thief, gathers an unlikely gang of burglars to perpetrate the biggest and boldest heist in British history. The thieves assault the Hatton Garden Safe Deposit Company and escape with millions in goods and money. But soon the cracks between the gang members begin to appear when they discuss how to share the loot.",
+  "created_at": "2026-07-22T15:34:03.591Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5143,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

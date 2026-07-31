@@ -1,0 +1,28 @@
+{
+  "id": "18d4030a-a1ab-4f85-80df-0dcddb1bcb41",
+  "title": "American Son",
+  "slug": "american-son",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lEIlxhIyFsia7yCqbfD4UH8iIkN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 6.062,
+  "description": "Time passes and tension mounts in a Florida police station as an estranged interracial couple awaits news of their missing teenage son.",
+  "created_at": "2026-07-22T15:27:41.124Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 4699,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

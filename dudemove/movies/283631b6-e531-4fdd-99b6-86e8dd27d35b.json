@@ -1,0 +1,36 @@
+{
+  "id": "283631b6-e531-4fdd-99b6-86e8dd27d35b",
+  "title": "Neram",
+  "slug": "neram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cA5OgwysDaFmMGeEjUEG59aVoMs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2013,
+  "duration": 116,
+  "rating": null,
+  "description": "Mathew is a graduate in software engineering, but is now jobless. He is waiting for his good time to get a good job. Mathew has borrowed some money as loan. Now he cannot give it back as he has no job.  Mathew's childhood friend Jeena Johnykkutty is ready to help him as she could. She has a job. Her father Johnykkutty does not like Mathew and he always tries to trouble Mathew whenever he gets a chance.  At this time Mathew's good time arrives; but along with it many problems too. The gripping events that follow plot the rest of 'Neram'.",
+  "created_at": "2026-07-31T07:38:00.138Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7694,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

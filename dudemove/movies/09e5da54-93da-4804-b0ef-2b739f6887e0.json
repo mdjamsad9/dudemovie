@@ -1,0 +1,28 @@
+{
+  "id": "09e5da54-93da-4804-b0ef-2b739f6887e0",
+  "title": "Retina",
+  "slug": "retina",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6p8OUn2NdOGVKpEdRV8Y6U4jQWe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 87,
+  "rating": 5.1,
+  "description": "A young woman participates in a medical study. After a series of nightmares and unusual side effects, the line between dreams and reality is blurred. She finds herself on the run from those involved, desperate to uncover the truth.",
+  "created_at": "2026-07-22T15:37:55.936Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6632,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

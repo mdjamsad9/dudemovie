@@ -1,0 +1,28 @@
+{
+  "id": "e0ade8d6-c68d-4558-95bd-ab7b5a850133",
+  "title": "Acrimony",
+  "slug": "acrimony",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/raz4UTUI5FPkem2j57EXOL75o6I.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 6.7,
+  "description": "Faithful wife Melinda, who is tired of standing by her devious husband Robert, is enraged when it becomes clear she has been betrayed. That's when she lost it, and now she cannot let it go.",
+  "created_at": "2026-07-22T15:37:23.892Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5629,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

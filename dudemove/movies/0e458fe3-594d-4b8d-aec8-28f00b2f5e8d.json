@@ -1,0 +1,28 @@
+{
+  "id": "0e458fe3-594d-4b8d-aec8-28f00b2f5e8d",
+  "title": "Oxygen",
+  "slug": "oxygen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dwqZxJTxfW4VcxxwJdnUf8AaUCp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 156,
+  "rating": null,
+  "description": "Krishna arrives in India to get married to Shruti, but when Krishna saves her father from an attack, it is revealed he has a hidden agenda.",
+  "created_at": "2026-07-31T07:21:21.929Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6235,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

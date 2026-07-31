@@ -1,0 +1,28 @@
+{
+  "id": "cbc3c734-6007-405d-8041-ffc2a1d0cb3d",
+  "title": "Sathriyan",
+  "slug": "sathriyan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jVPzjuV85sazY313nmVqG8ch9p8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2017,
+  "duration": 156,
+  "rating": null,
+  "description": "The death of a gang lord triggers a war between two rival gangs, and an ambitious hireling tries to figure out his place in the scheme of things.",
+  "created_at": "2026-07-31T07:23:19.393Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6216,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

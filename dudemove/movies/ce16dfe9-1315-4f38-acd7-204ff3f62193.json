@@ -1,0 +1,28 @@
+{
+  "id": "ce16dfe9-1315-4f38-acd7-204ff3f62193",
+  "title": "5 Sundarikal",
+  "slug": "5-sundarikal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gaekdc41iSm4BNt1iYc66bs82oZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2013,
+  "duration": 140,
+  "rating": null,
+  "description": "Five women, Anikha, Isha, Gauri, Kullante and Aami, undergo life-changing experiences with regard to love.",
+  "created_at": "2026-07-31T07:31:15.144Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7683,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

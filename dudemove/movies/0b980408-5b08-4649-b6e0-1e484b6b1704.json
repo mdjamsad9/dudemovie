@@ -1,0 +1,28 @@
+{
+  "id": "0b980408-5b08-4649-b6e0-1e484b6b1704",
+  "title": "Sanam Teri Kasam",
+  "slug": "sanam-teri-kasam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 154,
+  "rating": 7.894,
+  "description": "Tough ex-convict Inder and traditional mousy Saraswati fall in love and get married, but a tragedy changes their lives forever. The film is a modern rendition of the legends of Shiva-Sati and the novel \"Love Story\" by Eric Segal.",
+  "created_at": "2026-07-22T15:49:24.944Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7162,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

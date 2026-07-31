@@ -1,0 +1,28 @@
+{
+  "id": "3aa1911c-6474-4198-bf6d-2c58a6738a89",
+  "title": "Max Reload and the Nether Blasters",
+  "slug": "max-reload-and-the-nether-blasters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/82ltslLbMtEz3Gw9qthi09bO7Kw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 101,
+  "rating": 5.771,
+  "description": "A small town video game store clerk must go from zero to hero after accidentally unleashing the forces of evil from a cursed Colecovision game.",
+  "created_at": "2026-07-22T15:23:08.336Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4079,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

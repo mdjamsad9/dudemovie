@@ -1,0 +1,24 @@
+{
+  "id": "761b294d-0206-4497-aaf5-b8b833c70fa2",
+  "title": "Every 21 Seconds",
+  "slug": "every-21-seconds",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wuc3ApmPgVIVodxoXyv3IEVUYmt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 6.4,
+  "description": "The gut wrenching and inspiring true story of TBI (Traumatic Brain Injury) survivor, Brian Sweeney.  A happy, loving and successful man is brutally attacked in a case of mistaken identity that results in a severe TBI (Traumatic Brain Injury).",
+  "created_at": "2026-07-22T15:32:08.955Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5634,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bb7d2761-deee-432d-8bf0-36b475f83c1d",
+  "title": "I'll Take Your Dead",
+  "slug": "i-ll-take-your-dead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 83,
+  "rating": 6.352,
+  "description": "William has a simple job: he makes dead bodies disappear. His daughter Gloria has become used to rough-looking men dropping off corpses, and is even convinced that some of them are haunting their house.",
+  "created_at": "2026-07-22T15:31:54.666Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5654,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

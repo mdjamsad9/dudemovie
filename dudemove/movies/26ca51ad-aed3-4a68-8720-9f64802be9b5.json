@@ -1,0 +1,24 @@
+{
+  "id": "26ca51ad-aed3-4a68-8720-9f64802be9b5",
+  "title": "The Glass Castle",
+  "slug": "the-glass-castle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8NPP7mliHLlVMHce8SjApiRxgzm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 127,
+  "rating": 7.107,
+  "description": "A young girl is raised in a dysfunctional family constantly on the run from the FBI. Living in poverty, she comes of age guided by her drunkard, ingenious father who distracts her with magical stories to keep her mind off the family's dire state, and her selfish, nonconformist mother who has no intention of raising a family, along with her younger brother and sister, and her other older sister. Together, they fend for each other as they mature in an unorthodox journey that is their family life.",
+  "created_at": "2026-07-22T15:41:47.283Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6684,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

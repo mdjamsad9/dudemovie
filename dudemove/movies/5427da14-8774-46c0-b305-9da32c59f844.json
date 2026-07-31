@@ -1,0 +1,28 @@
+{
+  "id": "5427da14-8774-46c0-b305-9da32c59f844",
+  "title": "Gangers",
+  "slug": "gangers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9VOKdmARTbZ8MuYM3quxlBivYkm.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 158,
+  "rating": 6.4,
+  "description": "An undercover cop teams up with a crooked PT Master to loot 100 crore from a corrupt politician.",
+  "created_at": "2026-07-09T16:58:40.322Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 483,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Gangers%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gangers%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

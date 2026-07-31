@@ -1,0 +1,28 @@
+{
+  "id": "5b43907a-a05c-4da7-94d1-3df88a8abe94",
+  "title": "Dirty 30",
+  "slug": "dirty-30",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rRDdvaJsiZimm1enx2ApkCxaee4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 87,
+  "rating": 5.803,
+  "description": "On the eve of a Kate's 30th birthday, she agrees to let her two lifelong friends, Evie and Charlie, throw her a party. But what's supposed to be a simple celebration becomes a wild who's who of past and present, and things quickly spiral out of control.",
+  "created_at": "2026-07-22T15:49:13.095Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7138,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

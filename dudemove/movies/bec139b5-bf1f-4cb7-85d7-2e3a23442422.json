@@ -1,0 +1,28 @@
+{
+  "id": "bec139b5-bf1f-4cb7-85d7-2e3a23442422",
+  "title": "1921",
+  "slug": "1921",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lEOwlojOgtbfdFrMANVwVohOqyY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 144,
+  "rating": 5.306,
+  "description": "When Ayush arrives in England to learn music, he is shocked and scared when the manor he is living in becomes haunted by spirits. To exorcise them, he seeks the help of Rose, a woman who can see and speak with them.",
+  "created_at": "2026-07-22T15:38:02.209Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5539,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

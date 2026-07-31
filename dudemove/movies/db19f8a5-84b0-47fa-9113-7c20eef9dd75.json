@@ -1,0 +1,28 @@
+{
+  "id": "db19f8a5-84b0-47fa-9113-7c20eef9dd75",
+  "title": "Malcolm & Marie",
+  "slug": "malcolm-marie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bdidDnAZwchN5vTenoNuhGPJTri.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 106,
+  "rating": 7,
+  "description": "As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.",
+  "created_at": "2026-07-22T15:19:54.097Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3518,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

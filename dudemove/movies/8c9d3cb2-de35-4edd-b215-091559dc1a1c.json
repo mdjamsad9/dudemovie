@@ -1,0 +1,28 @@
+{
+  "id": "8c9d3cb2-de35-4edd-b215-091559dc1a1c",
+  "title": "King Charles III",
+  "slug": "king-charles-iii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tQ6aFuWBrQSqJcgoqXnlozBGyam.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 89,
+  "rating": 6.4,
+  "description": "Prince Charles' accession to the throne following the Queen's death. When he refuses to sign a controversial bill into law, political chaos ensues: a constitutional crisis, rioting on the streets and a tank in front of Buckingham Palace.",
+  "created_at": "2026-07-22T15:44:52.554Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 6302,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

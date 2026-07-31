@@ -1,0 +1,24 @@
+{
+  "id": "c00c68be-2cd5-4c54-a162-b10fa9e1147e",
+  "title": "Dude",
+  "slug": "dude-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mtQyt1Tx3ppR18BZRUCQQ9VUPZW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": null,
+  "description": "Four best friends negotiate loss and major life changes during the last two weeks of high school.",
+  "created_at": "2026-07-31T07:24:54.924Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5921,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

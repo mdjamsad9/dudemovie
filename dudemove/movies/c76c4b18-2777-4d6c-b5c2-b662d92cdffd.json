@@ -1,0 +1,28 @@
+{
+  "id": "c76c4b18-2777-4d6c-b5c2-b662d92cdffd",
+  "title": "Love per Square Foot",
+  "slug": "love-per-square-foot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/edKCIS7i4qruQ8B8sbou8scvPLe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 133,
+  "rating": 6.684,
+  "description": "Individually, bank employees Sanjay and Karina don't earn enough to be able to buy a home, so they decide to enter into a marriage of convenience.",
+  "created_at": "2026-07-22T15:38:49.520Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5585,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

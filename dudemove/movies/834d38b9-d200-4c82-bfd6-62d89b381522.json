@@ -1,0 +1,28 @@
+{
+  "id": "834d38b9-d200-4c82-bfd6-62d89b381522",
+  "title": "Bleed with Me",
+  "slug": "bleed-with-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p3speI5oGXTRETSXBP8T91aM0lq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 79,
+  "rating": 3.9,
+  "description": "During a winter getaway at an isolated cabin, a self-destructive young woman becomes convinced that her best friend is stealing her blood.",
+  "created_at": "2026-07-22T15:17:56.715Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3558,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

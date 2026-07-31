@@ -1,0 +1,32 @@
+{
+  "id": "ef6fd158-26e6-4090-8a55-d5656d24a080",
+  "title": "Charlie's Angels",
+  "slug": "charlie-s-angels",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Turkish",
+  "release_year": 2019,
+  "duration": 118,
+  "rating": 6.377,
+  "description": "Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. It will be ready as soon as she works out the last issue, if not it could be turned into a dangerous weapon. But when the cutting edge technology is pushed to an investor before she can do that, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina, and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.",
+  "created_at": "2026-07-22T15:25:51.626Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4426,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

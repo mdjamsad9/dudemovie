@@ -1,0 +1,28 @@
+{
+  "id": "7df68686-e616-4396-8249-cffcfb5c3d05",
+  "title": "Body at Brighton Rock",
+  "slug": "body-at-brighton-rock",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/LG4iNzW07E9RVk7xoK5gFg8W6A.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 88,
+  "rating": 4.986,
+  "description": "When an inexperienced park ranger finds a dead body under mysterious circumstances on a remote mountain trail, she must guard it overnight until authorities can arrive, forcing her to confront some of her deepest, darkest fears.",
+  "created_at": "2026-07-22T15:32:03.000Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5005,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "122b516e-410e-413c-91f8-238da22408f9",
+  "title": "Diablo",
+  "slug": "diablo-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cree",
+  "release_year": 2016,
+  "duration": 83,
+  "rating": null,
+  "description": "A young civil war veteran is forced on a desperate journey to save his kidnapped wife.",
+  "created_at": "2026-07-31T07:40:35.186Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 7340,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

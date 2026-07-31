@@ -1,0 +1,24 @@
+{
+  "id": "206a5eda-3335-4ca5-8f97-5fbec8025cc1",
+  "title": "Carga",
+  "slug": "carga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uLVjYX0q0wdX9CyILF6nMTRIP3x.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2018,
+  "duration": 113,
+  "rating": 6.1,
+  "description": "A lorry, a road and an unpredictable destiny, all intersecting in a human trafficking network. Caught up in this web, Viktoriya has only one chance: fight to survive.",
+  "created_at": "2026-07-22T15:33:02.657Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5438,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

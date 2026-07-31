@@ -1,0 +1,28 @@
+{
+  "id": "f62a227d-ab78-40d0-bf32-ae1b0e53788a",
+  "title": "Aayirathil Oruvan",
+  "slug": "aayirathil-oruvan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9lrbtKE8vKIpYXxjj0hSwhnC81o.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2010,
+  "duration": 181,
+  "rating": null,
+  "description": "An expedition sets out to uncover the long-lost traces of the Chola dynasty, venturing into uncharted lands filled with ancient traps, hostile forces, and forgotten secrets. What begins as a search for history soon becomes a perilous struggle for survival, where myths and reality collide and the fate of an entire legacy hangs in the balance.",
+  "created_at": "2026-07-31T07:27:40.217Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 7727,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

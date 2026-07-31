@@ -1,0 +1,28 @@
+{
+  "id": "54e16f34-b383-4bea-968e-a35b9968de90",
+  "title": "F the Prom",
+  "slug": "f-the-prom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9cMl1QLOAAqlcws0er1sgXOGlab.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 92,
+  "rating": 5.829,
+  "description": "Maddy and Cole were inseparable friends until high school started and Maddy became the most popular girl on campus. When she starts feeling lonely and heartbroken, she reconnects with Cole and the duo conspire to destroy the ultimate teen popularity contest",
+  "created_at": "2026-07-22T15:41:02.308Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6472,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ec2ded1c-e444-401e-92f1-c251ed59ba90",
+  "title": "Live Cargo",
+  "slug": "live-cargo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wXPTUb45n5rB8Y7fkmjlnLRu7qu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 88,
+  "rating": 5.8,
+  "description": "Nadine and Lewis move to a small Bahamian island hoping to restore their relationship in the wake of a tragedy, only to find the picturesque island torn in two: on one side a dangerous human trafficker and on the other an aging patriarch, struggling to maintain order.",
+  "created_at": "2026-07-22T15:46:34.447Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6904,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

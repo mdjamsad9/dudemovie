@@ -1,0 +1,32 @@
+{
+  "id": "cce7c1ed-e025-4b21-8b36-5064e673f074",
+  "title": "Monster Family 2",
+  "slug": "monster-family-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fD3w59S1e3otqTMQDzxLq24khUf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 103,
+  "rating": 6.6,
+  "description": "To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein's Monster, a Mummy and a Werewolf but when aided by their three pet bats, the Monster Family zooms around the world again to save their friends, make new monstrous acquaintances.",
+  "created_at": "2026-07-22T15:17:08.811Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3270,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

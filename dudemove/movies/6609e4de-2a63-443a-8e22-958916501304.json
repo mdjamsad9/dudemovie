@@ -1,0 +1,32 @@
+{
+  "id": "6609e4de-2a63-443a-8e22-958916501304",
+  "title": "Mitron",
+  "slug": "mitron",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3mk2MT5w15IeGHGwFrvUtozrjEU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 116,
+  "rating": 6.4,
+  "description": "Jai, born and brought up with middle-class values, has a ‘take it easy’ approach to life. Since he doesn't believe in herd mentality, he and his two best friends, Raunak  and Deepu  start looking for unique ways to make it big in the world. During this trial and error phase, Jai realizes his dream. But his decision of choosing an unprofitable career path doesn’t go down too well with his father , who has bigger aspirations for him. Therefore, in order to bring stability in his life, his father decides to get him married. Destiny, however, has something else in store for Jai, when he accidentally meets Avni , an ambitious, MBA graduate, who wants to start her own business. Set in the backdrop of the Gujarati milieu, the film traces Jai and Avni’s personal journey, as they both find themselves and discover the true meaning of friendship in the bargain.",
+  "created_at": "2026-07-22T15:34:46.606Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5285,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

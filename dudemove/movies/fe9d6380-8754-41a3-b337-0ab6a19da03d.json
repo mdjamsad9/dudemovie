@@ -1,0 +1,24 @@
+{
+  "id": "fe9d6380-8754-41a3-b337-0ab6a19da03d",
+  "title": "C'mon C'mon",
+  "slug": "c-mon-c-mon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 110,
+  "rating": 7.172,
+  "description": "Johnny and his young nephew forge a tenuous but transformational relationship when they embark on a cross-country trip to see life away from Los Angeles.",
+  "created_at": "2026-07-22T15:16:14.436Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3397,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

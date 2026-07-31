@@ -1,0 +1,28 @@
+{
+  "id": "37bcc117-bbf5-4afb-b897-793dc114a8dd",
+  "title": "Kaalidas",
+  "slug": "kaalidas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7cyU95IchhJfv7chnrc8EhMfoBv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 126,
+  "rating": null,
+  "description": "A cop, who suffers from family issues, takes up a peculiar suicide case. The plot thickens as similar cases get reported within a span of a few days.",
+  "created_at": "2026-07-31T07:06:14.802Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5060,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

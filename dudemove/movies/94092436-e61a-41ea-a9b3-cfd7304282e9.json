@@ -1,0 +1,40 @@
+{
+  "id": "94092436-e61a-41ea-a9b3-cfd7304282e9",
+  "title": "Trollhunters: Rise of the Titans",
+  "slug": "trollhunters-rise-of-the-titans",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2021,
+  "duration": 106,
+  "rating": 7.553,
+  "description": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
+  "created_at": "2026-07-22T15:18:04.326Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3352,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

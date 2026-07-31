@@ -1,0 +1,32 @@
+{
+  "id": "47fc3d3d-57cb-405e-b33a-fdcf3aa73857",
+  "title": "Born Guilty",
+  "slug": "born-guilty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4OoZl2XplFJqZVTmMauyiVHd7HJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 101,
+  "rating": 4.5,
+  "description": "What happens when you secretly pay someone to romance your Mom?",
+  "created_at": "2026-07-22T15:37:58.315Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6638,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

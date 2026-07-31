@@ -1,0 +1,28 @@
+{
+  "id": "353b068f-37d9-4943-bb69-04921e430371",
+  "title": "Georgettan's Pooram",
+  "slug": "georgettan-s-pooram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1t5PNLVAx13p17OvulUH0Uf7XRS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 156,
+  "rating": null,
+  "description": "George Vadakkan is the quintessential prodigal son of a priest, who wished he followed the father’s path. His friends and George generally hang out at Mathayi Parambu, a public playground cum hangout space of the area. How the park plays a part in setting his life straight is the core of the pooram.",
+  "created_at": "2026-07-31T07:32:40.022Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6262,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

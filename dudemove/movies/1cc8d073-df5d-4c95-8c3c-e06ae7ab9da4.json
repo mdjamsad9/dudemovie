@@ -1,0 +1,32 @@
+{
+  "id": "1cc8d073-df5d-4c95-8c3c-e06ae7ab9da4",
+  "title": "Sacrifice",
+  "slug": "sacrifice",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eVrlNY7SbWmTslaRlJvo3sMsZm4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 91,
+  "rating": 5.37,
+  "description": "Sacrifice is the story of consultant surgeon, Tora Hamilton, who moves with her husband, Duncan, to the remote Shetland Islands, 100 miles off the north-east coast of Scotland. Deep in the peat soil around her new home, Tora discovers the body of a young woman with rune marks carved into her skin and a gaping hole where her heart once beat. Ignoring warnings to leave well alone, Tora uncovers terrifying links to a legend that might never have been confined to the pages of the story-books.",
+  "created_at": "2026-07-22T15:49:10.056Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 7132,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9cae4667-cb3a-4784-bc26-331e933391d9",
+  "title": "Billy Lynn's Long Halftime Walk",
+  "slug": "billy-lynn-s-long-halftime-walk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jjuDRavgTazvs5ishEgnfZ8YhbV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 113,
+  "rating": 6.024,
+  "description": "19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad – contrasting the realities of war with America's perceptions.",
+  "created_at": "2026-07-22T15:47:33.804Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6978,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

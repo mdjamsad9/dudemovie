@@ -1,0 +1,28 @@
+{
+  "id": "dea4b31c-fa14-4023-b84e-650cb7b0c0a4",
+  "title": "Blackmail",
+  "slug": "blackmail",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/apt3peZIUjd56Rkt0HGxp6EaxKe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 138,
+  "rating": 6.846,
+  "description": "When Dev finds about his wife's affair, he starts blackmailing her and her lover but the blackmail game backfires on him.",
+  "created_at": "2026-07-22T15:35:15.239Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5228,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

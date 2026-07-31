@@ -1,0 +1,24 @@
+{
+  "id": "ef1f6ab4-f047-48b7-9589-92701cca23af",
+  "title": "I Spit on Your Grave: Déjà Vu",
+  "slug": "i-spit-on-your-grave-d-j-vu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 148,
+  "rating": 3.033,
+  "description": "Following her rape, Jennifer Hills wrote a bestselling account of her ordeal and of the controversial trial in which she was accused of taking the law into her own hands and brutally killing her assailants. In the small town where the rape and revenge took place, the relatives of the rapists she killed are furious that the court declared her not guilty and resolve to take justice into their own hands.",
+  "created_at": "2026-07-22T15:32:02.401Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4916,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9b339af8-875b-4561-8699-faaf2eb378e2",
+  "title": "Spiderhead",
+  "slug": "spiderhead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 5.792,
+  "description": "A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+  "created_at": "2026-07-22T15:14:11.429Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3005,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

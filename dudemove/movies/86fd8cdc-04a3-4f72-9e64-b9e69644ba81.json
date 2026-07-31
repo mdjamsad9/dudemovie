@@ -1,0 +1,28 @@
+{
+  "id": "86fd8cdc-04a3-4f72-9e64-b9e69644ba81",
+  "title": "Tholi Prema",
+  "slug": "tholi-prema",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6MHOVeocRLz20acZ9WrWtHD1bbh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 146,
+  "rating": null,
+  "description": "Aaditya  is an impulsive individual who takes decisions spontaneously and is unafraid to speak his mind. The love of his life Varsha is his extreme opposite — she chooses not to let her emotions control her actions or words. Will these two differing individuals ever make their relationship work?",
+  "created_at": "2026-07-31T07:11:33.978Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5911,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

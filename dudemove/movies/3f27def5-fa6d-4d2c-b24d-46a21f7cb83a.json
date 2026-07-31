@@ -1,0 +1,28 @@
+{
+  "id": "3f27def5-fa6d-4d2c-b24d-46a21f7cb83a",
+  "title": "The Executioners",
+  "slug": "the-executioners",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aE26FYG1HhzrFNFlVokuKT4jIQF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 3.9,
+  "description": "Four female friends spend the night in a mansion. Their joy is quickly shattered when three men break in and cruelly attack them. As the night takes a darker turn, they find themselves relishing in the violence they had once suffered.",
+  "created_at": "2026-07-22T15:38:51.117Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5749,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

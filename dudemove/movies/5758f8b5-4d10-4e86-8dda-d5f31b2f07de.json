@@ -1,0 +1,24 @@
+{
+  "id": "5758f8b5-4d10-4e86-8dda-d5f31b2f07de",
+  "title": "The Hero",
+  "slug": "the-hero",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7on6mTMVrE893E0mSwO4ZRAAD8A.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 97,
+  "rating": 6.106,
+  "description": "Lee, a former Western film icon, is living a comfortable existence lending his golden voice to advertisements and smoking weed. After receiving a lifetime achievement award and unexpected news, Lee reexamines his past, while a chance meeting with a sardonic comic has him looking to the future.",
+  "created_at": "2026-07-22T15:43:08.715Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6133,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

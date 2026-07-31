@@ -1,0 +1,32 @@
+{
+  "id": "d77c4120-e6f4-44b5-a5c5-466d4354278f",
+  "title": "Autonagar Surya",
+  "slug": "autonagar-surya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2kWVeggF90wEYfktwCNwTD5gfuD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2014,
+  "duration": 157,
+  "rating": null,
+  "description": "Surya, a juvenile offender, completes his education in prison and upon release embarks on his dream project. However, he has to overcome numerous obstacles to turn his dream into a reality.",
+  "created_at": "2026-07-31T07:37:54.984Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7656,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

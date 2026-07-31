@@ -1,0 +1,32 @@
+{
+  "id": "0ee5fc8d-aa23-4bf7-af43-58e805c00115",
+  "title": "Bob Biswas",
+  "slug": "bob-biswas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5CikkLfMxtKXjCDkNnzVfTwwpIL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 132,
+  "rating": 6.5,
+  "description": "Bob Biswas, a hitman-for-hire, comes out of a prolonged coma and struggles to recall his identity but suffers a moral dilemma when the memories of his past resurface.",
+  "created_at": "2026-07-22T15:16:35.799Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3391,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

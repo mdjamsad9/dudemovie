@@ -1,0 +1,24 @@
+{
+  "id": "604b0894-aa2e-48c8-a02e-9c5df00a193e",
+  "title": "Jhalki",
+  "slug": "jhalki",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nxtRjtJXarnmzKckmp92k3ydRxb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 105,
+  "rating": 6.8,
+  "description": "A lyrical story of lost childhood, against the powerful backdrop of child slavery and human trafficking. It is a heart-rending but inspiring story of a nine-year old street-smart girl, Jhalki, in search of her seven-year old brother, Babu, who is suddenly thrown into an inhuman world of child labor with no respite from a terminally gloomy, dark and depressing workplace. Armed with an intimate folk tale of a tireless sparrow, her own ingenious efforts and her charming presence of mind, Jhalki manages her search and eventually free her brother, along with thousands of other enslaved children caught in this insidious practice, affecting over 200 million children worldwide.",
+  "created_at": "2026-07-22T15:25:05.267Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4362,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

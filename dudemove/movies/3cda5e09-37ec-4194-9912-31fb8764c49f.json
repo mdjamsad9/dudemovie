@@ -1,0 +1,28 @@
+{
+  "id": "3cda5e09-37ec-4194-9912-31fb8764c49f",
+  "title": "The Longest War",
+  "slug": "the-longest-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d42Is74oWYmyPwE20YVdnYtQALK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 6.3,
+  "description": "The human stories and drama behind America's involvement in Afghanistan, now the longest war in U.S. history. First-hand witnesses — ranging from U.S. intelligence operatives, to soldiers and their families, Afghan officials, journalists, top government and military officials — bring their experiences to life through emotional interviews.",
+  "created_at": "2026-07-22T15:21:16.617Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 3988,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

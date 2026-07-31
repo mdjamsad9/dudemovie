@@ -1,0 +1,28 @@
+{
+  "id": "458f3c64-d5d3-4afd-8aac-3a8cd1db71c6",
+  "title": "Peterloo",
+  "slug": "peterloo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lUQD6QBwNgSiiOAcNcTOd4qGRId.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 154,
+  "rating": 6.776,
+  "description": "An epic portrayal of the events surrounding the infamous 1819 Peterloo Massacre, where a peaceful pro-democracy rally at St Peter’s Field in Manchester turned into one of the bloodiest and most notorious episodes in British history. The massacre saw British government forces charge into a crowd of over 60,000 that had gathered to demand political reforms and protest against rising levels of poverty.",
+  "created_at": "2026-07-22T15:33:07.458Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5401,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

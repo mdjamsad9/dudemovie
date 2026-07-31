@@ -1,0 +1,36 @@
+{
+  "id": "9bfdc928-f3b6-4cc2-97ba-ad25061d2a2e",
+  "title": "Danger Close: The Battle of Long Tan",
+  "slug": "danger-close-the-battle-of-long-tan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aB1rCWGMsM2mm1kBDleaPkqUCFo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 119,
+  "rating": 6.8,
+  "description": "Vietnam War, 1966. Australia and New Zealand send troops to support the United States and South Vietnamese in their fight against the communist North. Soldiers are very young men, recruits and volunteers who have never been involved in a combat. On August 18th, members of Delta Company will face the true horror of a ruthless battle among the trees of a rubber plantation called Long Tân. They are barely a hundred. The enemy is a human wave ready to destroy them.",
+  "created_at": "2026-07-22T15:26:53.938Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4563,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

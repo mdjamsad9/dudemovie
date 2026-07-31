@@ -1,0 +1,32 @@
+{
+  "id": "5029158f-09dd-4620-8afa-ac29c2f18a90",
+  "title": "American Violence",
+  "slug": "american-violence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c70L9jY4yWXT8JaaPgwWB7wlgHX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 107,
+  "rating": 4.415,
+  "description": "A psychologist interviews a death row inmate to determine whether or not a stay of execution should be granted.",
+  "created_at": "2026-07-22T15:47:26.231Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6256,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

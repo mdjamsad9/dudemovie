@@ -1,0 +1,24 @@
+{
+  "id": "7b89ccc3-5d42-4a97-88ff-68cc40fc42fe",
+  "title": "Dheera",
+  "slug": "dheera",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w6ApC28wZTTWFPFdQGW5elpGP70.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 118,
+  "rating": null,
+  "description": "Things get messy when Ranadheer, a professional driver gets hired by a group of doctors to transport a patient from Vizag to Hyderabad by road.",
+  "created_at": "2026-07-09T17:27:15.142Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 1500,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cac324ac-bb4b-4662-97b8-3e653b7dcb69",
+  "title": "Coyote Lake",
+  "slug": "coyote-lake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4pgBw9pS1QXqR9rPzUsSUJZHN9e.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 6,
+  "description": "Two dangerous and unwanted guests threaten a young woman and her overbearing mother at a small bed-and-breakfast near the U.S.-Mexico border.",
+  "created_at": "2026-07-22T15:29:37.986Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4180,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

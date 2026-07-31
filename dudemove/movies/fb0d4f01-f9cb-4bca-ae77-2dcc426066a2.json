@@ -1,0 +1,28 @@
+{
+  "id": "fb0d4f01-f9cb-4bca-ae77-2dcc426066a2",
+  "title": "Beyond White Space",
+  "slug": "beyond-white-space",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IU1Z334s1ssVVU1L2QnMQv77w5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 93,
+  "rating": 4.893,
+  "description": "When a deep space fishing vessel is robbed by a gang of pirates, the Captain makes a daring decision to go after a rare and nearly extinct species. His obsession propels them further into space as the crew spins toward mutiny and betrayal.",
+  "created_at": "2026-07-22T15:31:28.829Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5713,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

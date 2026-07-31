@@ -1,0 +1,32 @@
+{
+  "id": "bfa2211f-41a1-4e86-9c1e-ab0ce4ce8a61",
+  "title": "Black Site",
+  "slug": "black-site",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fNOkvUz7mt1PEBVsuV34OCkvShV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 87,
+  "rating": 5.554,
+  "description": "80's inspired John Carpenteresque Action. A young woman is forced to push past her worst fears and battle to deport an ancient entity back to where it came from. Set inside an underground military base known as The Artemis Black Site, the movie mixes an Escape From New York style survival story with Lovecraftian elements and large scale mythology building.",
+  "created_at": "2026-07-22T15:32:31.662Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5619,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

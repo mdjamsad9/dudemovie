@@ -1,0 +1,32 @@
+{
+  "id": "a3e7ce50-6c9e-4197-8190-4be089a3d694",
+  "title": "Gayatri",
+  "slug": "gayatri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mSM4G1puXJAlNEO3bhOvOAQYaAp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 125,
+  "rating": null,
+  "description": "Dasari Sivaji is a stage artiste on the lookout for his long-lost daughter Gayatri . What happened that broke his family apart? Will he ever reunite with his daughter, is what 'Gayatri' is all about.",
+  "created_at": "2026-07-31T07:20:10.980Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5925,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

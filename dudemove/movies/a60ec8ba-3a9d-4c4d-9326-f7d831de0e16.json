@@ -1,0 +1,28 @@
+{
+  "id": "a60ec8ba-3a9d-4c4d-9326-f7d831de0e16",
+  "title": "The Sense of an Ending",
+  "slug": "the-sense-of-an-ending",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gvW0Ki7pEv4iZYbtGwgcvqR6s1c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 108,
+  "rating": 6.363,
+  "description": "A man becomes haunted by his past and is presented with a mysterious legacy that causes him to re-think his current situation in life.",
+  "created_at": "2026-07-22T15:43:32.991Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6318,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

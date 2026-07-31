@@ -1,0 +1,28 @@
+{
+  "id": "8d7a4c02-b012-45ab-b975-6ff462dee9e5",
+  "title": "Then Came You",
+  "slug": "then-came-you-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/658QP5tmBRUlE5JvxOnnmITfG1F.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 7.442,
+  "description": "An American hypochondriac who is working as a baggage handler is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.",
+  "created_at": "2026-07-22T15:32:08.313Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5637,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

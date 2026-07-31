@@ -1,0 +1,36 @@
+{
+  "id": "b316d899-80c1-4692-bcd4-3b8813c54858",
+  "title": "Secret Society of Second-Born Royals",
+  "slug": "secret-society-of-second-born-royals",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qnO3aXSqkKCDw5cEVyNUDexI4NJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 97,
+  "rating": 6.625,
+  "description": "Sam is a teenage royal rebel, second in line to the throne of the kingdom of Illyria. Just as her disinterest in the royal way of life is at an all-time high, she discovers she has super-human abilities and is invited to join a secret society of similar extraordinary second-born royals charged with keeping the world safe.",
+  "created_at": "2026-07-22T15:22:26.759Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4024,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

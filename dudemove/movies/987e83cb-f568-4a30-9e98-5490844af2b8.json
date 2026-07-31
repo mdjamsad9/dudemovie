@@ -1,0 +1,40 @@
+{
+  "id": "987e83cb-f568-4a30-9e98-5490844af2b8",
+  "title": "Kingsman: The Golden Circle",
+  "slug": "kingsman-the-golden-circle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Swedish",
+  "release_year": 2017,
+  "duration": 141,
+  "rating": 6.946,
+  "description": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
+  "created_at": "2026-07-22T15:41:14.061Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6385,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

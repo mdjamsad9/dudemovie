@@ -1,0 +1,28 @@
+{
+  "id": "2ed1a17b-b8d7-4583-8583-8b40e5cec22f",
+  "title": "All Nighter",
+  "slug": "all-nighter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ciNUrbNv871umQ3IqvIOjet4s4E.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 86,
+  "rating": 5.69,
+  "description": "When a globe-trotting, workaholic father trying to visit his daughter on a last minute layover in Los Angeles discovers that she’s disappeared, he forces her awkward, nervous ex-boyfriend, still nursing a broken heart, to help him find her over the course of one increasingly crazy night.",
+  "created_at": "2026-07-22T15:41:44.799Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6688,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

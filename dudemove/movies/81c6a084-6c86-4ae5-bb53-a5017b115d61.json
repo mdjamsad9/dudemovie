@@ -1,0 +1,28 @@
+{
+  "id": "81c6a084-6c86-4ae5-bb53-a5017b115d61",
+  "title": "Godha",
+  "slug": "godha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gzacK6MbJQAzwEFQPKPWmXngNnE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 120,
+  "rating": null,
+  "description": "A washed-up wrestler's life changes when he brings a passionate female wrestler from Punjab to his conservative Kerala village, sparking a comedic yet inspiring revolution in the local wrestling pits.",
+  "created_at": "2026-07-31T07:17:28.281Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6220,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "83c2ab1b-bb46-4262-88e0-e4fe9758364b",
+  "title": "The Big Trip",
+  "slug": "the-big-trip",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/31a41CbwpsG9jRrWifmte4nNJWe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2019,
+  "duration": 84,
+  "rating": 6.81,
+  "description": "A goofy stork mistakenly delivers a baby panda to the wrong door. A bear, a moose, a tiger and a rabbit set on an arduous but fun-filled adventure through the wilderness to return the panda to its rightful home.",
+  "created_at": "2026-07-22T15:28:45.880Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4755,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

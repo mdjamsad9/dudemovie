@@ -1,0 +1,32 @@
+{
+  "id": "5415f874-2d36-44d1-a336-0d3bc58c4ef2",
+  "title": "Inherit the Viper",
+  "slug": "inherit-the-viper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aaLEThX7CxKJuAQDnrZcecpzu0I.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.272,
+  "description": "Since the death of their father, the Riley siblings have kept their heads above water by illegally dealing in painkillers. Josie is managing the business with an iron fist, when her brother, War veteran Kip, is concerned that the risky business is increasingly turning them into outsiders in their small community. While Kip wants to keep his younger brother out of their illegal endeavors, his younger brother is already making plans of his own.",
+  "created_at": "2026-07-22T15:25:48.065Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4429,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

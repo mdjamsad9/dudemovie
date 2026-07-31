@@ -1,0 +1,24 @@
+{
+  "id": "7c9e6f6e-9e83-4b3c-9007-05c27761ed33",
+  "title": "Mobile Homes",
+  "slug": "mobile-homes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kOwKEJgpJnmnaa38ope1Mbld7tu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": 5.8,
+  "description": "In forgotten towns along the American border, a young mother drifts from one motel to the next with her intoxicating boyfriend and her 8-year-old son. The makeshift family scrapes by, living one hustle at a time, until the discovery of a mobile home community offers an alternative life.",
+  "created_at": "2026-07-22T15:38:10.417Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6661,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

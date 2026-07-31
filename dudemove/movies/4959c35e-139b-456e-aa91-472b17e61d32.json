@@ -1,0 +1,28 @@
+{
+  "id": "4959c35e-139b-456e-aa91-472b17e61d32",
+  "title": "Mission Mangal",
+  "slug": "mission-mangal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yUR7yDFNXQSoA51G0PPjIXOG2C9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 133,
+  "rating": 6.688,
+  "description": "A team of Indian scientists at ISRO (Indian Space Research Organisation) take on the extraordinary task of successfully sending a satellite into the orbit of planet Mars in a country's maiden attempt.",
+  "created_at": "2026-07-22T15:28:18.852Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4809,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

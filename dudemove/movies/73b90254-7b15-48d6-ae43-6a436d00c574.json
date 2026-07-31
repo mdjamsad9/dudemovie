@@ -1,0 +1,28 @@
+{
+  "id": "73b90254-7b15-48d6-ae43-6a436d00c574",
+  "title": "Jatha Kalise",
+  "slug": "jatha-kalise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5EVQBgFapRhsYDXNUhbX5xR12mi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2015,
+  "duration": 130,
+  "rating": null,
+  "description": "Rushi (Ashwin) is an NRI that goes to Vizag to attend the marriage of his friend. The wedding is called off and Rushi decides to leave for the US and starts his journey in a cabin to Hyderabad. Tejaswi (Tejaswi), who will be attending an interview in Hyderabad, will also take the same cab for travel. Is Rushi and Tejaswi known to each other before? What happened next is the rest of sto",
+  "created_at": "2026-07-31T07:10:56.276Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7598,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

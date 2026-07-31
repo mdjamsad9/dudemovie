@@ -1,0 +1,32 @@
+{
+  "id": "3992e0ee-112f-43a4-a196-71b150e70507",
+  "title": "Thumper",
+  "slug": "thumper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/98aGP5j9vF51UwIusxq6OX947Rf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 93,
+  "rating": 5.587,
+  "description": "In a town of low-income and fractured families, a group of teens are lured into working for a dangerous drug dealer. A new girl arrives who hides a dangerous secret that will impact everybody and change their lives forever.",
+  "created_at": "2026-07-22T15:41:36.602Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6326,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

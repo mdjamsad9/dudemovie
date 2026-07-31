@@ -1,0 +1,28 @@
+{
+  "id": "568c305d-ca38-44fb-9213-ce450dc3e503",
+  "title": "Hampstead",
+  "slug": "hampstead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/svyFdV8QrOyheU2lEDuBnrcCQT5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2017,
+  "duration": 102,
+  "rating": 6.064,
+  "description": "Emily Walters is an American widow living a peaceful, uneventful existence in the idyllic Hampstead Village of London, when she meets  local recluse, Donald Horner. For 17 years, Donald has lived—wildly yet peacefully—in a ramshackle hut near the edge of the forest. When Emily learns his home is the target of developers who will stop at nothing to remove him, saving Donald and his property becomes her personal mission. Despite his gruff exterior and polite refusals for help, Emily is drawn to him—as he is to her—and what begins as a charitable cause evolves into a relationship that will grow even as the bulldozers close in.",
+  "created_at": "2026-07-22T15:41:53.545Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6599,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

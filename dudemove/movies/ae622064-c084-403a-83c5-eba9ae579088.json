@@ -1,0 +1,24 @@
+{
+  "id": "ae622064-c084-403a-83c5-eba9ae579088",
+  "title": "Metro Kathalu",
+  "slug": "metro-kathalu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g8Xmwa43X84RiG1IScZH7umKKNy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 75,
+  "rating": null,
+  "description": "Revolving around Hyderabad, a city like no other, are the lives of eight people grappling with life-changing choices as their fates entwine with each other. However, they're determined to rise above the occasion and make room for life and a little more.",
+  "created_at": "2026-07-31T07:00:44.181Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4085,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1787d81f-40e9-4cf0-af26-551d5679b956",
+  "title": "Somnus",
+  "slug": "somnus",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1e7ChoZPtmbGLuYYyrxtXOl4nXn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 83,
+  "rating": 4,
+  "description": "A grief stricken captain embarks on his final mission in command of an ageing cargo ship. The ship's small crew, frustrated and discontent with their lives in deep space try to complete a successful mission, but the ship has ideas of it's own. Soon, an 'accident' onboard forces a diversion to Somnus, a derelict asteroid station in a forgotten sector of the solar system. They soon discover the colony is populated by a mysterious and sinister cult, hell-bent on dark plans for Earth. The crew's hope of sanctuary on Somnus soon turns to peril, as they fight for their own survival against the colonists, and humanity's ultimate fate. Terrifying truths about the end of life on Earth soon force the captain to face up to his personal torment leading to a climatic and exciting conclusion.",
+  "created_at": "2026-07-22T15:49:06.572Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 7125,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

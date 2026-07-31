@@ -1,0 +1,24 @@
+{
+  "id": "2daaa873-bc34-4500-b884-4be379e7f053",
+  "title": "The Red Pill",
+  "slug": "the-red-pill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/26V1JWowe0X6VT07tLXR0RF2PpL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 118,
+  "rating": 7.5,
+  "description": "When a feminist filmmaker sets out to document the mysterious and polarizing world of the Men’s Rights Movement, she begins to question her own beliefs. Chronicling Cassie Jaye’s journey exploring an alternate perspective on gender equality, power and privilege.",
+  "created_at": "2026-07-22T15:45:37.007Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6871,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

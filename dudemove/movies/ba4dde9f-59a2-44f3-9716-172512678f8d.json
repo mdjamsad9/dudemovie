@@ -1,0 +1,32 @@
+{
+  "id": "ba4dde9f-59a2-44f3-9716-172512678f8d",
+  "title": "Manasuku Nachindi",
+  "slug": "manasuku-nachindi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m8FbBoHn1s654SdMBPhx08o7gMg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 122,
+  "rating": null,
+  "description": "Nithya and Suraj are best friends who live together in Goa. While Nithya loves nature and finds solace in it, Suraj is an aimless youth, who likes to party. Suraj falls for Nikki, while Nithya meets Abhay . But as Nithya and Suraj continue living together, there seems to be a connection they can't ignore.",
+  "created_at": "2026-07-31T07:05:06.362Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5149,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

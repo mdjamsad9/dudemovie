@@ -1,0 +1,28 @@
+{
+  "id": "0a026ab8-793b-4d07-ae2e-dfcda19766cf",
+  "title": "Finding Altamira",
+  "slug": "finding-altamira",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eBxW87UkTzLwUF2YQJIBlQtbau3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 5.8,
+  "description": "The story of nine-year old Maria and her father Marcelino who, in 1879, found the first pre-historic cave paintings at the now world famous Altamira cave.",
+  "created_at": "2026-07-22T15:49:17.995Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 7151,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "53ce99d5-1200-492b-a7ce-7b670e0beaf5",
+  "title": "Pressure Cooker",
+  "slug": "pressure-cooker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lbkEA6BFS1nW8VR0xmaK3EG6Z52.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 135,
+  "rating": null,
+  "description": "A young man faces immense pressure from his family to move to America, get a job and have his life settled abroad.",
+  "created_at": "2026-07-31T07:04:41.879Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3553,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

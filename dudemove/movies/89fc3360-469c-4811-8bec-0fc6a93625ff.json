@@ -1,0 +1,32 @@
+{
+  "id": "89fc3360-469c-4811-8bec-0fc6a93625ff",
+  "title": "Almost Adults",
+  "slug": "almost-adults",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yMdQ1TdWeoFAcaDPjDG9FGeVLtA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 6.122,
+  "description": "A film about growing apart when growing up. Two best friends relationship strains when one deals with her newfound sexuality and the other with breaking up with her long term boyfriend.",
+  "created_at": "2026-07-22T15:47:24.118Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6959,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

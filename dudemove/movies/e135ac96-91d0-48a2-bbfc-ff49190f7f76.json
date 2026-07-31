@@ -1,0 +1,24 @@
+{
+  "id": "e135ac96-91d0-48a2-bbfc-ff49190f7f76",
+  "title": "Qlimax 2020: The Source",
+  "slug": "qlimax-2020-the-source",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ejan8AVImqZa2ygYY3bUCFU2PET.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 56,
+  "rating": 7.2,
+  "description": "Embark on a journey into sound through the mystical world of Qlimax. An immersive audiovisual hardstyle trip that lets you follow the ways of The Source. Do you have what it takes to fulfill your destiny?",
+  "created_at": "2026-07-22T15:20:32.839Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 3937,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

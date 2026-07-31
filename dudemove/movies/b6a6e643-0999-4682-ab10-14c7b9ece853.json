@@ -1,0 +1,32 @@
+{
+  "id": "b6a6e643-0999-4682-ab10-14c7b9ece853",
+  "title": "Home Again",
+  "slug": "home-again",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 97,
+  "rating": 6.084,
+  "description": "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.",
+  "created_at": "2026-07-22T15:41:15.774Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6382,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

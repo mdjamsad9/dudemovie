@@ -1,0 +1,32 @@
+{
+  "id": "18874b0d-7907-4fcd-ba26-aee25289006e",
+  "title": "Ratsasan",
+  "slug": "ratsasan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2018,
+  "duration": 170,
+  "rating": null,
+  "description": "A serial killer is murdering school girls, and a newbie cop has to track him down before the victim count increases.",
+  "created_at": "2026-07-31T07:05:51.158Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5114,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

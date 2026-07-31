@@ -1,0 +1,24 @@
+{
+  "id": "12e12091-c3e2-4277-a452-34040132965c",
+  "title": "SOLO",
+  "slug": "solo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e1YTTHPr1Ml6NzW2KbKNenTdXK6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 17,
+  "rating": null,
+  "description": "A mother of two sons, one with piano talent, and one with illness. The talented son’s piano recital day is a trip and a task for all of them.",
+  "created_at": "2026-07-31T07:28:34.071Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6260,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

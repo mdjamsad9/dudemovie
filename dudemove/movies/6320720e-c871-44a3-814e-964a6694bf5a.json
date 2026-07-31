@@ -1,0 +1,28 @@
+{
+  "id": "6320720e-c871-44a3-814e-964a6694bf5a",
+  "title": "Manamey",
+  "slug": "manamey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/imJWfyoBBTJ5yDCgqLff2QRt0c6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 153,
+  "rating": null,
+  "description": "A charismatic playboy's life takes an unexpected turn when a young boy enters his world. Initially causing chaos, the boy gradually becomes an integral part of their lives.",
+  "created_at": "2026-07-09T17:00:58.615Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 1012,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Manamey%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Manamey%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

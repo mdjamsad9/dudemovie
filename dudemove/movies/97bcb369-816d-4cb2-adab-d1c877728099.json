@@ -1,0 +1,32 @@
+{
+  "id": "97bcb369-816d-4cb2-adab-d1c877728099",
+  "title": "Justice Society: World War II",
+  "slug": "justice-society-world-war-ii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tOUJvmdjppmPYZOoykWmerSspMT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 84,
+  "rating": 7.4,
+  "description": "When the Flash finds himself dropped into the middle of World War II, he joins forces with Wonder Woman and her top-secret team known as the Justice Society of America.",
+  "created_at": "2026-07-22T15:18:53.059Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 3442,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

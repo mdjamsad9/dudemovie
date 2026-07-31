@@ -1,0 +1,32 @@
+{
+  "id": "22ed4f28-15e3-46a6-93a3-a26fc3d0fb2a",
+  "title": "Everything Beautiful Is Far Away",
+  "slug": "everything-beautiful-is-far-away",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/71KHPoAOTeOiIpgelNkXCwSkU5p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 6.7,
+  "description": "On an isolated desert planet, a man who is looking for parts to repair his robotic companion teams up with a young woman searching for an imaginary lake.",
+  "created_at": "2026-07-22T15:41:05.291Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6420,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

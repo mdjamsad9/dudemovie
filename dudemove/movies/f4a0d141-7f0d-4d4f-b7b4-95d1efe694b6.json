@@ -1,0 +1,28 @@
+{
+  "id": "f4a0d141-7f0d-4d4f-b7b4-95d1efe694b6",
+  "title": "To Live Through Death",
+  "slug": "to-live-through-death",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uXw9aAAlMdAIwJKZsxFeFTPJUQq.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2024,
+  "duration": 91,
+  "rating": 5,
+  "description": "On a certain island in the Pacific, an invincible human-smuggling organization kidnaps and defrauds Chinese people. In order to rescue his kidnapped adopted daughter, the usually taciturn Chen does not hesitate to reveal the secret past he has concealed for twenty years, and joins hands with the local young policeman Can to fight against a huge criminal organization, engaging in a life-or-death battle with evil forces.",
+  "created_at": "2026-07-09T16:45:07.160Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 1549,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

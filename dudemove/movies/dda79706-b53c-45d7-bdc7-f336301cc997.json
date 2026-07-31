@@ -1,0 +1,32 @@
+{
+  "id": "dda79706-b53c-45d7-bdc7-f336301cc997",
+  "title": "Shaadisthan",
+  "slug": "shaadisthan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1PZhWelraC8UqDsNMJUAprrWhHJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 93,
+  "rating": 7.2,
+  "description": "An accidental road trip from Mumbai to Ajmer with a quirky wedding band forces Arshie’s orthodox parents to open their eyes to a new way of life.",
+  "created_at": "2026-07-22T15:18:32.595Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 3511,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

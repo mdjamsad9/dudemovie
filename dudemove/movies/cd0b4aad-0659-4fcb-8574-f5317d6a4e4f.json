@@ -1,0 +1,28 @@
+{
+  "id": "cd0b4aad-0659-4fcb-8574-f5317d6a4e4f",
+  "title": "Alex Pandian",
+  "slug": "alex-pandian",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pi5nekESuNU7wAf28IeOUyvj1ms.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2013,
+  "duration": 162,
+  "rating": null,
+  "description": "Alex Pandian (Tamil: அலெக்ஸ் பாண்டியன்) is a Tamil action-masala film directed by Suraj that features Karthi and Anushka Shetty in the lead roles, while Santhanam plays a pivotal supporting role. Devi Sri Prasad composed the music. The film will also be dubbed and simultaneously released in Telugu as Bad Boy.",
+  "created_at": "2026-07-31T07:41:55.073Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7682,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

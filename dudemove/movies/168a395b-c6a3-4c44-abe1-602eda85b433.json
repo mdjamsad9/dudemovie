@@ -1,0 +1,28 @@
+{
+  "id": "168a395b-c6a3-4c44-abe1-602eda85b433",
+  "title": "Boss",
+  "slug": "boss",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q6x4DSADutTluaGBoQ4U7Gq12WG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Korean",
+  "release_year": 2025,
+  "duration": 99,
+  "rating": 6,
+  "description": "Soon-tae, aspiring to start his dream restaurant franchise, is nominated  as the next boss of the gang. He hopes to pass the role to Kang-pyo, the grandson of the former boss, but Kang-pyo dreams of becoming a tango dancer instead. A fierce competition between two strong candidates begins with the goal of losing the election to pursue their individual dreams! To add chaos to the mix, troublemaker Pan-ho, who is unwanted by everyone, decides to join the boss election!",
+  "created_at": "2026-07-22T15:09:21.237Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 735,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

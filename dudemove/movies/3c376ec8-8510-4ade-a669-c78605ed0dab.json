@@ -1,0 +1,28 @@
+{
+  "id": "3c376ec8-8510-4ade-a669-c78605ed0dab",
+  "title": "Ik Sandhu Hunda Si",
+  "slug": "ik-sandhu-hunda-si",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/93h2PcYpZjGxJQ84LmBNO54EvxX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2020,
+  "duration": 140,
+  "rating": null,
+  "description": "To fight the corruption in Punjab university, senior student Sandhu announces his candidacy as Grewal for the election",
+  "created_at": "2026-07-31T07:04:52.775Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3655,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

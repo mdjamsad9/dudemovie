@@ -1,0 +1,28 @@
+{
+  "id": "b14b2b1e-2d24-4635-8e47-315d58d1815e",
+  "title": "Devil's Double Next Level",
+  "slug": "devil-s-double-next-level",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jS8XroVkuvsdXcCNnWUnaxj9XNX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 131,
+  "rating": 6.429,
+  "description": "A well-known movie critic is invited by a strange person to watch a special horror film. But once the movie starts, he finds himself trapped inside it. The world keeps shifting timelines, endless day-to-night cycles, non-linear narration, and scary things from horror movies come to life. To escape, he must either stop reviewing movies forever or find a way to defeat the ghost that trapped him.",
+  "created_at": "2026-07-09T16:56:04.058Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 693,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Devils%20Double%20Next%20Level%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Devils%20Double%20Next%20Level%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

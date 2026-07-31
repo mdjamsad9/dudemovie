@@ -1,0 +1,32 @@
+{
+  "id": "c3250cb4-b7a2-487a-96f1-d0217e13dffe",
+  "title": "Doddmane Hudga",
+  "slug": "doddmane-hudga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9YH5ZO37uWdCLglObYeYc5gqUrT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Kannada",
+  "release_year": 2016,
+  "duration": 137,
+  "rating": null,
+  "description": "Surya, a boy belonging to a big family of the town, moves out of the house when ignored by his father Rajivappa. However, after a few years, he comes back to rescue his land against Babu, an evil man.",
+  "created_at": "2026-07-31T07:06:21.461Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6724,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

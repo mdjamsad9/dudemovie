@@ -1,0 +1,28 @@
+{
+  "id": "0f825efe-2318-4299-b208-1ff108b96480",
+  "title": "Sarangadhariya",
+  "slug": "sarangadhariya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8KWEOKyewUzA2jCUKirF9XqUO8p.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 150,
+  "rating": null,
+  "description": "Krishna's family deals with sons' unemployment, daughter's marriage prospects. A hidden secret emerges, challenging their unity. They navigate this crisis while reflecting societal issues.",
+  "created_at": "2026-07-09T17:13:49.474Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 882,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Sarangadhariya%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sarangadhariya%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

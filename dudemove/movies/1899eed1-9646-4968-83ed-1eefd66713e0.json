@@ -1,0 +1,32 @@
+{
+  "id": "1899eed1-9646-4968-83ed-1eefd66713e0",
+  "title": "Bad Influence",
+  "slug": "bad-influence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3xVWCNDAgr01G1Lkjd7F9sAGOc4.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2025,
+  "duration": 106,
+  "rating": 5.7,
+  "description": "An ex-con gets a fresh start when hired to protect a wealthy heiress from a stalker — but their chemistry is hard to resist as they grow closer.",
+  "created_at": "2026-07-09T16:59:07.323Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 499,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Bad%20Influence%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bad%20Influence%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

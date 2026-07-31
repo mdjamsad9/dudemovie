@@ -1,0 +1,28 @@
+{
+  "id": "97d895d5-b0fa-4e68-8e60-e5727071ac8d",
+  "title": "The Accidental Prime Minister",
+  "slug": "the-accidental-prime-minister",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ec6UmcBD4z76ZzlbZJWpHyr75yd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 111,
+  "rating": 5.333,
+  "description": "Based on the memoir by Indian policy analyst Sanjaya Baru, The Accidental Prime Minister explores Manmohan Singh's tenure as the Prime Minister of India, and the kind of control he had over his cabinet and the country.",
+  "created_at": "2026-07-22T15:31:33.216Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4914,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

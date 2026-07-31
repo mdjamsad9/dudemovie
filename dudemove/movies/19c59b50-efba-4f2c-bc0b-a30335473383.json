@@ -1,0 +1,28 @@
+{
+  "id": "19c59b50-efba-4f2c-bc0b-a30335473383",
+  "title": "Kshanam",
+  "slug": "kshanam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j3ioiA4N4cQ0L5ALZuRpsZPP2eD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2016,
+  "duration": 110,
+  "rating": null,
+  "description": "When his ex Shwetha asks him for help finding her kidnapped daughter, Rishi returns to India and discovers a web of lies.",
+  "created_at": "2026-07-31T07:23:36.914Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7287,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cfd804b7-580f-4391-ab94-cd30e3d6848c",
+  "title": "Free State of Jones",
+  "slug": "free-state-of-jones",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fTB6p9QwPRKIuK5LtB5CZXlkx5b.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 140,
+  "rating": 6.772,
+  "description": "In 1863, Mississippi farmer Newt Knight serves as a medic for the Confederate Army. Opposed to slavery, Knight would rather help the wounded than fight the Union. After his nephew dies in battle, Newt returns home to Jones County to safeguard his family but is soon branded an outlaw deserter. Forced to flee, he finds refuge with a group of runaway slaves hiding out in the swamps. Forging an alliance with the slaves and other farmers, Knight leads a rebellion that would forever change history.",
+  "created_at": "2026-07-22T15:49:23.951Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 7160,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

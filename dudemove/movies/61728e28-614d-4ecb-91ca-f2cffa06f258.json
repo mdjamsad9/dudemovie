@@ -1,0 +1,28 @@
+{
+  "id": "61728e28-614d-4ecb-91ca-f2cffa06f258",
+  "title": "Wilson",
+  "slug": "wilson",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m63h5MxevYrKn3720hVgKZAx86S.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 94,
+  "rating": 6,
+  "description": "Middle-aged and divorced, Wilson finds himself lonely, smug, and obsessed with his past.",
+  "created_at": "2026-07-22T15:44:49.559Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6295,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

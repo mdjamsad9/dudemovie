@@ -1,0 +1,32 @@
+{
+  "id": "775022e9-1c8c-43be-b77a-c469fe3967ca",
+  "title": "3 Monkeys",
+  "slug": "3-monkeys",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qCy7e3t03fb0YxQKh4cmvqxfK7M.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 131,
+  "rating": null,
+  "description": "A drama film directed by G Anil Kumar, starring Getup Srinu, Jabardasth Ram Prasad and Sudigali Sudheer in the lead roles.",
+  "created_at": "2026-07-31T07:05:08.016Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3555,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

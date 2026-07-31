@@ -1,0 +1,32 @@
+{
+  "id": "22908685-fe76-4838-a833-c1032e3bfdd8",
+  "title": "Simmba",
+  "slug": "simmba",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3jUuzSymG3uzYM1cUaERsFSZT58.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 159,
+  "rating": 6.191,
+  "description": "A corrupt police officer enjoys all the perks of being an immoral and unethical police officer until an event which transforms his life completely and forces him to choose the righteous path.",
+  "created_at": "2026-07-22T15:32:54.583Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5562,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

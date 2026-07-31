@@ -1,0 +1,28 @@
+{
+  "id": "394203bd-6a25-49ab-a7ec-665a811a8e18",
+  "title": "Avicii: True Stories",
+  "slug": "avicii-true-stories",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/obVlatSLP94kmml5UaCjLsdWPWG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2017,
+  "duration": 97,
+  "rating": 7.992,
+  "description": "Documentary about the arena-packing Swedish DJ, chronicling his explosive rise to fame and surprising decision to retire from live performances in 2016.",
+  "created_at": "2026-07-22T15:38:20.505Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6671,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

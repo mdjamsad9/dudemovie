@@ -1,0 +1,32 @@
+{
+  "id": "cdf8a132-4168-44e6-8839-ce7243359031",
+  "title": "Ruler",
+  "slug": "ruler",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aPmg6Z67Lb3MZ73j0bIlfQF7zHO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 150,
+  "rating": null,
+  "description": "A business tycoon decides to adopt a stranger after he saves her life when someone tries to kill her. It turns out, the stranger has a murky past and while she tries everything she can to save him from it, fate brings him at crossroads with his past life.",
+  "created_at": "2026-07-31T07:02:50.822Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5087,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

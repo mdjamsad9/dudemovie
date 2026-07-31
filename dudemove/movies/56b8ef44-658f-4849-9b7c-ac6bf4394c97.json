@@ -1,0 +1,28 @@
+{
+  "id": "56b8ef44-658f-4849-9b7c-ac6bf4394c97",
+  "title": "Gorre Puranam",
+  "slug": "gorre-puranam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l8sgce6xSjdkJOgOkcataXBvAQd.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 103,
+  "rating": null,
+  "description": "The story revolves around a sheep that becomes entangled in a conflict between two communities, with an underlying religious tension.",
+  "created_at": "2026-07-09T17:11:42.682Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1333,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

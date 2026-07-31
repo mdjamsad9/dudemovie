@@ -1,0 +1,24 @@
+{
+  "id": "eda5baa8-ca72-4ece-b9a1-0451804c8fb1",
+  "title": "Jeepers Creepers 3",
+  "slug": "jeepers-creepers-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pK7ge28ubs45av9aGEbVWW7ZbA8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 100,
+  "rating": 4.916,
+  "description": "Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.",
+  "created_at": "2026-07-22T15:41:34.442Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6339,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

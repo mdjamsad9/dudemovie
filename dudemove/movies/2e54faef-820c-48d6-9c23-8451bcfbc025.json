@@ -1,0 +1,24 @@
+{
+  "id": "2e54faef-820c-48d6-9c23-8451bcfbc025",
+  "title": "Antibirth",
+  "slug": "antibirth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p4KSOLDlg1mY4SUbFL3Rd72CoMR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 94,
+  "rating": 4.963,
+  "description": "In a desolate community full of drug-addled Marines and rumors of kidnapping, a wild-eyed stoner named Lou wakes up after a crazy night of partying with symptoms of a strange illness and recurring visions. As she struggles to get a grip on reality, the stories of conspiracy spread.",
+  "created_at": "2026-07-22T15:49:37.562Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 7147,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

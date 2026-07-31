@@ -1,0 +1,28 @@
+{
+  "id": "1f7af4cf-c000-4ef8-b731-a8d4ee3e4196",
+  "title": "Silence",
+  "slug": "silence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2016,
+  "duration": 161,
+  "rating": 7.123,
+  "description": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
+  "created_at": "2026-07-22T15:46:47.582Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6922,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

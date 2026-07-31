@@ -1,0 +1,24 @@
+{
+  "id": "4a21c157-63ad-45ce-a2b3-614e164336d1",
+  "title": "Maan Karate",
+  "slug": "maan-karate",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/42c3XPDLEkbmELwvsbDdan0E425.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2014,
+  "duration": 154,
+  "rating": null,
+  "description": "Five friends meet a mystic in a forest who grants their wish — a newspaper from the future. They decide to get rich by using their knowledge of the future. They focus their efforts on Peter, a carefree youth from Royapuram, who is predicted by the newspaper to win a boxing match and present the prize money of Rs. 2 crores to the five friends. However, they are perplexed when they discover that Peter has absolutely no knowledge of boxing.",
+  "created_at": "2026-07-31T07:19:10.758Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7651,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

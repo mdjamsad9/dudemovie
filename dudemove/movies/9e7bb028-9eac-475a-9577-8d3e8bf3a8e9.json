@@ -1,0 +1,24 @@
+{
+  "id": "9e7bb028-9eac-475a-9577-8d3e8bf3a8e9",
+  "title": "Daak Ghar",
+  "slug": "daak-ghar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aJd4shatfVmHyNMbgn9Y3zZukAM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 50,
+  "rating": null,
+  "description": "Set in early 20th-century rural Bengal, Daak Ghar tells the story of Amal, a young boy with an incurable illness who gets caught up in the world outside of his window.",
+  "created_at": "2026-07-22T15:40:47.905Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6662,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

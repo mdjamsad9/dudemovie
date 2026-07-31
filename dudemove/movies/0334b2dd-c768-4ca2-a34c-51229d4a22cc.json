@@ -1,0 +1,28 @@
+{
+  "id": "0334b2dd-c768-4ca2-a34c-51229d4a22cc",
+  "title": "A Complete Unknown",
+  "slug": "a-complete-unknown",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 141,
+  "rating": 7.068,
+  "description": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+  "created_at": "2026-07-09T17:02:05.223Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 1397,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

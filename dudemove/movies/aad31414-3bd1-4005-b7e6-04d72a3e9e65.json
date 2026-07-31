@@ -1,0 +1,32 @@
+{
+  "id": "aad31414-3bd1-4005-b7e6-04d72a3e9e65",
+  "title": "Randhawa",
+  "slug": "randhawa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kRsvkhQawDwKH3pUb0KNBlIcc6Z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 131,
+  "rating": null,
+  "description": "Robert is troubled by nightmares. In his quest to know more about his condition, he takes a trip along with his friend Razzak. They visit a village named Odeyana Samudra where Robert meets Vasupradha, the daughter of the village's landlord and falls in love with her. Vasupradha and Robert, together, go on an expedition to find out the truth behind the mystery of loud screams that plague the village at night. In his search, Robert discovers that he has reincarnated and has lived his past life as Randhawa.",
+  "created_at": "2026-07-31T07:06:36.708Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4271,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

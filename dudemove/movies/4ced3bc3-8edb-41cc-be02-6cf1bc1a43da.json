@@ -1,0 +1,32 @@
+{
+  "id": "4ced3bc3-8edb-41cc-be02-6cf1bc1a43da",
+  "title": "Superintelligence",
+  "slug": "superintelligence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/podzoGfamoxObotrMMoH2WIc8nj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 106,
+  "rating": 5.893,
+  "description": "When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.",
+  "created_at": "2026-07-22T15:20:58.467Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3989,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a93f393d-f857-49d6-86a5-c1cc133e1aed",
+  "title": "Gypsy",
+  "slug": "gypsy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vy1XhDlVoygKqELsZvrIlQrk6xH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 154,
+  "rating": null,
+  "description": "A young man travels across India and on his way he learns about the issues connected to nation-wide politics which urges him to do something about it.",
+  "created_at": "2026-07-31T07:04:40.583Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3590,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

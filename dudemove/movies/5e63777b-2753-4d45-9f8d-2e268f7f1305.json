@@ -1,0 +1,24 @@
+{
+  "id": "5e63777b-2753-4d45-9f8d-2e268f7f1305",
+  "title": "Madeline's Madeline",
+  "slug": "madeline-s-madeline",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8PcvYO5SHmPUFzdXpI2kzj3JtXN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 6,
+  "description": "Madeline has become an integral part of a prestigious physical theater troupe. When the workshop's ambitious director pushes the teenager to weave her rich interior world and troubled history with her mother into their collective art, the lines between performance and reality begin to blur. The resulting battle between imagination and appropriation rips out of the rehearsal space and through all three women's lives.",
+  "created_at": "2026-07-22T15:34:17.581Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5229,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

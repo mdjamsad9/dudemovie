@@ -1,0 +1,24 @@
+{
+  "id": "daf650bd-8b57-4f0b-a95f-7f63015bdd5c",
+  "title": "Thoppi",
+  "slug": "thoppi",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2015,
+  "duration": null,
+  "rating": null,
+  "description": "A young man from a community of robbers aspires to become a cop and acts as an informer. However, the local inspector and a minister are keen to see him out of their way.",
+  "created_at": "2026-07-31T07:22:41.518Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7342,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

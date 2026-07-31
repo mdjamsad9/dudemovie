@@ -1,0 +1,28 @@
+{
+  "id": "48734066-cdc3-478a-8409-e55723409703",
+  "title": "Someone Great",
+  "slug": "someone-great",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 92,
+  "rating": 6.37,
+  "description": "An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.",
+  "created_at": "2026-07-22T15:32:15.126Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5037,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a0783a32-9b3a-400a-bdef-98e5ec359c3b",
+  "title": "Contract to Kill",
+  "slug": "contract-to-kill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lSkgRQDzLYzvu0ygiVnLNyKI55z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2016,
+  "duration": 90,
+  "rating": 4.5,
+  "description": "Harmon is a CIA/DEA enforcer investigating Arab terrorists captured in Mexico. With his team--seductive FBI agent Zara and spy-drone pilot Sharp--he flies to Istanbul and uncovers a brutal plot: Islamic extremists plan to use Sonora drug-smuggling routes to bring deadly weapons, and leaders, into the U.S. To prevent an attack on America, Harmon must turn these two savage forces against one another before his time--and his luck--run out.",
+  "created_at": "2026-07-22T15:46:59.140Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6931,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

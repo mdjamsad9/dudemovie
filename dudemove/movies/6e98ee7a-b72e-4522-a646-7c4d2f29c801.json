@@ -1,0 +1,32 @@
+{
+  "id": "6e98ee7a-b72e-4522-a646-7c4d2f29c801",
+  "title": "Moh Maya Money",
+  "slug": "moh-maya-money",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x8jrBjWzC29O38vjfPOQvVp9AdN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 109,
+  "rating": 5,
+  "description": "A young real-estate broker tries to pull off a huge scam, which goes horribly wrong. To fix everything he involves his begrudging wife leading to an end neither could imagine.",
+  "created_at": "2026-07-22T15:47:26.616Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6961,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b7b402b0-9923-423f-a6a9-fe020539479c",
+  "title": "Our Souls at Night",
+  "slug": "our-souls-at-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e5qqikqIXqBzug3G6RCE8LFydKd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 101,
+  "rating": 6.676,
+  "description": "Addie Moore and Louis Waters, a widow and widower, have lived next to each other for years. The pair have almost no relationship, but that all changes when Addie tries to make a connection with her neighbour.",
+  "created_at": "2026-07-22T15:39:59.481Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6668,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

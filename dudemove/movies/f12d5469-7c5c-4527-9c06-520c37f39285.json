@@ -1,0 +1,28 @@
+{
+  "id": "f12d5469-7c5c-4527-9c06-520c37f39285",
+  "title": "Style",
+  "slug": "style",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vFhcpb2OHg4mOK9r6nMEz4GDiM4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 154,
+  "rating": null,
+  "description": "Tom, a young auto mechanic falls in love with Diya whom he sees one day from the bus. The love got blossomed and at one point a psychopath named Edger came in to the life of this couple after an unfortunate accident. The incident lead to a scenario where Edger got humiliated and the movie is basically about the rivalry between Tom and Edger.",
+  "created_at": "2026-07-31T07:38:28.550Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7337,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

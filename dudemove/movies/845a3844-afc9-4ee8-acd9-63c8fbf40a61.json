@@ -1,0 +1,32 @@
+{
+  "id": "845a3844-afc9-4ee8-acd9-63c8fbf40a61",
+  "title": "Thupparivaalan",
+  "slug": "thupparivaalan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jG10W7dT4tHb4dqJ9sB2miClGP7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2017,
+  "duration": 159,
+  "rating": null,
+  "description": "Detective Kaniyan Poonkundran is hungry for a challenging case to investigate and the mystery of a murdered dog leads to a rival who could be the match for him.",
+  "created_at": "2026-07-31T07:22:31.611Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6225,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

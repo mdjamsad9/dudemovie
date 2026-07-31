@@ -1,0 +1,24 @@
+{
+  "id": "b2091bb2-a8f3-4a5b-9a06-2beb9f681bbf",
+  "title": "Nomadland",
+  "slug": "nomadland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 108,
+  "rating": 7.163,
+  "description": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+  "created_at": "2026-07-22T15:19:05.163Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3459,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

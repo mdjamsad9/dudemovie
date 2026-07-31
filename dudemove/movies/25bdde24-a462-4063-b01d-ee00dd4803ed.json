@@ -1,0 +1,32 @@
+{
+  "id": "25bdde24-a462-4063-b01d-ee00dd4803ed",
+  "title": "Crisis",
+  "slug": "crisis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/15e2VcMTtk3pqgGlHWxisvygFAw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2021,
+  "duration": 118,
+  "rating": 6.2,
+  "description": "Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son's involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new \"non-addictive\" painkiller to market.",
+  "created_at": "2026-07-22T15:19:00.430Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3468,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

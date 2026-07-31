@@ -1,0 +1,24 @@
+{
+  "id": "3234333b-a5ef-44a7-8c2e-e8657300b80c",
+  "title": "Rosario",
+  "slug": "rosario",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/beLZhuHT97849WkWgty2X1hkWUa.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 88,
+  "rating": 5.48,
+  "description": "Wall Street stockbroker Rosario Fuentes returns to her grandmother's apartment after her sudden death. While sorting through her belongings, Rosario discovers a hidden chamber that's filled with occult artifacts tied to dark generational rituals. As supernatural occurrences begin to plague her, she must confront her family's buried secrets and face the truth about the sacrifices and choices they made.",
+  "created_at": "2026-07-09T16:58:29.322Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 487,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Rosario.2025.1080p.WEBRip.x264%20%5BDDN%5D/Rosario.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

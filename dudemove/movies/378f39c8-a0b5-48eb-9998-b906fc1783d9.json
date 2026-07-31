@@ -1,0 +1,28 @@
+{
+  "id": "378f39c8-a0b5-48eb-9998-b906fc1783d9",
+  "title": "Sarrainodu",
+  "slug": "sarrainodu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dYOlnzv8LmirzwtbXTU4ROGIebv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 161,
+  "rating": null,
+  "description": "Ghana, a jobless young man who left military to bring justice to the society, whiling away timing beating up goons. Life takes a turn when he brushes the shady Vairam Dhanush the wrong way.",
+  "created_at": "2026-07-31T07:33:46.061Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7295,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

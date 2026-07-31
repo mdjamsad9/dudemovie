@@ -1,0 +1,24 @@
+{
+  "id": "7842b38f-e718-4e1b-8a15-1ecf2d4a7036",
+  "title": "Back Fork",
+  "slug": "back-fork",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mZRH9u5SozvOzwSNwBeV7LhW6zc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 5.5,
+  "description": "When the strain of tragedy was too much for a young couple in Appalachia, prescription pills became the medicine to ease the pain.",
+  "created_at": "2026-07-22T15:32:30.764Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4897,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

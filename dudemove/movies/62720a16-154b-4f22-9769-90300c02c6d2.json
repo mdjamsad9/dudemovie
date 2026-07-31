@@ -1,0 +1,32 @@
+{
+  "id": "62720a16-154b-4f22-9769-90300c02c6d2",
+  "title": "Oka Laila Kosam",
+  "slug": "oka-laila-kosam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2R7f9UNDO1eeViLfkK5rXcCMh3L.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2014,
+  "duration": 150,
+  "rating": null,
+  "description": "A carefree young man leading an aimless life falls in love with a cultured and simple woman, but she does not reciprocate his emotion. However, when circumstances force her to marry him, he embarks upon a journey to make his wife fall in love with him. Will he succeed in his mission?",
+  "created_at": "2026-07-31T07:30:49.220Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7663,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

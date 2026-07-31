@@ -1,0 +1,28 @@
+{
+  "id": "851df8a3-b7b3-46cf-bd64-39cf4319b934",
+  "title": "God's Own Country",
+  "slug": "god-s-own-country",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hKJz8Moim43P1f1kGrM9Gh0c0rf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 104,
+  "rating": 7.73,
+  "description": "A young farmer in rural Yorkshire numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker.",
+  "created_at": "2026-07-22T15:39:47.832Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6604,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

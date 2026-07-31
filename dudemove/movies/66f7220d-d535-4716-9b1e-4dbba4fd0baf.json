@@ -1,0 +1,24 @@
+{
+  "id": "66f7220d-d535-4716-9b1e-4dbba4fd0baf",
+  "title": "Terror on the Prairie",
+  "slug": "terror-on-the-prairie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xfwHIY865AYJoFgBAYoAJLvPLO9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 6.1,
+  "description": "A pioneering family fights back against a gang of vicious outlaws that is terrorizing them on their newly-built farm on the plains of Montana.",
+  "created_at": "2026-07-22T15:14:02.265Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 3038,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

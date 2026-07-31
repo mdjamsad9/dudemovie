@@ -1,0 +1,28 @@
+{
+  "id": "0569498e-07a2-414f-a1a5-400dfd8f4cc8",
+  "title": "Ghost Turd",
+  "slug": "ghost-turd",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o6JSTOFna6sVkJ53BCaDLYUWxVK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 18,
+  "rating": null,
+  "description": "Ghost Turd is a horror/comedy about a vengeful spirit that haunts an inner city dog park. The spirit preys on dog owners who don't pick up after their pets.",
+  "created_at": "2026-07-22T15:28:06.920Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4821,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

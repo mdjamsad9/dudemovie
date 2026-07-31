@@ -1,0 +1,28 @@
+{
+  "id": "830fe5b1-d7ae-4d54-bdfd-dcd7196d5cf0",
+  "title": "Demonte Colony 2",
+  "slug": "demonte-colony-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZmH9hea8fstTK49fplSQS0NWUd.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 145,
+  "rating": 6.7,
+  "description": "Debbie attempts to contact the spirit of her deceased husband Sam, she inadvertently contacts Srinivasan, who had just died. This contact saves his life but leaves him in a coma for years. Later, Debbie unravels mystery about Lord Demonte sacrificing people and enslaves their spirits. Can Debbie break this cycle and help Srinivasan to wake up from his coma?",
+  "created_at": "2026-07-09T16:58:42.758Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1429,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

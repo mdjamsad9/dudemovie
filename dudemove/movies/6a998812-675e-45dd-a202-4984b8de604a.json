@@ -1,0 +1,28 @@
+{
+  "id": "6a998812-675e-45dd-a202-4984b8de604a",
+  "title": "Ohm Shanthi Oshaana",
+  "slug": "ohm-shanthi-oshaana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9LmzSER1JP1dTqBf0eUnaeOE4Wb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2014,
+  "duration": 130,
+  "rating": null,
+  "description": "Pooja Mathew, a spirited young girl, wants to have a love marriage in her life. Thus, she stops at nothing to impress Giri, who saved her once from a group of unruly men.",
+  "created_at": "2026-07-31T07:35:58.842Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7662,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

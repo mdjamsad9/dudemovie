@@ -1,0 +1,28 @@
+{
+  "id": "032c388a-b3da-4c5f-af1d-a2c5851f639f",
+  "title": "Until Dawn",
+  "slug": "until-dawn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 103,
+  "rating": 6.273,
+  "description": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+  "created_at": "2026-07-09T16:57:59.416Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 677,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Until.Dawn.2025.1080p.WEBRip.x264%20%5BDDN%5D/Until.Dawn.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

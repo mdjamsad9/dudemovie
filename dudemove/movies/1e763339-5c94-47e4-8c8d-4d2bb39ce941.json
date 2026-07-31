@@ -1,0 +1,24 @@
+{
+  "id": "1e763339-5c94-47e4-8c8d-4d2bb39ce941",
+  "title": "Gaon",
+  "slug": "gaon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cQVPlGxbPfxuswZAC94fVBIQJa5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 131,
+  "rating": 3.667,
+  "description": "A village kept secret for centuries receives a visitor at long last and finds the course of its destiny changed forever.",
+  "created_at": "2026-07-22T15:31:43.262Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5670,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

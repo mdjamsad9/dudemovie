@@ -1,0 +1,28 @@
+{
+  "id": "583ac6bb-c2dd-44f6-8ba5-70e422407fa3",
+  "title": "Haseena Parkar",
+  "slug": "haseena-parkar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wZRo2gg0jiUTvhY7upFmhBwthIz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 124,
+  "rating": 5.083,
+  "description": "Haseena is very close to her brother Dawood, who turns to a life of crime and rises to power in the Mumbai underworld. After the bomb blasts of 1993, Dawood escapes to Dubai and she falls in trouble.",
+  "created_at": "2026-07-22T15:39:48.940Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6629,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

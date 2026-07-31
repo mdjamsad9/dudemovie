@@ -1,0 +1,32 @@
+{
+  "id": "5db68427-1625-4eaa-8b79-86853e2a9996",
+  "title": "You Were Never Really Here",
+  "slug": "you-were-never-really-here",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 89,
+  "rating": 6.545,
+  "description": "A traumatized veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy is uncovered—leading to what may be his death trip or his awakening.",
+  "created_at": "2026-07-22T15:38:38.903Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6585,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

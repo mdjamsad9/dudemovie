@@ -1,0 +1,28 @@
+{
+  "id": "036cb9f8-7742-48d6-8002-b17b92be446d",
+  "title": "Besetment",
+  "slug": "besetment",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vTOR38A4bAZw8n5hjr8VCeApDh2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 76,
+  "rating": 3.5,
+  "description": "After struggling to find employment, Amanda takes a hotel position in a small town where she ends up fighting for her life.",
+  "created_at": "2026-07-22T15:44:52.992Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6303,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

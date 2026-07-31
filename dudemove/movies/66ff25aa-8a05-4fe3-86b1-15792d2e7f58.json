@@ -1,0 +1,36 @@
+{
+  "id": "66ff25aa-8a05-4fe3-86b1-15792d2e7f58",
+  "title": "Ginny Weds Sunny",
+  "slug": "ginny-weds-sunny",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LhWNRcLkHmtQPf9aYK534uxHP9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 125,
+  "rating": 6,
+  "description": "Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who has given up on the idea of love. He just wants to get married and settle down. But, the match is not that simple. As Ginny meets Sunny, there’s a lot more that comes to the fore than previously imagined in this tale of love, life, weddings and music.",
+  "created_at": "2026-07-22T15:22:00.156Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3972,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

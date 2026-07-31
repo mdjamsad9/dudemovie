@@ -1,0 +1,32 @@
+{
+  "id": "7b539d35-b934-4817-91f4-6d549db0420a",
+  "title": "Cabaret",
+  "slug": "cabaret",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/poKPqKRwXIAfY3gqlkQjKmquyui.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 2.667,
+  "description": "Cabaret is an Indian romantic dance film directed by Kaustav Narayan Niyogi and produced by Pooja Bhatt and Bhushan Kumar under the banner of Fisheye Network private limited.",
+  "created_at": "2026-07-22T15:34:17.037Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5083,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "8fdcc70a-bcd6-418e-b1c7-a099eee9794b",
+  "title": "Mary Magdalene",
+  "slug": "mary-magdalene",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 6.314,
+  "description": "In the first century, free-spirited Mary Magdalene flees the marriage her family has arranged for her, finding refuge and a sense of purpose in a radical new movement led by the charismatic, rabble-rousing preacher named Jesus.",
+  "created_at": "2026-07-22T15:37:09.269Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5605,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

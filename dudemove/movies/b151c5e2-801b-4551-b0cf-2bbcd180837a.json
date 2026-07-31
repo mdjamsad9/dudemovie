@@ -1,0 +1,24 @@
+{
+  "id": "b151c5e2-801b-4551-b0cf-2bbcd180837a",
+  "title": "Marakkuma Nenjam",
+  "slug": "marakkuma-nenjam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/obsj0KhkaDJOiDRJTeKAsUZU5S1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 3,
+  "description": "Coming-of-age school reunion drama in which students from the 2008 batch of a convent school are forced to get back to their school in 2018 and spend 3 months to take the board exams followed by a court order.",
+  "created_at": "2026-07-09T17:25:41.697Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1519,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

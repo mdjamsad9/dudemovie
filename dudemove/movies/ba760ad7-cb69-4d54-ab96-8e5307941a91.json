@@ -1,0 +1,28 @@
+{
+  "id": "ba760ad7-cb69-4d54-ab96-8e5307941a91",
+  "title": "Srinivasa Kalyanam",
+  "slug": "srinivasa-kalyanam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3yMUEvaSPOK1Feos3bRUL7OqiX8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 140,
+  "rating": null,
+  "description": "The film highlights the sacred bond with another human being through nuptial rituals and the sanctity of the institution of marriage.",
+  "created_at": "2026-07-31T07:09:54.595Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5569,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

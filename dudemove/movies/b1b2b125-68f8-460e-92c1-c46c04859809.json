@@ -1,0 +1,28 @@
+{
+  "id": "b1b2b125-68f8-460e-92c1-c46c04859809",
+  "title": "Kenatha Kanom",
+  "slug": "kenatha-kanom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qqwsGBvhsHoCYAxJ6nB3jeso3wc.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2026,
+  "duration": null,
+  "rating": null,
+  "description": "Desperate to find water, residents of a parched village start digging a new well, but what they find is not water but a dinosaur fossil.",
+  "created_at": "2026-07-09T16:33:19.715Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 229,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kenatha%20Kanom%20(2025)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kenatha%20Kanom%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

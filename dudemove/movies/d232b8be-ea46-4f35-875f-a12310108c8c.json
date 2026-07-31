@@ -1,0 +1,32 @@
+{
+  "id": "d232b8be-ea46-4f35-875f-a12310108c8c",
+  "title": "Awake",
+  "slug": "awake-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d8WJFQyNNAEmuGeDwxPhBpx0G4B.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 96,
+  "rating": 5.855,
+  "description": "After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.",
+  "created_at": "2026-07-22T15:18:35.527Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3436,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

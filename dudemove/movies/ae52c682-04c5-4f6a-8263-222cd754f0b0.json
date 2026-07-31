@@ -1,0 +1,32 @@
+{
+  "id": "ae52c682-04c5-4f6a-8263-222cd754f0b0",
+  "title": "Loving Vincent",
+  "slug": "loving-vincent",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 95,
+  "rating": 7.985,
+  "description": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+  "created_at": "2026-07-22T15:40:37.522Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6554,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

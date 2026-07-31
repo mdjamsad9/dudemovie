@@ -1,0 +1,32 @@
+{
+  "id": "9f76ec2f-14d1-4e5f-8855-24b1a0adb90e",
+  "title": "Ip Man 4: The Finale",
+  "slug": "ip-man-4-the-finale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cantonese",
+  "release_year": 2019,
+  "duration": 105,
+  "rating": 7.265,
+  "description": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.",
+  "created_at": "2026-07-22T15:26:10.088Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4464,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "637f232b-eff4-4c24-b950-67af2b20d9dd",
+  "title": "Boxer",
+  "slug": "boxer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/noW8onjKIDwwF5cEiGxuY2cwGNQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 24,
+  "rating": null,
+  "description": "Jane is a boxer, preparing for the championship of her life. She wants to win but it's difficult to keep focus when her girlfriend Tanja wants to start a family. When Jane meets Karoline new emotions arises and she decides to leave Tanja. The training escalates, and suddenly Jane seems to be unable to get the firm foothold that she so desperately needs in both her life and in her career.",
+  "created_at": "2026-07-31T07:22:01.294Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6229,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

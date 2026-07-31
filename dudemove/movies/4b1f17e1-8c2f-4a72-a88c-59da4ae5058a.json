@@ -1,0 +1,32 @@
+{
+  "id": "4b1f17e1-8c2f-4a72-a88c-59da4ae5058a",
+  "title": "The Killing of a Sacred Deer",
+  "slug": "the-killing-of-a-sacred-deer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2017,
+  "duration": 121,
+  "rating": 7.006,
+  "description": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+  "created_at": "2026-07-22T15:40:25.039Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6441,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

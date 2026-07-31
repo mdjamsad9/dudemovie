@@ -1,0 +1,28 @@
+{
+  "id": "7375cbc3-faca-492f-a4e4-4fd9aa07425a",
+  "title": "Chi La Sow",
+  "slug": "chi-la-sow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/56JobIOa39A2VtJfpSbCHnx0yCb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 135,
+  "rating": null,
+  "description": "While Arjun doesn't want to get married, his parents set up a blind date for him at his place. The story revolves around Arjun, how he falls for the girl he's about to meet, why and how he changed his decision to get married.",
+  "created_at": "2026-07-31T07:15:19.896Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5937,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

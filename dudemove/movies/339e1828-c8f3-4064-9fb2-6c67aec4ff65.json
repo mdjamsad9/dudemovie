@@ -1,0 +1,24 @@
+{
+  "id": "339e1828-c8f3-4064-9fb2-6c67aec4ff65",
+  "title": "Gothic Harvest",
+  "slug": "gothic-harvest-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Pfegg6CQHJJSA4OoKQ6ER9OZhZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 82,
+  "rating": 3.6,
+  "description": "After a young woman goes missing during Mardi Gras, her friends race to keep her from being hurt by a sadistic, voodoo-cursed, Southern family.",
+  "created_at": "2026-07-22T15:28:08.908Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4825,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

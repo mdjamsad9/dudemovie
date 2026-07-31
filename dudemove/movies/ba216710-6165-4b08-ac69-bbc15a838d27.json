@@ -1,0 +1,24 @@
+{
+  "id": "ba216710-6165-4b08-ac69-bbc15a838d27",
+  "title": "Otherhood",
+  "slug": "otherhood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2qVErJgfMcg3TzfYcrbaXBcrXV9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 100,
+  "rating": 6.145,
+  "description": "Feeling forgotten on Mother's Day, three best friends leave the suburbs and drive to New York City to surprise their adult sons.",
+  "created_at": "2026-07-22T15:29:37.370Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4181,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

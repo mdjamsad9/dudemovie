@@ -1,0 +1,28 @@
+{
+  "id": "0918845f-279a-4ae9-a793-81fd6b391c97",
+  "title": "Madraskaaran",
+  "slug": "madraskaaran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zw4imaAGB8cWa4mrwABxHiVS0KR.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 121,
+  "rating": null,
+  "description": "A minor argument between two strangers escalates into a life-altering conflict, exploring how a seemingly insignificant event can drastically alter a person's perception and circumstances.",
+  "created_at": "2026-07-09T17:02:03.822Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 645,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Madraskaaran%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Madraskaaran%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

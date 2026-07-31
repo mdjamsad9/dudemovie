@@ -1,0 +1,32 @@
+{
+  "id": "32fee123-5553-4c3f-bd65-0e4ec7f11e10",
+  "title": "Basmati Blues",
+  "slug": "basmati-blues",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8MR9Qiwfpi4ztGXe3MrIQOnX65r.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 106,
+  "rating": 4.076,
+  "description": "Linda Watt is a sheltered but brilliant young scientist who is plucked out of her company's lab and sent to India by her CEO to sell \"Rice 9,\" a genetically modified rice she's created. However, unbeknownst to her, the rice will destroy the Indian farmers she thinks she's helping.",
+  "created_at": "2026-07-22T15:38:39.789Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6593,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

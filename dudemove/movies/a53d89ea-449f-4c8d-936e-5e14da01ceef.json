@@ -1,0 +1,32 @@
+{
+  "id": "a53d89ea-449f-4c8d-936e-5e14da01ceef",
+  "title": "An Action Hero",
+  "slug": "an-action-hero",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tI91k15dJpQbOMofKeKlYx3qDik.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 128,
+  "rating": 6.506,
+  "description": "At the age of just 30, Maanav at the peak of his acting career gets caught up in a murder accusation, which turns his own life into an eccentric action thriller as he flees the country, with a vengeful politician hot on his heels.",
+  "created_at": "2026-07-22T15:13:00.637Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 2908,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

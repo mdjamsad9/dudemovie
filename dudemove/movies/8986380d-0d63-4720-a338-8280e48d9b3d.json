@@ -1,0 +1,32 @@
+{
+  "id": "8986380d-0d63-4720-a338-8280e48d9b3d",
+  "title": "The Fantastic 4: First Steps",
+  "slug": "the-fantastic-4-first-steps",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2025,
+  "duration": 115,
+  "rating": 6.961,
+  "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+  "created_at": "2026-07-09T16:54:55.208Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 780,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Fantastic.4-First.Steps.2025.720p.HDTS.x264%20%5BDDN%5D/The.Fantastic.4-First.Steps.2025.720p.HDTS.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

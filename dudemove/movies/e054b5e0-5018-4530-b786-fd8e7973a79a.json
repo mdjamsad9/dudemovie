@@ -1,0 +1,32 @@
+{
+  "id": "e054b5e0-5018-4530-b786-fd8e7973a79a",
+  "title": "Karate Kid: Legends",
+  "slug": "karate-kid-legends",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2025,
+  "duration": 94,
+  "rating": 6.998,
+  "description": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+  "created_at": "2026-07-09T16:55:51.587Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 697,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Karate.Kid.Legends.2025.1080p.WEBRip.x264%20%5BDDN%5D/Karate.Kid.Legends.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

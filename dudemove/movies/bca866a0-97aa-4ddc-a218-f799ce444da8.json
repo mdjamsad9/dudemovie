@@ -1,0 +1,32 @@
+{
+  "id": "bca866a0-97aa-4ddc-a218-f799ce444da8",
+  "title": "Raju Gari Gadhi 3",
+  "slug": "raju-gari-gadhi-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iH89vW1qgR9x7BHlE55h1bij7CB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 152,
+  "rating": null,
+  "description": "Ashwin and Maya, a couple in love, learn of the presence of an evil spirit in their life. Determined to bring their life back to normalcy, Ashwin sets out on a spooky journey to safeguard his love.",
+  "created_at": "2026-07-31T07:07:07.128Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4753,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

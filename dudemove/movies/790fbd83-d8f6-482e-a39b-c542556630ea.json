@@ -1,0 +1,32 @@
+{
+  "id": "790fbd83-d8f6-482e-a39b-c542556630ea",
+  "title": "Dobaaraa",
+  "slug": "dobaaraa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l0Ayozn8O69UEjDvXnT5noIgUJp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 135,
+  "rating": 5.222,
+  "description": "In the 1990s, during a wild thunderstorm night, 12-year-old Anay dies in a road accident shortly after he sees his next-door neighbor committing a crime. Twenty-five years later, in a strange turn of events, on an identical stormy night, Antara finds herself in front of a TV set through which she attempts to save Anay’s life but her good deed causes a disturbing chain of unexpected consequences.",
+  "created_at": "2026-07-22T15:13:13.141Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2927,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

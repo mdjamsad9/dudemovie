@@ -1,0 +1,36 @@
+{
+  "id": "45475e9a-250b-4408-96a2-b28f616c10c5",
+  "title": "The Love Witch",
+  "slug": "the-love-witch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 121,
+  "rating": 6.419,
+  "description": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
+  "created_at": "2026-07-22T15:47:27.556Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 6949,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bc937d61-043a-4263-bf3b-0cc4696a0f0b",
+  "title": "Savaari",
+  "slug": "savaari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oSyPY5aq0gAFs4rYi4Cbx2XWSnc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 142,
+  "rating": null,
+  "description": "Raju who rents his Badshah for weddings, meets Baagi who has been in quench of real love after her step-parents try to get her married against her wish. How did she escape that marriage is the crux of the story.",
+  "created_at": "2026-07-31T07:04:56.765Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3603,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

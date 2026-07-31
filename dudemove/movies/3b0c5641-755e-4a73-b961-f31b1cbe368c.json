@@ -1,0 +1,28 @@
+{
+  "id": "3b0c5641-755e-4a73-b961-f31b1cbe368c",
+  "title": "Sometimes Always Never",
+  "slug": "sometimes-always-never",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b7tHjke4TIaFWuzg26FwsACHUUC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 91,
+  "rating": 6.331,
+  "description": "Alan is a stylish tailor with moves as sharp as his suits. He has spent years searching tirelessly for his missing son Michael who stormed out over a game of Scrabble. With a body to identify and his family torn apart, Alan must repair the relationship with his youngest son and solve the mystery of an online player who he thinks could be Michael, so he can finally move on and reunite his family.",
+  "created_at": "2026-07-22T15:30:23.377Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4198,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

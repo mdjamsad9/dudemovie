@@ -1,0 +1,28 @@
+{
+  "id": "ce07110f-ea8b-4d50-a8d6-36e04bc861fe",
+  "title": "Seeru",
+  "slug": "seeru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4sK86QGqPib9rq3Ux8DcUVCkQRj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 124,
+  "rating": null,
+  "description": "A guy from a small-town takes on a ruthless criminal lawyer for his friend and sister(s).",
+  "created_at": "2026-07-31T07:04:47.427Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3600,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

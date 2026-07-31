@@ -1,0 +1,28 @@
+{
+  "id": "32ac07a3-4d16-49e2-8c50-9016ca089f18",
+  "title": "Genius",
+  "slug": "genius",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f3KG63zvQGvakfwOTUb8ODgHEnP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 104,
+  "rating": null,
+  "description": "New York in the 1920s. Max Perkins, a literary editor is the first to sign such subsequent literary greats as Ernest Hemingway and F. Scott Fitzgerald. When a sprawling, chaotic 1,000-page manuscript by an unknown writer falls into his hands, Perkins is convinced he has discovered a literary genius.",
+  "created_at": "2026-07-31T07:37:19.292Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7330,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

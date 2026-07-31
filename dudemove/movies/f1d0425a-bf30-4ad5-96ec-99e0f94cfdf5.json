@@ -1,0 +1,32 @@
+{
+  "id": "f1d0425a-bf30-4ad5-96ec-99e0f94cfdf5",
+  "title": "Marauders",
+  "slug": "marauders",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bAvmDn5C7arBoRrfaG3b3Kdue1q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 107,
+  "rating": 5.832,
+  "description": "An untraceable group of elite bank robbers is chased by a suicidal FBI agent who uncovers a deeper purpose behind the robbery-homicides.",
+  "created_at": "2026-07-22T15:49:39.046Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 7141,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

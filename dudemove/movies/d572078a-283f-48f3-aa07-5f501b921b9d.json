@@ -1,0 +1,28 @@
+{
+  "id": "d572078a-283f-48f3-aa07-5f501b921b9d",
+  "title": "Gulaebaghavali",
+  "slug": "gulaebaghavali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7waPOT8OJom9xrCqZqIzWbziI1a.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 129,
+  "rating": null,
+  "description": "A don sends three criminals to recover a treasure buried by his grandfather in a village. A fourth criminal joins the trio en route, and they decide to hoodwink the don and share the treasure between themselves.",
+  "created_at": "2026-07-31T07:20:24.210Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5932,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

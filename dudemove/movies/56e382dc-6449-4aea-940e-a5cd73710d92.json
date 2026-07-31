@@ -1,0 +1,28 @@
+{
+  "id": "56e382dc-6449-4aea-940e-a5cd73710d92",
+  "title": "Return to Montauk",
+  "slug": "return-to-montauk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rwKRbh71rLljCXEmtnglooyefnU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2017,
+  "duration": 106,
+  "rating": 5.6,
+  "description": "Author Max Zorn, now in his early 60s, is on a promotional book tour in New York when he encounters the woman he could never forget. They spend a weekend together, seventeen years have passed. Can there be a future for their past?",
+  "created_at": "2026-07-22T15:40:38.610Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6552,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8bd2efc7-2c66-4b92-8a6f-d59cbf4a8ed7",
+  "title": "Replicas",
+  "slug": "replicas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hhPBTAn9b4TYOxc1JYNsX4BFAlW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 107,
+  "rating": 6.038,
+  "description": "A scientist becomes obsessed with returning his family to normalcy after a terrible accident.",
+  "created_at": "2026-07-22T15:33:04.157Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5404,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

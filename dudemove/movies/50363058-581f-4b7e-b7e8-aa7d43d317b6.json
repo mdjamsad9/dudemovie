@@ -1,0 +1,32 @@
+{
+  "id": "50363058-581f-4b7e-b7e8-aa7d43d317b6",
+  "title": "All the Way",
+  "slug": "all-the-way",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 132,
+  "rating": 6.6,
+  "description": "Lyndon B. Johnson's amazing 11-month journey from taking office after JFK's assassination, through the fight to pass the 1964 Civil Rights Act and his own presidential campaign, culminating on the night LBJ is actually elected to the office – no longer the 'accidental President.'",
+  "created_at": "2026-07-22T15:49:33.112Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 7145,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

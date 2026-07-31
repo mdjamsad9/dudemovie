@@ -1,0 +1,32 @@
+{
+  "id": "b658b836-896f-4f92-ba8a-7886a285ef35",
+  "title": "Anando Brahma",
+  "slug": "anando-brahma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v2WyGlUieUZF7EoDjUwSfy16NSs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 123,
+  "rating": null,
+  "description": "An NRI enlists the help of his cop-friend to sell off his ancestral home, but later hears rumours of it being haunted. Unwilling to let go of the property at a throwaway price, he asks a team of four quirky guys to spend a night in the house and prove that it isn’t a ghost den.",
+  "created_at": "2026-07-31T07:22:32.806Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6224,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

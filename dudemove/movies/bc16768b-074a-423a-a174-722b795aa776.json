@@ -1,0 +1,28 @@
+{
+  "id": "bc16768b-074a-423a-a174-722b795aa776",
+  "title": "Cold Blood",
+  "slug": "cold-blood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uGMIxhhMvQEE0mNlATXpEAG4mgl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2019,
+  "duration": 91,
+  "rating": 5.285,
+  "description": "A legendary but retired hit man lives in peace and isolation in the barren North American wilderness. When he rescues a woman from a snowmobiling accident, he soon discovers that she's harboring a secret that forces him to return to his lethal ways.",
+  "created_at": "2026-07-22T15:30:32.666Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4425,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

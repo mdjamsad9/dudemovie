@@ -1,0 +1,40 @@
+{
+  "id": "08c8e013-29ea-4556-9714-89255fd203f1",
+  "title": "Project Silence",
+  "slug": "project-silence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/55jsexep1uh1ieMwyJMVapTETMM.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2024,
+  "duration": 96,
+  "rating": 6.864,
+  "description": "Due to sudden deteriorating weather conditions, visibility on the Airport Bridge is severely impaired, leaving people stranded and at risk of the bridge collapsing due to a series of chain collisions and explosions. Amidst the chaos, the canine subjects \"Echo\" from the military experiment \"Project Silence,\" who were being transported in secret, break free, and all human survivors become targets of relentless attacks.",
+  "created_at": "2026-07-09T16:54:41.193Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 1469,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

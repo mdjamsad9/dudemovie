@@ -1,0 +1,24 @@
+{
+  "id": "e54caebc-d06c-4ae8-8521-b0a1ac7c9845",
+  "title": "Strawberry",
+  "slug": "strawberry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/soeDliBNyJz3Mc28NEAWOHS8ffn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2015,
+  "duration": 140,
+  "rating": null,
+  "description": "A taxi driver is befriended by a medium who tells him that a spirit is trying to communicate with him. Who is this spirit and what does it want?",
+  "created_at": "2026-07-31T07:31:43.434Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 7349,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

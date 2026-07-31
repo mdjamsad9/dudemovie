@@ -1,0 +1,36 @@
+{
+  "id": "b10f4cd8-12c9-4ecc-8ef1-6940ff0f6364",
+  "title": "Iru Mugan",
+  "slug": "iru-mugan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDXsugXi4fqiQaBWjnfotsqlqAe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2016,
+  "duration": 150,
+  "rating": null,
+  "description": "A disgraced  RAW agent Akilan (Vikram) is recalled by the agency to track down a crazy scientist and a cross dresser Love (also Vikram), who has discovered a deadly new drug  ‘Speed inhaler’.",
+  "created_at": "2026-07-31T07:33:31.868Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6870,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

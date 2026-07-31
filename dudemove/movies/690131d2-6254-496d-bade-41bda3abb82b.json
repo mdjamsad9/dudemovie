@@ -1,0 +1,28 @@
+{
+  "id": "690131d2-6254-496d-bade-41bda3abb82b",
+  "title": "Mahanati",
+  "slug": "mahanati",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5hwtlwoLdSpkoeusT0sf8qW5VFB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 176,
+  "rating": null,
+  "description": "Mahanati depicts the life and career of one of Telugu cinema's greatest and most iconic starlets, the first Indian female super star, Savitri.",
+  "created_at": "2026-07-31T07:23:18.002Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5903,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

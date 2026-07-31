@@ -1,0 +1,32 @@
+{
+  "id": "fd26efe9-0d6a-4861-ba97-22f5fa698df2",
+  "title": "Pilgrimage",
+  "slug": "pilgrimage",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3nM6cRkfL09d9SuOurX83mYN3n9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 5.993,
+  "description": "In 13th century Ireland a group of monks must escort a sacred relic across a landscape fraught with peril.",
+  "created_at": "2026-07-22T15:44:04.179Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6140,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

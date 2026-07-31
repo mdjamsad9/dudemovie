@@ -1,0 +1,28 @@
+{
+  "id": "bfadee62-a3c0-4f3d-8e83-1702641b7be9",
+  "title": "Singam",
+  "slug": "singam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2010,
+  "duration": 154,
+  "rating": null,
+  "description": "The story, set in the backdrop of Nallore, a small town in Thoothukudi District, revolves around Sub-Inspector Durai Singam, a brave and just policeman who serves in his hometown primarily to fulfill his father’s wish. Durai Singam settles every dispute in his town patiently with his words of wisdom and resorts to force only when the situation demands it. Kavya, a city girl who comes on vacation to Nallore, falls in love with Durai Singam. Erimalai, Durai Singam's bumbling colleague and friend, often accompanies him.",
+  "created_at": "2026-07-31T07:14:45.560Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7728,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

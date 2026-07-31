@@ -1,0 +1,32 @@
+{
+  "id": "1f2bcd65-a533-460f-8657-ed6e7dbaa6c8",
+  "title": "The Buckingham Murders",
+  "slug": "the-buckingham-murders",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/opWu2Qf1g5OfAWP4HdmH4ildwuV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 107,
+  "rating": 5.62,
+  "description": "Fresh wounds are reopened when Jasmeet Bhamra, a cop and a single mother who recently lost her child in a shooting spree, transfers to High Wycombe and is assigned a case of a missing child.",
+  "created_at": "2026-07-22T15:09:55.621Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1291,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

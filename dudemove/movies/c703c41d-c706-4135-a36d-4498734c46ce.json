@@ -1,0 +1,32 @@
+{
+  "id": "c703c41d-c706-4135-a36d-4498734c46ce",
+  "title": "Maa Inti Bangaram",
+  "slug": "maa-inti-bangaram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4JO2WYPwBL6qWsKIM4v7loHrNCX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 158,
+  "rating": null,
+  "description": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+  "created_at": "2026-07-31T06:38:11.003Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 251,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c2ac9dd6-3038-4c2f-aced-d51b9e35c404",
+  "title": "Gam Gam Ganesha",
+  "slug": "gam-gam-ganesha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mjMJPzneGJzsBqh5XdWHVKififI.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 133,
+  "rating": 6.2,
+  "description": "During a Ganesh Chaturthi celebration, Ganesh, a small-time thief decides to take up a big heist that goes awry, leading to a comical clash with Rudra and his boss Kishore Reddy, who are also searching for a valuable item amidst the festive chaos.",
+  "created_at": "2026-07-09T17:18:11.824Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 977,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Gam%20Gam%20Ganesha%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gam%20Gam%20Ganesha%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

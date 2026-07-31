@@ -1,0 +1,28 @@
+{
+  "id": "a03618cb-d0f2-4f8a-a5fb-193d648ecbc7",
+  "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+  "slug": "birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 109,
+  "rating": 6.872,
+  "description": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+  "created_at": "2026-07-22T15:24:47.659Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4118,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

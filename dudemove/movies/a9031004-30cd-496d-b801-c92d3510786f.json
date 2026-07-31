@@ -1,0 +1,24 @@
+{
+  "id": "a9031004-30cd-496d-b801-c92d3510786f",
+  "title": "The Comedian",
+  "slug": "the-comedian",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jR7PZd7K0dFT6oL9qhbSsiJXDsR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 120,
+  "rating": null,
+  "description": "An aging comic icon, Jackie Burke, has seen better days. Despite his efforts to reinvent himself and his comic genius, the audience only wants to know him as the former television character he once played. Already a strain on his younger brother and his wife, Jackie is forced to serve out a sentence doing community service for accosting an audience member. While there, he meets Harmony, the daughter of a sleazy Florida real estate mogul, and the two find inspiration in one another, resulting in surprising consequences.",
+  "created_at": "2026-07-31T07:34:41.519Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7318,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

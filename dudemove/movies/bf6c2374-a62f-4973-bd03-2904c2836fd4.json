@@ -1,0 +1,28 @@
+{
+  "id": "bf6c2374-a62f-4973-bd03-2904c2836fd4",
+  "title": "Ammonite",
+  "slug": "ammonite",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 118,
+  "rating": 6.895,
+  "description": "In 1840s England, palaeontologist Mary Anning and a young woman sent by her husband to convalesce by the sea develop an intense relationship. Despite the chasm between their social spheres and personalities, Mary and Charlotte discover they can each offer what the other has been searching for: the realisation that they are not alone. It is the beginning of a passionate and all-consuming love affair that will defy all social bounds and alter the course of both lives irrevocably.",
+  "created_at": "2026-07-22T15:19:58.349Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3718,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

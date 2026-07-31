@@ -1,0 +1,28 @@
+{
+  "id": "b0102317-df96-4ecb-83c5-611b0a3cf0f6",
+  "title": "Valiyavan",
+  "slug": "valiyavan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wAbfeR2skkcYUke7LMMB552kuTd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2015,
+  "duration": 139,
+  "rating": null,
+  "description": "Subhiksha tells Vinod, the guy who is wooing her, that she will say 'yes' to him if he beats up an international boxer. Why does she say so, and what does the boxer have to do with Vinod?",
+  "created_at": "2026-07-31T07:18:18.218Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7588,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

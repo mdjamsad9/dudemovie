@@ -1,0 +1,32 @@
+{
+  "id": "c3d7924d-3daf-4149-9eea-9c5ce9a484b0",
+  "title": "Samrat Prithviraj",
+  "slug": "samrat-prithviraj",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/itjop20yizH1cwB44tIo5JivPSq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 136,
+  "rating": 6.567,
+  "description": "The true story of legendary Hindu warrior king \"Prithviraj Chauhan\" including his early military successes, love story with Sanyogita & clashes with Muhammad of Ghor, a ruler of the Ghurid dynasty who led the foundation of Muslim rule in the Indian subcontinent.",
+  "created_at": "2026-07-22T15:14:02.609Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3000,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

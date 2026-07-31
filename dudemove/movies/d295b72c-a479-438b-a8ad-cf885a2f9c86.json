@@ -1,0 +1,32 @@
+{
+  "id": "d295b72c-a479-438b-a8ad-cf885a2f9c86",
+  "title": "Darbar",
+  "slug": "darbar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/39kVh9CWrY8cE6rIzRqwo6Dn1cZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 159,
+  "rating": null,
+  "description": "Aaditya, the commissioner of Mumbai Police, sets out to catch Ajay, a drug peddler. However, he uncovers a deeper controversy linked to an international drug lord and must mete out justice.",
+  "created_at": "2026-07-31T07:05:11.869Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3554,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

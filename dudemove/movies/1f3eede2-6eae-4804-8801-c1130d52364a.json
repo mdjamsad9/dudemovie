@@ -1,0 +1,32 @@
+{
+  "id": "1f3eede2-6eae-4804-8801-c1130d52364a",
+  "title": "Woody Woodpecker",
+  "slug": "woody-woodpecker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cSo4vsBdzTNJG24VYgAkGgeYkAs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 6.595,
+  "description": "Woody Woodpecker enters a turf war with a big city lawyer wanting to tear down his home in an effort to build a house to flip.",
+  "created_at": "2026-07-22T15:40:11.252Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 6486,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

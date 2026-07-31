@@ -1,0 +1,32 @@
+{
+  "id": "e3905a6d-c010-4246-a25c-d480f3200d85",
+  "title": "Devadas",
+  "slug": "devadas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gKXUai8TVBIwkMCNIXSF6f7K6WG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2018,
+  "duration": 124,
+  "rating": null,
+  "description": "A sincere doctor Das works at a private clinic, where he meets the dreaded don Deva who arrives injured. After the treatment, Das and Deva form a deep friendship until Deva's mafia background and gruesome history causes a rift in their bond.",
+  "created_at": "2026-07-31T07:08:26.619Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5124,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4e3dc6ee-1375-4f0c-b54e-449d4ed24023",
+  "title": "Kate",
+  "slug": "kate",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 106,
+  "rating": 6.622,
+  "description": "A ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.",
+  "created_at": "2026-07-22T15:17:33.797Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3328,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

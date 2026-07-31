@@ -1,0 +1,28 @@
+{
+  "id": "47b8f645-d2b0-4ddf-8a6d-88adb398a7a9",
+  "title": "Fantastic Beasts: The Secrets of Dumbledore",
+  "slug": "fantastic-beasts-the-secrets-of-dumbledore",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 142,
+  "rating": 6.627,
+  "description": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+  "created_at": "2026-07-22T15:14:24.555Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 3036,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

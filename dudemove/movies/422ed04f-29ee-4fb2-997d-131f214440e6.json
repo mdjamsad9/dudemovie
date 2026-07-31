@@ -1,0 +1,28 @@
+{
+  "id": "422ed04f-29ee-4fb2-997d-131f214440e6",
+  "title": "Adventures of Omanakuttan",
+  "slug": "adventures-of-omanakuttan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gr9q9uZPIb5BdMUZpIN2sGY0z5M.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 166,
+  "rating": null,
+  "description": "Omanakuttan is an introverted salesman who is down on confidence and luck. Spurred on by his colleague he decides to change himself and tries to act like a flirt. He meets Pallavi a free spirited girl, but as luck would have it he wakes up with memory loss and struggles to figure out who he really is. Both of them join in on an adventure to figure out the real Omanakuttan.",
+  "created_at": "2026-07-31T07:31:26.317Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6323,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

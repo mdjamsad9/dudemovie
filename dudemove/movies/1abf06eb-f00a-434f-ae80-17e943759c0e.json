@@ -1,0 +1,24 @@
+{
+  "id": "1abf06eb-f00a-434f-ae80-17e943759c0e",
+  "title": "Gone Are the Days",
+  "slug": "gone-are-the-days",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sLBYLf6gh9Ud1JsAreyQzOCOazu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 99,
+  "rating": 5.463,
+  "description": "The story of notorious outlaw Taylon Flynn, a man hell-bent on exiting this life in a blaze of glory. His plans go awry upon the discovery of the sordid life his estranged daughter is forced to live. To save her, he must summon the inner demons he purged long ago, and finds that redemption is a hard road to travel.",
+  "created_at": "2026-07-22T15:32:32.651Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 5618,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

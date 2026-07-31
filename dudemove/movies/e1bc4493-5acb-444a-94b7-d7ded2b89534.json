@@ -1,0 +1,24 @@
+{
+  "id": "e1bc4493-5acb-444a-94b7-d7ded2b89534",
+  "title": "Tiyaan",
+  "slug": "tiyaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zI54MejpifV0pzVcFYBGtGtrMUX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 168,
+  "rating": null,
+  "description": "The lives of a vedic scholar Pattabhiramagiri and his family come under threat after a godman and his goons try to displace him from his centuries-old ancestral home as part of building an ashram. The “curse” that befalls Pattabhiraman in the face of opposition leaves him broken, till a mysterious ally lends him his support. Their fight against the evil forces forms the rest of the plot.",
+  "created_at": "2026-07-31T07:30:38.931Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6263,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

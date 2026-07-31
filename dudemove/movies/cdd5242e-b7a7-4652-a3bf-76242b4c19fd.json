@@ -1,0 +1,40 @@
+{
+  "id": "cdd5242e-b7a7-4652-a3bf-76242b4c19fd",
+  "title": "Vishnuvardhana",
+  "slug": "vishnuvardhana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iSNBL28RhWz9HxSGXAOYYwpnxW2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Kannada",
+  "release_year": 2011,
+  "duration": 169,
+  "rating": null,
+  "description": "No one has entered a biography for him.",
+  "created_at": "2026-07-31T07:21:05.213Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7715,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "397ac3a0-fd31-4a03-a1a7-df130b6900ac",
+  "title": "Supreme",
+  "slug": "supreme",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xKio3vZMokLuxnMGXPst05HhSMG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 142,
+  "rating": null,
+  "description": "A taxi driver and orphan join a battle to save royal heirs from a corrupt, greedy businessman.",
+  "created_at": "2026-07-31T07:36:29.833Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7327,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

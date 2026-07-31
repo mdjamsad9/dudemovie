@@ -1,0 +1,32 @@
+{
+  "id": "501e74d2-0a26-42a6-bc1c-55cefffbb4cc",
+  "title": "Amen",
+  "slug": "amen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rJRm8lE1JHSoUgkPRu0CQRaYdne.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2013,
+  "duration": 165,
+  "rating": null,
+  "description": "Solomon, who belongs to a band, is in love with Soshanna, who hails from an upper class family. The story spells how Solomon manages to win over all the obstacles to marry Soshanna.",
+  "created_at": "2026-07-31T07:26:14.719Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7681,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

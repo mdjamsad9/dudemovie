@@ -1,0 +1,28 @@
+{
+  "id": "74dfb45a-25de-4d93-840d-2cf4f53f23ce",
+  "title": "Suck It Up",
+  "slug": "suck-it-up",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rXLK3mjOt3hJnjaLhE6HfBADRUg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 101,
+  "rating": 6,
+  "description": "Ronnie lost her brother. Faye lost her first love. These two best friends set off on a debaucherous road trip to the mountains to get over the death of the man they both loved.",
+  "created_at": "2026-07-22T15:40:38.057Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6553,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

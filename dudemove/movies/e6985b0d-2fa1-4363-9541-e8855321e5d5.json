@@ -1,0 +1,32 @@
+{
+  "id": "e6985b0d-2fa1-4363-9541-e8855321e5d5",
+  "title": "Miss Fisher and the Crypt of Tears",
+  "slug": "miss-fisher-and-the-crypt-of-tears",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pGhbw9hVsDIO70QhQAYG9quTqKF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 6.122,
+  "description": "After freeing a young Bedouin girl from her unjust imprisonment in Jerusalem, an Australian adventuress, together with her devoted police detective friend, begins to unravel a decade-old mystery concerning priceless emeralds, an ancient curse and the disappearance of the girl's mother and massacre of her tribe.",
+  "created_at": "2026-07-22T15:24:45.149Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4102,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

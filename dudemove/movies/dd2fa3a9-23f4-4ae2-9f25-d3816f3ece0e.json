@@ -1,0 +1,28 @@
+{
+  "id": "dd2fa3a9-23f4-4ae2-9f25-d3816f3ece0e",
+  "title": "Kali",
+  "slug": "kali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/92JuEJ0bB6yVjikLj7oiUxmHdtU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2016,
+  "duration": 116,
+  "rating": null,
+  "description": "A young wife hopes to convince her husband to change his short-tempered attitude toward life, but an incident on a remote highway may finally decide the matter.",
+  "created_at": "2026-07-31T07:31:50.525Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7311,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

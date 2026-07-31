@@ -1,0 +1,28 @@
+{
+  "id": "dd4c3d19-1b0c-4b17-9fc5-14bdd5441cd3",
+  "title": "Vault",
+  "slug": "vault",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x0Z92A1t6M2OccILpnBXGP7W4XC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 99,
+  "rating": 5.6,
+  "description": "A group of small time criminals in 1975 attempt to pull off the biggest heist in American history; stealing over $30 million from the Mafia in the smallest state in the union, Rhode Island.",
+  "created_at": "2026-07-22T15:31:06.187Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4827,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

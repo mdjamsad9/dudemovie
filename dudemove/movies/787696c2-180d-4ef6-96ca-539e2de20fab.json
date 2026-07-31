@@ -1,0 +1,28 @@
+{
+  "id": "787696c2-180d-4ef6-96ca-539e2de20fab",
+  "title": "Fitoor",
+  "slug": "fitoor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7D8KKUspZVzr4pevoiP8G5vs6fI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 131,
+  "rating": 5.491,
+  "description": "A young artist tries to win the heart of his muse, while her mother hatches a scheme to end his quest for true love.",
+  "created_at": "2026-07-22T15:46:07.741Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6884,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

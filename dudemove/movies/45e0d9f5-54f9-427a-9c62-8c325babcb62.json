@@ -1,0 +1,32 @@
+{
+  "id": "45e0d9f5-54f9-427a-9c62-8c325babcb62",
+  "title": "Aake",
+  "slug": "aake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6JGFU4ABPbPaHQOYphy2W5lyD8c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 132,
+  "rating": null,
+  "description": "A ghost named Maya becomes the common link between Arjun, an artist in London, and Sharmila, a single mom and struggling actress from Bengaluru.",
+  "created_at": "2026-07-31T07:19:49.951Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6249,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

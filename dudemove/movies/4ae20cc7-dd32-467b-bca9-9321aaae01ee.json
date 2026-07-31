@@ -1,0 +1,24 @@
+{
+  "id": "4ae20cc7-dd32-467b-bca9-9321aaae01ee",
+  "title": "Ardab Mutiyaran",
+  "slug": "ardab-mutiyaran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/up6GjZwTCkciAOCLpG0tF8YYgbL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2019,
+  "duration": 138,
+  "rating": null,
+  "description": "Babbu Bains, a finance recovery agent, doesn't let anyone tell her what to do. She is independent and knows how to get things done her way, but then she gets married. Part of a new family now, can Babbu take a stand for herself?",
+  "created_at": "2026-07-31T07:06:57.310Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4578,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

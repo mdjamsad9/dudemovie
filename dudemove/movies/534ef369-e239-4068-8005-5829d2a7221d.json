@@ -1,0 +1,28 @@
+{
+  "id": "534ef369-e239-4068-8005-5829d2a7221d",
+  "title": "The Hoard",
+  "slug": "the-hoard",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/74oViJnQ8vn2GVwGEaQpwjURgub.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 99,
+  "rating": 5.111,
+  "description": "A comedy/horror mockumentary that chronicles the unravelling of a production team who are attempting to produce the ultimate reality TV show pilot \"Extremely Haunted Hoarders\". The team consists of a Professional Organizer, a Psychologist, two ghost hunters, and a crew of junk removers. They arrive in Rockford, Ohio, the hoarder capital of America. There they meet Murph Evans, a legendary hoarder with three crammed and condemned mansions. In their efforts to de-clutter the properties and reform Murph's habit, the intervention unearths a literal house of horrors.",
+  "created_at": "2026-07-22T15:31:39.133Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5707,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

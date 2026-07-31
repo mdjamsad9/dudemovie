@@ -1,0 +1,28 @@
+{
+  "id": "3abb1104-070a-4572-8d2d-394be3c73c4c",
+  "title": "Moksh To Maya",
+  "slug": "moksh-to-maya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sR1BhPrAwo8iHk0JQlErNZ1regi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 113,
+  "rating": 3.5,
+  "description": "Moksh To Maya is an upcoming Hindi movie directed by Manoj Singh.The Film stars Bidita Bag, Meghna Malik, Ehsaan Khan and Muni Jha as lead characters. The movie is scheduled to release in 26 July, 2019.",
+  "created_at": "2026-07-22T15:25:41.219Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4394,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

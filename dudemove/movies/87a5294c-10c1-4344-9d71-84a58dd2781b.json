@@ -1,0 +1,32 @@
+{
+  "id": "87a5294c-10c1-4344-9d71-84a58dd2781b",
+  "title": "Beyond Skyline",
+  "slug": "beyond-skyline",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ctViyxTFf7r89sUg7jWNqk7cbbT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Indonesian",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": 5.302,
+  "description": "Detective Mark Corley storms his way onto an alien spaceship to rescue his estranged son. When the ship crashes in Southeast Asia, he forges an alliance with a band of survivors to take back the planet once and for all.",
+  "created_at": "2026-07-22T15:40:45.740Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6341,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

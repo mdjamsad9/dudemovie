@@ -1,0 +1,32 @@
+{
+  "id": "84d2e200-f357-4954-933e-8be0406f5ec7",
+  "title": "Ra Ra Krishnayya",
+  "slug": "ra-ra-krishnayya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/urqnxw0rejXcSVyhc40Cq5dd5wR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2014,
+  "duration": 139,
+  "rating": null,
+  "description": "Kittu / Krishna is a cab driver who saves his money with the cab owner. When the owner refuses to return his money back, Kittu kidnaps owner’s daughter Nandu. Nandu who is fed up with her father’s unilateral decision about her marriage is happy with the kidnapping. They fall in love with each other in the process. When they were about to accept the ransom money, she gets kidnapped by another kidnapper. The rest of the story is all about who kidnapped her and the kidnapper’s connection with Kittu",
+  "created_at": "2026-07-31T07:23:34.992Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7672,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

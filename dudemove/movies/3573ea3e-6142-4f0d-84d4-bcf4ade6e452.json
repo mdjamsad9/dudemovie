@@ -1,0 +1,32 @@
+{
+  "id": "3573ea3e-6142-4f0d-84d4-bcf4ade6e452",
+  "title": "Abraham Ozler",
+  "slug": "abraham-ozler",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eWleIhsdQSwLG00fYD1VfIRPBuN.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 144,
+  "rating": 6.1,
+  "description": "The story revolves around the personal and professional lives of veteran cop Abraham Ozler, ACP Trichur, who at one time has to take up a serial killing case and the mysterious hunt begins",
+  "created_at": "2026-07-09T17:25:42.296Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 1520,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

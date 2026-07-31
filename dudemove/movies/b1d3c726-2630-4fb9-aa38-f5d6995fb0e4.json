@@ -1,0 +1,40 @@
+{
+  "id": "b1d3c726-2630-4fb9-aa38-f5d6995fb0e4",
+  "title": "Clara",
+  "slug": "clara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRlSkbo0Gs7CPbyAVnos2KW0jnw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5,
+  "description": "A girl named Clara lives in an amazing fairy world inhabited by dwarfs, dragons and sorcerers. Astonishing adventures await Clara and her friends and also the future of the whole world will fall into her hands.",
+  "created_at": "2026-07-22T15:33:31.850Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5028,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

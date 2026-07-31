@@ -1,0 +1,28 @@
+{
+  "id": "18c8b55a-da80-4c4c-97be-d0723b1146b3",
+  "title": "Bad Match",
+  "slug": "bad-match",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eh7CB7Z9o2HRcKTEYmSLmo6I2hh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 5.588,
+  "description": "An internet-dating playboy's life spirals out of control after meeting a woman online.",
+  "created_at": "2026-07-22T15:41:42.768Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6691,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

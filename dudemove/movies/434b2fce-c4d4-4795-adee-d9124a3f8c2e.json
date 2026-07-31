@@ -1,0 +1,28 @@
+{
+  "id": "434b2fce-c4d4-4795-adee-d9124a3f8c2e",
+  "title": "We Have Always Lived in the Castle",
+  "slug": "we-have-always-lived-in-the-castle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ejp1MQSlekBjH3bBJrBlWItpmQW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 96,
+  "rating": 5.532,
+  "description": "In Shirleyville, Vermont, during the sixties, sisters Merricat and Constance, along with their ailing uncle Julian, confined to a wheelchair, live isolated in a big mansion located on the hill overlooking the town, tormented by the memories of a family tragedy occurred six years ago. The arrival of cousin Charles will threaten the fragile equilibrium of their minds, haunted by madness, fear and superstition.",
+  "created_at": "2026-07-22T15:31:38.239Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

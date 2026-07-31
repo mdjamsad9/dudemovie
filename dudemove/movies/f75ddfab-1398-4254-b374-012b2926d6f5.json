@@ -1,0 +1,32 @@
+{
+  "id": "f75ddfab-1398-4254-b374-012b2926d6f5",
+  "title": "Among the Shadows",
+  "slug": "among-the-shadows",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AceMLZlylJ62T3lfWpjLvALysVA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2019,
+  "duration": 96,
+  "rating": 3.664,
+  "description": "A private investigator must unravel the murder of her uncle while keeping the secret that she is a descendant from a line of werewolves.",
+  "created_at": "2026-07-22T15:27:35.863Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4631,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

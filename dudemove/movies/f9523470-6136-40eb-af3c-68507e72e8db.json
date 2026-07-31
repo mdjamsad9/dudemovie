@@ -1,0 +1,28 @@
+{
+  "id": "f9523470-6136-40eb-af3c-68507e72e8db",
+  "title": "Dear Dad",
+  "slug": "dear-dad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/arMYLwkzz0vgMX2z8pmY1PcwyG0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 84,
+  "rating": 7.2,
+  "description": "Dear Dad is a bittersweet coming of age story; involving a father-son duo – 14 year old Shivam, and his 45 year old dad Nitin Swaminathan. The father-son duo embarks on an impromptu road trip from their home, in Delhi, to Mussorie (Uttarakhand), where Shivam attends boarding school. Unexpected confessions, weird strangers, accidental meetings, a drunken escapade and singing in the rain – all these add up to a complicated and sweet tale.",
+  "created_at": "2026-07-22T15:46:36.634Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6908,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

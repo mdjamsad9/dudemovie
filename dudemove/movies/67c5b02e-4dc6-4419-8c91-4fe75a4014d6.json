@@ -1,0 +1,28 @@
+{
+  "id": "67c5b02e-4dc6-4419-8c91-4fe75a4014d6",
+  "title": "Late Night",
+  "slug": "late-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 102,
+  "rating": 6.385,
+  "description": "A legendary late-night talk show host's world is turned upside down when she hires her only female staff writer. Originally intended to smooth over diversity concerns, her decision has unexpectedly hilarious consequences as the two women separated by culture and generation are united by their love of a biting punchline.",
+  "created_at": "2026-07-22T15:27:36.345Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4765,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

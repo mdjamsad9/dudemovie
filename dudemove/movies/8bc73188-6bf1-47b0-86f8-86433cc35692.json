@@ -1,0 +1,32 @@
+{
+  "id": "8bc73188-6bf1-47b0-86f8-86433cc35692",
+  "title": "Nivaasi",
+  "slug": "nivaasi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pvQruGO9JLvrolxJEvfIY2HY8Ys.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 121,
+  "rating": null,
+  "description": "An action thriller film by Satheesh Regalla, starring Shekhar Varma and Viviya Santh in the lead roles.",
+  "created_at": "2026-07-31T07:07:56.923Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5053,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "90079dd4-070a-4dbc-ae67-0edf82b05271",
+  "title": "Lock",
+  "slug": "lock",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eeknSAMEAnM8X7YqJPHHNetdxpC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2016,
+  "duration": 92,
+  "rating": null,
+  "description": "A screenwriter loses a script in the back of a rickshaw, and complications in the driver's life make it difficult to return to its rightful owner.",
+  "created_at": "2026-07-31T07:36:03.888Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7325,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

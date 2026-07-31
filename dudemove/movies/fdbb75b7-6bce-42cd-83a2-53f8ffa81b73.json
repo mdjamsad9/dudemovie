@@ -1,0 +1,28 @@
+{
+  "id": "fdbb75b7-6bce-42cd-83a2-53f8ffa81b73",
+  "title": "The Last Summer",
+  "slug": "the-last-summer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nAn3MRAUwbjVApN3qYkvsTEOAvx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": 6.004,
+  "description": "Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.",
+  "created_at": "2026-07-22T15:31:50.537Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4958,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

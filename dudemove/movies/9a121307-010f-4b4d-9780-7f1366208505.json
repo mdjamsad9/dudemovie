@@ -1,0 +1,32 @@
+{
+  "id": "9a121307-010f-4b4d-9780-7f1366208505",
+  "title": "On Body and Soul",
+  "slug": "on-body-and-soul",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uguWEoZelSSckxgiQctlkZ6gpfU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hungarian",
+  "release_year": 2017,
+  "duration": 116,
+  "rating": 7.256,
+  "description": "Two introverted people find out by pure chance that they share the same dream every night. They are puzzled, incredulous, a bit frightened. As they hesitantly accept this strange coincidence, they try to recreate in broad daylight what happens in their dream.",
+  "created_at": "2026-07-22T15:39:54.747Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 6516,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

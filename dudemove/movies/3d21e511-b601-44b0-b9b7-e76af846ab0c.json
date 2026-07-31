@@ -1,0 +1,28 @@
+{
+  "id": "3d21e511-b601-44b0-b9b7-e76af846ab0c",
+  "title": "Joshy",
+  "slug": "joshy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qccbXBSGXopEmDN9BoFeWV5EgDA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 93,
+  "rating": 5.622,
+  "description": "After his engagement ends badly, Josh decides to take advantage of his bachelor-party plans in Ojai, California, with the few friends still willing to join him. Focused on drugs and their own hangups, his self-absorbed friends refuse to confront the elephant in the room and ask Josh how he’s feeling. As welcome and unwelcome guests stop by, Josh will attempt to find some closure over this weekend with the guys.",
+  "created_at": "2026-07-22T15:49:10.482Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7133,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

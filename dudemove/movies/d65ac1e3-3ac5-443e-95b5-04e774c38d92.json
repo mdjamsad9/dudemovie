@@ -1,0 +1,32 @@
+{
+  "id": "d65ac1e3-3ac5-443e-95b5-04e774c38d92",
+  "title": "American Assassin",
+  "slug": "american-assassin",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 112,
+  "rating": 6.4,
+  "description": "Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.",
+  "created_at": "2026-07-22T15:41:19.998Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6364,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

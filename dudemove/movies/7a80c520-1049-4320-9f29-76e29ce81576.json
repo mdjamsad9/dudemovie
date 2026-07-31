@@ -1,0 +1,24 @@
+{
+  "id": "7a80c520-1049-4320-9f29-76e29ce81576",
+  "title": "Nannaku Prematho...",
+  "slug": "nannaku-prematho",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t8RGpSw86jKFpxxnjywVBNiuPx7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2016,
+  "duration": 168,
+  "rating": null,
+  "description": "Subramanyam, a businessman, is on his deathbed when he tells his sons about a cunning man who stole most of his wealth. Hearing this, Abhiram, the youngest son, lays out a plan to seek his revenge.",
+  "created_at": "2026-07-31T07:38:27.979Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7336,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

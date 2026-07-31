@@ -1,0 +1,28 @@
+{
+  "id": "efd68754-5940-4ce5-93b0-accd8e8b39e9",
+  "title": "Panchavarnathatha",
+  "slug": "panchavarnathatha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/74st7sFPmiubT5j18xdVkELWoTX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 147,
+  "rating": null,
+  "description": "The story of a bird charmer as he goes on to influence the lives of people while witnessing a change in his own.",
+  "created_at": "2026-07-31T07:22:15.018Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5168,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "794d0c38-2d04-44c0-804f-4a0e3245c843",
+  "title": "Maryada Ramanna",
+  "slug": "maryada-ramanna",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mdhZF0tSHkdh0GSuyOLQZLS22wm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2010,
+  "duration": 125,
+  "rating": null,
+  "description": "Ramu returns to his hometown to sell a piece of land he owns and falls in love with a young woman only to find out that her parents want him dead.",
+  "created_at": "2026-07-31T07:03:45.061Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7724,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

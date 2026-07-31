@@ -1,0 +1,28 @@
+{
+  "id": "f3cd8c71-789e-4b8c-a587-fd3a1ae3cc04",
+  "title": "The Poison Rose",
+  "slug": "the-poison-rose",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gSzyUmg719TgAxarFZYWjLLMqvS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 4.7,
+  "description": "A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.",
+  "created_at": "2026-07-22T15:31:32.562Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4819,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

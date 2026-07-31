@@ -1,0 +1,28 @@
+{
+  "id": "56662e4f-531f-4dcc-9da1-4f347dcfc0bd",
+  "title": "Ee Nagaraniki Emaindi?",
+  "slug": "ee-nagaraniki-emaindi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4E8Cvh2D87vJDKKKkTbHYXNbsK9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 140,
+  "rating": null,
+  "description": "Four friends, with a bittersweet history, get drunk and embark on a journey to Goa. On the trip, they lose an expensive ring which threatens to derail one of their engagement. They end up confronting one another and their own fears, as they enroll in a short film making competition in Goa to try and win the prize money for the ring.",
+  "created_at": "2026-07-31T07:18:27.116Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5841,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

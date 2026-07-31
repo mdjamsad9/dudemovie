@@ -1,0 +1,32 @@
+{
+  "id": "bebb60a3-d906-4e71-af1a-81dc88442056",
+  "title": "Possum",
+  "slug": "possum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5QOFKSpE7KacBriU95fxG6hmmvr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 6.139,
+  "description": "A disgraced children's puppeteer returns to his childhood home and is forced to confront his wicked stepfather and the secrets that have tortured him his entire life.",
+  "created_at": "2026-07-22T15:33:11.864Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5295,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

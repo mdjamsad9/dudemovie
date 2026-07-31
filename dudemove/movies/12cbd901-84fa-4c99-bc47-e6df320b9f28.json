@@ -1,0 +1,36 @@
+{
+  "id": "12cbd901-84fa-4c99-bc47-e6df320b9f28",
+  "title": "Iron Sky: The Coming Race",
+  "slug": "iron-sky-the-coming-race",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l5t2Nf1F7iQUKTrODg93xmQzZLj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 93,
+  "rating": 5.192,
+  "description": "29 years after the events of Iron Sky, the former Nazi Moonbase has become the last refuge of mankind. Earth was devastated by a nuclear war, but buried deep under the wasteland lies a power that could save the last of humanity - or destroy it once and for all. An old enemy leads our heroes on an adventure into the Hollow Earth. To save humanity, they must battle the Vril, an ancient shapeshifting reptilian race, and their army of dinosaurs.",
+  "created_at": "2026-07-22T15:31:48.251Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4997,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b96f34c7-941d-462b-8400-a6c8dbca9c80",
+  "title": "Thackeray",
+  "slug": "thackeray",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yfjEuYlASO9xoT8nLp8pVqKCtZN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 139,
+  "rating": 5.429,
+  "description": "Based on the life of Keshav Thackeray, an Indian politician who is also known as Balasaheb Thackeray.",
+  "created_at": "2026-07-22T15:31:33.709Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4957,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

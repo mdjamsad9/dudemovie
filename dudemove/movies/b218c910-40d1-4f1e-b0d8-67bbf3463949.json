@@ -1,0 +1,32 @@
+{
+  "id": "b218c910-40d1-4f1e-b0d8-67bbf3463949",
+  "title": "Hyper",
+  "slug": "hyper",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/agyTckpUSpV2xTOEV5QSB3X8o32.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2016,
+  "duration": 144,
+  "rating": null,
+  "description": "Surya is a carefree youth who lives with his father Narayana Murthy. He loves his father and is very protective about him. This obsession often lands him in trouble. A political don troubles Narayana Murthy to get his signature for a file. Murthy objects for this signature and lands in deep trouble. The rest of the film deals with how Surya encounters the minister and solves his father's problem.",
+  "created_at": "2026-07-31T07:32:28.757Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 7315,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

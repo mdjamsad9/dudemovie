@@ -1,0 +1,32 @@
+{
+  "id": "5f18a134-7b83-4d73-88d7-7f52b67b872d",
+  "title": "Encounter",
+  "slug": "encounter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AjRUsn8m2znK4mQuYR5fUguBDQM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 108,
+  "rating": 6.272,
+  "description": "A decorated Marine goes on a rescue mission to save his two young sons from an unhuman threat. As their journey takes them in increasingly dangerous directions, the boys will need to leave their childhoods behind.",
+  "created_at": "2026-07-22T15:16:25.354Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3372,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

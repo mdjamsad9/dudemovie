@@ -1,0 +1,32 @@
+{
+  "id": "918d87e7-fc1c-40c3-a75d-8aaf4ab06636",
+  "title": "Kodi",
+  "slug": "kodi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2Axrtv2WGDAGsZSgnWZm07nNKz6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 145,
+  "rating": null,
+  "description": "A young politician finds himself in a position where he has to contest against his girlfriend, who is ambitious. Circumstances force his look-alike twin to also get involved in this political battle.",
+  "created_at": "2026-07-31T07:32:02.880Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7312,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

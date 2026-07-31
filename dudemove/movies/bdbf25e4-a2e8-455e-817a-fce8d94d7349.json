@@ -1,0 +1,28 @@
+{
+  "id": "bdbf25e4-a2e8-455e-817a-fce8d94d7349",
+  "title": "Ateet",
+  "slug": "ateet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/urPzDaWVy3I3TOHHTlKThjbR1NX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": 3,
+  "description": "A soldier lost in war and pronounced dead returns after decade to his wife and daughter, only to realize that they have moved on. As he forces his way into their life, questions are asked whether he is dead or alive.",
+  "created_at": "2026-07-22T15:24:55.105Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4134,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

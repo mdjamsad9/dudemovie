@@ -1,0 +1,32 @@
+{
+  "id": "a7aa7170-8ec1-414c-8d67-1c11e7b0c004",
+  "title": "The Rake",
+  "slug": "the-rake",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/36PlBob2b4mR8FGLA44SbYuhL6c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 78,
+  "rating": 4.574,
+  "description": "Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents' death. Ashley is troubled by the idea that the thing that took her parents' lives may not be finished with her family.",
+  "created_at": "2026-07-22T15:37:31.805Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5645,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

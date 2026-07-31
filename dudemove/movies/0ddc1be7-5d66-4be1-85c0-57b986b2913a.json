@@ -1,0 +1,32 @@
+{
+  "id": "0ddc1be7-5d66-4be1-85c0-57b986b2913a",
+  "title": "Bhoot Police",
+  "slug": "bhoot-police",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4ArhZUOaTslZtrkQkfE8TVpZfLK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 129,
+  "rating": 5.1,
+  "description": "Two brothers Vibhooti and Chiraunji have fought their share of ghosts. However, a new case in a remote village forces them to rethink their own abilities and beliefs.",
+  "created_at": "2026-07-22T15:17:36.354Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3491,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

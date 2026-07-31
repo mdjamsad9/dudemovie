@@ -1,0 +1,28 @@
+{
+  "id": "cbb21000-d83c-40d7-92f2-eba761300221",
+  "title": "The Mauritanian",
+  "slug": "the-mauritanian",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2021,
+  "duration": 129,
+  "rating": 7.395,
+  "description": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.",
+  "created_at": "2026-07-22T15:19:01.411Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3472,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

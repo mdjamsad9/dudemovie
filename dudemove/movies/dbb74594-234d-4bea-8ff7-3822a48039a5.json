@@ -1,0 +1,28 @@
+{
+  "id": "dbb74594-234d-4bea-8ff7-3822a48039a5",
+  "title": "Thodari",
+  "slug": "thodari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bUCE3kTWr80lYCNiJpV1IonPNCX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2016,
+  "duration": 168,
+  "rating": null,
+  "description": "A pantry boy falls in love with the touch-up girl of an actress travelling on his train, but an incident turns the train into an unstoppable force posing a threat to the passengers, and the romance.",
+  "created_at": "2026-07-31T07:23:19.935Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7285,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

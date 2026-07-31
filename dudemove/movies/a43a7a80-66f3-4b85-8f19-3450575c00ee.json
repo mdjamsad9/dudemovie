@@ -1,0 +1,28 @@
+{
+  "id": "a43a7a80-66f3-4b85-8f19-3450575c00ee",
+  "title": "Jai Lava Kusa",
+  "slug": "jai-lava-kusa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/soaeBBssklbEo3Rq8JcdxG1yfTO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 150,
+  "rating": null,
+  "description": "Jai, Lava and Kusa are triplets who get separated during their childhood because of small clashes. While Jai becomes an evil blooded criminal, the other two, Kusa and Lava end up as small-time crook and bank manager respectively. The twist in the tale arises when Jai kidnaps both the brothers and asks them to help him in his political growth. What is Jai’s agenda? Why did he kidnap his brothers? How can the innocent Lava and Kusa manage the criminal Jai?",
+  "created_at": "2026-07-31T07:25:31.949Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6203,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

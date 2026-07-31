@@ -1,0 +1,36 @@
+{
+  "id": "62987a4d-a6b3-4f59-92b5-27272f825115",
+  "title": "Batman and Harley Quinn",
+  "slug": "batman-and-harley-quinn",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v3RP6pp6pfRdvch6QioeQvNdMJs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 74,
+  "rating": 6.189,
+  "description": "Batman and Nightwing are forced to team with the Joker's sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.",
+  "created_at": "2026-07-22T15:43:25.192Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6048,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

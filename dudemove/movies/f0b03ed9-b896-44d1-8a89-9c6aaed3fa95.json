@@ -1,0 +1,32 @@
+{
+  "id": "f0b03ed9-b896-44d1-8a89-9c6aaed3fa95",
+  "title": "Rules Don't Apply",
+  "slug": "rules-don-t-apply",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y7MlOsOYMFcaG8a29ELRN0jw18T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 127,
+  "rating": 5.7,
+  "description": "The unconventional love story of an aspiring actress, her ambitious driver, and their eccentric boss, the legendary billionaire Howard Hughes.",
+  "created_at": "2026-07-22T15:47:13.712Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6943,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

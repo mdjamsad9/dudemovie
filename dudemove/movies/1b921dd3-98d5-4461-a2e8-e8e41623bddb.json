@@ -1,0 +1,32 @@
+{
+  "id": "1b921dd3-98d5-4461-a2e8-e8e41623bddb",
+  "title": "Polaroid",
+  "slug": "polaroid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6a1iqhfM0Y31kNPOSNPIuPrsYQ6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 88,
+  "rating": 6.016,
+  "description": "High school loner Bird Fitcher has no idea what dark secrets are tied to the mysterious Polaroid vintage camera she stumbles upon, but it doesn't take long to discover that those who have their picture taken meet a tragic end. Bird and her friends must survive one more night as they race to solve the mystery of the haunted Polaroid before it kills them all.",
+  "created_at": "2026-07-22T15:31:35.580Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4811,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

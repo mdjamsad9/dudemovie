@@ -1,0 +1,28 @@
+{
+  "id": "45377a26-de78-463a-afb4-f4e2559a3287",
+  "title": "Rowdy",
+  "slug": "rowdy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pLDXzAd0rUT1FXQgKC95UbcOz5p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2014,
+  "duration": 114,
+  "rating": null,
+  "description": "Anna is a much revered Rowdy who is law onto himself. He opposes the construction of a dam that would displace villagers from 30 villages. His enemies plan to eliminate him by manipulating Anna's elder son. But they have to contend with the younger son Krishna.",
+  "created_at": "2026-07-31T07:08:03.901Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7640,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

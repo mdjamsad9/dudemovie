@@ -1,0 +1,32 @@
+{
+  "id": "5a98aa7c-4d0f-4f4f-84e4-0d6af63693e2",
+  "title": "Bullet Head",
+  "slug": "bullet-head",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 93,
+  "rating": 5,
+  "description": "A group of career criminals finds itself trapped in a warehouse with the law – and an Attack Dog named DeNiro closing in.",
+  "created_at": "2026-07-22T15:40:35.107Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6389,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

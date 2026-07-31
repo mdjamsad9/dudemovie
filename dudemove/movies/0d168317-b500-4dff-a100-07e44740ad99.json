@@ -1,0 +1,24 @@
+{
+  "id": "0d168317-b500-4dff-a100-07e44740ad99",
+  "title": "Krishnamma",
+  "slug": "krishnamma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9DlAaAJC0hMDWfNJVpFmjCkwhly.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 130,
+  "rating": 4,
+  "description": "Three men bound by a brotherly bond are intent on revenge.",
+  "created_at": "2026-07-09T17:23:57.353Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 1005,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Krishnamma%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Krishnamma%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

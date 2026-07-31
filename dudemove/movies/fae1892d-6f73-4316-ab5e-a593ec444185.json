@@ -1,0 +1,36 @@
+{
+  "id": "fae1892d-6f73-4316-ab5e-a593ec444185",
+  "title": "The Hurricane Heist",
+  "slug": "the-hurricane-heist",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rAmcj5IZcx59dhev3UnVDEGlImK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 103,
+  "rating": 5.681,
+  "description": "Thieves attempt a massive heist against the U.S. Treasury as a Category 5 hurricane approaches one of its Mint facilities.",
+  "created_at": "2026-07-22T15:37:45.003Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5522,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

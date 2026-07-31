@@ -1,0 +1,32 @@
+{
+  "id": "8cb5310b-201f-47b3-a103-7cae86760400",
+  "title": "Hunter's Creed",
+  "slug": "hunter-s-creed",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kiPj6az73Wn80RIlDOnWjkooNUL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 83,
+  "rating": 3.7,
+  "description": "After losing his wife, a man reunites with his church buddies to film the hunting show they’ve always wanted to make together. Before long, he senses a dark presence in the woods eventually bringing him face to face with death and his faith.",
+  "created_at": "2026-07-22T15:22:05.404Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4133,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

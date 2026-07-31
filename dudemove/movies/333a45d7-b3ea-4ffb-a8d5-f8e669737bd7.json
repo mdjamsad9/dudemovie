@@ -1,0 +1,28 @@
+{
+  "id": "333a45d7-b3ea-4ffb-a8d5-f8e669737bd7",
+  "title": "Body of Sin",
+  "slug": "body-of-sin",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5f4FXBOazh7e0ubxDeQugTiKhKm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 84,
+  "rating": 4.3,
+  "description": "Two women use seduction to steal from straying men. But when they discover one of their victims hiding millions in diamonds, the score of their lives becomes a run for their lives.",
+  "created_at": "2026-07-22T15:38:28.513Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5737,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

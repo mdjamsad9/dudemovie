@@ -1,0 +1,28 @@
+{
+  "id": "63b9f449-9b25-433a-a2fc-2c91aecfc26c",
+  "title": "I Am Jane Doe",
+  "slug": "i-am-jane-doe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cQw2jh60Ey3zY90B8965JRclKQ2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 5.7,
+  "description": "Chronicles the epic battle that several American mothers are waging on behalf of their middle-school daughters, victims of sex-trafficking on Backpage.com, the adult classifieds section that for years was part of the Village Voice.",
+  "created_at": "2026-07-22T15:44:43.165Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6283,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

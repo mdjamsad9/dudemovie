@@ -1,0 +1,32 @@
+{
+  "id": "0cafe2b2-cbde-4e5c-bce2-f91d333445dd",
+  "title": "Breaking In",
+  "slug": "breaking-in",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nuCxJwcQOEKYoiHTgcf4em8TxWv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 88,
+  "rating": 5.946,
+  "description": "Shaun Russell takes her son and daughter on a weekend getaway to her late father's secluded, high-tech vacation home in the countryside. The family soon gets an unwelcome surprise when four men break into the house to find hidden money. After managing to escape, Shaun must now figure out a way to turn the tables on the desperate thieves and save her captive children.",
+  "created_at": "2026-07-22T15:36:46.137Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5557,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

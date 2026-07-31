@@ -1,0 +1,32 @@
+{
+  "id": "aae539f5-d97f-47cf-a8b4-e9ae83f100e9",
+  "title": "I Know What You Did Last Summer",
+  "slug": "i-know-what-you-did-last-summer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 111,
+  "rating": 5.663,
+  "description": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer…and is hell-bent on revenge.",
+  "created_at": "2026-07-09T16:53:39.627Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 717,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/I.Know.What.You.Did.Last.Summer.2025.1080p.WEBRip.x264%20%5BDDN%5D/I.Know.What.You.Did.Last.Summer.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

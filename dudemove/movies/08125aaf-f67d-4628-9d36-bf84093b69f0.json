@@ -1,0 +1,24 @@
+{
+  "id": "08125aaf-f67d-4628-9d36-bf84093b69f0",
+  "title": "Macbeth",
+  "slug": "macbeth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pHWfFhwG2sTKFQBSx9z8lwDMsPV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 121,
+  "rating": 6.8,
+  "description": "Entirely shot on green screen, Shakespeare’s Macbeth has been reinvented by director Kit Monkman (The Knife That Killed Me) in an exciting new film adaptation. Starring Mark Rowley, (The Last Kingdom, Luther). Monkman’s unique adaptation successfully bridges the gap between theatre and film to create a wholly new type of imaginative space. This radical new adaptation puts the audience’s engagement with the story centre-stage, amplifying the theatrical context of the original and creating truly innovative and thrilling cinematic vistas, whilst maintaining the language and themes of Shakespeare’s original play. Using background matte painting and computer modelling to generate the world in which the action plays out, the green screen allows Monkman to create his vision of a multi-tiered globe in which the characters play out their various fates.",
+  "created_at": "2026-07-22T15:38:22.340Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5725,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

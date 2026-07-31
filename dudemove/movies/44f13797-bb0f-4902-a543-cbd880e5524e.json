@@ -1,0 +1,24 @@
+{
+  "id": "44f13797-bb0f-4902-a543-cbd880e5524e",
+  "title": "Wolves",
+  "slug": "wolves",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3a4YYmFf6BsKirzqPfmfPLHgS8r.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 109,
+  "rating": 5.8,
+  "description": "Anthony Keller, star of his NYC high school basketball team, is riding his way to Cornell on a sports scholarship. But he can only maintain his popular jock facade for so long, as his troubled father Lee has a gambling addiction that threatens to derail his dreams both on and off the court.",
+  "created_at": "2026-07-22T15:47:01.034Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6939,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

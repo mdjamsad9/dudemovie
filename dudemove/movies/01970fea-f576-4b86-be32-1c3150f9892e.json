@@ -1,0 +1,32 @@
+{
+  "id": "01970fea-f576-4b86-be32-1c3150f9892e",
+  "title": "Luv Ki Arrange Marriage",
+  "slug": "luv-ki-arrange-marriage",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uN7D0qrFOZ31F8ee2vVUaDq0lkR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 3.8,
+  "description": "Luv is in love with Ishika and wants to ask for her hand in marriage. A laughter riot follows when his widowed father falls in love with Ishika's mother. Which couple has a more successful love story?",
+  "created_at": "2026-07-22T15:10:30.120Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 1653,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

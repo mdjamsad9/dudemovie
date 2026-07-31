@@ -1,0 +1,28 @@
+{
+  "id": "bc471cfe-c72a-489a-9aa7-25a6c4f4845f",
+  "title": "Other People",
+  "slug": "other-people",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3JgG3p4FY0fNSgJneNWnVno7X9j.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 97,
+  "rating": 6.367,
+  "description": "David, a struggling comedy writer fresh off from breaking up with his boyfriend, moves from New York City to Sacramento to help his sick mother. Living with his conservative father and much-younger sisters for the first time in ten years, he feels like a stranger in his childhood home. As his mother’s health declines, David frantically tries to extract meaning from this horrible experience and convince everyone (including himself) that he's \"doing okay.”",
+  "created_at": "2026-07-22T15:49:29.347Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7168,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

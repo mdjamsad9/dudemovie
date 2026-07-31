@@ -1,0 +1,32 @@
+{
+  "id": "9a929152-8030-4a34-b788-cac87fdfb0dc",
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "slug": "the-ministry-of-ungentlemanly-warfare",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "German",
+  "release_year": 2024,
+  "duration": 120,
+  "rating": 7.015,
+  "description": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization — the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+  "created_at": "2026-07-09T17:24:09.015Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 1387,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

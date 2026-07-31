@@ -1,0 +1,24 @@
+{
+  "id": "f92a8851-da63-4537-8354-ad06d74570e8",
+  "title": "Our Kind of Traitor",
+  "slug": "our-kind-of-traitor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sYKzETDzreQKKazVj11J4Oy5Wgt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2016,
+  "duration": 108,
+  "rating": 6.044,
+  "description": "A young Oxford academic and his attorney girlfriend holiday in Morocco. They bump into a Russian millionaire who owns a peninsula and a diamond watch. He wants a game of tennis. What else he wants propels the lovers on a tortuous journey to the City of London and its unholy alliance with Britain's intelligence establishment, to Paris and the Alps.",
+  "created_at": "2026-07-22T15:49:35.640Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7146,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

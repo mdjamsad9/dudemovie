@@ -1,0 +1,28 @@
+{
+  "id": "bcef240d-5953-4e8d-9fff-be8aa92dfd59",
+  "title": "Meka Suri",
+  "slug": "meka-suri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kzGNlXPH6mx90k5UjX5yFsn7lK6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 86,
+  "rating": 6,
+  "description": "Meka Suri is a 2020 ZEE5 Original Telugu crime thriller movie, starring Abhinay and Sumaya in the lead. The story revolves around Meka Suri, a butcher, who gets married to his love, Rani. However, when Rani gets brutally murdered by a group of people, Meka Suri decides to avenge her death with the help of Naxalites.",
+  "created_at": "2026-07-22T15:19:46.869Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4039,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

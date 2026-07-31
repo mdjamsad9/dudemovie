@@ -1,0 +1,28 @@
+{
+  "id": "09a3c0bb-f649-4e42-a894-69ebe077dcff",
+  "title": "St. Agatha",
+  "slug": "st-agatha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zpR3FzaagWTbwgFPn1P6sEZ4str.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 103,
+  "rating": 5.504,
+  "description": "St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.",
+  "created_at": "2026-07-22T15:31:21.278Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5726,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

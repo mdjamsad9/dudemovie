@@ -1,0 +1,36 @@
+{
+  "id": "ad63c976-4df8-4b9f-a12e-1de06b5c8020",
+  "title": "12 Strong",
+  "slug": "12-strong",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 130,
+  "rating": 6.4,
+  "description": "A team of special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.",
+  "created_at": "2026-07-22T15:38:27.943Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5570,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

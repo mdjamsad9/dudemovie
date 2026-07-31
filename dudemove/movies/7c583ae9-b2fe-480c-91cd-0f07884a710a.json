@@ -1,0 +1,28 @@
+{
+  "id": "7c583ae9-b2fe-480c-91cd-0f07884a710a",
+  "title": "Violentia",
+  "slug": "violentia",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8TmZN6LJyhD7Jb5i94oowqq0Dyh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 4.6,
+  "description": "After a random school shootout leaves a scientist's daughter and the shooter dead, he uses nano-robots to look into a psychopath's memories to find reasons for violence and a way to treat it.",
+  "created_at": "2026-07-22T15:31:56.177Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5652,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

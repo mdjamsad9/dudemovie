@@ -1,0 +1,24 @@
+{
+  "id": "76b5a2f5-e1e4-4bf5-bab7-45978eb3a330",
+  "title": "Mission Control: The Unsung Heroes of Apollo",
+  "slug": "mission-control-the-unsung-heroes-of-apollo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5pBpq1fieUBcoFUM4lbGp8dUKR6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 101,
+  "rating": 7.271,
+  "description": "At the heart of the Apollo program was the special team in Mission Control who put a man on the moon and helped create the future.",
+  "created_at": "2026-07-22T15:43:03.113Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6125,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

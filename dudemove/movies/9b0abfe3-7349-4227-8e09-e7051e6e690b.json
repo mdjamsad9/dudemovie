@@ -1,0 +1,32 @@
+{
+  "id": "9b0abfe3-7349-4227-8e09-e7051e6e690b",
+  "title": "Bruce Lee: The Fighter",
+  "slug": "bruce-lee-the-fighter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qNYG0NLXcdZEW56pcOjrm0w6Vos.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2015,
+  "duration": 151,
+  "rating": null,
+  "description": "When a stuntman is mistaken for a police officer, he begins fighting crime.",
+  "created_at": "2026-07-31T07:40:33.992Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7419,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

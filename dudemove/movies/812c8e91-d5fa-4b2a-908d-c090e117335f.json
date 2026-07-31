@@ -1,0 +1,24 @@
+{
+  "id": "812c8e91-d5fa-4b2a-908d-c090e117335f",
+  "title": "Destination: Dewsbury",
+  "slug": "destination-dewsbury",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/42Wd3LWBYlVRLEIy8smysOUJx0W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 86,
+  "rating": 6,
+  "description": "Back in the 80s, five friends cause raucous in their schooldays. Twenty years on and they've got jobs they don't want and wives who don't want them. The leader of the gang, Frankie, is now dying in Yorkshire. The others find out and they get together for one last sad, mad, bad road trip to Dewsbury, before it's all too late. Mix in a dollop of The Inbetweeners' intellectual wit, add a pinch of bromancing from The World's End, and then stir in a few ladles of The Hangover's vomit and you've got Destination: Dewsbury, destined to be one of 2018's funniest releases.",
+  "created_at": "2026-07-22T15:32:30.315Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4910,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

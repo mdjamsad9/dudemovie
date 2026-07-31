@@ -1,0 +1,32 @@
+{
+  "id": "0568bebd-fabe-4b9e-b460-9ee092fca4cb",
+  "title": "Raja Cheyyi Vesthe",
+  "slug": "raja-cheyyi-vesthe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sVujTAKrQ1mIBo197OJrbysNTa1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 144,
+  "rating": null,
+  "description": "An aspiring film director narrates a breath-taking story to his girlfriend in a coffee shop. An unknown message knocks the door the next day, asking him to write a love story. He sends his own love story, which impresses the stranger, but he asks for an action ending for killing a brutal villain. Hero sends a thrilling plot. This time the stranger sends a parcel with a gun to kill the real life brutal villain implying the same plot this time. Hero ends up knowing the cruel intentions of the villain and tries to escape from this trap. But he receives a message showing his girlfriend meeting a planned accident. That states a warning that there is no going back. Can a common man really attempt to kill a brutal villain for his loved ones? Who is the unknown stranger behind this? How will hero unfold the mysterious murder plan?",
+  "created_at": "2026-07-31T07:22:15.679Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7282,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

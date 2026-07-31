@@ -1,0 +1,28 @@
+{
+  "id": "7608fe56-da9c-40b7-9703-b7bb55a71ae8",
+  "title": "Vaayai Moodi Pesavum",
+  "slug": "vaayai-moodi-pesavum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yMT4jyvnhvl1ZxN3g9hV0uXV5r9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2014,
+  "duration": 140,
+  "rating": null,
+  "description": "A mysterious illness declared as dumb flu spreads in a quaint hill station forcing the town's residents from speaking. Will the problems in the place increase due to this or will it lead to better communication?",
+  "created_at": "2026-07-31T07:35:54.200Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 7652,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

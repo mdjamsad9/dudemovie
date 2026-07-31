@@ -1,0 +1,32 @@
+{
+  "id": "d494756b-b263-4c77-b88c-d00d06866aa2",
+  "title": "Okkadu Migiladu",
+  "slug": "okkadu-migiladu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dQCHGxOOmt1u6EP9lW4W93HNFDL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 141,
+  "rating": null,
+  "description": "'Okkadu Migiladu' is the story of displaced Sri Lankan Tamilians who find themselves stuck with the tag of 'refugees' all their lives. The mistreatment they face both in India and Sri Lanka, with either country refusing to accept them as their own, forms the crux of the story.",
+  "created_at": "2026-07-31T07:22:16.259Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6227,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

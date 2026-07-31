@@ -1,0 +1,28 @@
+{
+  "id": "debdc910-fe0e-45d0-b02b-cb2c7b34d58f",
+  "title": "Last Seen Alive",
+  "slug": "last-seen-alive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qvqyDj34Uivokf4qIvK4bH0m0qF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 95,
+  "rating": 6.391,
+  "description": "After Will Spann's wife suddenly vanishes at a gas station, his desperate search to find her leads him down a dark path that forces him to run from authorities and take the law into his own hands.",
+  "created_at": "2026-07-22T15:14:21.440Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3012,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

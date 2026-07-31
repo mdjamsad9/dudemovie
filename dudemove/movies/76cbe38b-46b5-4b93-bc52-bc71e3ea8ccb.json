@@ -1,0 +1,32 @@
+{
+  "id": "76cbe38b-46b5-4b93-bc52-bc71e3ea8ccb",
+  "title": "Bhale Manchi Roju",
+  "slug": "bhale-manchi-roju",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yvV9h9nM0eNg8iYm3bG1RMlkCcq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2015,
+  "duration": 134,
+  "rating": null,
+  "description": "The story revolves around a guy whose got a defect in him and how he gets trapped in a crime which forces him to kidnap a girl in order save his beloved ones.",
+  "created_at": "2026-07-31T07:30:54.625Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 7541,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d63d4e1a-8c23-495f-8b4e-63b14b50183e",
+  "title": "Paul, Apostle of Christ",
+  "slug": "paul-apostle-of-christ",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 108,
+  "rating": 7.6,
+  "description": "Luke risks his life to visit Paul in a Roman prison, where the apostle awaits execution under Nero. As Paul reflects on his past and the Christian community faces persecution, Luke resolves to record the story of the early church.",
+  "created_at": "2026-07-22T15:37:30.172Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5504,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

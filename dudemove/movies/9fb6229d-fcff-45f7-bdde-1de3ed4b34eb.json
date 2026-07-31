@@ -1,0 +1,32 @@
+{
+  "id": "9fb6229d-fcff-45f7-bdde-1de3ed4b34eb",
+  "title": "Arctic Dogs",
+  "slug": "arctic-dogs",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 92,
+  "rating": 6.017,
+  "description": "Animals band together to save the day when the evil Otto Von Walrus hatches a sinister scheme to accelerate global warming and melt the Arctic Circle.",
+  "created_at": "2026-07-22T15:32:25.788Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4934,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

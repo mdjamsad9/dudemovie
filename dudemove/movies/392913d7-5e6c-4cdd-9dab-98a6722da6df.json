@@ -1,0 +1,24 @@
+{
+  "id": "392913d7-5e6c-4cdd-9dab-98a6722da6df",
+  "title": "The Chain",
+  "slug": "the-chain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/svDXf7TBrxf4dOXIRJWUbCxWYPv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 101,
+  "rating": 5.1,
+  "description": "When Mike finds out that he has he same neurological disease as his father, he decides to enter a chain of assisted suicides, which operates under one rule: if you want to die, you must kill someone first.",
+  "created_at": "2026-07-22T15:29:38.446Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4178,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

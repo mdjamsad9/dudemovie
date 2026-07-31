@@ -1,0 +1,32 @@
+{
+  "id": "57d2e083-7450-49f2-9a30-d5ebdffe1b03",
+  "title": "Take Off",
+  "slug": "take-off",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t8Sp0gyC0dLdzrHoZ4Knh78p5GE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 139,
+  "rating": null,
+  "description": "A group of Malayali nurses stranded in Iraq, must survive their capture by the extremists and reach out to the rescue team headed by the Indian government.",
+  "created_at": "2026-07-31T07:32:46.550Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6261,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

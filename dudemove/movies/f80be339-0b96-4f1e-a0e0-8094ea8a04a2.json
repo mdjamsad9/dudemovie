@@ -1,0 +1,36 @@
+{
+  "id": "f80be339-0b96-4f1e-a0e0-8094ea8a04a2",
+  "title": "Vice",
+  "slug": "vice-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cBwZIq1QFasmsC9Wi3HvyEljfYN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 96,
+  "rating": null,
+  "description": "Julian Michaels has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial becomes self-aware and escapes, she finds herself caught in the crossfire between Julian's mercenaries and a cop who is hell-bent on shutting down Vice, and stopping the violence once and for all.",
+  "created_at": "2026-07-31T07:41:16.407Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 7488,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

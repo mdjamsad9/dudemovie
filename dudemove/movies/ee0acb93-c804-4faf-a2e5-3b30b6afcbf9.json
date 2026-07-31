@@ -1,0 +1,32 @@
+{
+  "id": "ee0acb93-c804-4faf-a2e5-3b30b6afcbf9",
+  "title": "Maya",
+  "slug": "maya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oQ1i56kTu0i4V2hZruov1Y6fzY8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil Telugu",
+  "release_year": 2015,
+  "duration": 141,
+  "rating": null,
+  "description": "An artist realizes that the story that he is illustrating, about a ghost who was an inmate of an asylum in a forest, could be real. Meanwhile, an aspiring actress takes up a challenge to watch a horror film all alone in the theatre at night. How are these storylines connected?",
+  "created_at": "2026-07-31T07:11:08.634Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7609,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "97e61929-b3f0-4760-82ca-1254db55b7d2",
+  "title": "Rocky Handsome",
+  "slug": "rocky-handsome",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x6jfeYy7KTBk4eS0kMUHTd4sGtZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 126,
+  "rating": 6.253,
+  "description": "A vengeful man embarks on a murderous rampage after the kidnapping of a 7-year-old girl.",
+  "created_at": "2026-07-22T15:46:06.991Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6883,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

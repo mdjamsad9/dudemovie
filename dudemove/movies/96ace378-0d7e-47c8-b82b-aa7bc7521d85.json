@@ -1,0 +1,32 @@
+{
+  "id": "96ace378-0d7e-47c8-b82b-aa7bc7521d85",
+  "title": "Next Enti?",
+  "slug": "next-enti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qGIwZXqQWn5fh8BxLEolmZk9MiC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 157,
+  "rating": null,
+  "description": "Tammy ‘hates boys’ and will only settle for the kind of standards her father sets for her; both with the way he is and the 'knowledge' he imparts her with. Sanju is one of the men she dates, a man-child who refuses to grow up. But when both part ways on such uncertain terms, what brings them together again?",
+  "created_at": "2026-07-31T07:18:16.929Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5888,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

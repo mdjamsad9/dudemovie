@@ -1,0 +1,36 @@
+{
+  "id": "c68207cb-4526-44e5-8d29-d71d6411f04f",
+  "title": "Kishkindha Kaandam",
+  "slug": "kishkindha-kaandam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rniBYHDRs6e8qMkPr4D4ZE5uMhF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 125,
+  "rating": 7.673,
+  "description": "Strange events unfold in a monkey-inhabited village, driving a newlywed couple and forest officials to embark on a mission to uncover the root of the unusual disturbances.",
+  "created_at": "2026-07-09T17:09:28.740Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 1357,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0327c97f-98be-4ef4-bdbd-16cf5a4a67f7",
+  "title": "The Man in the Trunk",
+  "slug": "the-man-in-the-trunk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5iFnU1ef2H7rDpUqVjD1AwEVLLL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 84,
+  "rating": 3.5,
+  "description": "On an otherwise quiet night there is a startling knock at the door. Andrew Tucker answers the door to find an old friend whom he hasn't seen in years. The disheveled and absent friend comes to him with one request: \"I need you to come with me but, I can't tell you where we're going.\" Andrew takes a chance but learns that every answer brings more questions. Nothing good ever comes knocking after midnight and Andrew's nightmare asks how far you would go to help a friend.",
+  "created_at": "2026-07-22T15:26:40.744Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4575,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

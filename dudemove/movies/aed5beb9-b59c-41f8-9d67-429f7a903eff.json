@@ -1,0 +1,28 @@
+{
+  "id": "aed5beb9-b59c-41f8-9d67-429f7a903eff",
+  "title": "Carma",
+  "slug": "carma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wowEPCDJklduuVsBFMigtcdPnEg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Urdu",
+  "release_year": 2022,
+  "duration": 169,
+  "rating": null,
+  "description": "A man is abducted and held hostage in his car by 3 members of a dangerous gang, led by a vicious psychopath. But what appears to be a straight-forward kidnapping turns out to be an intricate tale of deception, vengeance and retribution. Each progressive scene during the kidnapping is linked with impactful scenes from the past, producing a cohesive non-linear story that ends with a series of mind-boggling, yet ultimately satisfying, twists.",
+  "created_at": "2026-07-22T15:13:40.817Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2948,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

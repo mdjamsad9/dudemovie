@@ -1,0 +1,28 @@
+{
+  "id": "e8089782-577a-4177-8922-efd1fe8ad8cd",
+  "title": "Chennai 600028 II: Second Innings",
+  "slug": "chennai-600028-ii-second-innings",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vSlBmLzEne3kGNZTPnZZCGZvKBC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2016,
+  "duration": 154,
+  "rating": null,
+  "description": "A group of friends reunite for the wedding of one of their own. However, when a mishap threatens to ruin the event, only a series of cricket matches can save the day.",
+  "created_at": "2026-07-31T07:36:35.682Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7328,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

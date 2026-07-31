@@ -1,0 +1,28 @@
+{
+  "id": "b1669aa6-c304-48df-adc0-e8d7ce14bc4e",
+  "title": "Meenakshi Sundareshwar",
+  "slug": "meenakshi-sundareshwar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3GfAdYIbjAGsjvWaumEOyD2w3pZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 141,
+  "rating": 5.586,
+  "description": "Forced to live apart due to a unique job prospect, two newlyweds face the hassles, hiccups — and hilarity — that arise from their long-distance marriage.",
+  "created_at": "2026-07-22T15:16:59.197Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3243,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

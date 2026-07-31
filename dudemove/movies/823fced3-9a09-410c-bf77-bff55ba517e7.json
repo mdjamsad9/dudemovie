@@ -1,0 +1,32 @@
+{
+  "id": "823fced3-9a09-410c-bf77-bff55ba517e7",
+  "title": "Green Lantern: Beware My Power",
+  "slug": "green-lantern-beware-my-power",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2022,
+  "duration": 88,
+  "rating": 6.731,
+  "description": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
+  "created_at": "2026-07-22T15:13:53.802Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 2968,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

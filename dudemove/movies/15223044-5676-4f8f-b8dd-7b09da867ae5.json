@@ -1,0 +1,24 @@
+{
+  "id": "15223044-5676-4f8f-b8dd-7b09da867ae5",
+  "title": "Babu Baga Busy",
+  "slug": "babu-baga-busy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9KTD6PBU0KDZj4XZNOviko5xFTv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 122,
+  "rating": null,
+  "description": "A man's sexual affairs with different woman in different stages of life comes to an end when he meets a girl accidentally.",
+  "created_at": "2026-07-31T07:18:39.921Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6686,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

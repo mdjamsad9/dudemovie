@@ -1,0 +1,40 @@
+{
+  "id": "45d9d800-723f-45c1-a2b3-bd943e130598",
+  "title": "Allied",
+  "slug": "allied",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Arabic",
+  "release_year": 2016,
+  "duration": 124,
+  "rating": 6.805,
+  "description": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+  "created_at": "2026-07-22T15:47:15.686Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 6946,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

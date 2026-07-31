@@ -1,0 +1,28 @@
+{
+  "id": "e8f6498d-2168-4450-ba89-58fd8717fea5",
+  "title": "Shiddat",
+  "slug": "shiddat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dEXxQAspQzZsw9VEiuVWRDJnvvy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 146,
+  "rating": 7.026,
+  "description": "Love-struck Jaggi can cross the seven seas for his dream girl, Kartika. Even if it means stopping her wedding as he doesn't want to be friend-zoned.",
+  "created_at": "2026-07-22T15:17:22.543Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3282,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

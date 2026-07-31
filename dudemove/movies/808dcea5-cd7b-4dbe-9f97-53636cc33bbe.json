@@ -1,0 +1,32 @@
+{
+  "id": "808dcea5-cd7b-4dbe-9f97-53636cc33bbe",
+  "title": "Vil Ambu",
+  "slug": "vil-ambu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z5dna4cgNTeYkbAHrLRnCi5aFPm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 137,
+  "rating": null,
+  "description": "Two individuals who live in the same locality influence the lives of each other without even realising the presence of the other.",
+  "created_at": "2026-07-31T07:22:52.071Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7283,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

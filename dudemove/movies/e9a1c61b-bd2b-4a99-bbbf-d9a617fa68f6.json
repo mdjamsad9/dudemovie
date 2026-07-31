@@ -1,0 +1,36 @@
+{
+  "id": "e9a1c61b-bd2b-4a99-bbbf-d9a617fa68f6",
+  "title": "Wrong Place",
+  "slug": "wrong-place",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mlEtOQAQVy6eW65sHz3UduvzRK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 96,
+  "rating": 4.304,
+  "description": "A methamphetamine cook hunts down the former police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.",
+  "created_at": "2026-07-22T15:13:51.946Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2981,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a109a477-205d-43d6-a9b7-b48ecc235951",
+  "title": "11:55",
+  "slug": "11-55",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cq8YSZwPXK0M4HwofurhNOfUaFt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 80,
+  "rating": 4.2,
+  "description": "Upon his return home, a U.S. Marine must face up to the consequences of a shameful tragedy that has defined his past before he runs out of time.",
+  "created_at": "2026-07-22T15:44:46.122Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6288,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

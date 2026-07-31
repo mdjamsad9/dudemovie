@@ -1,0 +1,28 @@
+{
+  "id": "86825e14-d0af-45bf-9729-33d301c88b03",
+  "title": "Athiratha",
+  "slug": "athiratha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mbOkYHaUha0CeFFQke1QZd0jYFX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 130,
+  "rating": null,
+  "description": "The story of Athiratha revolves around an aspiring journalist who helps the innocent and talented young students get a fair chance by uncovering the huge racket of question paper leaks and fake certification prevalent in the country.",
+  "created_at": "2026-07-31T07:20:44.611Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6309,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

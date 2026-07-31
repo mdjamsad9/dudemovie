@@ -1,0 +1,32 @@
+{
+  "id": "b98a391b-2b9e-4171-b76d-56fdd655f6ed",
+  "title": "CIA: Comrade In America",
+  "slug": "cia-comrade-in-america",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ke1nNHvASJ0kn1cs7PlCx1mWtH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 134,
+  "rating": null,
+  "description": "A young Aji Mathew is a communist who goes the whole nine yards for the ideologies he believes in. When the girl he loves leaves to the US out of the blue and her parents fix her wedding, Aji is left with just a fortnight to reach the country albeit with no passport or visa. How far he is willing to go for love forms the plot.",
+  "created_at": "2026-07-31T06:42:24.447Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6241,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

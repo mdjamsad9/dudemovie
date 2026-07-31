@@ -1,0 +1,28 @@
+{
+  "id": "010a8116-f468-48aa-a2d5-5e6223cc0021",
+  "title": "Vunnadhi Okate Zindagi",
+  "slug": "vunnadhi-okate-zindagi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dqY8EprlgK1u4P3rncbNXFJ01Lr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 149,
+  "rating": null,
+  "description": "The solid friendship between two men takes a beating when a woman enters their lives.",
+  "created_at": "2026-07-31T07:17:29.585Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6221,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

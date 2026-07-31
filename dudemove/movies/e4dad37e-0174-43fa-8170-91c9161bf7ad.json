@@ -1,0 +1,32 @@
+{
+  "id": "e4dad37e-0174-43fa-8170-91c9161bf7ad",
+  "title": "The Son of Bigfoot",
+  "slug": "the-son-of-bigfoot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 92,
+  "rating": 6.588,
+  "description": "Teenage outsider Adam sets out on an epic and daring quest to uncover the mystery behind his long-lost dad, only to find out that he is none other than the legendary Bigfoot! He has been hiding deep in the forest for years to protect himself and his family from HairCo., a giant corporation eager to run scientific experiments with his special DNA. As father and son start making up for lost time after the boy's initial disbelief, Adam soon discovers that he too is gifted with superpowers beyond his imagination. But little do they know, HairCo. is on their tail as Adam's traces have led them to Bigfoot!",
+  "created_at": "2026-07-22T15:41:27.257Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6358,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

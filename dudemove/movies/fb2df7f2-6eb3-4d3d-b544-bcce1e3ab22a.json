@@ -1,0 +1,28 @@
+{
+  "id": "fb2df7f2-6eb3-4d3d-b544-bcce1e3ab22a",
+  "title": "Drive",
+  "slug": "drive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ZUNyvVGTPkeBVXXTMnhIRoXlfo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 119,
+  "rating": 5,
+  "description": "A notorious thief allies with a street racer for a grand heist involving an elaborate game of deceit with authorities, who have their own dirty secrets.",
+  "created_at": "2026-07-22T15:27:44.856Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4777,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

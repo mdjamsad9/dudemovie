@@ -1,0 +1,24 @@
+{
+  "id": "6268552f-b80c-4663-9abe-83a360026924",
+  "title": "Blackboard vs Whiteboard",
+  "slug": "blackboard-vs-whiteboard",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/83gg2RiYh8HVoatxCFlv8NoDgEh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 152,
+  "rating": 7,
+  "description": "When a news reporter arrives at the school and challenges the school authorities to improve their condition within 15 days, Amit and Dinanath have no other way out than to accept the challenge. Will they be able to fulfill this challenge?",
+  "created_at": "2026-07-22T15:25:15.861Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4509,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6e730fb9-286a-412a-939d-cead2e21a807",
+  "title": "The Postcard Killings",
+  "slug": "the-postcard-killings",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pdj1EK3ZTTroWOcH1BTE7fZwm1c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Dutch",
+  "release_year": 2020,
+  "duration": 101,
+  "rating": 6.343,
+  "description": "After suffering a personal tragedy, and desperate for justice, Jacob Kanon, a veteran New York City police detective, embarks on the search for a twisted killer who is leaving a bloody trail of elaborate murders across Europe.",
+  "created_at": "2026-07-22T15:24:41.967Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4132,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

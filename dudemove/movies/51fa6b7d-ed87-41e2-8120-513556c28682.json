@@ -1,0 +1,32 @@
+{
+  "id": "51fa6b7d-ed87-41e2-8120-513556c28682",
+  "title": "(MAD)²",
+  "slug": "mad-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cYGNd3oMRYsvM9gW4i0bzAclOUb.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 127,
+  "rating": 7,
+  "description": "After his wedding turns into a disaster, Laddu and his pals — Manoj, Ashok and Damodar — find themselves traveling to Goa for another wild adventure.",
+  "created_at": "2026-07-09T16:59:57.011Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 661,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mad%20Square%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mad%20Square%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

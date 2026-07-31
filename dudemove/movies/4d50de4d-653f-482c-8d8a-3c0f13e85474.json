@@ -1,0 +1,36 @@
+{
+  "id": "4d50de4d-653f-482c-8d8a-3c0f13e85474",
+  "title": "Racetime",
+  "slug": "racetime",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iUlP6aUCyGh3aEEU0DmnFaJlAOg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 5.5,
+  "description": "A spectacular sled race through the village. Frankie-Four-Eyes and his team, including Sophie as the driver, take on the newcomers: the mysterious and conceited Zac and his athletic cousin Charlie.",
+  "created_at": "2026-07-22T15:33:09.684Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5329,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

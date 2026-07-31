@@ -1,0 +1,28 @@
+{
+  "id": "09fcda69-3fbb-42a4-ba7a-483cad552da7",
+  "title": "Friend Request",
+  "slug": "friend-request",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7gfG9tGRPzmVyg3nEwQrTGOJ8C6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 92,
+  "rating": 5.549,
+  "description": "Enjoying college life as a popular student, Laura shares everything with her more than 800 friends on Facebook. But one day, after accepting a friend request from a  social outcast named Marina, Laura’s life is cursed...",
+  "created_at": "2026-07-22T15:49:23.083Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7159,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

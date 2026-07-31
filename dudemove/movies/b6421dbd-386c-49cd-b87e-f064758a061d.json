@@ -1,0 +1,24 @@
+{
+  "id": "b6421dbd-386c-49cd-b87e-f064758a061d",
+  "title": "Robinhood",
+  "slug": "robinhood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zeH5oAM1A3zgXbvQ3L9GiDs3ldQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 150,
+  "rating": 5.3,
+  "description": "Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security officer for Neera, a rollercoaster ride of action, comedy, and unexpected twists follows.",
+  "created_at": "2026-07-09T16:51:51.160Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 741,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Robinhood%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Robinhood%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

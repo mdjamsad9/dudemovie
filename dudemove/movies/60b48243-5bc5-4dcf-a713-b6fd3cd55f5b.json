@@ -1,0 +1,28 @@
+{
+  "id": "60b48243-5bc5-4dcf-a713-b6fd3cd55f5b",
+  "title": "The King of Staten Island",
+  "slug": "the-king-of-staten-island",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 137,
+  "rating": 6.979,
+  "description": "Scott has been a case of arrested development ever since his firefighter father died when he was seven. He's now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.",
+  "created_at": "2026-07-22T15:23:06.903Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4113,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

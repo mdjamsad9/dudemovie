@@ -1,0 +1,28 @@
+{
+  "id": "e6508cec-2bf1-415e-908e-9cb44589f107",
+  "title": "King Richard",
+  "slug": "king-richard",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 144,
+  "rating": 7.601,
+  "description": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+  "created_at": "2026-07-22T15:16:45.793Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 3229,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

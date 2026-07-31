@@ -1,0 +1,36 @@
+{
+  "id": "2d064107-22e1-4e8f-97e3-92153975999c",
+  "title": "Hostiles",
+  "slug": "hostiles",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rqoezyB51GfhiloOB5ZErg5HXas.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 134,
+  "rating": 6.943,
+  "description": "A legendary Native American-hating Army captain nearing retirement in 1892 is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.",
+  "created_at": "2026-07-22T15:38:29.236Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6399,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

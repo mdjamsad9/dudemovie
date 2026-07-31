@@ -1,0 +1,32 @@
+{
+  "id": "2768af8f-a739-4f65-ad4e-f0cfc2da7587",
+  "title": "Live by Night",
+  "slug": "live-by-night",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bkd46T4RplawnDjpHoI8mhzTLks.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 129,
+  "rating": 6.271,
+  "description": "A group of Boston-bred gangsters set up shop in balmy Florida during the Prohibition era, facing off against the competition and the Ku Klux Klan.",
+  "created_at": "2026-07-22T15:46:52.618Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6927,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

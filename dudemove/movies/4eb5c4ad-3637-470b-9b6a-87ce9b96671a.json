@@ -1,0 +1,28 @@
+{
+  "id": "4eb5c4ad-3637-470b-9b6a-87ce9b96671a",
+  "title": "Wolves at the Door",
+  "slug": "wolves-at-the-door",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kizBwSEfvJFEOuYfwbOGtWZit3v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 73,
+  "rating": 4.887,
+  "description": "Four friends gather at an elegant home during the Summer of Love, 1969. Unbeknownst to them, deadly visitors are waiting outside. What begins as a simple farewell party turns to a night of primal terror as the intruders stalk and torment the four, who struggle for their lives against what appears to be a senseless attack.",
+  "created_at": "2026-07-22T15:46:09.120Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6889,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

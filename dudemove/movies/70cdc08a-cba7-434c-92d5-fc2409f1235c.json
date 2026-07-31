@@ -1,0 +1,28 @@
+{
+  "id": "70cdc08a-cba7-434c-92d5-fc2409f1235c",
+  "title": "Unpaused",
+  "slug": "unpaused",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xhdsM0erWCo6DGMIQnp1lDtGp8N.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 113,
+  "rating": 6.643,
+  "description": "An anthology that brings five unique creators and filmmakers to tell stories about love, happiness, friendship, new beginnings, second chances and a glimmer of hope - set and filmed in the times of the COVID-19 lockdown.",
+  "created_at": "2026-07-22T15:20:37.021Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3945,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

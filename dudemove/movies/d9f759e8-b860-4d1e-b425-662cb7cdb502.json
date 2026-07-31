@@ -1,0 +1,28 @@
+{
+  "id": "d9f759e8-b860-4d1e-b425-662cb7cdb502",
+  "title": "Saahasam Swaasaga Saagipo",
+  "slug": "saahasam-swaasaga-saagipo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/df6NIFir7KUMrJZtDgRjFQQIobY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2016,
+  "duration": 154,
+  "rating": null,
+  "description": "A couple on a road trip across the country are thrown into a situation that is beyond their control.",
+  "created_at": "2026-07-31T07:11:01.234Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6751,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

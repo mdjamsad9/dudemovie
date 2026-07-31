@@ -1,0 +1,24 @@
+{
+  "id": "f798604e-0fa0-4cad-8b7a-ca5065ab9d59",
+  "title": "The Return Of The Rebel 2",
+  "slug": "the-return-of-the-rebel-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8hKBaSW51HOc7pkGpYd2BWQCDaI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": null,
+  "duration": null,
+  "rating": null,
+  "description": "Telugu actor Prabhas, who has been riding high on the unprecedented success of Baahubali 2, is coming back with Billa, the 2009  Telugu action thriller. The makers of the film have decided to release the Anushka Shetty and Prabhas starrer in Hindi now.",
+  "created_at": "2026-07-31T07:41:50.240Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7744,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

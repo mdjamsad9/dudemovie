@@ -1,0 +1,28 @@
+{
+  "id": "1fb92373-2100-4c9c-a70d-28222bf88846",
+  "title": "Gemini Ganeshanum Suruli Raajanum",
+  "slug": "gemini-ganeshanum-suruli-raajanum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/13a35ajW4HmVprxAi2rv7bP788v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2017,
+  "duration": 134,
+  "rating": null,
+  "description": "A romantic youngster, who manages to have several relationships with pretty girls, realises his mistakes and finally decides to settle down in life by marrying one among them.",
+  "created_at": "2026-07-31T07:31:36.297Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6276,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

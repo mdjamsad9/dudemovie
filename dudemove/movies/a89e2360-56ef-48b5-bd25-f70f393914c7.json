@@ -1,0 +1,28 @@
+{
+  "id": "a89e2360-56ef-48b5-bd25-f70f393914c7",
+  "title": "Trading Paint",
+  "slug": "trading-paint",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yV9G1nO6YxEWzXblqMUFoS19R9v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5.331,
+  "description": "A stock car racing legend is drawn back to the dirt track when his son, an aspiring driver, joins a rival racing team.",
+  "created_at": "2026-07-22T15:33:25.735Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5015,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "44b7322c-97c1-4869-bcb1-97822a8f004f",
+  "title": "Columbus",
+  "slug": "columbus-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cVLlV0cr6iYSBFYG06bXfKZJ7ZY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2015,
+  "duration": 127,
+  "rating": null,
+  "description": "Ashwin is a college student who falls for Indu. His love for her becomes so distracting that he ignores his former career goals to concentrate on her. His zeal begins to annoy her. She irritably ignores him and goes to Delhi. Heartbroken, he follows her and becomes involved in a murder mystery and is unfortunately arrested. When released from jail he finds that she has left for good. He crosses paths with Neeraja  who promises to help him track her down. Neeraja and Ashwin start getting close to each other.",
+  "created_at": "2026-07-31T07:09:53.759Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7613,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "36207c06-6255-48c2-b625-4b7139b793fc",
+  "title": "The Bay of Silence",
+  "slug": "the-bay-of-silence",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oB3LX9C3FbJvPtrk1J7qHQKvzLr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 4.442,
+  "description": "Will believes his wife Rosalind is innocent of their son's suspected murder, only to discover the devastating truth behind her past links her to another unsolved crime.",
+  "created_at": "2026-07-22T15:23:05.343Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4095,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

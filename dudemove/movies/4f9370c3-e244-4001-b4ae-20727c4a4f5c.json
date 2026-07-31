@@ -1,0 +1,28 @@
+{
+  "id": "4f9370c3-e244-4001-b4ae-20727c4a4f5c",
+  "title": "Seberg",
+  "slug": "seberg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kv78WJ2YvWyk3c32sbOGFh64xcs.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 5.907,
+  "description": "An ambitious young FBI agent is assigned to investigate iconic actress Jean Seberg when she becomes embroiled in the tumultuous civil rights movement in late 1960s Los Angeles.",
+  "created_at": "2026-07-22T15:25:39.298Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4400,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

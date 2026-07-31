@@ -1,0 +1,28 @@
+{
+  "id": "8ad5211e-d69a-45f8-b474-b4446856576f",
+  "title": "Punyalan Agarbattis",
+  "slug": "punyalan-agarbattis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bNFycwoBG0KjpcZJsrWqhprDDCR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2013,
+  "duration": 137,
+  "rating": null,
+  "description": "Punyalan Agarbattis is the story of Joy Thakkolkaran, a young entrepreuner from Thrissur. His new business venture 'Punyalan Agarbattis' involves manufacturing agarbattis from elephant dung. Fragrance and quality of his incense sticks aside, its mosquito repellant capabilities too have pleased those who tried the samples. However, Joy suddenly has a new set of people and problems as 'Punyalan Agarbattis' comes to a halt.",
+  "created_at": "2026-07-31T07:28:30.438Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7689,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

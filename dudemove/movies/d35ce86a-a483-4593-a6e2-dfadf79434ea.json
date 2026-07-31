@@ -1,0 +1,28 @@
+{
+  "id": "d35ce86a-a483-4593-a6e2-dfadf79434ea",
+  "title": "The Mule",
+  "slug": "the-mule",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 116,
+  "rating": 6.867,
+  "description": "Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+  "created_at": "2026-07-22T15:32:54.907Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5547,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

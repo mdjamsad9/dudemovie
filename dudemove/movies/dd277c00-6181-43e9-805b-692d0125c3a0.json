@@ -1,0 +1,28 @@
+{
+  "id": "dd277c00-6181-43e9-805b-692d0125c3a0",
+  "title": "Negative",
+  "slug": "negative",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2017,
+  "duration": 99,
+  "rating": 4.403,
+  "description": "Negative is set in the American southwest and follows Natalie, a former British spy who flees Los Angeles for Phoenix after a deal with a cartel goes wrong. She's joined by Hollis, a street photographer who has put his life at risk by taking Natalie's photo at the wrong time and in the wrong place.",
+  "created_at": "2026-07-22T15:38:30.288Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6416,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

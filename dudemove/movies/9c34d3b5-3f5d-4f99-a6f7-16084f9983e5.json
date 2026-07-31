@@ -1,0 +1,24 @@
+{
+  "id": "9c34d3b5-3f5d-4f99-a6f7-16084f9983e5",
+  "title": "Dead Story",
+  "slug": "dead-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y6hdIzJLrxoozzgsOIvOBoXnHjl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 81,
+  "rating": 3.808,
+  "description": "When a young couple – Anne and Harold – moves into a new home without knowing it was a site of horrific murders, Anne's loneliness and strange behavior makes their relationship complicated, especially after Anne meets 'Mary', a dark presence from which she can't escape.",
+  "created_at": "2026-07-22T15:47:40.119Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6264,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

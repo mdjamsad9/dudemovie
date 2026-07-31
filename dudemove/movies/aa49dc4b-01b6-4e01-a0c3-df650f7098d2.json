@@ -1,0 +1,28 @@
+{
+  "id": "aa49dc4b-01b6-4e01-a0c3-df650f7098d2",
+  "title": "Candyman",
+  "slug": "candyman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2021,
+  "duration": 91,
+  "rating": 5.999,
+  "description": "A Chicago artist's sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
+  "created_at": "2026-07-22T15:17:29.482Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3300,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

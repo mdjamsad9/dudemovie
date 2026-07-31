@@ -1,0 +1,40 @@
+{
+  "id": "6f933335-08ac-4513-b827-bd1cea98cdf2",
+  "title": "Gangster Land",
+  "slug": "gangster-land",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fuIVbO6fLrMgmDvZsIutasCSVJC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 5.381,
+  "description": "The story of America's most famous mobsters and their rise to power. Examine Al Capone's ascension through the eyes of his second in command, “Machine Gun” Jack McGurn.",
+  "created_at": "2026-07-22T15:41:09.811Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6394,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

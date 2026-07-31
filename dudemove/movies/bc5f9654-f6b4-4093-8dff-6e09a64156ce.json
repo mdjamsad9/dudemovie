@@ -1,0 +1,32 @@
+{
+  "id": "bc5f9654-f6b4-4093-8dff-6e09a64156ce",
+  "title": "Laal Singh Chaddha",
+  "slug": "laal-singh-chaddha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g5rNmcznZX0UPm8CGjfk7kHcAbq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 164,
+  "rating": 6.333,
+  "description": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots ,  unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
+  "created_at": "2026-07-22T15:13:45.366Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 2965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

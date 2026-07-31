@@ -1,0 +1,28 @@
+{
+  "id": "f31fb567-6717-47ba-b5f0-6e3cd7d515f4",
+  "title": "Kanchana 3",
+  "slug": "kanchana-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r01e7wDHHFl2WaXBBzMhGoZg50t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 174,
+  "rating": null,
+  "description": "A young man who gets easily scared is possessed by a ghost that is seeking revenge.",
+  "created_at": "2026-07-31T07:06:15.383Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5059,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

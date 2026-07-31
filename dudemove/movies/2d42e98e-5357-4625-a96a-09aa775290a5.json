@@ -1,0 +1,32 @@
+{
+  "id": "2d42e98e-5357-4625-a96a-09aa775290a5",
+  "title": "Paandavulu Paandavulu Thummeda",
+  "slug": "paandavulu-paandavulu-thummeda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pA89gXMTfP0pikfFTNCgzuIzAhd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2014,
+  "duration": 150,
+  "rating": null,
+  "description": "When Naidu confronts his son's rival group to end their squabbles, he encounters their mother Satya, his long lost love, separated by the twist of fate. As Honey learns the secret between Naidu and Satya, she is kidnapped by her father's arch rival Suyodhana Goud, who sees an opportunity to unwillingly ensnare her into a marriage with his son. Although these unfortunate turn of events bring Naidu, Satya and their sons together, they must devise a clever escape plan for Honey in this comedy-action journey.",
+  "created_at": "2026-07-31T07:22:47.885Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7653,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

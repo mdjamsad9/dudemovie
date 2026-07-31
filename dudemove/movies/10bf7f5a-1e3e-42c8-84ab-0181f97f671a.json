@@ -1,0 +1,24 @@
+{
+  "id": "10bf7f5a-1e3e-42c8-84ab-0181f97f671a",
+  "title": "Pieces of a Woman",
+  "slug": "pieces-of-a-woman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 127,
+  "rating": 7.016,
+  "description": "When a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.",
+  "created_at": "2026-07-22T15:20:18.701Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3748,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

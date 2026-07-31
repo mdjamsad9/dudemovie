@@ -1,0 +1,24 @@
+{
+  "id": "abb4b3cb-5d4f-48c3-a5e2-a6ddb4da120c",
+  "title": "Tapestry",
+  "slug": "tapestry",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZRidC4jcW0ka0D0OLSJNTGrQXq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 98,
+  "rating": 4.5,
+  "description": "As things start to unravel in Ryan's life, he is left feeling vulnerable, insignificant and wondering why. With his priorities on everything but God, he begins to isolate himself from those around him as his hardships multiply. In the midst of the big-picture perspective his struggles give him, God places people around him to help him more clearly understand the profound plan He has for our lives. He relearns how to truly rely on God through the suffering life brings and how to be confident in the intricate plan that threads together perfectly like a tapestry.",
+  "created_at": "2026-07-22T15:30:40.033Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4721,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

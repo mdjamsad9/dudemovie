@@ -1,0 +1,32 @@
+{
+  "id": "03a35032-8863-411f-b589-b4b45173fdfc",
+  "title": "Simran",
+  "slug": "simran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wc28w6EW198EB5NHKmmfDpiOkqf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 125,
+  "rating": 4.92,
+  "description": "A Gujarati housekeeper working in the United States, allows her ambitions to overpower her which leads her to get involved in the world of crime.",
+  "created_at": "2026-07-22T15:41:58.418Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6331,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

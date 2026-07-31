@@ -1,0 +1,36 @@
+{
+  "id": "4727e3bc-d48f-4aac-91a5-cc7c4ceca35d",
+  "title": "ISRA 88",
+  "slug": "isra-88",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e3Z630yx8l5zHQcNx0yxC2oh8LN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 119,
+  "rating": 4.571,
+  "description": "When a scientist and a pilot volunteer for a high profile space mission they are told their goal will be to do what no one has ever done before to find the end of the universe. After 13 years in space the ship crashes through the end of the known universe and into the unknown...",
+  "created_at": "2026-07-22T15:49:22.413Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 7158,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

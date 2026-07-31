@@ -1,0 +1,24 @@
+{
+  "id": "1774348a-e2b5-4178-9c6d-fcc18cce0ba9",
+  "title": "Thattathin Marayathu",
+  "slug": "thattathin-marayathu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pJnwpWxAFMexmQrasF5oEQir0c3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2012,
+  "duration": 126,
+  "rating": null,
+  "description": "Vinod is madly in love with a Muslim girl, Aisha. Aisha, who gradually falls in love with Vinod, is disappointed to see their difference in religion acting as a barrier in their marriage plans.",
+  "created_at": "2026-07-31T06:41:53.362Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7710,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

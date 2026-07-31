@@ -1,0 +1,28 @@
+{
+  "id": "fe7ebbe8-51c3-4de9-8b87-55325e8fc518",
+  "title": "Always Be My Maybe",
+  "slug": "always-be-my-maybe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 102,
+  "rating": 6.639,
+  "description": "Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the old sparks of attraction, but struggle to adapt to each other's worlds.",
+  "created_at": "2026-07-22T15:31:22.520Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4937,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

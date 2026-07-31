@@ -1,0 +1,24 @@
+{
+  "id": "f0457172-db74-4617-b680-433e34d8cf2f",
+  "title": "England Is Mine",
+  "slug": "england-is-mine",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 92,
+  "rating": 5.782,
+  "description": "A portrait of Steven Patrick Morrissey and his early life in 1970s Manchester before he went on to become lead singer of seminal 1980s band The Smiths.",
+  "created_at": "2026-07-22T15:40:36.907Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6562,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

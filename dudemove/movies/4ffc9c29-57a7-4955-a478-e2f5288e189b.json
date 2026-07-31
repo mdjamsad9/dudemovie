@@ -1,0 +1,36 @@
+{
+  "id": "4ffc9c29-57a7-4955-a478-e2f5288e189b",
+  "title": "The Neighbor",
+  "slug": "the-neighbor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6fvQVZ5Mc8s8dF6IJ5P4qjGzuZW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 87,
+  "rating": 5.679,
+  "description": "In the town of Cutter, most people keep to themselves. But when John comes home to find his girlfriend missing, he sneaks into his neighbor's house, finding his girlfriend and several other kidnapped people tied up in the basement. When the neighbor come home, John is forced to get out of the house alive and lead the group to safety.",
+  "created_at": "2026-07-22T15:49:18.603Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 7152,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

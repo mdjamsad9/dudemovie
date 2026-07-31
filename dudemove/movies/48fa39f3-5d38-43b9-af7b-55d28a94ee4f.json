@@ -1,0 +1,28 @@
+{
+  "id": "48fa39f3-5d38-43b9-af7b-55d28a94ee4f",
+  "title": "Selfie from Hell",
+  "slug": "selfie-from-hell",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cmjj2PY1IEgi9e4WOQXDskII2iw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 75,
+  "rating": 3.5,
+  "description": "Julia, an online vlogger from Germany, comes to the US to visit her cousin Hannah. Upon her arrival, Julia falls fatefully ill, prompting Hannah's suspicion of the strange and sudden illness. When unusual happenings start taking place in her home, Hannah begins a relentless internet search to discover the cause. She comes across Julia's vlog entries and finds herself immersed deep in the web - too deep - in a place where terror knows no end.",
+  "created_at": "2026-07-22T15:39:31.856Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5821,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

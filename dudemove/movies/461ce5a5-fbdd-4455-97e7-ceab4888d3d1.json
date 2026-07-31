@@ -1,0 +1,36 @@
+{
+  "id": "461ce5a5-fbdd-4455-97e7-ceab4888d3d1",
+  "title": "Men in Black: International",
+  "slug": "men-in-black-international",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2019,
+  "duration": 115,
+  "rating": 5.893,
+  "description": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+  "created_at": "2026-07-22T15:29:14.074Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 4234,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ebf46e04-fac4-4f97-96d0-24bab52dee42",
+  "title": "The Prodigy",
+  "slug": "the-prodigy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yyejodyk3lWncVjVhhrEkPctY9o.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 92,
+  "rating": 6.156,
+  "description": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
+  "created_at": "2026-07-22T15:32:05.110Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5017,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

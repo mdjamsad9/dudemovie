@@ -1,0 +1,32 @@
+{
+  "id": "39aea20e-0cb7-4a76-bbe2-a2d4326e63aa",
+  "title": "A Kind of Murder",
+  "slug": "a-kind-of-murder",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hEeuCjUnGFCPdHbHFUUGGsCIrNt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 96,
+  "rating": 5.4,
+  "description": "In 1960s New York, Walter Stackhouse is a rich, successful architect and unhappily married to the beautiful but damaged Clara. His desire to be free of her feeds his obsession with Kimmel, a man suspected of brutally murdering his own wife. When Walter and Kimmel's lives become dangerously intertwined, a ruthless police detective becomes convinced he has found the murderer. But as the lines blur between innocence and intent, who, in fact, is the real killer?",
+  "created_at": "2026-07-22T15:47:00.040Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6938,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

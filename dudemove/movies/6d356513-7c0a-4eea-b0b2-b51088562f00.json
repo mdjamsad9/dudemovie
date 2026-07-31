@@ -1,0 +1,28 @@
+{
+  "id": "6d356513-7c0a-4eea-b0b2-b51088562f00",
+  "title": "The Bad Man",
+  "slug": "the-bad-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nZtTDiETpjA1Mtr9uDmVw9Yr42X.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 106,
+  "rating": 4.458,
+  "description": "A young couple, Mary and PJ, are kidnapped in their own home by a sadistic clown who wants to break their spirits and sell them into servitude to a cult of wealthy deviants. Mary holds onto her humanity through trial after trial, desperately looking for a way to escape her torment and rescue PJ from his own madness. But time is running out -- and auction day is coming...",
+  "created_at": "2026-07-22T15:31:58.918Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5642,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

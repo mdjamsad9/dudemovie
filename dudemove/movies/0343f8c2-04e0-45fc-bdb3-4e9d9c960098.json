@@ -1,0 +1,28 @@
+{
+  "id": "0343f8c2-04e0-45fc-bdb3-4e9d9c960098",
+  "title": "Little Monsters",
+  "slug": "little-monsters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oQvUq7UmumBTcAnvgFLFvegY47d.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 94,
+  "rating": 6.487,
+  "description": "A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies.",
+  "created_at": "2026-07-22T15:28:14.428Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4788,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

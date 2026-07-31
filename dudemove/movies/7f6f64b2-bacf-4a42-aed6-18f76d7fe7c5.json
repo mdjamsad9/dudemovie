@@ -1,0 +1,28 @@
+{
+  "id": "7f6f64b2-bacf-4a42-aed6-18f76d7fe7c5",
+  "title": "Anarkali",
+  "slug": "anarkali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bpXcSDAIcTAq6EUXWfqrGSJ2tbq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2015,
+  "duration": 166,
+  "rating": null,
+  "description": "Shanthanu, a former Navy officer arrives in the Lakshadweep islands searching for his long lost love, Nadira. As he confronts the memories of a forbidden romance and the people tied to their past, his journey becomes one of longing, redemption, and enduring love across time and distance.",
+  "created_at": "2026-07-31T07:40:17.786Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7403,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b78e41e5-501e-4653-ae94-360bbcb6c6e4",
+  "title": "Standoff",
+  "slug": "standoff",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9gqp8wFesW3LxxvCPKswLchPSeO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 80,
+  "rating": 6.064,
+  "description": "A troubled veteran gets a chance at redemption by protecting a girl from an assassin after she witnesses a murder. Holding a shotgun with a single shell, he engages in physical and psychological warfare in a desperate fight for the girl's life.",
+  "created_at": "2026-07-22T15:47:01.739Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6940,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

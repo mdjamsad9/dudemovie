@@ -1,0 +1,28 @@
+{
+  "id": "a16f3875-419b-4b27-885a-5fcde43afbdf",
+  "title": "Secret Superstar",
+  "slug": "secret-superstar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fkTeziNtc0uwE899uI1hlMOEdZL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 150,
+  "rating": 7.26,
+  "description": "A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral.",
+  "created_at": "2026-07-22T15:38:52.366Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 6515,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

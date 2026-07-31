@@ -1,0 +1,28 @@
+{
+  "id": "02bfe0e1-3bc5-4920-898a-dbcd9a48766d",
+  "title": "The Beach Bum",
+  "slug": "the-beach-bum",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 95,
+  "rating": 5.664,
+  "description": "An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.",
+  "created_at": "2026-07-22T15:31:09.810Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4878,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

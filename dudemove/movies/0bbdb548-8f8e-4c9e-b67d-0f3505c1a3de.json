@@ -1,0 +1,28 @@
+{
+  "id": "0bbdb548-8f8e-4c9e-b67d-0f3505c1a3de",
+  "title": "Laila Majnu",
+  "slug": "laila-majnu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3dOJVDLoLRqzDNgToXFwjCSwqL3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 139,
+  "rating": 6.758,
+  "description": "Laila is a free-spirited girl from a conservative family who firmly believes in living for the present. Qais, a spoilt brat, falls head over heels in love with her. Their families, however, are warring over property, which leads to self-destruction, pain and bleeding hearts.",
+  "created_at": "2026-07-22T15:34:47.179Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5148,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

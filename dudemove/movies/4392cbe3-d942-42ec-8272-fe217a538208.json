@@ -1,0 +1,36 @@
+{
+  "id": "4392cbe3-d942-42ec-8272-fe217a538208",
+  "title": "Rise of the Footsoldier 3: The Pat Tate Story",
+  "slug": "rise-of-the-footsoldier-3-the-pat-tate-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LgOIQNpTfWKY3wizRrQ6CvNAXK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 99,
+  "rating": 6.302,
+  "description": "Notorious gangster, Pat Tate, rises through the ranks of Essex's criminal underworld. A prequel to the 'Rise of the Footsoldier' franchise.",
+  "created_at": "2026-07-22T15:41:37.470Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6336,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

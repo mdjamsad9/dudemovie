@@ -1,0 +1,28 @@
+{
+  "id": "521760e9-fde3-4fb5-9654-4a1e0defa8f2",
+  "title": "Potugadu",
+  "slug": "potugadu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uvchjz0Ecva943AiLzSlIwpcaLM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2013,
+  "duration": null,
+  "rating": null,
+  "description": "Venkata and Govinda meet while they are both attempting to commit suicide. However, things take a turn when they decide to share their life story with each other.",
+  "created_at": "2026-07-31T07:16:28.562Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7697,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

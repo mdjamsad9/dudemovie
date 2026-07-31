@@ -1,0 +1,32 @@
+{
+  "id": "fdb764fc-1731-44e6-ad70-07c5cddea940",
+  "title": "Speed Kills",
+  "slug": "speed-kills",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f4p18CwxidvznZYMA6m4qv5FCvp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 5.439,
+  "description": "Speedboat racing champion and multimillionaire Ben Aronoff leads a double life that lands him in trouble with the law and drug lords.",
+  "created_at": "2026-07-22T15:34:18.114Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5236,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

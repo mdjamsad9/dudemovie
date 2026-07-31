@@ -1,0 +1,32 @@
+{
+  "id": "96ea139f-3d1b-4135-87f7-2844d09b9426",
+  "title": "Risen",
+  "slug": "risen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1vdRDS0UYDlJNBqRSqUuhBHf6eb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 109,
+  "rating": 5,
+  "description": "Disaster unfolds when a meteor strikes a small town, turning the environment uninhabitable and killing everything in the surrounding area. Exobiologist Lauren Stone is called to find answers to the unearthly event. As she begins to uncover the truth, imminent danger awakens and it becomes a race against time to save mankind.",
+  "created_at": "2026-07-22T15:17:47.960Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3337,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

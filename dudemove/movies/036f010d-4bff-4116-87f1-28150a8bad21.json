@@ -1,0 +1,32 @@
+{
+  "id": "036f010d-4bff-4116-87f1-28150a8bad21",
+  "title": "Drowning Echo",
+  "slug": "drowning-echo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2NzA5cgmWY2f6dlGNALVLUEdgaQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 4.9,
+  "description": "During a visit to friends, Sara begins having visions and is attacked by an unearthly creature in her friend’s swimming pool; she soon discovers that anyone who comes into contact with the water is in danger and she is driven to confront the mystical and malevolent creature lurking in the depths",
+  "created_at": "2026-07-22T15:32:06.808Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4864,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

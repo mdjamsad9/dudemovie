@@ -1,0 +1,28 @@
+{
+  "id": "9e23039c-c48a-4118-9026-3d8ce12197bb",
+  "title": "Ashes in the Snow",
+  "slug": "ashes-in-the-snow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wRMgle7vPFvSMq5R76JhsH54W4S.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 99,
+  "rating": 6.4,
+  "description": "The coming-of-age tale of 16-year-old Lina Vilkas who is deported to Siberia amid Stalin's reign of terror in the Baltic region during WWII. An aspiring artist, she secretly documents her harrowing journey with her drawings.",
+  "created_at": "2026-07-22T15:34:14.270Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5127,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

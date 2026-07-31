@@ -1,0 +1,24 @@
+{
+  "id": "2833cd13-e995-4d5f-beb4-3dce1925b17f",
+  "title": "Taskara",
+  "slug": "taskara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t75CnBLg8DUPCuX9OGNSHkhbsbx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2015,
+  "duration": 104,
+  "rating": null,
+  "description": "A mysterious hacker steals 10 trillion rupees from the central bank of his country.",
+  "created_at": "2026-07-31T07:18:07.395Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7379,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

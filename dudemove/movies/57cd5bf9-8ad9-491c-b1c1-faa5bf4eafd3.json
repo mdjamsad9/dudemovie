@@ -1,0 +1,28 @@
+{
+  "id": "57cd5bf9-8ad9-491c-b1c1-faa5bf4eafd3",
+  "title": "The Art of Racing in the Rain",
+  "slug": "the-art-of-racing-in-the-rain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": 8.165,
+  "description": "A family dog – with a near-human soul and a philosopher's mind – evaluates his life through the lessons learned by his human owner, a race-car driver.",
+  "created_at": "2026-07-22T15:27:56.460Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4752,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

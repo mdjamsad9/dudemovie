@@ -1,0 +1,28 @@
+{
+  "id": "41800b9b-eda5-4619-923d-3e1bae76b176",
+  "title": "India Lockdown",
+  "slug": "india-lockdown",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rR8lTcL81n5oHtxmGHMWxag0XOc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 117,
+  "rating": 5.313,
+  "description": "The Indian government announces a country-wide lockdown for 21 days due to the pandemic. India Lockdown encapsulates the story of four out of lakhs of individuals whose lives came to a standstill.",
+  "created_at": "2026-07-22T15:13:00.952Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 2909,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d1de504b-a499-425e-9003-4baef6084093",
+  "title": "Ma Rainey's Black Bottom",
+  "slug": "ma-rainey-s-black-bottom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 6.646,
+  "description": "Tensions rise when the trailblazing Mother of the Blues and her band gather at a Chicago recording studio in 1927. Adapted from August Wilson's play.",
+  "created_at": "2026-07-22T15:20:35.093Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 3789,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

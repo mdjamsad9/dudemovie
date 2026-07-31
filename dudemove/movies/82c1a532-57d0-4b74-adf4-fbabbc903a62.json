@@ -1,0 +1,24 @@
+{
+  "id": "82c1a532-57d0-4b74-adf4-fbabbc903a62",
+  "title": "Kissebaaz",
+  "slug": "kissebaaz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9djh5o2DZS5lNeCoQGqPDumhfSB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 123,
+  "rating": 3.5,
+  "description": "Once partners-in-crime and wannabe prominent political figures, Shukla and Pandey turn foes when tragedy befalls. But, who is pitting them against one another, and why?",
+  "created_at": "2026-07-22T15:26:11.142Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4597,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

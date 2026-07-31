@@ -1,0 +1,32 @@
+{
+  "id": "cabb8f5e-27b6-4a35-aa79-e81ba45b800c",
+  "title": "LEGO DC Super Hero Girls: Super-Villain High",
+  "slug": "lego-dc-super-hero-girls-super-villain-high",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d0F6ntggeAwbZBzXXamOEUUapa4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 78,
+  "rating": 6.093,
+  "description": "After a mysterious school opens across the street, the students of Super Hero High find themselves up against a new threat. Now, Wonder Woman, Supergirl, Batgirl and the rest of the DC Super Hero Girls not only have to worry about the well-being of their grades, but the safety and security of friends, family and the rest of civilization. The girls must figure out how to put a stop to this evil, new cross-town rival and save the world once again",
+  "created_at": "2026-07-22T15:38:13.137Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5555,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

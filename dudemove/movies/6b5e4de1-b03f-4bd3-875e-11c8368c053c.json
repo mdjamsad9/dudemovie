@@ -1,0 +1,32 @@
+{
+  "id": "6b5e4de1-b03f-4bd3-875e-11c8368c053c",
+  "title": "Bigfoot Family",
+  "slug": "bigfoot-family",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 97,
+  "rating": 7.138,
+  "description": "Bigfoot, Adam's father, wants to use his fame for a good cause. Protecting a large wildlife reserve in Alaska sounds like the perfect opportunity! When Bigfoot mysteriously disappears without a trace, Adam and his animal friends will brave anything to find him again and save the nature reserve.",
+  "created_at": "2026-07-22T15:20:33.600Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3784,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

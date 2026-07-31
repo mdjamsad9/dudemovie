@@ -1,0 +1,36 @@
+{
+  "id": "c0ddb078-7484-4645-bb38-3e9b42973a7b",
+  "title": "Batman: Gotham by Gaslight",
+  "slug": "batman-gotham-by-gaslight",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7souLi5zqQCnpZVghaXv0Wowi0y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 78,
+  "rating": 6.7,
+  "description": "In an alternative Victorian Age Gotham City, Batman begins his war on crime while he investigates a new series of murders by Jack the Ripper.",
+  "created_at": "2026-07-22T15:40:14.060Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5864,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

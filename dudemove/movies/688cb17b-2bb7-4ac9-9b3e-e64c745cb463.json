@@ -1,0 +1,32 @@
+{
+  "id": "688cb17b-2bb7-4ac9-9b3e-e64c745cb463",
+  "title": "A Trash Truck Christmas",
+  "slug": "a-trash-truck-christmas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 28,
+  "rating": 6.3,
+  "description": "When Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
+  "created_at": "2026-07-22T15:20:40.939Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3955,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "71459a30-1b5c-43bc-8acd-f32e1ccc3676",
+  "title": "The Man from Toronto",
+  "slug": "the-man-from-toronto",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uTCfTibqtk4f90cC59bLPMOmsfc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 113,
+  "rating": 6.354,
+  "description": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin known as The Man from Toronto in hopes of staying alive.",
+  "created_at": "2026-07-22T15:14:06.398Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3004,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

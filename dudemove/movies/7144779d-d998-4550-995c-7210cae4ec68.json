@@ -1,0 +1,32 @@
+{
+  "id": "7144779d-d998-4550-995c-7210cae4ec68",
+  "title": "The Informer",
+  "slug": "the-informer",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": 6.533,
+  "description": "In New York, former convict Pete Koslow, related to the Polish mafia, must deal with both Klimek the General, his ruthless boss, and the twisted ambitions of two federal agents, as he tries to survive and protect the lives of his loved ones.",
+  "created_at": "2026-07-22T15:28:22.729Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4712,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

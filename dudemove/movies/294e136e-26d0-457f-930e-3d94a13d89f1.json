@@ -1,0 +1,32 @@
+{
+  "id": "294e136e-26d0-457f-930e-3d94a13d89f1",
+  "title": "The Prey: Legend of Karnoctus",
+  "slug": "the-prey-legend-of-karnoctus",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b4WRdvY6a7bcAjsS4joNPjq2DPm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 93,
+  "rating": 4.45,
+  "description": "A platoon of U.S. soldiers in Afghanistan become trapped in a cave and are hunted down by a deadly creature the locals call Karnoctus.",
+  "created_at": "2026-07-22T15:13:55.623Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 2978,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

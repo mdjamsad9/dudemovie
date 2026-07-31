@@ -1,0 +1,32 @@
+{
+  "id": "fb979930-0d2b-4314-906e-48227c21e953",
+  "title": "Goodachari",
+  "slug": "goodachari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uG04EjdV1zrj91ROxP75jwRxxv0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2018,
+  "duration": 147,
+  "rating": null,
+  "description": "Gopi, is the son of an ex-RAW agent Raghuveer. Brought up by his uncle Sathya, he wants to be an agent just like his father and uncle. But Satya wants him to lead a normal life and not be killed like his father was. What happens in Gopi’s life that turns everything upside down?",
+  "created_at": "2026-07-31T07:17:41.107Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5867,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "37d63e4f-c308-4870-ab76-e54f8f22355a",
+  "title": "Fantastic Beasts and Where to Find Them",
+  "slug": "fantastic-beasts-and-where-to-find-them",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 133,
+  "rating": 7.3,
+  "description": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+  "created_at": "2026-07-22T15:47:06.216Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6934,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

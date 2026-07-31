@@ -1,0 +1,24 @@
+{
+  "id": "fe092647-6aba-4f62-ad83-a8983ceb08b3",
+  "title": "Passing",
+  "slug": "passing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 98,
+  "rating": 6.278,
+  "description": "In 1920s New York City, a Black woman finds her world upended when her life becomes intertwined with a former childhood friend who's passing as white.",
+  "created_at": "2026-07-22T15:16:54.018Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3249,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

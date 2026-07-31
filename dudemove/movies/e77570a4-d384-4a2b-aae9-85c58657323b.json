@@ -1,0 +1,32 @@
+{
+  "id": "e77570a4-d384-4a2b-aae9-85c58657323b",
+  "title": "Back to Black",
+  "slug": "back-to-black",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 122,
+  "rating": 6.666,
+  "description": "The extraordinary story of Amy Winehouse’s early rise to fame from her early days in Camden through the making of her groundbreaking album, Back to Black that catapulted Winehouse to global fame. Told through Amy’s eyes and inspired by her deeply personal lyrics, the film explores and embraces the many layers of the iconic artist and the tumultuous love story at the center of one of the most legendary albums of all time.",
+  "created_at": "2026-07-09T17:19:51.269Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 997,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Back.To.Black.2024.1080p.WEBRip.x264%20%5BDDN%5D/Back.To.Black.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

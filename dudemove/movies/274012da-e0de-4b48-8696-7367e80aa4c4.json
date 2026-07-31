@@ -1,0 +1,40 @@
+{
+  "id": "274012da-e0de-4b48-8696-7367e80aa4c4",
+  "title": "Once Upon a Snowman",
+  "slug": "once-upon-a-snowman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hddzYJtfYYeMDOQVcH58n8m1W3A.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 7,
+  "rating": 6.9,
+  "description": "The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.",
+  "created_at": "2026-07-22T15:20:01.663Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3714,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

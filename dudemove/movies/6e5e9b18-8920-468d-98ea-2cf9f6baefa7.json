@@ -1,0 +1,32 @@
+{
+  "id": "6e5e9b18-8920-468d-98ea-2cf9f6baefa7",
+  "title": "High Life",
+  "slug": "high-life",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 113,
+  "rating": 5.7,
+  "description": "Monte and his daughter are the last survivors of a damned and dangerous mission to deep space. The crew—death-row inmates led by a doctor with sinister motives—has vanished. As the mystery of what happened onboard the ship is unraveled, father and daughter must rely on each other to survive as they hurtle toward the oblivion of a black hole.",
+  "created_at": "2026-07-22T15:32:19.462Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5623,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

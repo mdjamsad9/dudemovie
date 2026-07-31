@@ -1,0 +1,40 @@
+{
+  "id": "03e2eb63-53d3-4eda-a411-590885c6fae1",
+  "title": "The Bad Guys 2",
+  "slug": "the-bad-guys-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 104,
+  "rating": 7.653,
+  "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+  "created_at": "2026-07-09T16:54:04.093Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 713,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Bad.Guys.2.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Bad.Guys.2.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

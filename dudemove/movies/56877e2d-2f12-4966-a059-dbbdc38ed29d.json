@@ -1,0 +1,36 @@
+{
+  "id": "56877e2d-2f12-4966-a059-dbbdc38ed29d",
+  "title": "The Lovers",
+  "slug": "the-lovers-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6esL8UH2sXXqbfbaV6bFEUBCDOr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": 109,
+  "rating": null,
+  "description": "The Lovers is an epic romance time travel adventure film. Helmed by Roland Joffé from a story by Ajey Jhankar, the film is a sweeping tale of an impossible love set against the backdrop of the first Anglo-Maratha war across two time periods and continents and centred around four characters — a British officer in 18th century colonial India, the Indian woman he falls deeply in love with, an American present-day marine biologist and his wife.",
+  "created_at": "2026-07-31T07:41:18.825Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7501,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

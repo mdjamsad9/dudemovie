@@ -1,0 +1,32 @@
+{
+  "id": "26bdad75-3dbd-4d5a-acdb-f4f9bc3b84d4",
+  "title": "Pull",
+  "slug": "pull",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nGgf0pFUqfiqVbp1hezrl7uLayP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 107,
+  "rating": 4.3,
+  "description": "Charles, and Kyle are three private investigators that specialize in missing persons cases. Mickey and her team get in way over there heads when they cross a serial killer who has three very nasty pets that have a taste for human flesh. The team must do what the can to stay alive and to save the killer's next prey before its to late.",
+  "created_at": "2026-07-22T15:30:30.251Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4391,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "77d01ec6-ea58-437c-be96-ea0233ed9c9a",
+  "title": "Judy & Punch",
+  "slug": "judy-punch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a0WRxfrVjPNelq7UuRoRnIZWn5A.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 105,
+  "rating": 6.1,
+  "description": "In the anarchic town of Seaside, nowhere near the sea, puppeteers Judy and Punch are trying to resurrect their marionette show. The show is a hit due to Judy's superior puppeteering but Punch's driving ambition and penchant for whisky lead to an inevitable tragedy that Judy must avenge.",
+  "created_at": "2026-07-22T15:25:50.924Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4565,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

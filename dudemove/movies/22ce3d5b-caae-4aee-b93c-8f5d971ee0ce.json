@@ -1,0 +1,24 @@
+{
+  "id": "22ce3d5b-caae-4aee-b93c-8f5d971ee0ce",
+  "title": "Leaving Neverland: ProSieben Spezial",
+  "slug": "leaving-neverland-prosieben-spezial",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nxKsaLxUk8twCYSDp6nAaU0SMrW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2019,
+  "duration": 122,
+  "rating": 5.232,
+  "description": "The world is talking about 'Leaving Neverland. In our ProSieben special, we ask questions that the documentary doesn't, and look at the most important moments in the life of the superstar. In addition, we explore the question of how the new allegations change the view of Michael Jackson's overall work. This helps to classify the special documentary 'Leaving Neverland'.",
+  "created_at": "2026-07-22T15:33:13.906Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5016,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

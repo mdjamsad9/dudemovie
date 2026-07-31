@@ -1,0 +1,32 @@
+{
+  "id": "08fbc981-ae3a-4e54-b60a-ce9fe54589d3",
+  "title": "War on Everyone",
+  "slug": "war-on-everyone",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iJAe5fBN90JbFj7AhZpyorY2W7i.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": 98,
+  "rating": 5.747,
+  "description": "Two corrupt cops in New Mexico set out to blackmail and frame every criminal unfortunate enough to cross their path. Things take a sinister turn, however, when they try to intimidate someone who is more dangerous than they are. Or is he?",
+  "created_at": "2026-07-22T15:47:33.485Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6977,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

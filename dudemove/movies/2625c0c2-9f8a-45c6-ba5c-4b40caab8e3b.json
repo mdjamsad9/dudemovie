@@ -1,0 +1,32 @@
+{
+  "id": "2625c0c2-9f8a-45c6-ba5c-4b40caab8e3b",
+  "title": "South Park the Streaming Wars Part 2",
+  "slug": "south-park-the-streaming-wars-part-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rsfc5EVzWPtGcBiNKMXxDo2xvsQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 52,
+  "rating": 7.038,
+  "description": "A drought has brought the town of South Park to the brink of disaster.",
+  "created_at": "2026-07-22T15:13:53.434Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 2966,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

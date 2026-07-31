@@ -1,0 +1,28 @@
+{
+  "id": "4bdf6db1-3044-4bcb-ba44-7a876990f23a",
+  "title": "Aadu Magaadra Bujji",
+  "slug": "aadu-magaadra-bujji",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qvPL2fNq2ehouUlqulxkYfQ74HB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2013,
+  "duration": null,
+  "rating": null,
+  "description": "Siddhu (Sudheer), a naughty easy going guy falls in love with Indu (Asmita Sood). But Indu is the sister of Cherry (Ranadheer) who keeps on protecting his sister from others’ eyes. But on the other hand Cherry he loves Anjali (Poonam Kaur), the sister-in-law of a dangerous man Bujji aka Shankar (Ajay). How things move among these people, how Siddhu plays with Shankar forms the main story.",
+  "created_at": "2026-07-31T07:40:55.462Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7691,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

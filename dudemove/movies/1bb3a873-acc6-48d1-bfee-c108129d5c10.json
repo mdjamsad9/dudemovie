@@ -1,0 +1,28 @@
+{
+  "id": "1bb3a873-acc6-48d1-bfee-c108129d5c10",
+  "title": "Athidhi",
+  "slug": "athidhi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jD5qUBrYWzpFNgn4i9xZU2k3n1A.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2007,
+  "duration": 172,
+  "rating": null,
+  "description": "While the nation is terrorized by a slew of kidnappings and murders, a young woman falls in love with a mysterious man; not realizing that he is the one who went to jail for the murder of her parents, thirteen years earlier.",
+  "created_at": "2026-07-31T07:21:42.624Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7735,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "491ee336-1efa-4e07-b9d1-4785c1c1a81e",
+  "title": "Daas Dev",
+  "slug": "daas-dev",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/epEPC4J41OwaHkiSPuyRIj4vuOb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 160,
+  "rating": 3.5,
+  "description": "Dev who takes control of his own life gets addicted to drugs and alcohol and eventually becomes hungry for power.",
+  "created_at": "2026-07-22T15:33:28.561Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5207,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

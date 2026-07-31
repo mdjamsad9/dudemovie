@@ -1,0 +1,28 @@
+{
+  "id": "c0777598-6e64-4002-aa9e-789990f52a01",
+  "title": "Alamara",
+  "slug": "alamara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bIdu4ngJTZKCHKHT9z1JMzOCqax.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 131,
+  "rating": null,
+  "description": "Arun finally finds love in Swati after a long luckless search. They get married and soon their parents and their massive egos start interfering with their life. The problems worsen when a huge cupboard arrives as a gift from Swati's parents.",
+  "created_at": "2026-07-31T07:32:51.197Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6193,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

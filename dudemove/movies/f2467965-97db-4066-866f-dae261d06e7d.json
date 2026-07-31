@@ -1,0 +1,24 @@
+{
+  "id": "f2467965-97db-4066-866f-dae261d06e7d",
+  "title": "Lashtam Pashtam",
+  "slug": "lashtam-pashtam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rm7fCcHYKZ9EFfasBy5ggFG5Zel.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 109,
+  "rating": 4,
+  "description": "Set in Dubai, the story explores the bond between two friends, an Indian and a Pakistani, who play as the doubles partners in Tennis.",
+  "created_at": "2026-07-22T15:32:33.681Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5616,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
