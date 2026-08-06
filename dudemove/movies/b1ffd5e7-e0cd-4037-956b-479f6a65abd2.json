@@ -1,0 +1,24 @@
+{
+  "id": "b1ffd5e7-e0cd-4037-956b-479f6a65abd2",
+  "title": "I Am Heath Ledger",
+  "slug": "i-am-heath-ledger",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/96ScsrVx2tAlWuiZYgqwcuGYdYK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 7.4,
+  "description": "The life and career of an actor, artist, and icon. His own journey through his own camera.",
+  "created_at": "2026-07-22T15:45:02.712Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6575,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

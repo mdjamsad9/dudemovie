@@ -1,0 +1,24 @@
+{
+  "id": "4a89d114-c34d-43d2-81df-d12d729740fc",
+  "title": "The Book of Love",
+  "slug": "the-book-of-love",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/TnGRaxeNPA82FGOEwunZTUivu0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 6.45,
+  "description": "After tragedy strikes Henry and Penny, he befriends a tenacious young girl and discovers she is constructing a raft to sail across the Atlantic to find her lost father. Together, along with some unlikely friends, they set forth to construct the vessel and subsequently rebuild their lives.",
+  "created_at": "2026-08-06T05:01:56.899Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 8020,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

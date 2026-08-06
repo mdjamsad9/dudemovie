@@ -1,0 +1,32 @@
+{
+  "id": "d7407078-7d24-4f52-af65-3cbbaf8a7403",
+  "title": "The Red Sea Diving Resort",
+  "slug": "the-red-sea-diving-resort",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2019,
+  "duration": 130,
+  "rating": 6.814,
+  "description": "Sudan, East Africa, 1980. A team of Israeli Mossad agents plans to rescue and transfer thousands of Ethiopian Jews to Israel. To do so, and to avoid raising suspicions from the inquisitive and ruthless authorities, they establish as a cover a fake diving resort by the Red Sea.",
+  "created_at": "2026-07-22T15:29:39.441Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4558,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

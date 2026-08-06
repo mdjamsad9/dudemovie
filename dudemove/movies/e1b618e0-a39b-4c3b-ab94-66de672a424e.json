@@ -1,0 +1,28 @@
+{
+  "id": "e1b618e0-a39b-4c3b-ab94-66de672a424e",
+  "title": "Oththa Seruppu Size 7",
+  "slug": "oththa-seruppu-size-7",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9DHX4Ip2Kp7jkL7EHYWCw5H9HZ5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 105,
+  "rating": null,
+  "description": "An emotionally unstable murder suspect explains the modus operandi behind the crimes he had committed to a few cops which helps in unfolding some intriguing revelation.",
+  "created_at": "2026-07-31T07:08:20.912Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5327,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

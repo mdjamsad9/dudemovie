@@ -1,0 +1,24 @@
+{
+  "id": "cb76a257-162b-476f-b8b6-e6f7e77e3a53",
+  "title": "Break",
+  "slug": "break",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/66OBBkqi9v5txzDPLzGULqVeB30.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.28,
+  "description": "The company of three guys and two girls makes their way to the old funicular to have an unforgettable New Year’s Eve celebration at the top of the mountain. A fun adventure turns into a nightmare when the funicular stops over the abyss. Coldness, height and fear of a slow death make them reveal their true essence and get in a fight with each other.",
+  "created_at": "2026-07-22T15:26:21.546Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4778,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

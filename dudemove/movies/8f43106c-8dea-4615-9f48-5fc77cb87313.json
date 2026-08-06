@@ -1,0 +1,24 @@
+{
+  "id": "8f43106c-8dea-4615-9f48-5fc77cb87313",
+  "title": "Running Wild",
+  "slug": "running-wild",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v5K2odrXNvbZLYl7gFB9WCimN8S.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 100,
+  "rating": 6,
+  "description": "Stella Davis is a widow who saves her ranch by working with convicts to rehabilitate a herd of wild horses that wandered on to her property. Stella must fight prejudice, greed, bureaucracy and vanity (including her own) to finally understand that there is no better remedy to misfortune than helping another living creature.",
+  "created_at": "2026-07-22T15:47:17.715Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6715,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

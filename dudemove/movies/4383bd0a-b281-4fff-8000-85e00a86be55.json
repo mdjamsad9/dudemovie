@@ -1,0 +1,32 @@
+{
+  "id": "4383bd0a-b281-4fff-8000-85e00a86be55",
+  "title": "Arjun S/O Vyjayanthi",
+  "slug": "arjun-s-o-vyjayanthi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3AvCdsmYx6gZ83Bitd9n9ejDLyO.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 142,
+  "rating": 7.3,
+  "description": "Arjun, an IPS aspirant turned kind-hearted gangster, learns that Pathaan, a notorious terrorist, wants to exact revenge on his principled mother Vyjayanthi, an honest IPS officer, and sets out to protect Vyjayanthi and their bond is put to the test.",
+  "created_at": "2026-07-09T16:55:37.941Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 839,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Arjun-Son.Of.Vyjayanthi.2025.720p.WEB-DL.Hindi..x264%20%5BDDN%5D/Arjun-Son.Of.Vyjayanthi.2025.720p.WEB-DL.Hindi..x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

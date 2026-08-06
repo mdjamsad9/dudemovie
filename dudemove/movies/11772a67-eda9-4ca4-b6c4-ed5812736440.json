@@ -1,0 +1,32 @@
+{
+  "id": "11772a67-eda9-4ca4-b6c4-ed5812736440",
+  "title": "Land of Smiles",
+  "slug": "land-of-smiles",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nzzyqAmKJxQsACVJWuywV3JORLo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 4.07,
+  "description": "A young backpacker is lured through the third world paradise of Thailand searching for her kidnapped best friend and unknowingly she becomes the object of a sociopath's obsession.",
+  "created_at": "2026-07-22T15:45:48.433Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6650,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

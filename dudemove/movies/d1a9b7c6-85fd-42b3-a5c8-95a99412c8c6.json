@@ -1,0 +1,28 @@
+{
+  "id": "d1a9b7c6-85fd-42b3-a5c8-95a99412c8c6",
+  "title": "Going in Style",
+  "slug": "going-in-style",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 6.7,
+  "description": "Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.",
+  "created_at": "2026-07-22T15:43:51.600Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6562,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

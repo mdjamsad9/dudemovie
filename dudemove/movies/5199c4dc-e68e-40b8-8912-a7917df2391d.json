@@ -1,0 +1,32 @@
+{
+  "id": "5199c4dc-e68e-40b8-8912-a7917df2391d",
+  "title": "The Lost City of Z",
+  "slug": "the-lost-city-of-z",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 141,
+  "rating": 6.4,
+  "description": "A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett, who discovered evidence of a previously unknown, advanced civilization in the Amazon and disappeared whilst searching for it.",
+  "created_at": "2026-07-22T15:44:09.640Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 6570,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

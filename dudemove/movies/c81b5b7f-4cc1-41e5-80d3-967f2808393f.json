@@ -1,0 +1,28 @@
+{
+  "id": "c81b5b7f-4cc1-41e5-80d3-967f2808393f",
+  "title": "The Hatred",
+  "slug": "the-hatred",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sCuZThFUGycGPwVblKdQO5MWzi0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 5.3,
+  "description": "Four young women travel to their college professor's new country home for a weekend getaway, only to discover that the house has a malevolent past.",
+  "created_at": "2026-08-06T05:01:19.601Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6935,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

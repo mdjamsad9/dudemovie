@@ -1,0 +1,24 @@
+{
+  "id": "34cb42d7-be77-4b7d-a109-283f59ae2cb5",
+  "title": "Minnaminungu The Firefly",
+  "slug": "minnaminungu-the-firefly",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/onZ5qArMJrD5WxARh1WnHGoeTds.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 130,
+  "rating": null,
+  "description": "Charu has been very close to her mom, who is a single mother. When she gets into a relationship, she tries to migrate to Canada with her boyfriend and she doesn’t reveal it to her mom. The mother, who does numerous odd jobs to make ends meet, is now on the mission to acquire Rs 6 lakh for her daughter, under the assumption that she is leaving the country for higher studies.",
+  "created_at": "2026-07-31T07:27:12.251Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6801,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

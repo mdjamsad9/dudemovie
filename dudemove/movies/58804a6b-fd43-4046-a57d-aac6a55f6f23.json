@@ -1,0 +1,28 @@
+{
+  "id": "58804a6b-fd43-4046-a57d-aac6a55f6f23",
+  "title": "Udaharanam Sujatha",
+  "slug": "udaharanam-sujatha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yg9HBY2spEsLQSt8jdi8u5k6X8A.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 126,
+  "rating": null,
+  "description": "Sujatha, mother of a teenaged girl, nurses a dream to educate her daughter by doing multiple jobs at houses and factories. However, her daughter Athira doesn't take education seriously, believing that being the off spring of a domestic help, she too will end up the same. A dismayed Sujatha is on the lookout for ways to rouse Athira's competitive spirit.",
+  "created_at": "2026-07-31T07:27:47.788Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6806,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

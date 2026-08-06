@@ -1,0 +1,28 @@
+{
+  "id": "2c09f4e6-44f1-4de2-aa99-6bf60b35fdde",
+  "title": "The Larva Island Movie",
+  "slug": "the-larva-island-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 7.127,
+  "description": "Back at home, Chuck relates the island shenanigans of his larva pals Red and Yellow to a skeptical reporter in this movie sequel to the hit cartoon.",
+  "created_at": "2026-07-22T15:23:26.235Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4415,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

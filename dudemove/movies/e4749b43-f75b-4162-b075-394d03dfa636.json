@@ -1,0 +1,32 @@
+{
+  "id": "e4749b43-f75b-4162-b075-394d03dfa636",
+  "title": "Ulkuthu",
+  "slug": "ulkuthu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w3scI8daqjUwBqE90Ys7y89jvdA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2017,
+  "duration": 131,
+  "rating": null,
+  "description": "A stranger comes to a coastal village and gets into a tiff with the local gangster and his son.",
+  "created_at": "2026-07-31T07:27:31.193Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6803,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

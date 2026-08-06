@@ -1,0 +1,28 @@
+{
+  "id": "0121b5fb-4469-4c37-a81e-82b28cf4772f",
+  "title": "An Acceptable Loss",
+  "slug": "an-acceptable-loss",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sa9y5TuaFagYRGVPLGAUhDStlds.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 102,
+  "rating": 6.2,
+  "description": "Former top U.S. security adviser Elizabeth \"Libby\" Lamm is threatened by associates from her dark past including Rachel Burke a steely, commanding politician with an unwavering knack for achieving her goals. Colluding with Rachel is Adrian, an unyielding, patriotic chief of staff. Martin harbors another type of obsession with Libby in this story of betrayal and regret.",
+  "created_at": "2026-07-22T15:34:05.240Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5187,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

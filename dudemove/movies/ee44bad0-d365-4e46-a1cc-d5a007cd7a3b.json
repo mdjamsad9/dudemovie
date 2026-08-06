@@ -1,0 +1,40 @@
+{
+  "id": "ee44bad0-d365-4e46-a1cc-d5a007cd7a3b",
+  "title": "The Bad Batch",
+  "slug": "the-bad-batch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 5.266,
+  "description": "After being exiled to a fenced-off wasteland, Arlen is kidnapped by a group of cannibals and goes on a journey to reunite a missing girl with her father.",
+  "created_at": "2026-08-06T05:01:32.414Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 7446,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

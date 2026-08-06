@@ -1,0 +1,28 @@
+{
+  "id": "22a68bdb-0f96-4fe2-9dc7-bb550f566b9e",
+  "title": "Beatriz at Dinner",
+  "slug": "beatriz-at-dinner",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ypvlGBvm6p0EIvKCzJw0OqsuzK5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2017,
+  "duration": 82,
+  "rating": 5.756,
+  "description": "Beatriz, an immigrant from a poor town in Mexico, has drawn on her innate kindness to build a career as a health practitioner. Doug Strutt is a cutthroat, self-satisfied billionaire. When these two opposites meet at a dinner party, their worlds collide, and neither will ever be the same.",
+  "created_at": "2026-07-22T15:43:24.785Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6517,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

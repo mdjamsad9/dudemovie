@@ -1,0 +1,28 @@
+{
+  "id": "4cc0bb55-a3e1-432f-88c1-311f708da592",
+  "title": "Stasis",
+  "slug": "stasis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g0AgiPF1qBObVDLK7pwncujVpuo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Portuguese",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 3.565,
+  "description": "After a night out of partying and left behind by her friends, Ava wakes up and sneaks back home only to find that she's already safe in bed. But that's not Ava - it's someone who looks just like her. A time-traveling fugitive has stolen Ava's body, her identity, and her life. What's more -- she's not alone. There are others, hiding in the past, secretly living among us, plotting to alter the future. Without her body, Ava is a virtual ghost, silent and invisible to the world. And, so far as she knows, she's the only one who can stop them and put the timeline back on course.",
+  "created_at": "2026-08-06T05:01:37.814Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6957,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

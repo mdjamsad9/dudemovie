@@ -1,0 +1,28 @@
+{
+  "id": "8f781a85-8a26-4739-86b4-c16fbd765251",
+  "title": "Guna 369",
+  "slug": "guna-369",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LuEpIbLDbKOJT1CpfhhXTnIK8T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 146,
+  "rating": null,
+  "description": "Guna is a happy-go-lucky guy who believes the solution to solving issues is not through violence but through compromise.When he is framed for a crime he didn't commit by someone close to him, Guna is left with no choice and forced to the extremes to prove his innocence.",
+  "created_at": "2026-07-31T07:07:51.800Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5134,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

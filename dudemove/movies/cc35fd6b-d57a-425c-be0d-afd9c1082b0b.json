@@ -1,0 +1,40 @@
+{
+  "id": "cc35fd6b-d57a-425c-be0d-afd9c1082b0b",
+  "title": "Kung Fu Yoga",
+  "slug": "kung-fu-yoga",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rL6XM4fsr1cM5mN2flEhQ8jQter.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Chinese",
+  "release_year": 2017,
+  "duration": 107,
+  "rating": 5.875,
+  "description": "Two professors team up to locate a lost treasure and embark on an adventure that takes them from a Tibetan ice cave to Dubai, and to a mountain temple in India.",
+  "created_at": "2026-07-22T15:46:39.170Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6699,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

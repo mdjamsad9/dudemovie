@@ -1,0 +1,24 @@
+{
+  "id": "471eb452-372e-4761-aafa-69e17d89344a",
+  "title": "Modern Life Is Rubbish",
+  "slug": "modern-life-is-rubbish",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": null,
+  "description": "The classic scenario of a couple separating their CDs at the end of a relationship is given a new spin for the iPod generation.",
+  "created_at": "2026-08-06T05:00:38.200Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6887,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

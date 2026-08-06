@@ -1,0 +1,32 @@
+{
+  "id": "b9ccb1ce-1921-4065-8ba5-d4da3b8edb1a",
+  "title": "Manikarnika: The Queen of Jhansi",
+  "slug": "manikarnika-the-queen-of-jhansi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kbTzlKKnZHZ8RYulknO4xqQOJ24.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 148,
+  "rating": 6.573,
+  "description": "Story of Rani Lakshmibai, one of the leading figures of the Indian Rebellion of 1857 and her resistance to the British Rule.",
+  "created_at": "2026-07-22T15:32:51.352Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5297,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

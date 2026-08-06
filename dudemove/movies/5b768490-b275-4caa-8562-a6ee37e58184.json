@@ -1,0 +1,32 @@
+{
+  "id": "5b768490-b275-4caa-8562-a6ee37e58184",
+  "title": "The Misadventures of Mistress Maneater",
+  "slug": "the-misadventures-of-mistress-maneater",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pz9XSvWYBuW6AVL0NooyZr47W9a.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 111,
+  "rating": 6,
+  "description": "Ava Moriarty, Art History PhD dropout-turned-dominatrix, wants OUT. But there's no safeword for golden handcuffs. When her mobster ex gives her 30 days to repay a massive loan, she's forced to agree to one last job--seducing and extorting \"Father Dracula,\" a small town Episcopal priest. But Father Radovan Markovic brought his own secrets from Serbia, and moonlights as an MMA fighter while unwittingly hiding the world's greatest lost painting. Not to mention he's the one hot guy avoiding Ava like loose glitter. Certain he's embezzling a priceless art collection, will she win his heart only to destroy his life, or doom herself to a custom pair of concrete stilettos?",
+  "created_at": "2026-07-22T15:21:27.959Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4345,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

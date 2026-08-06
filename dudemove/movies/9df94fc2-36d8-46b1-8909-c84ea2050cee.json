@@ -1,0 +1,36 @@
+{
+  "id": "9df94fc2-36d8-46b1-8909-c84ea2050cee",
+  "title": "A-X-L",
+  "slug": "a-x-l",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 98,
+  "rating": 6.348,
+  "description": "The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.",
+  "created_at": "2026-07-22T15:34:55.202Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5816,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

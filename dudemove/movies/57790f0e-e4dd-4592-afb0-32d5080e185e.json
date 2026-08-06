@@ -1,0 +1,32 @@
+{
+  "id": "57790f0e-e4dd-4592-afb0-32d5080e185e",
+  "title": "Just Mercy",
+  "slug": "just-mercy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 137,
+  "rating": 7.85,
+  "description": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+  "created_at": "2026-07-22T15:25:10.945Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4747,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

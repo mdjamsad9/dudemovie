@@ -1,0 +1,28 @@
+{
+  "id": "d39ca20e-e482-4d5c-9ae8-d4196e6c8b9d",
+  "title": "Chanakya",
+  "slug": "chanakya",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fTroJBj6IZE58OfCetvxRFiits5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 147,
+  "rating": null,
+  "description": "Arjun aka Ramakrishna is a RAW marshall from Delhi who has a 100% success rate at nabbing terrorists. What happens when he makes enemies out of India's most wanted Ibrahim Qureshi and his son Sohail?",
+  "created_at": "2026-07-31T07:08:22.858Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5323,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

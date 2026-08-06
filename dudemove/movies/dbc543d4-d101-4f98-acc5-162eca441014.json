@@ -1,0 +1,28 @@
+{
+  "id": "dbc543d4-d101-4f98-acc5-162eca441014",
+  "title": "Crawl",
+  "slug": "crawl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4WH6AZd473lRZ3hUp8TYiv2LfZW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 6.3,
+  "description": "When a huge hurricane hits her hometown in Florida, Haley ignores evacuation orders to look for her father. After finding him badly wounded, both are trapped by the flood. With virtually no time to escape the storm, they discover that rising water levels are the least of their problems.",
+  "created_at": "2026-07-22T15:28:23.200Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5133,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

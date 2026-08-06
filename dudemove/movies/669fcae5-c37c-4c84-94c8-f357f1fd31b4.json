@@ -1,0 +1,32 @@
+{
+  "id": "669fcae5-c37c-4c84-94c8-f357f1fd31b4",
+  "title": "Black Butterfly",
+  "slug": "black-butterfly",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/toB9yjJssyJZSworX0KePbjSexP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 93,
+  "rating": 6.219,
+  "description": "Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.",
+  "created_at": "2026-07-22T15:44:12.853Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6587,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

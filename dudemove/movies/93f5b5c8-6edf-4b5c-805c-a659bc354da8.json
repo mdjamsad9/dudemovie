@@ -1,0 +1,28 @@
+{
+  "id": "93f5b5c8-6edf-4b5c-805c-a659bc354da8",
+  "title": "Paambhu Sattai",
+  "slug": "paambhu-sattai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nblPWiQGRnoyMhkfRMKWcH6uj44.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2017,
+  "duration": 140,
+  "rating": null,
+  "description": "A young man in desperate need of money to solve his problems, gets entangled in a fraudulent money laundering racket.",
+  "created_at": "2026-07-31T07:35:00.947Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6805,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

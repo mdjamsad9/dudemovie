@@ -1,0 +1,36 @@
+{
+  "id": "0394ffee-ec95-4dfa-927a-653a75448daf",
+  "title": "The Outpost",
+  "slug": "the-outpost",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 123,
+  "rating": 6.87,
+  "description": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+  "created_at": "2026-07-22T15:23:58.101Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4333,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

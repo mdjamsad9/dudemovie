@@ -1,0 +1,28 @@
+{
+  "id": "5948770c-7aa0-4b68-95e9-ba1c03abdb70",
+  "title": "Vixen: The Movie",
+  "slug": "vixen-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5A52QYVaZFGWZnXeNfvMOrnd49E.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 75,
+  "rating": 6.754,
+  "description": "Originally from Africa, Mari McCabe grew up an orphan after her parents were killed by local greed, corruption and wanton violence. But Mari refuses to succumb to the terrors surrounding her. Inheriting her family's Anansi Totem, Mari can access the powers of animals - anything from the super-strength of a gorilla to the speed of a cheetah. As Vixen, she fights valiantly to protect the world from threats like those that claimed her family.",
+  "created_at": "2026-07-22T15:45:14.262Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 6630,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

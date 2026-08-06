@@ -1,0 +1,24 @@
+{
+  "id": "d6633aeb-87a3-44e8-9dd8-4dbc16dcf313",
+  "title": "Magadheera",
+  "slug": "magadheera",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xK7MEV56GF291VG0U5XnVJuvNv3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Sanskrit",
+  "release_year": 2013,
+  "duration": null,
+  "rating": 7.234,
+  "description": "A street-bike racer chances upon a woman and is struck by visions of a past life where they were both star-crossed lovers in a war-ridden kingdom 400 years ago, while the reincarnation of his romantic rival emerges with murderous intent.",
+  "created_at": "2026-08-06T05:02:18.041Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 8382,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

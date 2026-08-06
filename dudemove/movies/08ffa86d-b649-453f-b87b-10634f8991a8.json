@@ -1,0 +1,24 @@
+{
+  "id": "08ffa86d-b649-453f-b87b-10634f8991a8",
+  "title": "The Big Ugly",
+  "slug": "the-big-ugly",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iV30anuKJcrEPHe4GtRb6dtw89G.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 106,
+  "rating": 4.98,
+  "description": "Neeyln has always been the loyal enforcer for crime boss Harris back in London, taking care of problems and people that disrupt his illicit business. When Harris strikes a deal with an old friend -- American oilman Preston -- they find themselves in the wild hills of West Virginia. Contracts are signed and the whiskey flows in celebration, but overnight Neelyn's girlfriend disappears, last seen with Preston's wayward son Junior. Lines are drawn between family and friends, but nothing will stop Neelyn from getting answers -- and retribution.",
+  "created_at": "2026-07-22T15:23:25.399Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4423,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

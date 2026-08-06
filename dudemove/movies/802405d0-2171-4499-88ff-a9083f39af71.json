@@ -1,0 +1,28 @@
+{
+  "id": "802405d0-2171-4499-88ff-a9083f39af71",
+  "title": "Dirt Music",
+  "slug": "dirt-music",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9FbR35fAEr6vMiQLyxeCSgHkgvW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 105,
+  "rating": 6.259,
+  "description": "Georgie is slowly suffocating in a loveless marriage to fishing tycoon Jim Buckridge. Handsome poacher Lu is an irresistible symbol of the excitement she craves. A passionate affair follows that reveals the dark secrets in Lu’s past and forces him to take flight into the blistering heat of the outback. Georgie follows, determined to find him and bring him back.",
+  "created_at": "2026-07-22T15:23:30.769Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4412,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a1dfe131-0576-43b7-80bc-88a1645cf2b1",
+  "title": "Peppermint",
+  "slug": "peppermint",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 6.739,
+  "description": "A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.",
+  "created_at": "2026-07-22T15:34:38.314Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5905,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

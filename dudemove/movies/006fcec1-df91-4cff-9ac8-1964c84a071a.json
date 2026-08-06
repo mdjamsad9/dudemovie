@@ -1,0 +1,28 @@
+{
+  "id": "006fcec1-df91-4cff-9ac8-1964c84a071a",
+  "title": "Yaara",
+  "slug": "yaara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yRnJ6rDEWSoWWAZMpGeILLjc1G6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 131,
+  "rating": 5.563,
+  "description": "Story of 'Chaukdi Gang' and the two men who helped build this gang played by Vidyut Jammwal and Amit Sadh. This gang of four which includes Vijay Varma, is nabbed by the police and serve their time in jail. However, both men who once ruled the drug smuggling, gun-running and looting struggle in their own different ways to escape their past and start a new life after being released.",
+  "created_at": "2026-07-22T15:23:20.043Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4392,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

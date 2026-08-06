@@ -1,0 +1,36 @@
+{
+  "id": "4c2474d2-516f-44df-ae64-7f21029f55c1",
+  "title": "Trash Fire",
+  "slug": "trash-fire",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7JH49NYwWTV2U1foK06KKXYllmm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 5.782,
+  "description": "Owen and Isabel's love story simmers with spiteful rage and unfortunately for everyone, Isabel is pregnant with Owen's child. To prove to her that he can become a stable father, Owen agrees to reconnect with his only living relatives at Isabel's request. The couple take a trip to visit his perversely devoted grandmother and his sister Pearl, who was severely burned in a fire, to finally bury the hatchet. But sometimes the ties that bind can cut off all circulation.",
+  "created_at": "2026-08-06T05:01:40.526Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7932,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a1b06113-08b3-4710-a58e-216e6bd0e558",
+  "title": "Keep the Change",
+  "slug": "keep-the-change",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ocdUb8iApQyKUXxTTAbZZvkY35f.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 7,
+  "description": "A struggling artist visits his family on their Montana ranch and finds that his former flame, daughter of a family foe, is now married to an old friend.",
+  "created_at": "2026-08-06T05:00:29.778Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 6884,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

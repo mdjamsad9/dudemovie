@@ -1,0 +1,24 @@
+{
+  "id": "f7d65361-3976-43a7-a578-e10069545771",
+  "title": "King Arthur: Excalibur Rising",
+  "slug": "king-arthur-excalibur-rising",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gUa5CmvFDoUU02KnG9ic58BC5iN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 99,
+  "rating": 4.6,
+  "description": "A re-imagining of the Arthurian legend centered around Arthur's illegitimate son Owain who must learn to take up his father's mantle as king.",
+  "created_at": "2026-07-22T15:46:46.246Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6701,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

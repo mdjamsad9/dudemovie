@@ -1,0 +1,28 @@
+{
+  "id": "0d88e265-9855-4aed-865c-65ce9399b5ba",
+  "title": "Nanu Ki Jaanu",
+  "slug": "nanu-ki-jaanu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r4NEpiQ8ebXEKui0V1zduz7L7y6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 133,
+  "rating": 5.4,
+  "description": "Nanu is a land mafia who illegally grabs people's property with the help of his friends. But his life witnesses a 360-degree change after he takes an injured girl to hospital. Some unusually inexplicable things start happening with him and soon he realizes that he is not the only one living in his flat. There is an uninvited guest also.",
+  "created_at": "2026-07-22T15:34:50.176Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5873,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

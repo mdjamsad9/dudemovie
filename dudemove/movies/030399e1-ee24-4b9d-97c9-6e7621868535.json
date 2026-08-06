@@ -1,0 +1,32 @@
+{
+  "id": "030399e1-ee24-4b9d-97c9-6e7621868535",
+  "title": "Thirst Street",
+  "slug": "thirst-street",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/18MEPHfYsRA6pP6uoZfhMn5tYz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 4.263,
+  "description": "Gina, an American flight attendant, falls in with a Parisian bartender on a layover only to find herself tangled in a web of deception, delusion and unrequited amour fou.",
+  "created_at": "2026-08-06T05:00:55.057Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6899,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

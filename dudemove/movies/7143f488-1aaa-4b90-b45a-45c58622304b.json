@@ -1,0 +1,24 @@
+{
+  "id": "7143f488-1aaa-4b90-b45a-45c58622304b",
+  "title": "Premanjali",
+  "slug": "premanjali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xeSjL7DU5RtHVQi5oVN0GLghbxw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 122,
+  "rating": null,
+  "description": "Hari is in love with Mythili, who belongs to a rich and aristocratic family on who Hari's family depends. The lovers, however, are determined to let nothing come between them.",
+  "created_at": "2026-07-31T07:15:02.942Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6481,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

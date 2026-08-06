@@ -1,0 +1,32 @@
+{
+  "id": "8154e667-a5f6-43be-b910-ccd2b3be835f",
+  "title": "Ava",
+  "slug": "ava",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2020,
+  "duration": 96,
+  "rating": 5.825,
+  "description": "A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.",
+  "created_at": "2026-07-22T15:22:42.824Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4318,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

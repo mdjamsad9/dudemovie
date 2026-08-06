@@ -1,0 +1,28 @@
+{
+  "id": "6c1f15d4-4756-41ed-b353-bfa0606522c7",
+  "title": "The Incredible Jessica James",
+  "slug": "the-incredible-jessica-james",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r7tDHGsFzHY0YBCaaNctvAxZhpc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 83,
+  "rating": 6.15,
+  "description": "Burned by a bad breakup, a struggling New York City playwright makes an unlikely connection with a divorced app designer she meets on a blind date.",
+  "created_at": "2026-07-22T15:43:42.080Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6539,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

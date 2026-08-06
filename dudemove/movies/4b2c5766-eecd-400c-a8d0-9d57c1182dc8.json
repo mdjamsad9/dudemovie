@@ -1,0 +1,40 @@
+{
+  "id": "4b2c5766-eecd-400c-a8d0-9d57c1182dc8",
+  "title": "The Discovery",
+  "slug": "the-discovery",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 102,
+  "rating": 6.261,
+  "description": "In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor's son Will, who has arrived at his father's isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.",
+  "created_at": "2026-07-22T15:46:32.595Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6696,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

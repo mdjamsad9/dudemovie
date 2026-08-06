@@ -1,0 +1,24 @@
+{
+  "id": "07af4fbf-2bd3-4eca-8215-fc575acd486c",
+  "title": "The Axe Murders of Villisca",
+  "slug": "the-axe-murders-of-villisca",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/69BB2Bp4i0LdOqtAtH5hIZiUFb3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 78,
+  "rating": 4.8,
+  "description": "Three ghost-hunting high-schoolers visit the Moore House in Villisca, Iowa—the site of one of America’s most grisly unsolved mass murders. After their private tour is interrupted, the group sneaks back in at night, unaware of the otherworldly terror that awaits them.",
+  "created_at": "2026-07-22T15:45:12.904Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6628,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

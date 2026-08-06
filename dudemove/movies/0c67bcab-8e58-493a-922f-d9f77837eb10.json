@@ -1,0 +1,28 @@
+{
+  "id": "0c67bcab-8e58-493a-922f-d9f77837eb10",
+  "title": "Day 13",
+  "slug": "day-13",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zw8E1PRgPAXspiwlxjnMoPSaQoy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 91,
+  "rating": 4.3,
+  "description": "When 17-year-old Colton is left at home to babysit his little sister for the summer, he develops a crush on Heather, the beautiful girl who just moved into a mysterious old house across the street. He falls in love with her from afar — but also witnesses her foster father grow increasingly threatening towards her. When Colton suspects the man belongs to a Satanic cult, and is preparing to ritually murder her, he resorts to desperate measures to intervene, and learns that the truth of the situation is more horrifying than anything he had ever imagined...",
+  "created_at": "2026-07-22T15:23:14.585Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4478,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

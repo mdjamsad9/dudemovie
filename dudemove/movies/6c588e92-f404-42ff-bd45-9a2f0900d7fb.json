@@ -1,0 +1,32 @@
+{
+  "id": "6c588e92-f404-42ff-bd45-9a2f0900d7fb",
+  "title": "C U Soon",
+  "slug": "c-u-soon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/or5qouMAtv86TMeSgHpMGMWG4IN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2020,
+  "duration": 98,
+  "rating": null,
+  "description": "Jimmy meets Anu on an online dating website and decides to marry her. Jimmy's mother entrusts his cousin Kevin to get details about Anu. Now it's Kevin's turn to search for his cousin's fiancee who vanished without a trace, only to discover dark, shocking truths about her.",
+  "created_at": "2026-07-31T07:00:19.352Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4521,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

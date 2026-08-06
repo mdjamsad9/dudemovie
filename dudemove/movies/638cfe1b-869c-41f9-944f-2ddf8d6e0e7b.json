@@ -1,0 +1,28 @@
+{
+  "id": "638cfe1b-869c-41f9-944f-2ddf8d6e0e7b",
+  "title": "PAW Patrol: Jet to the Rescue",
+  "slug": "paw-patrol-jet-to-the-rescue",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 56,
+  "rating": 7.091,
+  "description": "A royal relative steals a gem with the power to make things fly, the Paw Patrol takes to the skies to stop him and save Barkingburg.",
+  "created_at": "2026-07-22T15:21:17.239Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4325,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

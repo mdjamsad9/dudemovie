@@ -1,0 +1,28 @@
+{
+  "id": "969222e7-6391-46fd-b0f1-7977bf487b8f",
+  "title": "Max and Me",
+  "slug": "max-and-me",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p2G7TbHgLq2bcsVAONXycGV98ew.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 104,
+  "rating": 5.935,
+  "description": "A coming of age story about an awkward teenage boy who falls in love with the girl next door, who he soon discovers passed away the year before from Cystic Fibrosis, and he's in love...with a ghost.",
+  "created_at": "2026-07-22T15:22:20.229Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4469,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1185e819-1680-45e8-8f72-931cebc06aa1",
+  "title": "Long Story Short",
+  "slug": "long-story-short",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oAJ95mBgB0yAKCS5a3Tw5UxjLEp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 90,
+  "rating": 6.731,
+  "description": "Teddy wakes up the morning after his wedding to discover that he's jumped forward a year in his life to his first anniversary. Trapped in an endless cycle of time jumps, transported another year ahead every few minutes, he is faced with a race against time as his life crumbles around him.",
+  "created_at": "2026-07-22T15:19:53.425Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3824,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d7398295-48a5-4999-b1b9-b0cb16f0aec3",
+  "title": "Operation Dunkirk",
+  "slug": "operation-dunkirk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1v8ve0MkTQh1K44ndLqlmK096Q6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 3.82,
+  "description": "A band of soldiers tasked with staying behind during the Battle of Dunkirk to rescue a scientist with information that could turn the tide of the war must battle their way through dangerous Nazi territory to complete their mission.",
+  "created_at": "2026-08-06T05:01:26.697Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6946,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

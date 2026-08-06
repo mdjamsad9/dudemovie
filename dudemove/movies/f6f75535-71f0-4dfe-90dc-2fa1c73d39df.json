@@ -1,0 +1,24 @@
+{
+  "id": "f6f75535-71f0-4dfe-90dc-2fa1c73d39df",
+  "title": "Haseena",
+  "slug": "haseena",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zbAXFebqiNHiuHrQucd49YGzA9X.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 158,
+  "rating": 6,
+  "description": "Three boys become the soft targets of a beautiful girl named Haseena, when they go to Goa. She follows them till their way back to Mumbai and approaches them as a sales girl. The boys, mesmerized by her beauty invites her to a house party. Everything goes well for the boys, until, she loots the home and leaves in search of another target.",
+  "created_at": "2026-07-22T15:35:19.679Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5567,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

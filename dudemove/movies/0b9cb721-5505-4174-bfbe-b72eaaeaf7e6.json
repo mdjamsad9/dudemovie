@@ -1,0 +1,24 @@
+{
+  "id": "0b9cb721-5505-4174-bfbe-b72eaaeaf7e6",
+  "title": "Kousalya Krishnamurthy",
+  "slug": "kousalya-krishnamurthy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wXX8gu7R4CsQaIlhrqXePeR9FBJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 149,
+  "rating": null,
+  "description": "A teenage girl from a remote village in Andhra Pradesh makes her way to the Indian cricket team, but her path is not devoid of obstacles.",
+  "created_at": "2026-07-31T07:09:17.942Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5428,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

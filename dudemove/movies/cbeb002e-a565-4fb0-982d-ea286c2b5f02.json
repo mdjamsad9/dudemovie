@@ -1,0 +1,40 @@
+{
+  "id": "cbeb002e-a565-4fb0-982d-ea286c2b5f02",
+  "title": "Thar",
+  "slug": "thar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2PK1WRr8dOF7FG5G4VCal4GcnPT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 108,
+  "rating": 5.866,
+  "description": "A mysterious stranger arrives in a village situated in the Thar desert and crosses paths with a veteran cop investigating a case of brutal killings.",
+  "created_at": "2026-07-22T15:14:39.562Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 3390,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f2aa5ee5-f7c1-4fa7-80de-b29719c23bab",
+  "title": "Love Action Drama",
+  "slug": "love-action-drama",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mVqV88crk9evENJB0DeVQzIL94v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 142,
+  "rating": null,
+  "description": "Dineshan is in love with Shoba, but she insists he give up smoking and drinking before marriage. It’s easier said than done, but will love triumph?",
+  "created_at": "2026-07-31T07:06:59.509Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4969,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

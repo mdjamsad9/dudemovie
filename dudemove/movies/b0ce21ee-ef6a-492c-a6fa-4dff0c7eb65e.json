@@ -1,0 +1,24 @@
+{
+  "id": "b0ce21ee-ef6a-492c-a6fa-4dff0c7eb65e",
+  "title": "The Bookshop",
+  "slug": "the-bookshop",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nh2ZpwuTKjY0tTGcsGu7TwOpT4p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 6.482,
+  "description": "Set in a small English town in 1959, a woman decides, against polite but ruthless local opposition, to open a bookshop, a decision which becomes a political minefield.",
+  "created_at": "2026-08-06T05:00:29.320Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6883,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

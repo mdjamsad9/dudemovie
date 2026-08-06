@@ -1,0 +1,28 @@
+{
+  "id": "523e8aae-80e8-4414-b316-9a354c32b8ce",
+  "title": "To All the Boys: P.S. I Still Love You",
+  "slug": "to-all-the-boys-p-s-i-still-love-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 6.826,
+  "description": "Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.",
+  "created_at": "2026-07-22T15:26:02.020Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4519,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

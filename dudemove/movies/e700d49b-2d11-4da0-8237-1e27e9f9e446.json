@@ -1,0 +1,36 @@
+{
+  "id": "e700d49b-2d11-4da0-8237-1e27e9f9e446",
+  "title": "Awakening the Zodiac",
+  "slug": "awakening-the-zodiac",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qSk8EX5OTexKp90ZPZufDjSZ6ux.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 100,
+  "rating": 5.4,
+  "description": "The story follows a down-on-their-luck couple who discovers a serial killer's film reels. They decide to take the law into their own hands, risking everything for the chance at a $100,000 reward. It isn't long until they find themselves in the killer's lethal cross-hairs.",
+  "created_at": "2026-07-22T15:45:43.457Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6664,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9a24b93-eb42-4317-a325-2eadabfb9b76",
+  "title": "Bogan",
+  "slug": "bogan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/myj2yLj5yEoRipdfohp9BsAxu6P.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2017,
+  "duration": 148,
+  "rating": null,
+  "description": "A criminal swaps his body with that of the cop who is hunting him.​",
+  "created_at": "2026-07-31T07:35:52.090Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6873,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3dc15fe4-cfc7-44ee-9495-ccef3d0bbce5",
+  "title": "S W A T Under Siege",
+  "slug": "s-w-a-t-under-siege",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 5.9,
+  "description": "When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as “The Scorpion” for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it’s up to him and his expert S.W.A.T. team to keep “The Scorpion” and his billion dollar secrets safe.",
+  "created_at": "2026-08-06T05:01:28.896Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6949,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

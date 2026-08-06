@@ -1,0 +1,36 @@
+{
+  "id": "00822482-1796-4b4f-9515-7fea71564d51",
+  "title": "Kin",
+  "slug": "kin",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 6.093,
+  "description": "A young boy finds a powerful otherworldly weapon, which he uses to save his older adoptive brother from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.",
+  "created_at": "2026-07-22T15:34:45.163Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5892,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

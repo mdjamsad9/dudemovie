@@ -1,0 +1,24 @@
+{
+  "id": "3dfc18c8-8fee-460d-9729-c9b3c5b89370",
+  "title": "Sarkar 3",
+  "slug": "sarkar-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bZEEsWvuznU5ZdHd6LUCvOpdNJB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 132,
+  "rating": 5.167,
+  "description": "Subhash Nagre or Sarkar, the patriarch of the most powerful family of Maharashtra, continues to hold centre-stage because of his immense clout with the masses. In this outing, the Godfather is joined by his grandson Shivaji Nagre who loves and hates his grandfather with equal intensity. Will Shivaji betray Subhash? Or will he become a prey to his grandfather’s machinations?",
+  "created_at": "2026-07-22T15:43:56.261Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6565,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

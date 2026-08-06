@@ -1,0 +1,32 @@
+{
+  "id": "4dd9257d-3317-491b-b999-b30e66330bbc",
+  "title": "The Night Clerk",
+  "slug": "the-night-clerk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hPWjid7yMatyIDHvku7lCMN7zSi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 6.181,
+  "description": "Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.",
+  "created_at": "2026-07-22T15:23:34.334Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4407,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

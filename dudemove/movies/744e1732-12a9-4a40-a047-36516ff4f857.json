@@ -1,0 +1,36 @@
+{
+  "id": "744e1732-12a9-4a40-a047-36516ff4f857",
+  "title": "The Addams Family",
+  "slug": "the-addams-family",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 6.6,
+  "description": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
+  "created_at": "2026-07-22T15:28:10.032Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4977,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

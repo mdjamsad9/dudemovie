@@ -1,0 +1,32 @@
+{
+  "id": "e093b50e-2690-41a5-b2ed-fd36c904a158",
+  "title": "Laali Ki Shaadi Mein Laaddoo Deewana",
+  "slug": "laali-ki-shaadi-mein-laaddoo-deewana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i7hh87xgYhhPsNHhY2FalW02osB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 130,
+  "rating": null,
+  "description": "Laali and Ladoo get trapped in a royal wedding that takes place in Vadodara.",
+  "created_at": "2026-07-22T15:44:20.044Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6594,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

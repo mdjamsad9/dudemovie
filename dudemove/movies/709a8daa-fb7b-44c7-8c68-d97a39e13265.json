@@ -1,0 +1,32 @@
+{
+  "id": "709a8daa-fb7b-44c7-8c68-d97a39e13265",
+  "title": "Teenz",
+  "slug": "teenz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/887dYySg0NJfL00mlnqoza8SIq6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 122,
+  "rating": 5,
+  "description": "Teenz, a Thrilling Adventure, directed by the genre-breaking film maker and national award winner, Radhakrishnan Parthiban, is a compelling film centered around a spirited group of thirteen teenagers.",
+  "created_at": "2026-07-09T17:16:24.301Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 900,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Teenz%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Teenz%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

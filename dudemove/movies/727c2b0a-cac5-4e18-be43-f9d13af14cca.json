@@ -1,0 +1,32 @@
+{
+  "id": "727c2b0a-cac5-4e18-be43-f9d13af14cca",
+  "title": "The Invisible Guest",
+  "slug": "the-invisible-guest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2017,
+  "duration": 107,
+  "rating": 8.078,
+  "description": "Barcelona, Spain. Adrián Doria, a young and successful businessman accused of murder, meets one night with Virginia Goodman, an expert interrogation lawyer, in order to devise a defense strategy.",
+  "created_at": "2026-07-22T15:45:46.951Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6649,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

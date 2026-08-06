@@ -1,0 +1,28 @@
+{
+  "id": "b9857912-487d-463e-b6ec-f909b45d771b",
+  "title": "Crazy Birds",
+  "slug": "crazy-birds",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8J3DHTh2VU0fCWgoyUQ7zXotcxo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 73,
+  "rating": 4.3,
+  "description": "It's springtime in Fernville, and that means it's time for the annual talent show, where the jungle animals get to show off their singing skills! Birds Marshall and Mimi are a show favorite, but local music guru, Marlon Pintop, is not pleased!",
+  "created_at": "2026-07-22T15:24:46.269Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4682,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

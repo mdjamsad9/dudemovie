@@ -1,0 +1,28 @@
+{
+  "id": "19929066-2ad6-480f-8191-48ae1239d51e",
+  "title": "Hindi Medium",
+  "slug": "hindi-medium",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 132,
+  "rating": 7.398,
+  "description": "Mita and Raj Batra, an affluent couple from Delhi’s Chandni Chowk, are grappling with getting their daughter admission into an English medium school. But there is one big problem. Their zubaan is Hindi, and the elitist snobs won’t let the Hindi speaking hoi-polloi fit in.",
+  "created_at": "2026-07-22T15:43:17.328Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6507,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

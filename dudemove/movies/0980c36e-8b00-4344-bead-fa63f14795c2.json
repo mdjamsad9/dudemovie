@@ -1,0 +1,36 @@
+{
+  "id": "0980c36e-8b00-4344-bead-fa63f14795c2",
+  "title": "I Don't Feel at Home in This World Anymore",
+  "slug": "i-don-t-feel-at-home-in-this-world-anymore",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 96,
+  "rating": 6.559,
+  "description": "When a depressed woman is burglarized, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbor. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals.",
+  "created_at": "2026-07-22T15:47:04.873Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6708,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "28f3344c-2cd7-4a57-a8bc-c8ca5e071b20",
+  "title": "9 Bullets",
+  "slug": "9-bullets",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8h8R2D6AVTZCCA6NIvioObkhXsb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 96,
+  "rating": 5.26,
+  "description": "A former burlesque dancer turned author discovers a second chance at life and redemption when she risks everything to rescue her young neighbor after he witnesses his parents’ murder. Now on the run from the local crime boss, who happens to be her longtime ex, she makes a desperate attempt to get the boy to safety.",
+  "created_at": "2026-07-22T15:14:43.139Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3334,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

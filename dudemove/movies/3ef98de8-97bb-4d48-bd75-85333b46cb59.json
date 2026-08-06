@@ -1,0 +1,28 @@
+{
+  "id": "3ef98de8-97bb-4d48-bd75-85333b46cb59",
+  "title": "Sully",
+  "slug": "sully",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 7.204,
+  "description": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+  "created_at": "2026-08-06T05:02:00.481Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 7445,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

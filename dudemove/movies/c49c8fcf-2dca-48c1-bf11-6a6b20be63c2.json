@@ -1,0 +1,32 @@
+{
+  "id": "c49c8fcf-2dca-48c1-bf11-6a6b20be63c2",
+  "title": "Balakrishnudu",
+  "slug": "balakrishnudu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2bvtg5yNX1F7xzfw6DP5yXzVMTT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2017,
+  "duration": 142,
+  "rating": null,
+  "description": "A local toughie is hired as a bodyguard to protect a girl from the rivals of her family and becomes a natural target for her enemies. In the process, he ends up falling in love with her.",
+  "created_at": "2026-07-31T07:16:14.606Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6732,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

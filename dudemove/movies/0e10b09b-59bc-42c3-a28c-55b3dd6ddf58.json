@@ -1,0 +1,36 @@
+{
+  "id": "0e10b09b-59bc-42c3-a28c-55b3dd6ddf58",
+  "title": "Yoga Hosers",
+  "slug": "yoga-hosers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cc40P3lKEiK0H8ZSd8hmBBI0HEV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 4.645,
+  "description": "Two teenage yoga enthusiasts team up with a legendary man-hunter to battle with an ancient evil presence that is threatening their major party plans.",
+  "created_at": "2026-08-06T05:01:40.075Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 7917,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

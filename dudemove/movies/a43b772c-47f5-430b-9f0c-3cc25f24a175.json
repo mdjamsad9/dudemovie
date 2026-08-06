@@ -1,0 +1,28 @@
+{
+  "id": "a43b772c-47f5-430b-9f0c-3cc25f24a175",
+  "title": "Crazy Rich Asians",
+  "slug": "crazy-rich-asians",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cantonese",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 7.048,
+  "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+  "created_at": "2026-08-06T04:59:56.604Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6425,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

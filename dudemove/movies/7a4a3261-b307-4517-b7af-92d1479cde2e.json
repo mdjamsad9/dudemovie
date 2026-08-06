@@ -1,0 +1,24 @@
+{
+  "id": "7a4a3261-b307-4517-b7af-92d1479cde2e",
+  "title": "Typecaste",
+  "slug": "typecaste",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3ZkscRt8IyacdMKPWobWJUALAPU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 86,
+  "rating": 6.7,
+  "description": "Mahipat Babruvahan becomes the first from his caste and village to complete his M.A. degree. Being fired from his current job after expecting a raise, he takes up a new job as a professor where his patience is put to the test by his students and his love interest.",
+  "created_at": "2026-07-22T15:47:16.139Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6713,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

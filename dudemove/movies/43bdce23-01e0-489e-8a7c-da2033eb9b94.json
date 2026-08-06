@@ -1,0 +1,24 @@
+{
+  "id": "43bdce23-01e0-489e-8a7c-da2033eb9b94",
+  "title": "Billionaire Boys Club",
+  "slug": "billionaire-boys-club",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7EpC1etIcUQxqPnBz0CpHLp3evv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 108,
+  "rating": 5.715,
+  "description": "A group of wealthy boys in Los Angeles during the early 1980s establishes a get rich quick scam that turns deadly.",
+  "created_at": "2026-07-22T15:34:18.862Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5934,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

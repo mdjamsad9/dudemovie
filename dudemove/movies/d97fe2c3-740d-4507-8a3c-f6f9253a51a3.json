@@ -1,0 +1,28 @@
+{
+  "id": "d97fe2c3-740d-4507-8a3c-f6f9253a51a3",
+  "title": "Bunker",
+  "slug": "bunker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r7ZHopNI41ZIhgvfOSPfaNtoUBP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 98,
+  "rating": 8,
+  "description": "Lt. Vikram Singh is a lone survivor in a Bunker, at Poonch (Kashmir), after being hit by a mortar shell during a ceasefire violation.",
+  "created_at": "2026-07-22T15:25:28.786Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 4498,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "34174afd-fc27-46a2-a57a-9a6e8e5da71e",
+  "title": "Honey Bee 2: Celebrations",
+  "slug": "honey-bee-2-celebrations",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cg5y8oK59jowUrnfMKOmge14eSA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 128,
+  "rating": null,
+  "description": "Sebastian and Angela are all set to get married until their difference of opinions and cultural conflicts between the families threaten their union.",
+  "created_at": "2026-07-31T07:34:05.663Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6864,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

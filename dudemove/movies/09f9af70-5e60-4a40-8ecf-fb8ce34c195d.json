@@ -1,0 +1,24 @@
+{
+  "id": "09f9af70-5e60-4a40-8ecf-fb8ce34c195d",
+  "title": "Highway to Havasu",
+  "slug": "highway-to-havasu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pNKVV7GyAEok7mG52tMEcs7T3SV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 110,
+  "rating": 3.9,
+  "description": "During spring break, two buddies kidnap their broken-hearted friend and embark on a road trip to Lake Havasu.",
+  "created_at": "2026-07-22T15:46:53.302Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6680,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

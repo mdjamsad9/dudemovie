@@ -1,0 +1,24 @@
+{
+  "id": "9f7db3b6-8189-4aa9-ab5a-2dd7c0c3b6cf",
+  "title": "House Arrest",
+  "slug": "house-arrest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xHAx1klAv4wYfraTYbpoaDtGPw2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 104,
+  "rating": 6.5,
+  "description": "A world-weary man’s self-imposed home confinement becomes a comedy of errors with the simultaneous arrivals of a peculiar package and a curious journalist.",
+  "created_at": "2026-07-22T15:27:21.814Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4855,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

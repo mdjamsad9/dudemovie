@@ -1,0 +1,24 @@
+{
+  "id": "a998f709-52bd-4b9e-a211-d2da69f37e0b",
+  "title": "My Name Is Lenny",
+  "slug": "my-name-is-lenny",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fuyJspYn7UpG745eMpX3S9vCncg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 5.708,
+  "description": "The life story of one of Britain's most notorious bare-knuckle fighters, Lenny McLean, also known as \"The Guv'nor\".",
+  "created_at": "2026-07-22T15:44:06.625Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6569,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19ab3dde-cfdb-4633-bc79-ecff893aea22",
+  "title": "Angamaly Diaries",
+  "slug": "angamaly-diaries",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fwxgQakS3vUQIzgJMphQWHxAqr2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 132,
+  "rating": null,
+  "description": "Six young friends in the small town of Angamaly tries their luck by starting a pork business lead by Vincent Pepe. They initially strike a business deal with Rajan and Ravi despite the duo having killed a close friend of theirs in a gang fight. Vincent is in love with Sakhi and plan to immigrate abroad with her. But their plans hit a road bump as the deal with the gangsters hits some road bumps.",
+  "created_at": "2026-07-31T07:31:14.476Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6843,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

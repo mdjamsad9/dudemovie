@@ -1,0 +1,28 @@
+{
+  "id": "3aa0c7bd-2f14-41d3-9b9b-927515a7e281",
+  "title": "Armed",
+  "slug": "armed",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AbjRUn6QNffIFkkFidvZi9E8upE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 4.3,
+  "description": "A former U.S. marshal discovers that all of the survivors of his old unit are experiencing the same symptoms simultaneously and there may be a larger conspiracy at hand.",
+  "created_at": "2026-07-22T15:35:42.831Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5661,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

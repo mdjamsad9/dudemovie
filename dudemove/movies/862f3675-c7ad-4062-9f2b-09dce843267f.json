@@ -1,0 +1,28 @@
+{
+  "id": "862f3675-c7ad-4062-9f2b-09dce843267f",
+  "title": "The Free World",
+  "slug": "the-free-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8YzGqiaOzErI8i7VK57hUwbMudH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 6.149,
+  "description": "Following his release from a brutal stretch in prison for crimes he didn't commit, Mo is struggling to adapt to life on the outside. When his world collides with Doris, a mysterious woman with a violent past, he decides to risk his newfound freedom to keep her in his life.",
+  "created_at": "2026-08-06T05:01:56.014Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 8014,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

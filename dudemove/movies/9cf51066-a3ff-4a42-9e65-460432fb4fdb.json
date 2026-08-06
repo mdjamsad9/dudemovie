@@ -1,0 +1,28 @@
+{
+  "id": "9cf51066-a3ff-4a42-9e65-460432fb4fdb",
+  "title": "The Queen of Hollywood Blvd",
+  "slug": "the-queen-of-hollywood-blvd",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tL2YR3FxjHz5zngKu92uXSTIE0m.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 4.9,
+  "description": "On her 60th birthday, the proud owner of a Los Angeles strip club, finds herself in hot water over a twenty-five year old debt to the mob, leading her on a downward spiral of violence and revenge through the underbelly of Los Angeles.",
+  "created_at": "2026-07-22T15:35:04.546Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5618,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

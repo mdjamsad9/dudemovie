@@ -1,0 +1,32 @@
+{
+  "id": "d93c3809-5491-4bde-a6f3-81ecbd54d4a0",
+  "title": "The Dinner",
+  "slug": "the-dinner",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8rhlkQo3fqPlC9MH8wOHCu4XQjN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 4.548,
+  "description": "Two brothers and their wives meet up at a haute-cuisine restaurant to discuss what to do about a horrific crime that their sons committed together. As the quartet debate their options, the conversation reopens old wounds between the siblings.",
+  "created_at": "2026-08-06T05:01:27.129Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6947,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

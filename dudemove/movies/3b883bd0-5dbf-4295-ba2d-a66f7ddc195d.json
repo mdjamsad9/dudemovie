@@ -1,0 +1,32 @@
+{
+  "id": "3b883bd0-5dbf-4295-ba2d-a66f7ddc195d",
+  "title": "Mortal Kombat Legends: Battle of the Realms",
+  "slug": "mortal-kombat-legends-battle-of-the-realms",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 80,
+  "rating": 7.622,
+  "description": "When Shao Kahn's Outworld barbarians terrorize Earthrealm, Lord Raiden is determined to put an end to the carnage once and for all. This leaves one option: a final Mortal Kombat tournament for the future of Earthrealm – win it or lose everything. Raiden's elite fighters Liu Kang, Johnny Cage, Sonya Blade, and a few new faces kick the action into overdrive as they go head-to-head with Outworld's most bloodthirsty warriors. But deep in the Netherrealm, an unspeakable scheme by the malevolent Shinnok unfolds, threatening to obliterate existence.",
+  "created_at": "2026-07-22T15:17:39.541Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3602,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

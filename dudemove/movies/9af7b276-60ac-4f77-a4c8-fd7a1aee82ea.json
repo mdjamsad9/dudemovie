@@ -1,0 +1,28 @@
+{
+  "id": "9af7b276-60ac-4f77-a4c8-fd7a1aee82ea",
+  "title": "Psych 2: Lassie Come Home",
+  "slug": "psych-2-lassie-come-home",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2LXQUhkzo27jKotK7poHkNaw59B.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 7.003,
+  "description": "After Santa Barbara Police Chief Carlton Lassiter is ambushed and left for dead, Shawn and Gus return to help him and find themselves embroiled in a case involving the personal, the professional – and even the supernatural.",
+  "created_at": "2026-07-22T15:23:32.367Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4445,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

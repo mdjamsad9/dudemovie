@@ -1,0 +1,28 @@
+{
+  "id": "e751197a-8e01-43f3-9da1-29ff5e351b13",
+  "title": "Boone: The Bounty Hunter",
+  "slug": "boone-the-bounty-hunter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/akqKTfd6EbUQamcvVrJS1CxOdUH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 86,
+  "rating": 5.123,
+  "description": "When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.",
+  "created_at": "2026-07-22T15:45:42.620Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6662,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

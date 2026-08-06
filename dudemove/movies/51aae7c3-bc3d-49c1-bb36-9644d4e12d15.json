@@ -1,0 +1,32 @@
+{
+  "id": "51aae7c3-bc3d-49c1-bb36-9644d4e12d15",
+  "title": "Mar Mitenge",
+  "slug": "mar-mitenge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3zEuZLMbbGHYngaImHC7dG1fUmQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2015,
+  "duration": null,
+  "rating": 8.833,
+  "description": "Akbar lives with his widowed mother in a small shanty hut. One day, his mother finds two young orphans, Ram and Laxman, and brings them home. Years later, Akbar, Ram and Laxman have grown up. While Ram has fallen in love with Radha, Laxman's sweetheart is Jenny, a pickpocket and petty thief. One day they come across a blind woman, and come to her assistance. They find out that she is their long-lost mother, who was blinded by a man named Ajit Singh, who also killed their father. Ram and Laxman decide to seek vengeance against Ajit Singh, but before they could do so, Akbar's mother and their mother are abducted, and it looks like Ajit is all set to send the rest of the family to their deaths.",
+  "created_at": "2026-08-06T05:02:17.599Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 8204,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

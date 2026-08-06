@@ -1,0 +1,28 @@
+{
+  "id": "c664a71a-a8d3-41bc-a463-655fc73b1a85",
+  "title": "Blind",
+  "slug": "blind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 6.11,
+  "description": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+  "created_at": "2026-08-06T05:01:26.258Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6945,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

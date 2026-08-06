@@ -1,0 +1,24 @@
+{
+  "id": "ae6e91e9-2eef-457b-8a65-d03d2c0cb12a",
+  "title": "Mushk",
+  "slug": "mushk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hv4Q4HmSuOE1WcK7hkYuT7M9P5b.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 142,
+  "rating": null,
+  "description": "Mushk is a Hindi play starring Nimra Bucha and Sania Saeed. Journalist Zoay arrives to interview novelist Sophiya and they soon discover that they have something in common. The characters realise what love is and that things are not really as they seem.",
+  "created_at": "2026-07-22T15:24:56.803Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4518,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

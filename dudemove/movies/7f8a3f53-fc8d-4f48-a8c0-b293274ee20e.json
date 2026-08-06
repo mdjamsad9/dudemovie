@@ -1,0 +1,36 @@
+{
+  "id": "7f8a3f53-fc8d-4f48-a8c0-b293274ee20e",
+  "title": "Pursuit",
+  "slug": "pursuit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oUU6blOmIu155vfIgzML3ZSsDrB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 92,
+  "rating": 5.081,
+  "description": "Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to find his wife, who has been kidnapped by a drug cartel. When Calloway escapes police custody, Breslin joins forces with a no-nonsense female cop to reclaim his prisoner. But is Calloway’s crime-boss father somehow involved in this explosive situation?",
+  "created_at": "2026-07-22T15:15:21.998Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3394,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

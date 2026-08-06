@@ -1,0 +1,28 @@
+{
+  "id": "d21ac5e8-83a5-4848-904c-694312d89e43",
+  "title": "Sunrise in Heaven",
+  "slug": "sunrise-in-heaven",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a8cOgXD0v1RHP9g4ODYIHX0slOY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 85,
+  "rating": 6.4,
+  "description": "A true love story that spans a lifetime but eventually results in a painful loss of love. Jan is the daughter of an overly protective militant father, but that doesn't stop her from falling love with Steve, a young GI in the Air Force.",
+  "created_at": "2026-07-22T15:32:29.825Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5080,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ba18d1c2-0e9b-43cc-8831-47d27344581a",
+  "title": "AWOL",
+  "slug": "awol",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j3MaqK07Oa1u4kZVhyEEoXGUyXt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 4.667,
+  "description": "Days before deployment to Afghanistan, Joey returns to rural Pennsylvania for Christmas with big dreams of running away to Canada with her beautiful lover. But Joey learns that things don’t always end up as planned.  This short film was expanded into a feature film of the same title, it premiered at the 2016 Tribeca Film Festival, and it was released in 2017.",
+  "created_at": "2026-08-06T05:01:36.507Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7454,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

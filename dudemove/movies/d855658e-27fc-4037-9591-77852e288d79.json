@@ -1,0 +1,32 @@
+{
+  "id": "d855658e-27fc-4037-9591-77852e288d79",
+  "title": "Archive",
+  "slug": "archive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hmz9ySdCqW9FiHpM9JdSCkjQzFA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 109,
+  "rating": 6.364,
+  "description": "2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.",
+  "created_at": "2026-07-22T15:21:57.708Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4218,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

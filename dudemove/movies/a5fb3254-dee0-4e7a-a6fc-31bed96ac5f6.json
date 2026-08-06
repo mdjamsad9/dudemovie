@@ -1,0 +1,28 @@
+{
+  "id": "a5fb3254-dee0-4e7a-a6fc-31bed96ac5f6",
+  "title": "Chilappol Penkutty",
+  "slug": "chilappol-penkutty",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iDxOk2Y6akIXqYDx7oMGzqnoKCD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 137,
+  "rating": null,
+  "description": "The lives of two 15-year-old girls who are the best of friends change when one of them is brutally raped and murdered.",
+  "created_at": "2026-07-31T07:09:09.906Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5509,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

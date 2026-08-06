@@ -1,0 +1,24 @@
+{
+  "id": "80ffb07c-4751-4935-9bea-10935982800f",
+  "title": "Mee Raqsam",
+  "slug": "mee-raqsam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qQaLdqjSDOFxofS4TDv8lkHPhOm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 95,
+  "rating": 5.7,
+  "description": "Mee Raqsam (transl. I Dance), revolves around a young girl's aspiration to become a dancer, but coming from a small village like Mijwan, everyone questions her dreams and choices. It's only her father who trusts, supports and helps her in this journey of achieving her dream.",
+  "created_at": "2026-07-22T15:23:00.260Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4370,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

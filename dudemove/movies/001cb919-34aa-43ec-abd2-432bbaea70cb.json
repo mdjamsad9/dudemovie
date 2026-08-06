@@ -1,0 +1,28 @@
+{
+  "id": "001cb919-34aa-43ec-abd2-432bbaea70cb",
+  "title": "City of Dead Men",
+  "slug": "city-of-dead-men",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/polwU0BsjZ55nLL7K5MiG9HOCJZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 4.7,
+  "description": "An American traveling in South America ends up living with a group of misfits at an abandoned hospital with a troubling past.",
+  "created_at": "2026-08-06T05:01:59.589Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 8025,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

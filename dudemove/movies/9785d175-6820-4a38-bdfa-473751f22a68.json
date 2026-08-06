@@ -1,0 +1,28 @@
+{
+  "id": "9785d175-6820-4a38-bdfa-473751f22a68",
+  "title": "The Tank",
+  "slug": "the-tank-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/za65aCQQmjWzGxxH7hHH7v7mB4V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 85,
+  "rating": null,
+  "description": "On April 26, 2012, six people entered an Isolated Confined Environment with the mission to simulate a trip to Mars. Their mission was a catastrophic failure.",
+  "created_at": "2026-07-31T07:31:09.441Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6841,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

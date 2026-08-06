@@ -1,0 +1,24 @@
+{
+  "id": "0a1b17c5-406d-40a2-8379-1e24ecca272e",
+  "title": "Coffee with D",
+  "slug": "coffee-with-d",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uSuXeVImxYCEqjyVDCESuMqpZOS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 123,
+  "rating": 5,
+  "description": "A celebrated journalist interviews one of the world's most dreaded terrorists, \"D\".",
+  "created_at": "2026-07-22T15:45:57.627Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6670,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

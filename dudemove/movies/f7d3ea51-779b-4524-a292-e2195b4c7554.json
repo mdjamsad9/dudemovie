@@ -1,0 +1,24 @@
+{
+  "id": "f7d3ea51-779b-4524-a292-e2195b4c7554",
+  "title": "Grey Lady",
+  "slug": "grey-lady",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/S3BRZj3FJkYSvxco7pvPCUsQYK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 107,
+  "rating": 4.8,
+  "description": "A Boston police officer goes to Nantucket to investigate the murder of his partner, but he finds more than he bargained for.",
+  "created_at": "2026-07-22T15:44:12.396Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6586,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

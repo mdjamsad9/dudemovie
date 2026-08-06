@@ -1,0 +1,32 @@
+{
+  "id": "1fca9d8f-715b-4123-8652-b0dc967e2bee",
+  "title": "Adventures of Rufus: The Fantastic Pet",
+  "slug": "adventures-of-rufus-the-fantastic-pet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hF5AFDTWEqECQEvqOsFG2FQ6DJM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 82,
+  "rating": 5.353,
+  "description": "At his grandmother's house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott's spell book contains the magic healing formula - but Abbott's ancient nemesis Lilith, posing as Grandmother's servant, wants the book too! To save Rufus' magical world, Scott and Emily must face many exciting challenges...",
+  "created_at": "2026-07-22T15:24:32.200Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3868,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

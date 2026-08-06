@@ -1,0 +1,28 @@
+{
+  "id": "bfbcf588-5021-4155-8aa1-5a0566d0403c",
+  "title": "Madarangi",
+  "slug": "madarangi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3FrgZMyTqptdkCx5dYyYMYbaUi7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2018,
+  "duration": null,
+  "rating": null,
+  "description": "Deepu, the daughter of a rich businessman, falls in love with her driver Manu. Problems arise when Manu suffers a brain injury and is blamed for the death of an MLA's brother.",
+  "created_at": "2026-08-06T05:00:17.599Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5537,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

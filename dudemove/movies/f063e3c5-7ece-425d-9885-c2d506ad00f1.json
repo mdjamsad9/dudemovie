@@ -1,0 +1,24 @@
+{
+  "id": "f063e3c5-7ece-425d-9885-c2d506ad00f1",
+  "title": "Into the Cold Blue: Restoration and Reinvention",
+  "slug": "into-the-cold-blue-restoration-and-reinvention",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 23,
+  "rating": null,
+  "description": "In 1943, legendary Hollywood director William Wyler and his film crew flew combat missions on B-17 bombers to document the fierce air battles of World War II. Over 70 years later, the footage was discovered in the vaults of the National Archives. After painstaking, shot-by-shot sound and picture restoration, director Erik Nelson has constructed a new film out of the material. Inside the making of The Cold Blue.",
+  "created_at": "2026-07-22T15:31:15.402Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5221,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2937a373-1763-4d37-b4b1-e42f3a3edb31",
+  "title": "Bhale Manchi Chowka Beram",
+  "slug": "bhale-manchi-chowka-beram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m9mvCdompUdJGq0GGb1MaLUm0th.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 140,
+  "rating": null,
+  "description": "Courier boy Saleem and cab driver Parthu are roommates who lie to their parents about being in Dubai and live in Hyderabad instead. When they come in possession of Desa Rahasyalu, written by an ex-Army major Yakub Khan, they perceive it to be something more than what it is and try to sell it to Pakistan.",
+  "created_at": "2026-07-31T07:13:15.586Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6404,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

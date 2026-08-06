@@ -1,0 +1,24 @@
+{
+  "id": "48b4f785-8476-435c-afcd-a0da5f164fc2",
+  "title": "Dassehra",
+  "slug": "dassehra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1yXATSoFUl7aLFVPl9a52id2oUG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 109,
+  "rating": 10,
+  "description": "Honest inspector Aditi Singh and hard-boiled cop Rudra investigate a multiple suicide case. They stumble upon a darker truth revolving around the corrupt politician Yadav and Shankar. The political nexus forces Rudra to become the angry-young-man and one-man-army all rolled into one.",
+  "created_at": "2026-07-22T15:34:13.301Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5983,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

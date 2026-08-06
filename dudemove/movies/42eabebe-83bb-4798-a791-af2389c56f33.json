@@ -1,0 +1,24 @@
+{
+  "id": "42eabebe-83bb-4798-a791-af2389c56f33",
+  "title": "From a House on Willow Street",
+  "slug": "from-a-house-on-willow-street",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pCDpEXkeurIUXEDR3cs97I4tFDH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 90,
+  "rating": 4.827,
+  "description": "After a young woman is kidnapped, her captors soon come to realize that in fact they may be the ones in danger and this young woman has a dark secret inside her.",
+  "created_at": "2026-07-22T15:45:30.789Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6647,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

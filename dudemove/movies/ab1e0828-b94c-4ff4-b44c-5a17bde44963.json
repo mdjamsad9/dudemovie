@@ -1,0 +1,28 @@
+{
+  "id": "ab1e0828-b94c-4ff4-b44c-5a17bde44963",
+  "title": "The Good Catholic",
+  "slug": "the-good-catholic",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eOH72c0CFdeLrm0mLjIWCugBYO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 5.5,
+  "description": "An idealistic young priest is dedicated to his calling until he meets a woman at confession. After the meeting, he seeks guidance from his fellow priests.",
+  "created_at": "2026-08-06T05:01:20.471Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6937,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

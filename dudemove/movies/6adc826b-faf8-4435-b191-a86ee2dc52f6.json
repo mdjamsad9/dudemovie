@@ -1,0 +1,28 @@
+{
+  "id": "6adc826b-faf8-4435-b191-a86ee2dc52f6",
+  "title": "XOXO",
+  "slug": "xoxo",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5hbTuc8Lbw7N8RwMOc9bjAcSjuw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 5.94,
+  "description": "XOXO follows six strangers whose lives collide in one frenetic, dream-chasing, hopelessly romantic night.",
+  "created_at": "2026-08-06T05:02:08.736Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

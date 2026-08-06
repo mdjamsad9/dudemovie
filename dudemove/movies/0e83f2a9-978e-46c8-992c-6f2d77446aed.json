@@ -1,0 +1,28 @@
+{
+  "id": "0e83f2a9-978e-46c8-992c-6f2d77446aed",
+  "title": "Becoming Bond",
+  "slug": "becoming-bond",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oRyVYIqegDB5rWjfloeu1Zgk332.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 6.854,
+  "description": "The stranger-than-fiction true story of George Lazenby, a poor Australian car mechanic who, through an unbelievable set of circumstances, landed the role of James Bond despite having never acted a day in his life.",
+  "created_at": "2026-07-22T15:45:27.160Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6638,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

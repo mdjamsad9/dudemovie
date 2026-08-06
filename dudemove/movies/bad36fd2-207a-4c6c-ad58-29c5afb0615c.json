@@ -1,0 +1,28 @@
+{
+  "id": "bad36fd2-207a-4c6c-ad58-29c5afb0615c",
+  "title": "Blood Vessel",
+  "slug": "blood-vessel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xnUEpB35VVlMfZNT0WAFm45GGJq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 6.871,
+  "description": "Brought together by chance, six people fleeing a town devastated by oil pollution stow away on a mysterious ship — not realizing the dangers that await.",
+  "created_at": "2026-08-06T04:58:31.681Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4684,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d55b97c2-f2c2-4153-81a0-3876f8babf72",
+  "title": "The Last Shift",
+  "slug": "the-last-shift",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/76x4TVjygz9t0GG9YLcrmiRck95.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 5.699,
+  "description": "Stanley, an aging fast food worker, prepares to work his final graveyard shift after 38 years. When he's asked to train his replacement, Jevon, Stanley's weekend takes an unexpected turn.",
+  "created_at": "2026-07-22T15:22:25.905Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4282,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

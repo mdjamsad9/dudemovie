@@ -1,0 +1,28 @@
+{
+  "id": "93d4c1c5-402d-4675-a619-4b329505a0a1",
+  "title": "Nobody's Fool",
+  "slug": "nobody-s-fool",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2VTHRTwLlnFDlNUxc8MEeFwCQTm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 110,
+  "rating": 6.052,
+  "description": "After serving five years in prison, wild child Tanya looks to her buttoned-up, by-the-book sister Danica to help her get back on her feet. The feisty ex-con becomes suspicious and concerned when Danica tells her that she's in a long-distance, online relationship with a mysterious man she's never seen. As the polar opposites start to collide, Tanya soon discovers that her sibling's picture-perfect life may not be what it seems.",
+  "created_at": "2026-07-22T15:33:49.938Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6052,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f5e4703b-532a-417f-aa4d-c0ec8dd1ac7f",
+  "title": "Lucid Dream",
+  "slug": "lucid-dream",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wwvr6adqgIW2UIU78CDAHa3IKgg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Korean",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 6.428,
+  "description": "Dae-ho, an investigative journalist, seeks to track down the whereabouts of his son who was abducted three years ago. With the help of a detective and a psychiatrist friend, he will retrace his memory of the incident through the use of lucid dreaming techniques.",
+  "created_at": "2026-08-06T05:01:37.376Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6956,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

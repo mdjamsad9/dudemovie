@@ -1,0 +1,36 @@
+{
+  "id": "3fa919b0-4071-467d-b7eb-54617160d67c",
+  "title": "Operation Avalanche",
+  "slug": "operation-avalanche",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3ngw7s1fa0eJL19fJ6Jw0bTQg3n.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 6.116,
+  "description": "In 1967, four undercover CIA agents were sent to NASA posing as a documentary film crew. What they discovered led to one of the biggest conspiracies in American history.",
+  "created_at": "2026-08-06T05:01:57.343Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7475,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

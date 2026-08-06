@@ -1,0 +1,28 @@
+{
+  "id": "a6790cff-63c5-44bd-9b69-de5f3eec1701",
+  "title": "Ti And Ti",
+  "slug": "ti-and-ti",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "Slovenian",
+  "release_year": 2019,
+  "duration": null,
+  "rating": null,
+  "description": "Children help to find dangerous criminal.",
+  "created_at": "2026-08-06T04:58:53.172Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4681,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

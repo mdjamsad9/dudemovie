@@ -1,0 +1,28 @@
+{
+  "id": "b82ad4ff-834d-4ed9-96a4-2c968a775ce0",
+  "title": "A Nice Girl Like You",
+  "slug": "a-nice-girl-like-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 94,
+  "rating": 5.848,
+  "description": "Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.",
+  "created_at": "2026-07-22T15:23:31.093Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4418,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

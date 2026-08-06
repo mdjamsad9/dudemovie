@@ -1,0 +1,28 @@
+{
+  "id": "4a7d64e5-d7e1-4e7a-9f50-1e85675c6bd3",
+  "title": "Nela Ticket",
+  "slug": "nela-ticket",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/biQARegkJE2boi7eYxK18M9Vbno.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": null,
+  "description": "A carefree young man is forced to alter his life due to a shocking event that takes place in his life. He fights against an evil, corrupt politician to get justice for the society.",
+  "created_at": "2026-07-31T07:14:22.790Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6446,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

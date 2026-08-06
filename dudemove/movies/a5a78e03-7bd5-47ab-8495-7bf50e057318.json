@@ -1,0 +1,32 @@
+{
+  "id": "a5a78e03-7bd5-47ab-8495-7bf50e057318",
+  "title": "Welcome Home",
+  "slug": "welcome-home-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bwYxdxIc3jUbivBB425MfhkBzw7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 125,
+  "rating": 6.574,
+  "description": "Welcome Home is being touted as a psychological drama with lots of thrills. The movie follows a pregnant woman living in a house. She is visited by a few other ladies presumably some officials and ask her about her lifestyle.",
+  "created_at": "2026-07-22T15:21:24.328Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4130,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

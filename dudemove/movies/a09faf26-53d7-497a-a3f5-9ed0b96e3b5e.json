@@ -1,0 +1,24 @@
+{
+  "id": "a09faf26-53d7-497a-a3f5-9ed0b96e3b5e",
+  "title": "En Kadhali Scene Podura",
+  "slug": "en-kadhali-scene-podura",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iHf9a8nDG0a0upDs3mcGChTf5n.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 144,
+  "rating": null,
+  "description": "En Kadhali Scene Podura is a Tamil movie starring Mahesh Kumar and Shalu Chourasiya in prominent roles. It is a drama romantic directed by Ram Sevaa.",
+  "created_at": "2026-07-31T07:08:49.238Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5465,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

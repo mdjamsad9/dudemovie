@@ -1,0 +1,32 @@
+{
+  "id": "934eb480-1ccf-40f7-ab5d-06e3ee46d1ac",
+  "title": "Outlaws and Angels",
+  "slug": "outlaws-and-angels",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rEV31TbZoC9mBa0fjJVtw94Pnvf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 5.638,
+  "description": "A gang of cold-blooded outlaws narrowly escapes a blood-soaked bank robbery in a grimy frontier town. With a notorious bounty hunter hot on their trail, these nefarious criminals desperately need a place to hide out before night falls. Fate brings them to the home of the Tildons, a seemingly innocent family with two feisty daughters. As the men settle in, an impetuous game of cat and mouse plays out during the cold, black night. Come morning, nothing will ever be the same.",
+  "created_at": "2026-08-06T05:02:02.717Z",
+  "genres": [
+    {
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7460,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

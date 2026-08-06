@@ -1,0 +1,28 @@
+{
+  "id": "184dfe4f-896e-4999-afb5-4c68616f4069",
+  "title": "Galaxy of Horrors",
+  "slug": "galaxy-of-horrors",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dOPOpcykEs3YzoajZmjw0Lh5Kyd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 5,
+  "description": "Trapped in a damaged cryogenic pod, a man is forced to watch a series of horrific science-fiction tales while his life support systems run out. Featuring eight intense stories of the unknown and other-worldly, equally wonderful and terrifying. Visit the GALAXY OF HORRORS, if you dare! Curated from Rue Morgue &amp; Unstable Ground's Little Terrors Festival.",
+  "created_at": "2026-08-06T05:01:49.768Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

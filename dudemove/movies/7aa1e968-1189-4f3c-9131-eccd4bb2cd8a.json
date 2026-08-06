@@ -1,0 +1,32 @@
+{
+  "id": "7aa1e968-1189-4f3c-9131-eccd4bb2cd8a",
+  "title": "Jodi",
+  "slug": "jodi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6WnhTgKhLVzRfBwrr1gIAnVJ7Vc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 140,
+  "rating": null,
+  "description": "Kapil, a system admin, detests his father for betting money on Cricket. He is such a Cricket buff that he named his son after Kapil Dev. When Kapil falls in love with a French teacher Kanchana Mala his world changes.",
+  "created_at": "2026-07-31T07:08:33.742Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5377,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

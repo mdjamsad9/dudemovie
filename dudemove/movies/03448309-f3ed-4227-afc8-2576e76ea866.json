@@ -1,0 +1,24 @@
+{
+  "id": "03448309-f3ed-4227-afc8-2576e76ea866",
+  "title": "Sakhavu",
+  "slug": "sakhavu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/orvGUwvIGtd65BeE1haFqvrGRvS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 163,
+  "rating": null,
+  "description": "Comrade Krishna Kumar wants to make it big in politics but lacks the ideals a sakhavu should possess. He is ruthless enough to even get rid of friends who might be possible hurdles on his way up. His paths cross with that of a veteran comrade, sakhavu Krishnan and the film depicts how his life influences Krishna Kumar.",
+  "created_at": "2026-07-31T07:31:17.531Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6845,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

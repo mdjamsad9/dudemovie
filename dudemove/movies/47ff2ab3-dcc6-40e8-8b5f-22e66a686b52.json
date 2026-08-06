@@ -1,0 +1,32 @@
+{
+  "id": "47ff2ab3-dcc6-40e8-8b5f-22e66a686b52",
+  "title": "Thuppakki Munai",
+  "slug": "thuppakki-munai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sPVs1vowAKEGqsrPZiAGeTgNd3m.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 123,
+  "rating": null,
+  "description": "Birla Bose, an encounter specialist's next assignment takes him to the holy city of Rameshwaram, where the greatest challenge of his career awaits for him.",
+  "created_at": "2026-07-31T07:17:33.882Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6483,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

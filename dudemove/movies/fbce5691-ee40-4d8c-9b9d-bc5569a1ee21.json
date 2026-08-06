@@ -1,0 +1,32 @@
+{
+  "id": "fbce5691-ee40-4d8c-9b9d-bc5569a1ee21",
+  "title": "Padayottam",
+  "slug": "padayottam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iFcTgstCtYHWUM0WTypoDW0yVT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 135,
+  "rating": null,
+  "description": "The shenanigans of a good-hearted goon and his chums as they try to earn some quick money in the world of local crime in Kerala.",
+  "created_at": "2026-07-31T07:18:57.516Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6021,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

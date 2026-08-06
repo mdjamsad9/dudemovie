@@ -1,0 +1,24 @@
+{
+  "id": "ce7125e5-08be-4686-a631-466dc56d1fdf",
+  "title": "Mr Church",
+  "slug": "mr-church",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5fCfZEQwcbuqVPyMu7pN5XNpK5V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 7.41,
+  "description": "A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.",
+  "created_at": "2026-08-06T05:02:04.647Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7622,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

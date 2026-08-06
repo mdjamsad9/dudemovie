@@ -1,0 +1,32 @@
+{
+  "id": "88166716-f9ba-4d5d-b67c-ce299a5fa609",
+  "title": "Nonsense",
+  "slug": "nonsense",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6Q0IoNGjMc80RdvXN3bJJGHASvB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 147,
+  "rating": null,
+  "description": "A bright but misunderstood student, who has a passion for BMX and a love for science, in his search for humanity. His faith in humanity is tested when something unexpected happens.",
+  "created_at": "2026-07-31T07:14:19.598Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6455,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

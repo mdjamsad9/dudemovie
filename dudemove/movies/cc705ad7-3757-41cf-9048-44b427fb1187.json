@@ -1,0 +1,28 @@
+{
+  "id": "cc705ad7-3757-41cf-9048-44b427fb1187",
+  "title": "American Nightmares",
+  "slug": "american-nightmares",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zbmH4eCkmCTSo80nheJOmmYuKxh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 4.73,
+  "description": "Two voyeuristic nerds are hacking the devices of people as they themselves are hacked by the feed from story tellers Mister Malevolent and Mystic Woman who have seven moralistic horror stories to tell.",
+  "created_at": "2026-07-22T15:34:59.875Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5726,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

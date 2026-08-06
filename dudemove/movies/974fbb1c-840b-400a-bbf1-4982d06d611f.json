@@ -1,0 +1,36 @@
+{
+  "id": "974fbb1c-840b-400a-bbf1-4982d06d611f",
+  "title": "Smurfs: The Lost Village",
+  "slug": "smurfs-the-lost-village",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 89,
+  "rating": 6.361,
+  "description": "In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.",
+  "created_at": "2026-07-22T15:44:14.694Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 6588,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "879cb0a8-83c8-4cde-b6ed-a1d282efed71",
+  "title": "Achari America Yatra",
+  "slug": "achari-america-yatra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qhiPRLo2HgqFl6gZTrpKbpPoswx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 123,
+  "rating": null,
+  "description": "Achari America Yatra is a Telugu movie starring Vishnu Manchu and Brahmanandam Kanneganti in prominent roles. It is an action drama movie directed by G. Nageswara Reddy, with Darling Swamy as the writer, forming part of the crew.",
+  "created_at": "2026-07-31T07:15:07.102Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6440,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

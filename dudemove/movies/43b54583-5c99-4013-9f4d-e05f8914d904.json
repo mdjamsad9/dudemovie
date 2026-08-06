@@ -1,0 +1,32 @@
+{
+  "id": "43b54583-5c99-4013-9f4d-e05f8914d904",
+  "title": "iSmart Shankar",
+  "slug": "ismart-shankar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aEpPH8oi6XpD5a1ynRiPhNOrURZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 141,
+  "rating": null,
+  "description": "A contract killer goes on the run after eliminating a target and eventually finds himself linked to a slain cop whose memory is transferred to his brain.",
+  "created_at": "2026-07-31T07:09:24.854Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5486,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

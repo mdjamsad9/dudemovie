@@ -1,0 +1,24 @@
+{
+  "id": "c231c575-9b7c-42ba-976a-1447d2fc022d",
+  "title": "Pottu",
+  "slug": "pottu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hT2hfqPYIemdqhxrrC52NEMaXAu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2019,
+  "duration": 120,
+  "rating": null,
+  "description": "A MBBS student attempts suicide by cutting his hand after performing badly at college,. Things take a turn when his blood spills on a tomb of Pottu, and a mysterious power enters his body which forces him to behave like a girl.",
+  "created_at": "2026-07-31T07:08:05.115Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5186,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

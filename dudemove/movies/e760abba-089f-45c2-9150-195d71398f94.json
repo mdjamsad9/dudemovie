@@ -1,0 +1,28 @@
+{
+  "id": "e760abba-089f-45c2-9150-195d71398f94",
+  "title": "After the Wedding",
+  "slug": "after-the-wedding",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oEtQKc74QciqG5Y9QXkLaBtHiH4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 80,
+  "rating": null,
+  "description": "Newlywed Diego Diaz heads down to Miami Beach for a few weeks to finish his latest novel, but when he becomes emotionally intimate with a sexy bartender, he and his wife are left to examine the true state of their young marriage.",
+  "created_at": "2026-07-31T07:31:19.839Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6846,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

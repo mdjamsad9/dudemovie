@@ -1,0 +1,36 @@
+{
+  "id": "2de26586-bbe9-4980-b58a-5c8feb627453",
+  "title": "The Wall of Mexico",
+  "slug": "the-wall-of-mexico",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hCyUlesH5NjAudviOE2xaRM40G6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 111,
+  "rating": 4.2,
+  "description": "A young white handyman, hired by a wealthy Mexican-American family to upkeep their ranch, finds himself caught between disgruntled locals and the family’s outrageously decadent daughters and discovers that something quite unusual is happening at the ranch.",
+  "created_at": "2026-07-22T15:21:54.611Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 4190,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

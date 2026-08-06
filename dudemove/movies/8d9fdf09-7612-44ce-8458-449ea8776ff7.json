@@ -1,0 +1,28 @@
+{
+  "id": "8d9fdf09-7612-44ce-8458-449ea8776ff7",
+  "title": "Parallel Minds",
+  "slug": "parallel-minds",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ahmj6O9ohSfO81v5X1fRcmvRHsd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 86,
+  "rating": 5.4,
+  "description": "In the near future, technology firm Red-Eye is on the verge of developing a revolutionary contact lens that records human sight to replicate memories. When the company’s lead researcher is murdered, Detective Thomas Elliot, and researcher Margo Elson  are drawn into searching deeper to apprehend an elusive digital shapeshifter. Soon, both are threatened by their past as they seek to uncover what this dangerous artificial intelligence is trying to consume.",
+  "created_at": "2026-07-22T15:22:48.469Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4310,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

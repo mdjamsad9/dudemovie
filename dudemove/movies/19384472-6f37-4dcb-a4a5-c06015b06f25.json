@@ -1,0 +1,28 @@
+{
+  "id": "19384472-6f37-4dcb-a4a5-c06015b06f25",
+  "title": "Prawaas",
+  "slug": "prawaas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yq5dE49Tpem3u2dbOJEkT555xPM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Marathi",
+  "release_year": 2020,
+  "duration": 133,
+  "rating": null,
+  "description": "After a medical emergency gives him a wake-up call, Abhijat Inamdar decides to live his life to the fullest by helping other people with their problems and searching for his purpose to live.",
+  "created_at": "2026-07-31T07:02:08.345Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4522,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

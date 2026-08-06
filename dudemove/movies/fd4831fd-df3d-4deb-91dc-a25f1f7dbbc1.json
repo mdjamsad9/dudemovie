@@ -1,0 +1,32 @@
+{
+  "id": "fd4831fd-df3d-4deb-91dc-a25f1f7dbbc1",
+  "title": "Den of Thieves",
+  "slug": "den-of-thieves",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 140,
+  "rating": 6.867,
+  "description": "A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+  "created_at": "2026-07-22T15:38:32.882Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5893,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

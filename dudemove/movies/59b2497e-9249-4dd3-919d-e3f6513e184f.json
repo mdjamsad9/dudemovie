@@ -1,0 +1,28 @@
+{
+  "id": "59b2497e-9249-4dd3-919d-e3f6513e184f",
+  "title": "Kaatru Veliyidai",
+  "slug": "kaatru-veliyidai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eAhi75mHLylj5J0ZsjhaVTtHhQD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2017,
+  "duration": 147,
+  "rating": null,
+  "description": "Romance is in the air as the lives of Fighter Pilot Varun & Medical Doctor Leela collide amidst the scenic beauty of Kashmir. While Leela yearns for Varun’s affection in the delicate of ways, Varun’s idea of love is all give-give, not give-take. Just as the avalanche of built-up emotions sets rolling, Varun becomes a PoW post the Kargil episode. Do their paths cross later?",
+  "created_at": "2026-07-31T07:34:32.438Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6868,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

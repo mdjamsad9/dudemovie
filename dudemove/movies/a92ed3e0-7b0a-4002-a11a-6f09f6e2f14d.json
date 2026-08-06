@@ -1,0 +1,28 @@
+{
+  "id": "a92ed3e0-7b0a-4002-a11a-6f09f6e2f14d",
+  "title": "A Violent Separation",
+  "slug": "a-violent-separation",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yNlLMfrfPExwqLZSOFbqmkawIpg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 106,
+  "rating": 7.019,
+  "description": "1983. In a quiet Midwestern town, a young deputy covers up a murder at the hands of his brother triggering a series of events that sends them and the victim's family towards a shattering climax.",
+  "created_at": "2026-07-22T15:31:38.749Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5261,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

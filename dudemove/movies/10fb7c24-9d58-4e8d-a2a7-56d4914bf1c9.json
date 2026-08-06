@@ -1,0 +1,32 @@
+{
+  "id": "10fb7c24-9d58-4e8d-a2a7-56d4914bf1c9",
+  "title": "Breaking News in Yuba County",
+  "slug": "breaking-news-in-yuba-county",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pMyCYtgfBmMisX3RFc5eH6zIV5Y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 96,
+  "rating": 5.9,
+  "description": "An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.",
+  "created_at": "2026-07-22T15:19:51.063Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 3803,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

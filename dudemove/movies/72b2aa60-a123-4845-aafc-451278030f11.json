@@ -1,0 +1,28 @@
+{
+  "id": "72b2aa60-a123-4845-aafc-451278030f11",
+  "title": "Hume Tumse Pyaar Kitna",
+  "slug": "hume-tumse-pyaar-kitna",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lo5gTbKM6z0f7YaWlXWHaWbAObG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 151,
+  "rating": 4,
+  "description": "A bookstore owner falls in love with a talented author who doesn't feel the same way about him. His desire to get what he wants turns into a strange and dangerous obsession which complicates their lives together.",
+  "created_at": "2026-07-22T15:30:27.006Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4736,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

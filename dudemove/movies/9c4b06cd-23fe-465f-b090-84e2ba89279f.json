@@ -1,0 +1,32 @@
+{
+  "id": "9c4b06cd-23fe-465f-b090-84e2ba89279f",
+  "title": "Sandy Wexler",
+  "slug": "sandy-wexler",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/38SDqWOt4utiLOnWlas7BfrYQGS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 130,
+  "rating": 5.466,
+  "description": "When a hapless but dedicated talent manager signs his first client who actually has talent, his career finally starts to take off.",
+  "created_at": "2026-07-22T15:46:16.982Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6689,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

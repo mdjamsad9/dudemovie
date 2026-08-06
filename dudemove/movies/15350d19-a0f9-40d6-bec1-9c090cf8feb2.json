@@ -1,0 +1,32 @@
+{
+  "id": "15350d19-a0f9-40d6-bec1-9c090cf8feb2",
+  "title": "Raid",
+  "slug": "raid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qx3m9mRUmDZUVQeAe7CAzFX7xCB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": null,
+  "description": "After receiving an anonymous tip, a tax officer leads a raid on the mansion of the most powerful figure in Lucknow, a member of parliament who has been evading income tax for years.",
+  "created_at": "2026-07-31T07:19:51.852Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6213,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

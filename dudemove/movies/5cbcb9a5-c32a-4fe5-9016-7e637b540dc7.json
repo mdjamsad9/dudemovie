@@ -1,0 +1,24 @@
+{
+  "id": "5cbcb9a5-c32a-4fe5-9016-7e637b540dc7",
+  "title": "Sivappu Manjal Pachai",
+  "slug": "sivappu-manjal-pachai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iiipCUNieXTIhzRF4fDH4S8rb8J.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 140,
+  "rating": null,
+  "description": "A street racer and a traffic cop end up becoming brothers-in-law. Can they accept each other given their previous hostile history?",
+  "created_at": "2026-07-31T07:09:04.443Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5478,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "86e6d663-0643-41db-8935-0bfceee9f4f2",
+  "title": "Luca",
+  "slug": "luca-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7oj36FCmh2ZB28xZtUkZ7qBlEzB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 151,
+  "rating": null,
+  "description": "Luca is a highly talented artist who creates magic out of scraps. Niharika, a researcher in industrial chemistry enters his life to make it more colourful. Will they make it together?",
+  "created_at": "2026-07-31T07:09:29.767Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5495,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9530b5b6-5db8-4f3f-a8c6-9fde4fb02e92",
+  "title": "Zoey",
+  "slug": "zoey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g3TzHnIxyxorgWsZjgbrA7VDrTY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 84,
+  "rating": 6.7,
+  "description": "After losing his job, Tommy heads back to his home town of New York City. With zero job prospects, Tommy starts selling cocaine with Donnie, his brother, a veteran drug dealer. Tommy keeps seeing a gorgeous young woman, Zoey. But before he gets the chance things head sideways when she gets attacked in the street. Tommy fights off the attacker and finally meets Zoey. His life and outlook improve instantly as their relationship develops. But keeping his web of lies neat quickly proves futile.",
+  "created_at": "2026-07-22T15:23:35.985Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4496,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

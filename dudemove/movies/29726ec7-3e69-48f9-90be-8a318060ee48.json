@@ -1,0 +1,32 @@
+{
+  "id": "29726ec7-3e69-48f9-90be-8a318060ee48",
+  "title": "Shithouse",
+  "slug": "shithouse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 6.913,
+  "description": "Lonely college freshman Alex has closed himself off from his peers, who all appear to have this whole \"college thing\" figured out. But everything changes one night when Alex takes a leap and attends a party at Shithouse - a legendary party fraternity - where he forges a strong connection with Maggie.",
+  "created_at": "2026-07-22T15:18:42.616Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3968,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fd7aebf9-a1b1-4033-a86b-3f38c91f6b73",
+  "title": "Dragon Rider",
+  "slug": "dragon-rider",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2020,
+  "duration": 100,
+  "rating": 6.938,
+  "description": "An unlikely trio of heroes – a dragon, a boy and a forest brownie – embark on an epic adventure to find the “Rim of Heaven” - the mythological safe haven for all dragons.",
+  "created_at": "2026-07-22T15:21:51.498Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4206,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

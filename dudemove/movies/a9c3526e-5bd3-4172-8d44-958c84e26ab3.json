@@ -1,0 +1,32 @@
+{
+  "id": "a9c3526e-5bd3-4172-8d44-958c84e26ab3",
+  "title": "The Foreigner",
+  "slug": "the-foreigner",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Mandarin",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 6.981,
+  "description": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+  "created_at": "2026-08-06T05:01:02.107Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6909,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

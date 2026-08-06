@@ -1,0 +1,24 @@
+{
+  "id": "f39f3f69-9217-44cc-b7af-0b281c39de08",
+  "title": "Chunkzz",
+  "slug": "chunkzz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/svNTQCVc7tzQrh20WJBiiOLbQEq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 121,
+  "rating": null,
+  "description": "Final-year mechanical engineering students, Romario, Riyas, Yoodas, and Athmaram, think their lives are miserable since there is not one single girl in their class. Much to their joy, a girl called Riya joins their class and soon becomes friends with the boys. Termed as 'Mech Rani' of the college, all the boys from the mechanical department begin to flirt with her, leading to comical situations.",
+  "created_at": "2026-07-31T07:28:03.110Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6812,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

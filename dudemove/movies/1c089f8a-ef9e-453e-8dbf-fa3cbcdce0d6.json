@@ -1,0 +1,28 @@
+{
+  "id": "1c089f8a-ef9e-453e-8dbf-fa3cbcdce0d6",
+  "title": "First Man",
+  "slug": "first-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 141,
+  "rating": 7.044,
+  "description": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+  "created_at": "2026-07-22T15:34:12.950Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5984,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

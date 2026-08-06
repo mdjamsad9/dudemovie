@@ -1,0 +1,24 @@
+{
+  "id": "aa5748fe-28e8-4358-9791-52d9d376a60c",
+  "title": "The Song of Scorpions",
+  "slug": "the-song-of-scorpions",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4XuS7kJjR0wg8BNmazdNYmwoJJu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 7.786,
+  "description": "While Nooran, learns the ancient art of healing with music from her mother, Aadam a camel trader listens to her sing and falls in love with her and they marry. But soon, Nooran discovers treachery and must avenge herself and rediscover her lost song.",
+  "created_at": "2026-08-06T04:58:32.543Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6875,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

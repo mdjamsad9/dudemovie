@@ -1,0 +1,28 @@
+{
+  "id": "1ecf76ee-8c15-49eb-a4ed-57e4777db71a",
+  "title": "The Child in Time",
+  "slug": "the-child-in-time",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o4bJtOuloUb495V2EWeSQC0VXP3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 5.793,
+  "description": "A successful writer of children's books, Stephen Lewis is confronted with the unthinkable—he loses his only child, four-year-old Kate, in a supermarket. In one horrifying moment that replays itself over the years that follow, Stephen realises his daughter is gone. Kate's absence sets Stephen and his wife on diverging paths as both struggle with an all-consuming grief.",
+  "created_at": "2026-07-22T15:37:33.171Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5941,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

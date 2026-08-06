@@ -1,0 +1,28 @@
+{
+  "id": "2977b07d-c3b2-472a-8ab4-e4920cab4b80",
+  "title": "The Discarded",
+  "slug": "the-discarded",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/orcGngQwDoiS2edvYiZuj99QUMO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 3.7,
+  "description": "Debt and unemployment are forces of oppression in Maggie's world in this gritty story of survival. When her ambitions of becoming a nurse are shattered, Maggie turns to The Program; a short-term work commitment that promises financial freedom. But in The Program, the lines between freedom and slavery quickly blur as Maggie discovers the dark truth about life inside the work camps. Newcomer, Zara Jestadt delivers a gripping performance in this emotionally-charged cautionary tale of systemic decline in social equality and human rights.",
+  "created_at": "2026-07-22T15:23:15.746Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4374,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

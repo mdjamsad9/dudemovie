@@ -1,0 +1,36 @@
+{
+  "id": "eb9bf910-22e6-4bfd-8b36-d2693548dcc7",
+  "title": "Bharjari",
+  "slug": "bharjari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9g1ylRcJsUu1AtXj8ad2JOnjro9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2017,
+  "duration": 157,
+  "rating": null,
+  "description": "Romantic action drama about the life of an easygoing youngster named Surya, whose life take some unexpected turns thanks to the three women he meets along the way.",
+  "created_at": "2026-07-31T07:27:11.114Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6800,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

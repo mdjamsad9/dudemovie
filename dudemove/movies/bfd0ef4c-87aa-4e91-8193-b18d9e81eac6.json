@@ -1,0 +1,32 @@
+{
+  "id": "bfd0ef4c-87aa-4e91-8193-b18d9e81eac6",
+  "title": "London Confidential",
+  "slug": "london-confidential",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mtJbSbMUqwIJBJvFBRD7oYRknua.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 78,
+  "rating": 5.6,
+  "description": "A spy-thriller set amidst a series of brutal killings of Indian agents in London, and how Uma, a RAW officer, must expose a mole within the ranks.",
+  "created_at": "2026-07-22T15:22:34.877Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4300,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

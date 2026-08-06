@@ -1,0 +1,32 @@
+{
+  "id": "d5e50290-0f81-4296-ab75-5fa0bd0a10aa",
+  "title": "Man Down",
+  "slug": "man-down",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6sv6YqD7CPbk1Wn7ayq5zosPeCi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": null,
+  "rating": 6.048,
+  "description": "When a U.S. Marine returns home from Afghanistan, he finds that the place he once called home is no better than the battlefields he fought on overseas. Accompanied by his best friend, he searches desperately for the whereabouts of his estranged son and wife. In their search, the two intercept a man carrying vital information about his family.",
+  "created_at": "2026-08-06T05:01:51.081Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 8180,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

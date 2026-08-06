@@ -1,0 +1,28 @@
+{
+  "id": "97b821e3-eb75-45ca-90a6-a09f3b46727f",
+  "title": "Shailaja Reddy Alludu",
+  "slug": "shailaja-reddy-alludu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2Y4nCSnyPkR1KGpBphomSFj696m.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 148,
+  "rating": null,
+  "description": "Chaitanya and Anu are neighbours who fall for each other. However their path towards marriage is far from easy. A haughty would-be mother-in-law complicates the proceedings. The couple put up a united front to clear their roadblocks.",
+  "created_at": "2026-07-31T07:14:11.995Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6428,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

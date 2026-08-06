@@ -1,0 +1,28 @@
+{
+  "id": "03ebeef7-0fa6-45ac-978b-815febe96c05",
+  "title": "Atlas",
+  "slug": "atlas",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 118,
+  "rating": 6.664,
+  "description": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+  "created_at": "2026-07-09T17:23:37.744Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 1383,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Atlas.2024.1080p.WEBRip.x264%20%5BDDN%5D/Atlas.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

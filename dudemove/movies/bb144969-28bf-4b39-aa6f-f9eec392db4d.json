@@ -1,0 +1,24 @@
+{
+  "id": "bb144969-28bf-4b39-aa6f-f9eec392db4d",
+  "title": "How to Be a Latin Lover",
+  "slug": "how-to-be-a-latin-lover",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tjCDa24gNZGhpsFRhKnN9x83rTj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2017,
+  "duration": 116,
+  "rating": 6.9,
+  "description": "An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.",
+  "created_at": "2026-07-22T15:43:38.951Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6535,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

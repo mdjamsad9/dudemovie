@@ -1,0 +1,28 @@
+{
+  "id": "42bdc6ae-a14d-457f-b665-f659c8929da3",
+  "title": "Bloodrunners",
+  "slug": "bloodrunners",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/proMObvstiaMhhiRGuzzi762ORg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 100,
+  "rating": 4.833,
+  "description": "By 1933, Prohibition has proven a booming enterprise, where average citizens break the law, hide in the shadows and operate at night. The new world order has even lined the pockets of corrupt cops like Jack Malone. He collects a 'luxury tax' from every bootlegger and scofflaw in the small town he has sworn to protect. While shaking down the newest speakeasy in the local underground, Jack and his men uncover a clan of vampires hell bent on taking over the town. Now Chesterfield, an ancient vampire, and his horde must hide their secret at any cost. The bloody result leaves several bodies and innocent townsfolk taken as lambs to await the slaughter. With nowhere else to turn, Jack joins forces with a busboy and a crazy preacher to save the town and make a final stand against Chesterfield and his vampires.",
+  "created_at": "2026-07-22T15:46:57.609Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6706,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

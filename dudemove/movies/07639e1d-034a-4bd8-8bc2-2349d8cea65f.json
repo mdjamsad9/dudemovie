@@ -1,0 +1,28 @@
+{
+  "id": "07639e1d-034a-4bd8-8bc2-2349d8cea65f",
+  "title": "The Girl from the Song",
+  "slug": "the-girl-from-the-song",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pkPhyfQzfKvQcEokZAyhYoQCC9o.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 102,
+  "rating": 6,
+  "description": "A young musician travels to Burning Man, a psychedelic festival in the middle of the Nevada desert, in an attempt to get the impetuous girl he has fallen in love with.",
+  "created_at": "2026-07-22T15:43:49.679Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6560,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

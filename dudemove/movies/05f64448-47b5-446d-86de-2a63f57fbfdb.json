@@ -1,0 +1,28 @@
+{
+  "id": "05f64448-47b5-446d-86de-2a63f57fbfdb",
+  "title": "Crakk: Jeetega... Toh Jiyegaa",
+  "slug": "crakk-jeetega-toh-jiyegaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tmrjo8M4rm6NhkBKk20wDSj91go.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 154,
+  "rating": 5.5,
+  "description": "It follows the journey of a man from the slums of Mumbai to the world of extreme underground sports.",
+  "created_at": "2026-07-22T15:10:44.807Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1677,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

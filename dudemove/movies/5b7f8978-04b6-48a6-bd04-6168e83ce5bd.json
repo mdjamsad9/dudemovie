@@ -1,0 +1,24 @@
+{
+  "id": "5b7f8978-04b6-48a6-bd04-6168e83ce5bd",
+  "title": "Pele Birth Of A Legend",
+  "slug": "pele-birth-of-a-legend",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aJoDgK9PUClJOlpA1xUixj8dvsN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 7.344,
+  "description": "The life story of Brazilian football legend, Pele.",
+  "created_at": "2026-08-06T05:02:10.977Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 7573,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

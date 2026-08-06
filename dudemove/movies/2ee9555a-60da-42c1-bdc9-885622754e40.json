@@ -1,0 +1,32 @@
+{
+  "id": "2ee9555a-60da-42c1-bdc9-885622754e40",
+  "title": "Ray Donovan: The Movie",
+  "slug": "ray-donovan-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5sw1EvOeXMGRZGWr18R4EiZs036.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 100,
+  "rating": 6.825,
+  "description": "A showdown decades in the making brings the Donovan family legacy full circle. As the events that made Ray who he is today finally come to light, the Donovans find themselves drawn back to Boston to face the past. Each of them struggles to overcome their violent upbringing, but destiny dies hard, and only their fierce love for each other keeps them in the fight.",
+  "created_at": "2026-07-22T15:15:49.471Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 3363,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

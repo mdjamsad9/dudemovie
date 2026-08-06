@@ -1,0 +1,32 @@
+{
+  "id": "4cdfc400-a3bc-4380-b521-b0c0f8da5930",
+  "title": "Scorpion King: Book of Souls",
+  "slug": "scorpion-king-book-of-souls",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 5.9,
+  "description": "The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.",
+  "created_at": "2026-07-22T15:35:00.625Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 5724,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

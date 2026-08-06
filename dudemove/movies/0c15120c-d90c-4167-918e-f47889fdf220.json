@@ -1,0 +1,28 @@
+{
+  "id": "0c15120c-d90c-4167-918e-f47889fdf220",
+  "title": "Pattabhiraman",
+  "slug": "pattabhiraman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mnZeIENx7u7bmQY4qTIfefPqKDN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 139,
+  "rating": null,
+  "description": "Health inspector Pattabhiraman won’t turn a blind eye towards food adulteration, and it has earned him numerous transfers, enemies and more. His latest posting is in Thiruvananthapuram. What awaits him in the capital city?",
+  "created_at": "2026-07-31T07:08:05.777Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5376,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

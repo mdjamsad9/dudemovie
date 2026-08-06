@@ -1,0 +1,28 @@
+{
+  "id": "0fc1f3de-ebd4-464b-84e4-005dc9700f5b",
+  "title": "Aruvam",
+  "slug": "aruvam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 133,
+  "rating": null,
+  "description": "A food safety officer and a teacher who has no sense of smell come together to fight the practice of food adulteration and its devastating effect on people.",
+  "created_at": "2026-07-31T07:08:09.616Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5378,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

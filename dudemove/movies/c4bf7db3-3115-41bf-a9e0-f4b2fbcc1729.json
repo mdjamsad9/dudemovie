@@ -1,0 +1,28 @@
+{
+  "id": "c4bf7db3-3115-41bf-a9e0-f4b2fbcc1729",
+  "title": "Happy Hunting",
+  "slug": "happy-hunting",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cvFE9RlFHTobOEceRyf9iQLPHSk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 4.996,
+  "description": "An alcoholic drifter must battle withdrawal and psychotic rednecks after he becomes the target of a deranged sporting event.",
+  "created_at": "2026-08-06T05:01:16.463Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6931,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

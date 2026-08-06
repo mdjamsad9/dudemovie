@@ -1,0 +1,40 @@
+{
+  "id": "c9383098-371e-459c-b093-2dc2ac3531ac",
+  "title": "Baaghi 2",
+  "slug": "baaghi-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nkjkHg9yCpPDM7COGCXfDtUJa2X.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 145,
+  "rating": 5.756,
+  "description": "Ronny, a battle-hardened soldier, learns of the disappearance of the daughter of his former lover. His intense investigation leads him to uncover a web of crimes and a secret from the past.",
+  "created_at": "2026-07-22T15:37:26.908Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5836,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

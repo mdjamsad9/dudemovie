@@ -1,0 +1,28 @@
+{
+  "id": "ff251c4f-53e2-404e-bc02-c8ae91e40ead",
+  "title": "Kavan",
+  "slug": "kavan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hqePCECNlXBRMAJz9cd5VoP25Lf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 160,
+  "rating": null,
+  "description": "A budding journalist passionate about ethical, noble, hard-hitting journalism understands the more flourishing ghetto of sensationalism &amp; news fabrication that the Entertainment TV Channel he belongs to, thrives on. When caught in a dilemma of whether to hold for a while or rise in protest, a situation forces him to make a decision that puts him out of work but… there begins his work.",
+  "created_at": "2026-07-31T07:15:26.057Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6709,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

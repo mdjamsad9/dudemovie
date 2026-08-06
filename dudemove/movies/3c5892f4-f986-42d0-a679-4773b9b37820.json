@@ -1,0 +1,28 @@
+{
+  "id": "3c5892f4-f986-42d0-a679-4773b9b37820",
+  "title": "Song to Song",
+  "slug": "song-to-song",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/itmaNi14GyWguTOywZ0mMzyScW9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 129,
+  "rating": 5.482,
+  "description": "In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.",
+  "created_at": "2026-07-22T15:44:21.585Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6595,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

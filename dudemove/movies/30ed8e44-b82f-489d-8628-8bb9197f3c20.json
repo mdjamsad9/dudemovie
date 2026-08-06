@@ -1,0 +1,24 @@
+{
+  "id": "30ed8e44-b82f-489d-8628-8bb9197f3c20",
+  "title": "2307 Winter's Dream",
+  "slug": "2307-winter-s-dream",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hMEYVCklgfmQziL573tZGtOFH34.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Italian",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 3.9,
+  "description": "In 2307, a future soldier is sent on a mission to hunt down the leader of the humanoid rebellion.",
+  "created_at": "2026-08-06T05:01:33.840Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 7451,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

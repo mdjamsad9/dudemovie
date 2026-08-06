@@ -1,0 +1,24 @@
+{
+  "id": "ab772e47-b7ef-4b78-a781-2c437cfeaebc",
+  "title": "Fallen",
+  "slug": "fallen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uhuJcLVRf87aDfd3dqa9zafEek7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 84,
+  "rating": 3.6,
+  "description": "Tragedy struck when Father Abraham was ready to save the world from an evil menace using exorcism. Years later, he lives on a remote farm with his daughter, haunted by the faces of those he saved and those he could not. After finding that pale humanoid creature lurking in the woods, he shoots and cremates the monster. But he soon discovers that the beast was not alone; his troubles have only begun.",
+  "created_at": "2026-07-22T15:15:17.634Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3391,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

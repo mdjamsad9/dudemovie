@@ -1,0 +1,32 @@
+{
+  "id": "5bdd8a00-3e0c-4275-a9bb-17339d36c70d",
+  "title": "The Adventures of Beatle",
+  "slug": "the-adventures-of-beatle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/umsPInK2ZLwba72VqyvKMQ3ctdZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2015,
+  "duration": null,
+  "rating": 4.744,
+  "description": "Beatle is a quirky loner who refuses to live by society's rules. Her business cards read \"Towing/Assassination,\" and she even has a hit man infomercial to go along with it. Her only human contact is with her psychiatrist and the stripper/hooker she employs once a week. Everything changes the night she meets Athena Klendon, a suicidal blonde with a secret. With a demented killer on their tail, courtesy of Athena's crooked former employer, the two quickly strike a bargain. Athena will change her life insurance policy to reflect Beatle as the beneficiary in exchange for her own execution. And while they wait for the paperwork to come through, Beatle will provide room and board and get some extra help on her infomercial. The two have no idea that Detective Holt has been on their case reviewing their every move. Just when he thinks he's got Beatle pinned beyond a shadow of a doubt, this comedic mystery takes a wild and unexpected turn.",
+  "created_at": "2026-08-06T05:02:06.885Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 8130,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "77756f6f-ad5a-4a17-b3f9-2d2ca110d5bb",
+  "title": "Autorsha",
+  "slug": "autorsha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/apC2Znb0lJ8m49klOKMj0JWFa1Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 133,
+  "rating": null,
+  "description": "In Kannur, Anitha tries to earn a living as an autorickshaw driver. Soon, she embarks on several adventures as she meets different passengers every day.",
+  "created_at": "2026-07-31T07:16:04.330Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6286,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3574284a-40b5-4672-9c99-43d91ee7e4eb",
+  "title": "Savage Dog",
+  "slug": "savage-dog",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yY2MV8dYotYtLYMiTcMvdxpNX5I.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 95,
+  "rating": 5.364,
+  "description": "A story set in Indochina in 1959, a lawless land controlled by the criminal class: Vietnamese warlords and European war-criminals. Den-Dhin-Chan Labor Camp is run by four such dangerous men. The worst prison in the land, it is here that an Irish, former-champion boxer Martin Tillman has made a name for himself fighting tournaments, on which wealthy criminals gamble in high stakes events. When Tillman is due for release, he just wants to return home, but the corrupt forces running the jail will do everything in their power to keep him locked down. When all that Tillman holds dear is taken away in a vicious act of violence, he is forced to confront the men responsible and take his revenge.  The birth of a legend.",
+  "created_at": "2026-07-22T15:46:11.836Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6682,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

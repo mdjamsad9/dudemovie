@@ -1,0 +1,28 @@
+{
+  "id": "d6575dc8-3f69-4fa8-9bed-769ee0ac4898",
+  "title": "Malicious",
+  "slug": "malicious",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ms6V9gUMcw6T6ENgUCU7SL5x7dl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.6,
+  "description": "A young college professor and his pregnant wife unwittingly release a malevolent entity with murderous intentions.",
+  "created_at": "2026-08-06T04:59:57.925Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5569,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

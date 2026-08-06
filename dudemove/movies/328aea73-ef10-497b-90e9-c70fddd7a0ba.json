@@ -1,0 +1,32 @@
+{
+  "id": "328aea73-ef10-497b-90e9-c70fddd7a0ba",
+  "title": "The Guernsey Literary & Potato Peel Pie Society",
+  "slug": "the-guernsey-literary-potato-peel-pie-society",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 124,
+  "rating": 7.4,
+  "description": "Free-spirited writer Juliet Ashton forms a life-changing bond with the delightful and eccentric Guernsey Literary and Potato Peel Pie Society, when she decides to write about the book club they formed during the occupation of Guernsey in WWII.",
+  "created_at": "2026-07-22T15:36:24.034Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5770,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6d36612c-cb3e-46d3-8e31-5c17ba875e53",
+  "title": "Mile 22",
+  "slug": "mile-22",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Indonesian",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 6.268,
+  "description": "An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.",
+  "created_at": "2026-07-22T15:34:42.060Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5878,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

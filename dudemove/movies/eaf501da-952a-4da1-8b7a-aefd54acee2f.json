@@ -1,0 +1,32 @@
+{
+  "id": "eaf501da-952a-4da1-8b7a-aefd54acee2f",
+  "title": "The Devil All the Time",
+  "slug": "the-devil-all-the-time",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bVL7LGq528h3KzeNI90HOVbV5uW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 138,
+  "rating": 7.178,
+  "description": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+  "created_at": "2026-07-22T15:22:38.696Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4287,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

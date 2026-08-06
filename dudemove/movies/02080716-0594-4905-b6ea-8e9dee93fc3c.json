@@ -1,0 +1,24 @@
+{
+  "id": "02080716-0594-4905-b6ea-8e9dee93fc3c",
+  "title": "The Happy Prince",
+  "slug": "the-happy-prince",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q82LtnWNPCrD3txCnQVm4ol4g89.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 101,
+  "rating": 6.2,
+  "description": "In 1895, Oscar Wilde (1854-1900) was the most famous writer in London, and Bosie Douglas, son of the notorious Marquess of Queensberry, was his lover. Accused and convicted of gross indecency, he was imprisoned for two years and subjected to hard labor. Once free, he abandons England to live in France, where he will spend his last years, haunted by memories of the past, poverty and immense sadness.",
+  "created_at": "2026-07-22T15:35:13.095Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5587,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e68d4b71-4765-4718-b47a-871c3b64a532",
+  "title": "Constantine: City of Demons - The Movie",
+  "slug": "constantine-city-of-demons-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 7.68,
+  "description": "A decade after a tragic mistake, family man Chas Chandler and occult detective John Constantine set out to cure his daughter Trish from a mysterious supernatural coma.",
+  "created_at": "2026-07-22T15:35:12.637Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5555,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b425490f-70bb-4577-b9db-abec537b0f54",
+  "title": "Nani's Gang Leader",
+  "slug": "nani-s-gang-leader",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 155,
+  "rating": null,
+  "description": "A crime novelist is approached by a group of bereaved women to help them plot revenge against those responsible for the loss of their loved ones.",
+  "created_at": "2026-07-31T07:09:19.167Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5477,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

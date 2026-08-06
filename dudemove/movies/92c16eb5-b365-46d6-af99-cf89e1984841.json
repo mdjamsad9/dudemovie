@@ -1,0 +1,28 @@
+{
+  "id": "92c16eb5-b365-46d6-af99-cf89e1984841",
+  "title": "The Final Mission",
+  "slug": "the-final-mission",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/51w0Bx6WnxUzOpkvxJfBQAxOMqb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 18,
+  "rating": null,
+  "description": "Three criminal friends on the run and evading capture try to find out who might have provided their secret information to law enforcement.",
+  "created_at": "2026-07-22T15:35:34.554Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5616,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

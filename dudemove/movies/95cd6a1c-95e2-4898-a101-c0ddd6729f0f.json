@@ -1,0 +1,24 @@
+{
+  "id": "95cd6a1c-95e2-4898-a101-c0ddd6729f0f",
+  "title": "Mirza Juuliet",
+  "slug": "mirza-juuliet",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wHP2cmL9qr8sLIro9EdOI7qNmSE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 130,
+  "rating": 4.5,
+  "description": "The world is full of fascination and obsessions. Different people have different desires and goals in life. For some its power, for some its money, for some its someone and for some its plain crazy love.The real question is that to what level can one rise or fall for his/her dream or aspirations. Mirza Juuliet is the story of such strong emotions like love, hatred, lust, trust, friendship, deceit, manipulation and above all a mixed confusion of all these emotions.",
+  "created_at": "2026-07-22T15:46:17.914Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6676,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

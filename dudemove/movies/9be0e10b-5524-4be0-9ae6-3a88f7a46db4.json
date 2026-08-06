@@ -1,0 +1,32 @@
+{
+  "id": "9be0e10b-5524-4be0-9ae6-3a88f7a46db4",
+  "title": "Monsters and Men",
+  "slug": "monsters-and-men",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u6FtNjPCVF3yRMFGvbzNj56i1Dj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 96,
+  "rating": 5.777,
+  "description": "After capturing an illegal act of police violence on his cellphone, a Brooklyn street hustler sets off a series of events that alter the lives of a local police officer and a star high-school athlete.",
+  "created_at": "2026-07-22T15:34:18.507Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5935,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

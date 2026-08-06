@@ -1,0 +1,28 @@
+{
+  "id": "050762d7-55c3-4d3d-bf5f-0064b6ff0cb8",
+  "title": "Brother's Day",
+  "slug": "brother-s-day",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9cjinyD87OGCFF7rt8pOr5i1ls6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 164,
+  "rating": null,
+  "description": "Rony, a cheerful catering worker's life takes a dark turn after crossing paths with a mysterious woman. What begins as a lighthearted story of friendship and family soon unravels into a tense confrontation with hidden pasts and dangerous secrets.",
+  "created_at": "2026-07-31T07:09:05.587Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5496,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

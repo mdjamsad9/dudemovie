@@ -1,0 +1,24 @@
+{
+  "id": "b2572411-5e1c-4d8b-8432-c18a2252a343",
+  "title": "Turnabout",
+  "slug": "turnabout",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Py0NyP2ncyeOshUUGAk1mW2SwV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 4.636,
+  "description": "A troubled man survives a suicide attempt. He calls an old friend to rescue him in the middle of the night. Their journey is just beginning, and by daybreak, a tragedy will surface.",
+  "created_at": "2026-08-06T05:01:58.228Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 8023,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

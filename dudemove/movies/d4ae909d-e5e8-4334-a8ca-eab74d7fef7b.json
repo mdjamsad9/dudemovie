@@ -1,0 +1,32 @@
+{
+  "id": "d4ae909d-e5e8-4334-a8ca-eab74d7fef7b",
+  "title": "Primal",
+  "slug": "primal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 5.6,
+  "description": "A big-game hunter for zoos books passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar – along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.",
+  "created_at": "2026-07-22T15:26:26.846Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4834,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

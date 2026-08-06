@@ -1,0 +1,24 @@
+{
+  "id": "8614f800-84dc-4341-9012-4bbd7048cbba",
+  "title": "Warning",
+  "slug": "warning",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pcNsfaYtQlPAMgNxKRDVao4jCCQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 4.7,
+  "description": "Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.",
+  "created_at": "2026-08-06T04:58:01.912Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 3869,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ab46f8dc-ec26-4169-83a6-59efdec60e4d",
+  "title": "She Dies Tomorrow",
+  "slug": "she-dies-tomorrow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ogTna9bUzldTV5l2nyuyJV4tbCH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 85,
+  "rating": 5.076,
+  "description": "Amy is ravaged by the notion that she is going to die tomorrow, which sends her down a dizzying emotional spiral. When her skeptical friend Jane discovers Amy’s feeling of imminent death to be contagious, they both begin bizarre journeys through what might be the last day of their lives.",
+  "created_at": "2026-07-22T15:23:11.737Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4388,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

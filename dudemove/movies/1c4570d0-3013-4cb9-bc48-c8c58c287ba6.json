@@ -1,0 +1,24 @@
+{
+  "id": "1c4570d0-3013-4cb9-bc48-c8c58c287ba6",
+  "title": "Leader",
+  "slug": "leader",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rJqSfqriMxITkGnNKm5eYw6Pn8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2015,
+  "duration": null,
+  "rating": null,
+  "description": "Valery Bryusov - a poet-symbolist, an unrestrained innovator of poetic form and content, an idol of women, a \"demon of thought\", a \"genius of passion\", an \"angel of sadness\", fanned by scandalous glory. How could it happen that he became the first Soviet censor, participant in the most initial oppression of Russian poets for ideological reasons? How and why did the brightest star of the unique Silver Age of our literature fade and die?",
+  "created_at": "2026-08-06T05:02:15.465Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 8195,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

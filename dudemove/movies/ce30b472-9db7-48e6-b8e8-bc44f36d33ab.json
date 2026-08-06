@@ -1,0 +1,24 @@
+{
+  "id": "ce30b472-9db7-48e6-b8e8-bc44f36d33ab",
+  "title": "Defective",
+  "slug": "defective",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ewX2quaHPOK7MY7rlpjEMpjADo0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "No Language",
+  "release_year": 2017,
+  "duration": null,
+  "rating": null,
+  "description": "In a robot factory, two defective robots fight over who gets the last loose hand. Naamani was a student at the Vancouver Film School while making Defective.",
+  "created_at": "2026-08-06T05:00:51.924Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "_index": 6895,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

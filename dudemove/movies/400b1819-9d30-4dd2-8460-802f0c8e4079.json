@@ -1,0 +1,28 @@
+{
+  "id": "400b1819-9d30-4dd2-8460-802f0c8e4079",
+  "title": "72 Hours: Martyr Who Never Died",
+  "slug": "72-hours-martyr-who-never-died",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDGpgkka0QX0eMBklXY9E0Xub1W.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 130,
+  "rating": 4.167,
+  "description": "The story is based on the life of Rifleman Jaswant Singh Rawat. 55 years ago during 1962 Indo-China war , when the destiny of war was pre decided, there stood a brave soldier from 4th Garhwal Rifle against all odds and guarded our post from Nurunaang Base in Arunachal Pradesh then called NEFA border.",
+  "created_at": "2026-07-22T15:32:50.739Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5184,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

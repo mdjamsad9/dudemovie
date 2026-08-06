@@ -1,0 +1,32 @@
+{
+  "id": "2d4873b1-8b72-4963-a1d0-1f1330109ed6",
+  "title": "Nancy",
+  "slug": "nancy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7QVEeeI6LBgaCJEFPK2mFvb6uhI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 87,
+  "rating": 5.8,
+  "description": "Nancy becomes increasingly convinced she was kidnapped as a child. When she meets a couple whose daughter went missing thirty years ago, reasonable doubts give way to willful belief.",
+  "created_at": "2026-07-22T15:35:47.748Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5733,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

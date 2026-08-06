@@ -1,0 +1,24 @@
+{
+  "id": "41877b2f-f706-4ba9-8d30-847f917c14b5",
+  "title": "Black Site Delta",
+  "slug": "black-site-delta",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dntZRSSzc1O7ZPdniMSbxcyiZQQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 87,
+  "rating": 5.368,
+  "description": "A group of military prisoners must fight off a terrorist attack on their prison which, unbeknownst to them, is a cover for a secret drone control facility.",
+  "created_at": "2026-07-22T15:45:43.073Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6663,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

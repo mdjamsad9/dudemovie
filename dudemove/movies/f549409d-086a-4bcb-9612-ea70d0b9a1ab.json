@@ -1,0 +1,28 @@
+{
+  "id": "f549409d-086a-4bcb-9612-ea70d0b9a1ab",
+  "title": "Collar Bomb",
+  "slug": "collar-bomb",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3rpA4ijqH4s9R30dI2ajsinbYeW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": null,
+  "duration": null,
+  "rating": 5.333,
+  "description": "A celebrated cop is forced to commit crimes before a suicide bomber blows up a school. As he races against time, the idyllic town around him descends into chaos.",
+  "created_at": "2026-08-06T04:58:04.575Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 8438,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

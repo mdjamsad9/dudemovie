@@ -1,0 +1,28 @@
+{
+  "id": "33c5f4af-5d65-4cb3-a535-8cff2e05998e",
+  "title": "The Ashram",
+  "slug": "the-ashram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/im2TJGWwfxfveDA4hzA0pm5OPal.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 5.442,
+  "description": "After receiving a cryptic message, American skeptic Jamie travels to the Indian Himalayas to pick up on the trail of his disappeared girlfriend. There, he discovers a secretive community led by a guru with strange powers who may or may not be involved in her disappearance. As Jamie travels deeper down the rabbit hole, he quickly realizes he may have uncovered more than he bargained for, and that this mysterious mountain may contain the secrets of reincarnation - and a portal to another dimension.",
+  "created_at": "2026-07-22T15:38:50.667Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 5868,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

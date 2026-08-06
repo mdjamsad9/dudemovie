@@ -1,0 +1,32 @@
+{
+  "id": "7e68e65d-5316-483b-83ba-fc0758f22d84",
+  "title": "Khaidi No. 150",
+  "slug": "khaidi-no-150",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Ry340WkEjlkglTnqLbvEGwMBmK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 147,
+  "rating": null,
+  "description": "A convict who plans to escape the country unexpectedly switches his place with a good Samaritan who fights for the rights of poor farmers.",
+  "created_at": "2026-07-31T07:28:20.315Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6813,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

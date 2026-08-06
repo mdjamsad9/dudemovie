@@ -1,0 +1,24 @@
+{
+  "id": "8cc3bce2-1ca5-4e74-bd05-87b8977be751",
+  "title": "Azhiyatha Kolangal 2",
+  "slug": "azhiyatha-kolangal-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pRiSTZf3s01HQ2gc4gZpommW7yu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 102,
+  "rating": null,
+  "description": "An unexpected incident turns the life of a celebrated writer and his college girlfriend topsy-turvy.",
+  "created_at": "2026-07-31T07:06:55.371Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4933,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

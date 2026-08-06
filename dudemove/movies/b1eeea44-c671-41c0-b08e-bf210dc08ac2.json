@@ -1,0 +1,24 @@
+{
+  "id": "b1eeea44-c671-41c0-b08e-bf210dc08ac2",
+  "title": "Walk of Fame",
+  "slug": "walk-of-fame",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nUW9ksEmRVEx4DRTRNTBFfz5SNy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 83,
+  "rating": 3.6,
+  "description": "A motley crew of aspiring performers come under the guidance of an eccentric and volatile acting coach.",
+  "created_at": "2026-07-22T15:46:41.535Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6679,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

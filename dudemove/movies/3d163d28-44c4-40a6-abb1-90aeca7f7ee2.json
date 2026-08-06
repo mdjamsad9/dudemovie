@@ -1,0 +1,32 @@
+{
+  "id": "3d163d28-44c4-40a6-abb1-90aeca7f7ee2",
+  "title": "Operation Finale",
+  "slug": "operation-finale",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oj60k0DMZrCN6Taad4XOjFivyrW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 124,
+  "rating": 6.673,
+  "description": "In 1960, a team of Israeli secret agents is deployed to find Adolf Eichmann, the infamous Nazi architect of the Holocaust, supposedly hidden in Argentina, and get him to Israel to be judged.",
+  "created_at": "2026-07-22T15:35:21.918Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5588,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

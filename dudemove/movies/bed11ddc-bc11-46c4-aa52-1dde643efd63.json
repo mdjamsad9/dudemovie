@@ -1,0 +1,24 @@
+{
+  "id": "bed11ddc-bc11-46c4-aa52-1dde643efd63",
+  "title": "Is Genesis History?",
+  "slug": "is-genesis-history",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5dfbUORlxpCbAnW7NvEUtKzf3ce.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 105,
+  "rating": 4.6,
+  "description": "A fascinating new look at the biblical, historical, and scientific evidence for Creation and the Flood. Learn from more than a dozen scientists and scholars as they explore the world around us in light of Genesis. Dr. Del Tackett, creator of The Truth Project, hikes through canyons, climbs up mountains, and dives below the sea in an exploration of two competing views... one compelling truth.",
+  "created_at": "2026-07-22T15:44:17.115Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 6591,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

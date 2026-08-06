@@ -1,0 +1,40 @@
+{
+  "id": "a1d96d54-350f-4be7-9449-074862dc5a9a",
+  "title": "Smallfoot",
+  "slug": "smallfoot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 96,
+  "rating": 6.816,
+  "description": "A bright young yeti finds something he thought didn't exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.",
+  "created_at": "2026-07-22T15:34:30.624Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 5924,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

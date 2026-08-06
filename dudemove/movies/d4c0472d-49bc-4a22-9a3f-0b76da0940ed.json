@@ -1,0 +1,28 @@
+{
+  "id": "d4c0472d-49bc-4a22-9a3f-0b76da0940ed",
+  "title": "Velipadinte Pusthakam",
+  "slug": "velipadinte-pusthakam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6peYTJgcDzkmOFE4wKiSXRFJyOU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2017,
+  "duration": 157,
+  "rating": null,
+  "description": "Michael Idikkula, a professor in a college, tries to develop a healthy relationship between the students and teachers and raise money for building hostels by making a film in honour of Vishwan.",
+  "created_at": "2026-07-31T07:28:36.350Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6819,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

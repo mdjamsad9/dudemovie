@@ -1,0 +1,28 @@
+{
+  "id": "f9b87f31-5c11-4400-b66f-c026d2d72f56",
+  "title": "12 Feet Deep",
+  "slug": "12-feet-deep",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 5.997,
+  "description": "Two sisters are trapped under the fiberglass cover of an Olympic sized public pool and must brave the cold and each other to survive the harrowing night.",
+  "created_at": "2026-08-06T05:01:33.374Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 7448,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

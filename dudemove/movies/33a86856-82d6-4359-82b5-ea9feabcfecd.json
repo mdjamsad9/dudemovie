@@ -1,0 +1,24 @@
+{
+  "id": "33a86856-82d6-4359-82b5-ea9feabcfecd",
+  "title": "Love Sonia",
+  "slug": "love-sonia",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qiCMgBHncFnH9IGn5KPWRz0hEDv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 126,
+  "rating": 7.152,
+  "description": "Inspired by a real story of young girl's journey escape from the world of international sex trafficking.",
+  "created_at": "2026-07-22T15:34:20.581Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6017,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

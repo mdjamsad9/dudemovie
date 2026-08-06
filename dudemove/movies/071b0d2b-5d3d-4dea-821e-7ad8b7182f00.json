@@ -1,0 +1,32 @@
+{
+  "id": "071b0d2b-5d3d-4dea-821e-7ad8b7182f00",
+  "title": "Spyder",
+  "slug": "spyder",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuNTcRnyR479nZCVKTlRy1OvBwL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 145,
+  "rating": null,
+  "description": "A surveillance expert who wants to help people comes across a foe who is the very definition of evil. Can he stop the man before he destroys everything?",
+  "created_at": "2026-07-31T07:28:57.300Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6824,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

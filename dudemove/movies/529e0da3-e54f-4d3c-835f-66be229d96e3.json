@@ -1,0 +1,36 @@
+{
+  "id": "529e0da3-e54f-4d3c-835f-66be229d96e3",
+  "title": "Go North",
+  "slug": "go-north",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lg9hDx8JSB4xSGvGPys9DvzllKU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 4.7,
+  "description": "Set in the wake of unknown catastrophe which has resulted in an adult-free community being led by a cabal of former high school jocks.  After two members set out on a dangerous journey into the unknown to find family and hope for the future, Caleb and his vicious underling Gentry follow in hot pursuit.",
+  "created_at": "2026-08-06T05:01:56.454Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6969,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

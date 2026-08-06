@@ -1,0 +1,32 @@
+{
+  "id": "09995492-e2a0-46eb-a485-dfd7ae7b040e",
+  "title": "Jindua",
+  "slug": "jindua",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7zFxlt3HMkTfs44Tpj2udfOrb2p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2017,
+  "duration": 140,
+  "rating": 9.3,
+  "description": "An existing relationship is threatened when a new girl catches a man's eye.",
+  "created_at": "2026-07-22T15:46:43.100Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6700,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

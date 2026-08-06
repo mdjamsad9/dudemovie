@@ -1,0 +1,36 @@
+{
+  "id": "471ff223-bf86-44e3-9205-4dc0c14415fe",
+  "title": "Berlin Syndrome",
+  "slug": "berlin-syndrome",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/PvCWXOeGJ1tavQcs5z4hqOZui2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 6.033,
+  "description": "A passionate holiday romance leads to an obsessive relationship when an Australian photojournalist wakes one morning in an abandoned Berlin apartment and is unable to leave.",
+  "created_at": "2026-08-06T05:01:18.714Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6933,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

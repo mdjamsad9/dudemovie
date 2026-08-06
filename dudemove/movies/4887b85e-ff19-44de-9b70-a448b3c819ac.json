@@ -1,0 +1,28 @@
+{
+  "id": "4887b85e-ff19-44de-9b70-a448b3c819ac",
+  "title": "Play or Die",
+  "slug": "play-or-die",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lBT6UQX3qpNz9VAqk40CU5fOzJ1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 89,
+  "rating": 5.37,
+  "description": "Welcome to Paranoia, the ultimate escape game. Rule #1: Nothing is real. Rule #2: One of you will die. Lucas and Chloe, two passionate gamers, decide to participate to Paranoia, a very exclusive escape game. After solving a first riddle, they make it to the location of the finale in an abandoned mental hospital, lost in a frightening forest. There, four other participants are waiting on them. They soon realize that only one of them will get out of there alive.",
+  "created_at": "2026-07-22T15:30:44.303Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5102,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

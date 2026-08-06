@@ -1,0 +1,24 @@
+{
+  "id": "e5574f39-9330-4bdf-abcb-c53993490d94",
+  "title": "Rajavukku Check",
+  "slug": "rajavukku-check",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jHuiruivxMeElmivJQxlCLHodXA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 121,
+  "rating": null,
+  "description": "An emotional thriller directed by Sai Rajkumar, starring Cheran and Srushti Dange in the lead roles.",
+  "created_at": "2026-07-31T07:05:34.443Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3962,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

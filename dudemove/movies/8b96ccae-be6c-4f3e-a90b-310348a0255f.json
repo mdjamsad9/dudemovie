@@ -1,0 +1,24 @@
+{
+  "id": "8b96ccae-be6c-4f3e-a90b-310348a0255f",
+  "title": "The 27 Club",
+  "slug": "the-27-club",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ODeJnzKSFpZtBexj0C7jMBsGuu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 97,
+  "rating": 3.571,
+  "description": "A singer-songwriter chasing fame and a journalism student researching his thesis are drawn into a sinister underworld as each attempts to discover the truth behind the curse of \"The 27 Club\".",
+  "created_at": "2026-07-22T15:31:57.540Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5124,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

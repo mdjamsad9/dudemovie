@@ -1,0 +1,24 @@
+{
+  "id": "acbcdff3-9e20-483b-91bb-275baf6a8ca3",
+  "title": "Stella's Last Weekend",
+  "slug": "stella-s-last-weekend",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oThCZGhYmtw3PR83h7nFUKlOEbq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 6.4,
+  "description": "Brothers Jack and Oliver reunite to put their beloved dog to sleep. While their zany mother plans a party to celebrate Stella's life, things go awry when the brothers discover they love the same girl.",
+  "created_at": "2026-07-22T15:35:01.069Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5707,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

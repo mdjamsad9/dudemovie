@@ -1,0 +1,40 @@
+{
+  "id": "68096afa-c71d-40f1-a8a5-3e7be20304a0",
+  "title": "The Angel",
+  "slug": "the-angel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d5vBixJD1coOvHvr8N2pbyffxFU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Arabic",
+  "release_year": 2018,
+  "duration": 114,
+  "rating": 6.563,
+  "description": "True story of Ashraf Marwan, who was President Nasser's son-in-law and special adviser and confidant to his successor Anwar Sadat - while simultaneously Israeli Intelligence's most precious asset of the 20th century. Based on NYT bestselling book 'The Angel: The Egyptian Spy Who Saved Israel' by Uri Bar-Joseph.",
+  "created_at": "2026-07-22T15:35:43.878Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 5581,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

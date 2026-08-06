@@ -1,0 +1,28 @@
+{
+  "id": "6e7a6608-0a8c-4ac1-b987-aa7c67272bc6",
+  "title": "The Black Room",
+  "slug": "the-black-room",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sBlF5Gh4GQO5WC96MSfa2S5p4R6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2016,
+  "duration": null,
+  "rating": 4.34,
+  "description": "An unfaithful businessman rents a spare room from two siblings to use for his sexual conquests, unaware that they're serial killers who murder every woman he brings there.",
+  "created_at": "2026-08-06T05:01:42.758Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 7960,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

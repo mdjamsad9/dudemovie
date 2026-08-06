@@ -1,0 +1,28 @@
+{
+  "id": "3e250805-6055-47f9-b5c3-1acc2d3085bc",
+  "title": "My Client's Wife",
+  "slug": "my-client-s-wife",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gKfEI5WizgJjL4faGGCS0pbgy4f.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 107,
+  "rating": 6.5,
+  "description": "Manas Verma, a lawyer, is defending Raghuram Singh who is accused of assaulting his wife. However, Raghuram claims that he is being framed. To get to the bottom of the matter, Verma starts investigating the case further and finds that not everything is the way that it seems. Manas uncovers some shocking truths that might change the case.",
+  "created_at": "2026-07-22T15:23:18.594Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4481,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

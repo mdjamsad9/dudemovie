@@ -1,0 +1,28 @@
+{
+  "id": "b27560e5-6293-4b92-b3b4-95566bcf85d3",
+  "title": "The Recall",
+  "slug": "the-recall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A2sQAzHavtot2brA42pHXKgf3ww.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": null,
+  "rating": 4.668,
+  "description": "When five friends vacation at a remote lake house, they expect nothing less then a good time, unaware that Earth is under attack by an alien invasion and mass-abductions.",
+  "created_at": "2026-08-06T05:01:24.054Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6942,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

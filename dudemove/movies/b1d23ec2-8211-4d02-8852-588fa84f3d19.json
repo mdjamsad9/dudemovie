@@ -1,0 +1,28 @@
+{
+  "id": "b1d23ec2-8211-4d02-8852-588fa84f3d19",
+  "title": "Winner",
+  "slug": "winner",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h8LelgrsLLhheTfKrSLFs02t7mi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2017,
+  "duration": 155,
+  "rating": null,
+  "description": "A fashion editor who hates horses decides to pursue horse racing to impress the girl (Rakul Preet Singh) of his dreams.",
+  "created_at": "2026-07-31T07:34:54.611Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6870,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

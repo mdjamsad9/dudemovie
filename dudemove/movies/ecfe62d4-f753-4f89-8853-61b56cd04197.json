@@ -1,0 +1,36 @@
+{
+  "id": "ecfe62d4-f753-4f89-8853-61b56cd04197",
+  "title": "Norm of the North: King Sized Adventure",
+  "slug": "norm-of-the-north-king-sized-adventure",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lc2ZqIBQGSyETa7V37V6jDS8W2o.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Danish",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5,
+  "description": "An ancient Chinese artifact has been stolen by a villainous archaeologist named Dexter. With the help of his Lemming friends, Norm must keep his word and embark on a journey across the world to help recover the artifact for the people of China.",
+  "created_at": "2026-07-22T15:31:12.151Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5112,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

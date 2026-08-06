@@ -1,0 +1,28 @@
+{
+  "id": "37056c27-efa8-4462-87ea-bd1e22f2e1b8",
+  "title": "Sachin: A Billion Dreams",
+  "slug": "sachin-a-billion-dreams",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ysOy2g2NcDRszOM8YF14aru82fy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 139,
+  "rating": 7.397,
+  "description": "Sachin Tendulkar plays himself in this sports-docudrama that traces the life and times of one of the world’s biggest cricket phenomenas.​",
+  "created_at": "2026-07-22T15:43:43.619Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6545,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f4a201bf-15aa-46f8-9b3e-f240db5663e9",
+  "title": "The Marine 5: Battleground",
+  "slug": "the-marine-5-battleground",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9dbZqft6gS34f4qVncU6APBAKWU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 91,
+  "rating": 6.571,
+  "description": "While working as an EMT back stateside Jake Carter after responding to a distress call, finds himself caught up protecting a person of interest from a biker gang ruthlessly hunting them down.",
+  "created_at": "2026-07-22T15:46:23.290Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6691,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

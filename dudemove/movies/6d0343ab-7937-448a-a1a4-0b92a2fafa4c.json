@@ -1,0 +1,24 @@
+{
+  "id": "6d0343ab-7937-448a-a1a4-0b92a2fafa4c",
+  "title": "The Revenge of Robert",
+  "slug": "the-revenge-of-robert",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9Sdw04XJLs4Lmj1O4VpA0FyZfUl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 80,
+  "rating": 3.6,
+  "description": "Germany, 1941. Two secret agents, one working for British intelligence and the other working for the Nazis, board a train. Their mission is to find a Toymaker who is in possession of a mystical book which gives life to the inanimate. As the two secret agents close in and the Toymaker has no idea who to trust, he uses the magical tome to bring a vintage doll called Robert to life...and Robert will stop at nothing to protect his puppet master.",
+  "created_at": "2026-07-22T15:38:57.315Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6057,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

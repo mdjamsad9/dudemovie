@@ -1,0 +1,28 @@
+{
+  "id": "44f5c04e-1053-4e92-b765-bcecd34c71e8",
+  "title": "Margamkali",
+  "slug": "margamkali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9NG8Z5f6xo8ZZ9gVvgI8ZygSYrU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 142,
+  "rating": null,
+  "description": "Unable to forget his first love, Sachi decides never to love anyone in his life. That’s when Oormila enters his life. Will he reconsider his decision?",
+  "created_at": "2026-07-31T07:08:18.199Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5299,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

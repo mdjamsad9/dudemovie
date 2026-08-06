@@ -1,0 +1,28 @@
+{
+  "id": "cb3f6902-ee60-4701-b8a7-ea7e01548ae8",
+  "title": "Blood Fest",
+  "slug": "blood-fest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v7x4P33lZwstVgxlZGze18hBlD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 93,
+  "rating": 5.329,
+  "description": "Fans flock to a festival celebrating the most iconic horror movies, only to discover that the charismatic showman behind the event has a diabolical agenda.",
+  "created_at": "2026-07-22T15:36:02.999Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5769,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

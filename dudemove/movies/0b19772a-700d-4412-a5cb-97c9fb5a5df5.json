@@ -1,0 +1,28 @@
+{
+  "id": "0b19772a-700d-4412-a5cb-97c9fb5a5df5",
+  "title": "Bad Frank",
+  "slug": "bad-frank",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/14Mp6zQ609spz366HrfSKtgVKlR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 103,
+  "rating": 5.1,
+  "description": "Frank Pierce leads a seemingly normal life, but when a disturbing past reemerges & something precious is taken from him, his mask of sanity loosens & unearths the urge to be violent once again.",
+  "created_at": "2026-07-22T15:44:07.038Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6577,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

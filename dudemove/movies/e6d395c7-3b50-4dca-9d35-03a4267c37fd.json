@@ -1,0 +1,28 @@
+{
+  "id": "e6d395c7-3b50-4dca-9d35-03a4267c37fd",
+  "title": "Balloon",
+  "slug": "balloon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3kvN3o0FM3wtWMlBkGnlf75zWvZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2017,
+  "duration": 146,
+  "rating": null,
+  "description": "A filmmaker goes to check out a haunted house in Ooty to seek inspiration for a horror film, not realising that the place has a connection with his past.",
+  "created_at": "2026-07-31T07:20:34.227Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6566,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

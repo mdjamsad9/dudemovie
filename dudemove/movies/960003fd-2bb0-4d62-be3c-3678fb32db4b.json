@@ -1,0 +1,32 @@
+{
+  "id": "960003fd-2bb0-4d62-be3c-3678fb32db4b",
+  "title": "Pranaam",
+  "slug": "pranaam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/115f1t03C35rSQmfOupJ9DdkcjG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 116,
+  "rating": 6,
+  "description": "A peon's son who is an aspiring IAS officer is compelled to change his path leading him to turn into a gangster.",
+  "created_at": "2026-07-22T15:27:05.195Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5005,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

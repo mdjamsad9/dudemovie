@@ -1,0 +1,24 @@
+{
+  "id": "18794934-84f4-4e45-abf4-3eb9b57b09ac",
+  "title": "Rings",
+  "slug": "rings",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4CDOVpVmNwiPoZKQeFCpW8CFo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2017,
+  "duration": 102,
+  "rating": 5,
+  "description": "Julia becomes worried about her boyfriend Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a \"movie within the movie\" that no one has ever seen before.",
+  "created_at": "2026-07-22T15:46:14.231Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6685,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

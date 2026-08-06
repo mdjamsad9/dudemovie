@@ -1,0 +1,28 @@
+{
+  "id": "63551dee-7991-4ac5-9893-bd9469574ae4",
+  "title": "Jamun",
+  "slug": "jamun",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vLNR7klRVFcT4IDAHpVKgXc6GfT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 92,
+  "rating": 7,
+  "description": "A father trying to find a groom for his daughter who is squinted. In this process, he is diagnosed with Parkinson s disease. Watch Jamun to find out if he gets his daughter married.",
+  "created_at": "2026-07-22T15:20:03.055Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3867,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

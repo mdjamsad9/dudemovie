@@ -1,0 +1,32 @@
+{
+  "id": "da9905e8-a232-4d2f-b8f3-ac9e28fd0a2f",
+  "title": "Cats",
+  "slug": "cats",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lsZheNTApIa1nrgBWzw90gXdy3Y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Chinese",
+  "release_year": 2018,
+  "duration": 105,
+  "rating": null,
+  "description": "A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.",
+  "created_at": "2026-07-31T07:08:14.899Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6038,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

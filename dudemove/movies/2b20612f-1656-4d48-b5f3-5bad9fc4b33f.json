@@ -1,0 +1,32 @@
+{
+  "id": "2b20612f-1656-4d48-b5f3-5bad9fc4b33f",
+  "title": "South Park: The End of Obesity",
+  "slug": "south-park-the-end-of-obesity",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zxM1AIKBP83plf2buLR0cbGfvl2.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 51,
+  "rating": 7.396,
+  "description": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
+  "created_at": "2026-07-09T17:20:07.667Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 922,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/South.Park.The.End.Of.Obesity.2024.1080p.WEBRip.x264%20%5BDDN%5D/South.Park.The.End.Of.Obesity.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

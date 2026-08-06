@@ -1,0 +1,28 @@
+{
+  "id": "8187dc7f-f63b-41a1-8195-8de1b4fcc751",
+  "title": "Scott and Sid",
+  "slug": "scott-and-sid",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1DgTrMG4LwIqcVCcxwwz6L6tEUh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 100,
+  "rating": 6.4,
+  "description": "From their first encounter as teenagers in high school, Scott and Sid seem unlikely friends. Scott is a shambolic dreamer, intent on carving out his own path in life and holding up a metaphorical middle finger to anyone who tries to stop him. He is a quintessential troubled teen: on his fifth high school by the age of fifteen, alienated from his peers, crippled by recurring nightmares and disliked by his own foster parents. Sid, on the other hand, wants nothing more than to be liked. An unconfident, awkward recluse through circumstance, Sid's impoverished and dysfunctional background leave him no time for friends and no money for hobbies.",
+  "created_at": "2026-07-22T15:38:35.025Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6037,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

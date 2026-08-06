@@ -1,0 +1,32 @@
+{
+  "id": "bd89635d-909e-486a-afa4-a7db647b62e9",
+  "title": "Searching",
+  "slug": "searching",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 7.571,
+  "description": "After David Kim's 16-year-old daughter goes missing, a local investigation is opened and a detective is assigned to the case. But 37 hours later and without a single lead, David decides to search the one place no one has looked yet, where all secrets are kept today: his daughter's laptop.",
+  "created_at": "2026-07-22T15:34:37.417Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 5906,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

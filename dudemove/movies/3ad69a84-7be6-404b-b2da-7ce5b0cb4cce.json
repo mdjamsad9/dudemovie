@@ -1,0 +1,24 @@
+{
+  "id": "3ad69a84-7be6-404b-b2da-7ce5b0cb4cce",
+  "title": "Aadyaa",
+  "slug": "aadyaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u4dU8OzcdOSNX62yGLXKZGnP0ye.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": null,
+  "description": "A man gets a call from his ex-lover who needs his help to find her kidnapped daughter but during the investigation, all the evidence suggests that she never really had a daughter.",
+  "created_at": "2026-07-31T07:01:48.376Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4520,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "90273b31-e132-4496-ba0c-4379731d38b4",
+  "title": "Irada",
+  "slug": "irada",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p7D7sc1cqY1CullErh55wuw5Bwx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2017,
+  "duration": 109,
+  "rating": 6.906,
+  "description": "A mysterious bomb blast in a business tycoon's factory prompts the state CM to hire an NIA officer. He meets an ex-army man seeking revenge for his dead daughter and a journalist demanding justice for her slain boyfriend. Nothing is what it seems. The film raises contemporary ecological issue with lot of thrill.",
+  "created_at": "2026-07-22T15:46:12.819Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6684,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

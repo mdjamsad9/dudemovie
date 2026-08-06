@@ -1,0 +1,32 @@
+{
+  "id": "82f3a806-cea4-4e92-92b6-575f9214be5b",
+  "title": "Be Happy",
+  "slug": "be-happy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6bvW47MtJKo2ipPYJ2xDvdf4zbz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 129,
+  "rating": 6.6,
+  "description": "A single father attempts to help his talented daughter achieve her dream of performing on the country's biggest dance reality show.",
+  "created_at": "2026-07-09T17:01:23.863Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 783,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Be%20Happy%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Be%20Happy%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

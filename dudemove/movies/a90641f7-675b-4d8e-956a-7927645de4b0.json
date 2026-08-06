@@ -1,0 +1,28 @@
+{
+  "id": "a90641f7-675b-4d8e-956a-7927645de4b0",
+  "title": "My Soul to Keep",
+  "slug": "my-soul-to-keep",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/goJ7Raosf7mKHuMzEzdRkC3gKXk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.3,
+  "description": "Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.",
+  "created_at": "2026-07-22T15:28:19.884Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4970,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

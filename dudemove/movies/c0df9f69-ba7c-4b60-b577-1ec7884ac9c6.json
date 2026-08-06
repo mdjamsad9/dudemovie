@@ -1,0 +1,32 @@
+{
+  "id": "c0df9f69-ba7c-4b60-b577-1ec7884ac9c6",
+  "title": "Becky",
+  "slug": "becky",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 6.31,
+  "description": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+  "created_at": "2026-07-22T15:23:28.597Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4495,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
