@@ -1,0 +1,28 @@
+{
+  "id": "0b0ded5c-a7c3-4168-8eaf-38cea66541ae",
+  "title": "Saravanan Irukka Bayamaen",
+  "slug": "saravanan-irukka-bayamaen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aOAR0TXe1gGCaHEOmeJZiM357v.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2017,
+  "duration": 125,
+  "rating": null,
+  "description": "A lackadaisical youngster falls in love with a girl from whom he’d gotten separated at a younger age. He goes through a slew of unexpected hurdles to win her love.",
+  "created_at": "2026-07-31T07:32:53.180Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6862,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

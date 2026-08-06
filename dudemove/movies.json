@@ -31392,7 +31392,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Love%20Reddy%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Love%20Reddy%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -31415,7 +31415,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Prathibha%20Tutorials%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prathibha%20Tutorials%20(2024)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -31442,7 +31442,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Glassmates%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Glassmates%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -31473,7 +31473,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Klaantha%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Klaantha%20(2024)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -31500,7 +31500,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pani%20(2024)%20Hindi%20Mlayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pani%20(2024)%20Hindi%20Mlayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -152514,7 +152514,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/Shadowplay.2019.1080p.WEBRip.x264%20%5BDDN%5D/Shadowplay.2019.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -152572,7 +152572,7 @@
         "slug": "music"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://media.ctgfun.com/disk1/Recent%20English%20Movies/2019/The.Song.of.Names.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D/The.Song.of.Names.2019.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -192178,26 +192178,26 @@
     "stream_url_480p": null
   },
   {
-    "id": "c0777598-6e64-4002-aa9e-789990f52a01",
-    "title": "Alamara",
-    "slug": "alamara",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bIdu4ngJTZKCHKHT9z1JMzOCqax.jpg",
+    "id": "0b0ded5c-a7c3-4168-8eaf-38cea66541ae",
+    "title": "Saravanan Irukka Bayamaen",
+    "slug": "saravanan-irukka-bayamaen",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/aOAR0TXe1gGCaHEOmeJZiM357v.jpg",
     "is_premium": false,
     "country": null,
-    "language": "Malayalam",
+    "language": "Tamil",
     "release_year": 2017,
-    "duration": 131,
+    "duration": 125,
     "rating": null,
-    "description": "Arun finally finds love in Swati after a long luckless search. They get married and soon their parents and their massive egos start interfering with their life. The problems worsen when a huge cupboard arrives as a gift from Swati's parents.",
-    "created_at": "2026-07-31T07:32:51.197Z",
+    "description": "A lackadaisical youngster falls in love with a girl from whom he’d gotten separated at a younger age. He goes through a slew of unexpected hurdles to win her love.",
+    "created_at": "2026-07-31T07:32:53.180Z",
     "genres": [
       {
         "name": "Comedy",
         "slug": "comedy"
       },
       {
-        "name": "Family",
-        "slug": "family"
+        "name": "Romance",
+        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -208782,33 +208782,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "3ef98de8-97bb-4d48-bd75-85333b46cb59",
-    "title": "Sully",
-    "slug": "sully",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2016,
-    "duration": null,
-    "rating": 7.204,
-    "description": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
-    "created_at": "2026-08-06T05:02:00.481Z",
-    "genres": [
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "History",
-        "slug": "history"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "ee44bad0-d365-4e46-a1cc-d5a007cd7a3b",
     "title": "The Bad Batch",
     "slug": "the-bad-batch",
@@ -225061,29 +225034,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "fd294311-c073-4979-bcd8-e1b794f5da3e",
-    "title": "Tonight She Comes",
-    "slug": "tonight-she-comes",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cnX9ojQSLNfhAHuOKRoVT942Ubs.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2016,
-    "duration": null,
-    "rating": 4.736,
-    "description": "After a girl goes missing, two of her friends and a mysterious set of strangers find themselves drawn to the cabin in the woods where she disappeared. They will laugh, they will drink, they will kiss, they will make love, and THEY MUST ALL DIE.",
-    "created_at": "2026-08-06T05:01:29.334Z",
-    "genres": [
-      {
-        "name": "Horror",
-        "slug": "horror"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "03d825b0-61ed-44e6-83e0-de5f568348da",
     "title": "Lone Wolves",
     "slug": "lone-wolves",
@@ -225104,6 +225054,29 @@
       {
         "name": "Science Fiction",
         "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "fd294311-c073-4979-bcd8-e1b794f5da3e",
+    "title": "Tonight She Comes",
+    "slug": "tonight-she-comes",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cnX9ojQSLNfhAHuOKRoVT942Ubs.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2016,
+    "duration": null,
+    "rating": 4.736,
+    "description": "After a girl goes missing, two of her friends and a mysterious set of strangers find themselves drawn to the cabin in the woods where she disappeared. They will laugh, they will drink, they will kiss, they will make love, and THEY MUST ALL DIE.",
+    "created_at": "2026-08-06T05:01:29.334Z",
+    "genres": [
+      {
+        "name": "Horror",
+        "slug": "horror"
       }
     ],
     "stream_url_1080p": null,
@@ -225204,6 +225177,64 @@
       {
         "name": "Fantasy",
         "slug": "fantasy"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "3ef98de8-97bb-4d48-bd75-85333b46cb59",
+    "title": "Sully",
+    "slug": "sully",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2016,
+    "duration": null,
+    "rating": 7.204,
+    "description": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+    "created_at": "2026-08-06T05:02:00.481Z",
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "History",
+        "slug": "history"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "4ffabf97-b366-474d-97d5-ce0bfbe26cd9",
+    "title": "Manhattan Romance",
+    "slug": "manhattan-romance",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/n792aEUTwqVHGTYT80Ry0JGMdmA.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 94,
+    "rating": 4.9,
+    "description": "Danny, a commercial editor and documentary filmmaker attempts to finish his film, a study on relationship while navigating the relationships in his own life. Will he continue to chase the unattainable Theresa a hippy new age dancer(Caitlin Fitzgerald) or will he finally admit he's in love with his best friend Carla (Katherine Waterston) who is in an unfulfilling relationship with a political strategist(Gaby Hoffman). Manhattan Romance is a funny insightful look at contemporary life in Manhattan. It explores new age ideas and open relationship as well as true friendship and connection.",
+    "created_at": "2026-07-22T15:51:10.149Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -225315,29 +225346,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "eed6e6d3-f811-4a3d-9a24-8883f0803548",
-    "title": "Hot Tub Time Machine 2",
-    "slug": "hot-tub-time-machine-2",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lBroHetSm8RMI8zp7ThpFJsw9E1.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 93,
-    "rating": 5.188,
-    "description": "After their first adventure with the Hot Tub Time Machine, Lou and Nick are living very well off their ill-gotten gains, while Jacob still cannot rely on Lou to be a positive role model. When an unknown assailant breaks into Lou's mansion and shoots him, Nick and Jacob take him for another trip in the hot tub. They emerge in the year 2025, where they must figure out who shot Lou and prevent it from happening again.",
-    "created_at": "2026-07-22T15:44:38.345Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "fbf4d011-2c57-451c-8779-b4c4fd6d076e",
     "title": "Last Knights",
     "slug": "last-knights",
@@ -225365,6 +225373,45 @@
     "stream_url_480p": null
   },
   {
+    "id": "ada61410-a570-444a-8f15-ea038e5ae75a",
+    "title": "Kidnapping Mr. Heineken",
+    "slug": "kidnapping-mr-heineken",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6JAb9jQa4sONkutfqfR3I7LFpGd.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "German",
+    "release_year": 2015,
+    "duration": 95,
+    "rating": 6.015,
+    "description": "The true story of the kidnapping of Freddy Heineken, the grandson of the founder of the Heineken brewery, and his driver. They were released after a ransom of 35 million Dutch guilders was paid.",
+    "created_at": "2026-07-22T15:51:35.832Z",
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Crime",
+        "slug": "crime"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      },
+      {
+        "name": "Mystery",
+        "slug": "mystery"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "30b4cba9-0f5e-489b-9ca7-11582745545b",
     "title": "Ennu Ninte Moideen",
     "slug": "ennu-ninte-moideen",
@@ -225385,41 +225432,6 @@
       {
         "name": "Romance",
         "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "4e044844-6421-45c1-9da3-d89e5d13157a",
-    "title": "Southbound",
-    "slug": "southbound",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ehXtB1jlMx8FBlsX9JLhSQkvlZp.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 89,
-    "rating": 5.927,
-    "description": "The film contains five stories set on desolate stretches of a desert highway. Two men on the run from their past, a band on its way to a gig, a man struggling to get home, a brother in search of his long-lost sister and a family on vacation are forced to confront their worst fears and darkest secrets in these interwoven tales.",
-    "created_at": "2026-07-22T15:50:01.984Z",
-    "genres": [
-      {
-        "name": "Fantasy",
-        "slug": "fantasy"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      },
-      {
-        "name": "Horror",
-        "slug": "horror"
-      },
-      {
-        "name": "Science Fiction",
-        "slug": "science-fiction"
       }
     ],
     "stream_url_1080p": null,
@@ -225535,6 +225547,41 @@
     "stream_url_480p": null
   },
   {
+    "id": "4e044844-6421-45c1-9da3-d89e5d13157a",
+    "title": "Southbound",
+    "slug": "southbound",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ehXtB1jlMx8FBlsX9JLhSQkvlZp.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 89,
+    "rating": 5.927,
+    "description": "The film contains five stories set on desolate stretches of a desert highway. Two men on the run from their past, a band on its way to a gig, a man struggling to get home, a brother in search of his long-lost sister and a family on vacation are forced to confront their worst fears and darkest secrets in these interwoven tales.",
+    "created_at": "2026-07-22T15:50:01.984Z",
+    "genres": [
+      {
+        "name": "Fantasy",
+        "slug": "fantasy"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      },
+      {
+        "name": "Horror",
+        "slug": "horror"
+      },
+      {
+        "name": "Science Fiction",
+        "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "daf650bd-8b57-4f0b-a95f-7f63015bdd5c",
     "title": "Thoppi",
     "slug": "thoppi",
@@ -225551,37 +225598,6 @@
       {
         "name": "Drama",
         "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "5cd3cbc4-d171-402b-85c6-0fd517932924",
-    "title": "Maggie",
-    "slug": "maggie",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/twa9gXjocLM629sJrQYVtmF306R.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 95,
-    "rating": 5.4,
-    "description": "There's a deadly zombie epidemic threatening humanity, but Wade, a small-town farmer and family man, refuses to accept defeat even when his daughter Maggie becomes infected. As Maggie's condition worsens and the authorities seek to eradicate those with the virus, Wade is pushed to the limits in an effort to protect her. Joely Richardson co-stars in this post-apocalyptic thriller.",
-    "created_at": "2026-07-22T15:51:36.393Z",
-    "genres": [
-      {
-        "name": "Horror",
-        "slug": "horror"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Science Fiction",
-        "slug": "science-fiction"
       }
     ],
     "stream_url_1080p": null,
@@ -225624,6 +225640,60 @@
     "stream_url_480p": null
   },
   {
+    "id": "5cd3cbc4-d171-402b-85c6-0fd517932924",
+    "title": "Maggie",
+    "slug": "maggie",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/twa9gXjocLM629sJrQYVtmF306R.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 95,
+    "rating": 5.4,
+    "description": "There's a deadly zombie epidemic threatening humanity, but Wade, a small-town farmer and family man, refuses to accept defeat even when his daughter Maggie becomes infected. As Maggie's condition worsens and the authorities seek to eradicate those with the virus, Wade is pushed to the limits in an effort to protect her. Joely Richardson co-stars in this post-apocalyptic thriller.",
+    "created_at": "2026-07-22T15:51:36.393Z",
+    "genres": [
+      {
+        "name": "Horror",
+        "slug": "horror"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Science Fiction",
+        "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "a9a2bfa5-9340-49f9-b5c7-0f698298f2b9",
+    "title": "Demonte Colony",
+    "slug": "demonte-colony",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4v0rLDCAV0CuZTAoeu8CDPBkksB.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi Tamil",
+    "release_year": 2015,
+    "duration": 116,
+    "rating": null,
+    "description": "Four friends go into a haunted mansion on a whim but they do not realize that they have returned home with an evil spirit, from which escape might be impossible.",
+    "created_at": "2026-07-31T07:22:50.968Z",
+    "genres": [
+      {
+        "name": "Horror",
+        "slug": "horror"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "b374136e-66a1-435b-a3b8-6788faf9a1d7",
     "title": "Spectre",
     "slug": "spectre",
@@ -225648,29 +225718,6 @@
       {
         "name": "Thriller",
         "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "a9a2bfa5-9340-49f9-b5c7-0f698298f2b9",
-    "title": "Demonte Colony",
-    "slug": "demonte-colony",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4v0rLDCAV0CuZTAoeu8CDPBkksB.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Tamil",
-    "release_year": 2015,
-    "duration": 116,
-    "rating": null,
-    "description": "Four friends go into a haunted mansion on a whim but they do not realize that they have returned home with an evil spirit, from which escape might be impossible.",
-    "created_at": "2026-07-31T07:22:50.968Z",
-    "genres": [
-      {
-        "name": "Horror",
-        "slug": "horror"
       }
     ],
     "stream_url_1080p": null,
@@ -225763,6 +225810,33 @@
     "stream_url_480p": null
   },
   {
+    "id": "ace46033-1973-4b9e-989c-54f6f69e8a6f",
+    "title": "The Hoarder",
+    "slug": "the-hoarder",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ezp9Cu7weyUbigGSqmTbUTEHdh.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 86,
+    "rating": 4.437,
+    "description": "Ella discovers a terrifying secret when she becomes trapped in an underground storage facility. To survive she must join forces with a group of strangers, each with something to hide.",
+    "created_at": "2026-07-22T15:44:30.893Z",
+    "genres": [
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      },
+      {
+        "name": "Horror",
+        "slug": "horror"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "739080fa-a808-4970-ac32-03352386e3c6",
     "title": "The Hunger Games: Mockingjay - Part 2",
     "slug": "the-hunger-games-mockingjay-part-2",
@@ -225787,33 +225861,6 @@
       {
         "name": "Action",
         "slug": "action"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "ace46033-1973-4b9e-989c-54f6f69e8a6f",
-    "title": "The Hoarder",
-    "slug": "the-hoarder",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ezp9Cu7weyUbigGSqmTbUTEHdh.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 86,
-    "rating": 4.437,
-    "description": "Ella discovers a terrifying secret when she becomes trapped in an underground storage facility. To survive she must join forces with a group of strangers, each with something to hide.",
-    "created_at": "2026-07-22T15:44:30.893Z",
-    "genres": [
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      },
-      {
-        "name": "Horror",
-        "slug": "horror"
       }
     ],
     "stream_url_1080p": null,
@@ -225953,6 +226000,29 @@
     "stream_url_480p": null
   },
   {
+    "id": "0ec69665-bbbd-4776-bee6-47826f00041f",
+    "title": "The Marine 4: Moving Target",
+    "slug": "the-marine-4-moving-target",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yR4R4SP6nLwwJ30DZOCVXefqPhi.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 90,
+    "rating": 6.36,
+    "description": "WWE Superstar Mike \"The Miz\" Mizanin returns as Jake Carter where he is assigned to protect a whistleblower who wishes to expose a corrupt military defense contractor. However, the military hires a heavily armed team of mercenaries to kill her and it's up to Carter to stop them at any cost.",
+    "created_at": "2026-07-22T15:44:23.671Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "fc23e4e5-8eab-445f-877a-e6be9249202c",
     "title": "Beyond the Mask",
     "slug": "beyond-the-mask",
@@ -225977,29 +226047,6 @@
       {
         "name": "Drama",
         "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "0ec69665-bbbd-4776-bee6-47826f00041f",
-    "title": "The Marine 4: Moving Target",
-    "slug": "the-marine-4-moving-target",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yR4R4SP6nLwwJ30DZOCVXefqPhi.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 90,
-    "rating": 6.36,
-    "description": "WWE Superstar Mike \"The Miz\" Mizanin returns as Jake Carter where he is assigned to protect a whistleblower who wishes to expose a corrupt military defense contractor. However, the military hires a heavily armed team of mercenaries to kill her and it's up to Carter to stop them at any cost.",
-    "created_at": "2026-07-22T15:44:23.671Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
       }
     ],
     "stream_url_1080p": null,
@@ -226080,33 +226127,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "c97272e5-6890-46eb-930d-f904bad3d987",
-    "title": "10 Endrathukulla",
-    "slug": "10-endrathukulla",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jZx7x4JUadJBa8AFZYsc5gN5k8E.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Tamil",
-    "release_year": 2015,
-    "duration": 144,
-    "rating": null,
-    "description": "A skilled car driver takes on an assignment to deliver a 'package' from Chennai to Uttarkhand. What he doesn't realize is that the young woman who is travelling along with him is the 'package'. What is the mystery around her?",
-    "created_at": "2026-07-31T07:38:53.550Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "3834cef3-adf9-4d81-87b7-6b4f356aded8",
     "title": "The Visit",
     "slug": "the-visit",
@@ -226134,30 +226154,26 @@
     "stream_url_480p": null
   },
   {
-    "id": "4ffabf97-b366-474d-97d5-ce0bfbe26cd9",
-    "title": "Manhattan Romance",
-    "slug": "manhattan-romance",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/n792aEUTwqVHGTYT80Ry0JGMdmA.jpg",
+    "id": "c97272e5-6890-46eb-930d-f904bad3d987",
+    "title": "10 Endrathukulla",
+    "slug": "10-endrathukulla",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jZx7x4JUadJBa8AFZYsc5gN5k8E.jpg",
     "is_premium": false,
     "country": null,
-    "language": "English",
+    "language": "Hindi Tamil",
     "release_year": 2015,
-    "duration": 94,
-    "rating": 4.9,
-    "description": "Danny, a commercial editor and documentary filmmaker attempts to finish his film, a study on relationship while navigating the relationships in his own life. Will he continue to chase the unattainable Theresa a hippy new age dancer(Caitlin Fitzgerald) or will he finally admit he's in love with his best friend Carla (Katherine Waterston) who is in an unfulfilling relationship with a political strategist(Gaby Hoffman). Manhattan Romance is a funny insightful look at contemporary life in Manhattan. It explores new age ideas and open relationship as well as true friendship and connection.",
-    "created_at": "2026-07-22T15:51:10.149Z",
+    "duration": 144,
+    "rating": null,
+    "description": "A skilled car driver takes on an assignment to deliver a 'package' from Chennai to Uttarkhand. What he doesn't realize is that the young woman who is travelling along with him is the 'package'. What is the mystery around her?",
+    "created_at": "2026-07-31T07:38:53.550Z",
     "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
       {
         "name": "Romance",
         "slug": "romance"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -226250,6 +226266,33 @@
     "stream_url_480p": null
   },
   {
+    "id": "3f0227de-de47-4db4-bf21-2ae182e06f4b",
+    "title": "Bhooloham",
+    "slug": "bhooloham",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uq9SGIoD5MVHkhdYTmf63jI1ndg.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2015,
+    "duration": 143,
+    "rating": null,
+    "description": "A greedy TV channel owner tries to rake in the moolah by pitting a reluctant local boxer against a notorious international champion.",
+    "created_at": "2026-07-31T07:24:03.234Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "f624b7be-1325-4d36-b55a-413f1cd6e3ec",
     "title": "Insurgent",
     "slug": "insurgent",
@@ -226274,33 +226317,6 @@
       {
         "name": "Thriller",
         "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "3f0227de-de47-4db4-bf21-2ae182e06f4b",
-    "title": "Bhooloham",
-    "slug": "bhooloham",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uq9SGIoD5MVHkhdYTmf63jI1ndg.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2015,
-    "duration": 143,
-    "rating": null,
-    "description": "A greedy TV channel owner tries to rake in the moolah by pitting a reluctant local boxer against a notorious international champion.",
-    "created_at": "2026-07-31T07:24:03.234Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -227691,29 +227707,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "37a6cee4-4732-4817-8fbf-5cd670cc1762",
-    "title": "Guddu Ki Gun",
-    "slug": "guddu-ki-gun",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8CMeDmIETdt18Xl1H2Do9gpUDg.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2015,
-    "duration": 130,
-    "rating": 5.313,
-    "description": "Guddu Ki Gun is the tale of Govardhan aka Guddu (Kunal Kemmu), a Bihari settled in Kolkata. He is a door-to-door washing powder salesman, whose sales pitch is \"Ek washing powder ke saath Guddu free\". While sharing a room with his close friend Ladoo (Sumeet Vyas), Guddu leads an amorous lifestyle in Kolkata. His travails begins when he ditches one of his girlfriends, Bholi (Aparna Sharma). Furious for forsaking his granddaughter, Bholi's grandfather casts a black magic spell on him. The only way Guddu can get rid of the curse is to find true love and by staying faithful to her.",
-    "created_at": "2026-07-22T15:50:09.876Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "5aaf877c-4e34-45e5-8556-175a1b1f2f22",
     "title": "The Dresser",
     "slug": "the-dresser",
@@ -227754,6 +227747,29 @@
     "description": "An endless animated loop, a zoom in that never ends, in negative and in positive.",
     "created_at": "2026-07-22T15:49:35.993Z",
     "genres": [],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "37a6cee4-4732-4817-8fbf-5cd670cc1762",
+    "title": "Guddu Ki Gun",
+    "slug": "guddu-ki-gun",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8CMeDmIETdt18Xl1H2Do9gpUDg.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2015,
+    "duration": 130,
+    "rating": 5.313,
+    "description": "Guddu Ki Gun is the tale of Govardhan aka Guddu (Kunal Kemmu), a Bihari settled in Kolkata. He is a door-to-door washing powder salesman, whose sales pitch is \"Ek washing powder ke saath Guddu free\". While sharing a room with his close friend Ladoo (Sumeet Vyas), Guddu leads an amorous lifestyle in Kolkata. His travails begins when he ditches one of his girlfriends, Bholi (Aparna Sharma). Furious for forsaking his granddaughter, Bholi's grandfather casts a black magic spell on him. The only way Guddu can get rid of the curse is to find true love and by staying faithful to her.",
+    "created_at": "2026-07-22T15:50:09.876Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
     "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
@@ -227809,29 +227825,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "6b97f7ac-c04a-44ad-8280-b250a93dca38",
-    "title": "Steve Jobs: The Man in the Machine",
-    "slug": "steve-jobs-the-man-in-the-machine",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/y8zA8Vdh5AQRULuDDp2xx08DNNx.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 129,
-    "rating": 6.6,
-    "description": "When Steve Jobs died the world wept. But what accounted for the grief of millions of people who didn’t know him? This evocative film navigates Jobs' path from a small house in the suburbs, to zen temples in Japan, to the CEO's office of the world's richest company, exploring how Jobs’ life and work shaped our relationship with the computer. The Man in the Machine is a provocative and sometimes startling re-evaluation of the legacy of an icon.",
-    "created_at": "2026-07-22T15:51:01.795Z",
-    "genres": [
-      {
-        "name": "Documentary",
-        "slug": "documentary"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "eae399ab-b911-49c4-b16c-7034368b7ac0",
     "title": "Ithaca",
     "slug": "ithaca",
@@ -227848,6 +227841,29 @@
       {
         "name": "Drama",
         "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "6b97f7ac-c04a-44ad-8280-b250a93dca38",
+    "title": "Steve Jobs: The Man in the Machine",
+    "slug": "steve-jobs-the-man-in-the-machine",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/y8zA8Vdh5AQRULuDDp2xx08DNNx.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 129,
+    "rating": 6.6,
+    "description": "When Steve Jobs died the world wept. But what accounted for the grief of millions of people who didn’t know him? This evocative film navigates Jobs' path from a small house in the suburbs, to zen temples in Japan, to the CEO's office of the world's richest company, exploring how Jobs’ life and work shaped our relationship with the computer. The Man in the Machine is a provocative and sometimes startling re-evaluation of the legacy of an icon.",
+    "created_at": "2026-07-22T15:51:01.795Z",
+    "genres": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
       }
     ],
     "stream_url_1080p": null,
@@ -227906,29 +227922,6 @@
       {
         "name": "Drama",
         "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "74cd0702-44f0-4c2e-b82a-784e8ee9f58e",
-    "title": "Addicted to Fresno",
-    "slug": "addicted-to-fresno",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lFoDP8JBZFA0r0wMgPGvQyi6IrA.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 85,
-    "rating": 5.3,
-    "description": "Two co-dependent sisters, a recovering sex addict and a lonely lesbian who work as hotel maids in Fresno, go to ludicrous lengths to cover up an accidental crime.",
-    "created_at": "2026-07-22T15:51:11.592Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -228029,6 +228022,29 @@
     "stream_url_480p": null
   },
   {
+    "id": "74cd0702-44f0-4c2e-b82a-784e8ee9f58e",
+    "title": "Addicted to Fresno",
+    "slug": "addicted-to-fresno",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lFoDP8JBZFA0r0wMgPGvQyi6IrA.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 85,
+    "rating": 5.3,
+    "description": "Two co-dependent sisters, a recovering sex addict and a lonely lesbian who work as hotel maids in Fresno, go to ludicrous lengths to cover up an accidental crime.",
+    "created_at": "2026-07-22T15:51:11.592Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "fc1c40c0-c6df-4e5a-bfbf-345d10e0106d",
     "title": "I Smile Back",
     "slug": "i-smile-back",
@@ -228045,33 +228061,6 @@
       {
         "name": "Drama",
         "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "bab241b1-191c-417a-9212-e7fb658bc74c",
-    "title": "Entertainment",
-    "slug": "entertainment",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/Lngl5wLUnY9qvNdVLH7TPAAKOx.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 113,
-    "rating": 5.586,
-    "description": "Set in the Mojave Desert, the film follows a broken-down comedian playing clubs across the Southwest, working his way to Los Angeles to meet his estranged daughter.",
-    "created_at": "2026-07-22T15:51:04.795Z",
-    "genres": [
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -228099,6 +228088,33 @@
       {
         "name": "Science Fiction",
         "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "bab241b1-191c-417a-9212-e7fb658bc74c",
+    "title": "Entertainment",
+    "slug": "entertainment",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/Lngl5wLUnY9qvNdVLH7TPAAKOx.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 113,
+    "rating": 5.586,
+    "description": "Set in the Mojave Desert, the film follows a broken-down comedian playing clubs across the Southwest, working his way to Los Angeles to meet his estranged daughter.",
+    "created_at": "2026-07-22T15:51:04.795Z",
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -228172,6 +228188,29 @@
     "stream_url_480p": null
   },
   {
+    "id": "94e2fc53-1f83-42d8-8875-1a7f4c98ddea",
+    "title": "Dennis Rodman's Big Bang in PyongYang",
+    "slug": "dennis-rodman-s-big-bang-in-pyongyang",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qQLs7mDSDhbcxVpZbgC7etgu9Rn.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 93,
+    "rating": 6.417,
+    "description": "Dennis Rodman is on a mission. After forging an unlikely friendship with North Korean leader Kim Jong-un, he wants to improve relations between North Korea and the US by staging a historic basketball game between the two countries. But the North Korean team isn't the only opposition he'll face... Condemned by the NBA and The Whitehouse, and hounded every step of the way by the press, can Dennis keep it together and make the game happen? Or will it go up in a mushroom cloud of smoke? For the first time, discover the true story of what happened when Dennis Rodman took a team of former-NBA players to North Korea and staged the most controversial game of basketball the world has never seen.",
+    "created_at": "2026-07-22T15:49:11.920Z",
+    "genres": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "bd803b8e-f6fd-44ec-8eaf-3428c6253b1a",
     "title": "The Revenant",
     "slug": "the-revenant",
@@ -228203,22 +228242,26 @@
     "stream_url_480p": null
   },
   {
-    "id": "94e2fc53-1f83-42d8-8875-1a7f4c98ddea",
-    "title": "Dennis Rodman's Big Bang in PyongYang",
-    "slug": "dennis-rodman-s-big-bang-in-pyongyang",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qQLs7mDSDhbcxVpZbgC7etgu9Rn.jpg",
+    "id": "c8337fe0-4fd7-4d20-8760-0d7d8e520012",
+    "title": "Charlie",
+    "slug": "charlie-1",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kQo30LL8punEsJu5kMZzJydQYJo.jpg",
     "is_premium": false,
     "country": null,
-    "language": "English",
+    "language": "Malayalam",
     "release_year": 2015,
-    "duration": 93,
-    "rating": 6.417,
-    "description": "Dennis Rodman is on a mission. After forging an unlikely friendship with North Korean leader Kim Jong-un, he wants to improve relations between North Korea and the US by staging a historic basketball game between the two countries. But the North Korean team isn't the only opposition he'll face... Condemned by the NBA and The Whitehouse, and hounded every step of the way by the press, can Dennis keep it together and make the game happen? Or will it go up in a mushroom cloud of smoke? For the first time, discover the true story of what happened when Dennis Rodman took a team of former-NBA players to North Korea and staged the most controversial game of basketball the world has never seen.",
-    "created_at": "2026-07-22T15:49:11.920Z",
+    "duration": 130,
+    "rating": null,
+    "description": "A young, nonconforming woman named Tessa gets entangled in a cat-and-mouse chase in the by-lanes of Kerala, hunting for a mysterious artist who previously lived in her apartment.",
+    "created_at": "2026-07-31T07:02:11.733Z",
     "genres": [
       {
-        "name": "Documentary",
-        "slug": "documentary"
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -228242,33 +228285,6 @@
       {
         "name": "Drama",
         "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "c8337fe0-4fd7-4d20-8760-0d7d8e520012",
-    "title": "Charlie",
-    "slug": "charlie-1",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kQo30LL8punEsJu5kMZzJydQYJo.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Malayalam",
-    "release_year": 2015,
-    "duration": 130,
-    "rating": null,
-    "description": "A young, nonconforming woman named Tessa gets entangled in a cat-and-mouse chase in the by-lanes of Kerala, hunting for a mysterious artist who previously lived in her apartment.",
-    "created_at": "2026-07-31T07:02:11.733Z",
-    "genres": [
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -228330,37 +228346,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "8e9766eb-dfc1-44bb-8802-8d9137578519",
-    "title": "Hitman: Agent 47",
-    "slug": "hitman-agent-47",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cx9AOBOv9Qf5ufZYQMbfTV7w7VY.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 96,
-    "rating": 5.902,
-    "description": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
-    "created_at": "2026-07-22T15:51:05.864Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Crime",
-        "slug": "crime"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "0046223d-7e5f-4c75-8c9a-48cfbc32566b",
     "title": "The Mind's Eye",
     "slug": "the-mind-s-eye",
@@ -228385,6 +228370,37 @@
       {
         "name": "Science Fiction",
         "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "8e9766eb-dfc1-44bb-8802-8d9137578519",
+    "title": "Hitman: Agent 47",
+    "slug": "hitman-agent-47",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cx9AOBOv9Qf5ufZYQMbfTV7w7VY.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 96,
+    "rating": 5.902,
+    "description": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+    "created_at": "2026-07-22T15:51:05.864Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Crime",
+        "slug": "crime"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
       }
     ],
     "stream_url_1080p": null,
@@ -228532,29 +228548,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "674e11c9-73fe-467f-b65d-7cda404feefa",
-    "title": "Manny Lewis",
-    "slug": "manny-lewis",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5AUsVJcZifXSsFsre4FXvemurU0.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 89,
-    "rating": 6.1,
-    "description": "The film follows the story of a famous fictional stand-up comedian Manny Lewis, who connects with millions of fans but finds it hard to connect to one person. Manny struggles to overcome his sense of alienation and shyness, and a difficult relationship with his father, in a romantic and feel-good quest for the love of the quirky Maria.",
-    "created_at": "2026-07-22T15:51:12.109Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "598c9216-ca0f-466e-8119-0692aba990e9",
     "title": "Desierto",
     "slug": "desierto",
@@ -228575,6 +228568,29 @@
       {
         "name": "Drama",
         "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "674e11c9-73fe-467f-b65d-7cda404feefa",
+    "title": "Manny Lewis",
+    "slug": "manny-lewis",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5AUsVJcZifXSsFsre4FXvemurU0.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 89,
+    "rating": 6.1,
+    "description": "The film follows the story of a famous fictional stand-up comedian Manny Lewis, who connects with millions of fans but finds it hard to connect to one person. Manny struggles to overcome his sense of alienation and shyness, and a difficult relationship with his father, in a romantic and feel-good quest for the love of the quirky Maria.",
+    "created_at": "2026-07-22T15:51:12.109Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -228690,33 +228706,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "97f3bce3-4822-4d32-981f-8f2e89baf4f4",
-    "title": "Dynamite",
-    "slug": "dynamite",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hx6rJIyZW0G4tBZeAIbpIqH4NEq.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Telugu",
-    "release_year": 2015,
-    "duration": 142,
-    "rating": null,
-    "description": "Dynamite is a Telugu action thriller film directed by Master Vijayan, Manchu Vishnu and also guest directed by Deva Katta for 9 days of the shoot, the film is produced by Manchu Vishnu under the banner 24 Frames Factory featuring himself, Pranitha Subhash, J. D. Chakravarthy in pivotal roles. It is the official Tamil remake of Arima Nambi. Stunts and actions co-ordinated by Vijayan who also directed the film along with Vishnu Manchu after Deva Katta walked out of the project due to creative differences.",
-    "created_at": "2026-07-31T07:28:53.581Z",
-    "genres": [
-      {
-        "name": "Mystery",
-        "slug": "mystery"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "3ed32858-3593-4d33-b222-f68404bc67c9",
     "title": "The Great Gilly Hopkins",
     "slug": "the-great-gilly-hopkins",
@@ -228741,6 +228730,33 @@
       {
         "name": "Family",
         "slug": "family"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "97f3bce3-4822-4d32-981f-8f2e89baf4f4",
+    "title": "Dynamite",
+    "slug": "dynamite",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hx6rJIyZW0G4tBZeAIbpIqH4NEq.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi Telugu",
+    "release_year": 2015,
+    "duration": 142,
+    "rating": null,
+    "description": "Dynamite is a Telugu action thriller film directed by Master Vijayan, Manchu Vishnu and also guest directed by Deva Katta for 9 days of the shoot, the film is produced by Manchu Vishnu under the banner 24 Frames Factory featuring himself, Pranitha Subhash, J. D. Chakravarthy in pivotal roles. It is the official Tamil remake of Arima Nambi. Stunts and actions co-ordinated by Vijayan who also directed the film along with Vishnu Manchu after Deva Katta walked out of the project due to creative differences.",
+    "created_at": "2026-07-31T07:28:53.581Z",
+    "genres": [
+      {
+        "name": "Mystery",
+        "slug": "mystery"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -229100,33 +229116,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "057bb59d-013b-4aff-ac7b-c9fbb56dfb9e",
-    "title": "Home Sweet Hell",
-    "slug": "home-sweet-hell",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vETciJiWTLD0AdDHUANb8HkFdJ5.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 98,
-    "rating": 5.439,
-    "description": "Don Champagne seems to have it all, but when his wife, Mona, learns of his affair with a pretty new salesgirl, she will stop at nothing to maintain their storybook life.",
-    "created_at": "2026-07-22T15:51:39.708Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "4e031c81-b10f-4b1c-ad96-581a5530a4d8",
     "title": "Bleeding Heart",
     "slug": "bleeding-heart",
@@ -229147,6 +229136,33 @@
       {
         "name": "Drama",
         "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "057bb59d-013b-4aff-ac7b-c9fbb56dfb9e",
+    "title": "Home Sweet Hell",
+    "slug": "home-sweet-hell",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vETciJiWTLD0AdDHUANb8HkFdJ5.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 98,
+    "rating": 5.439,
+    "description": "Don Champagne seems to have it all, but when his wife, Mona, learns of his affair with a pretty new salesgirl, she will stop at nothing to maintain their storybook life.",
+    "created_at": "2026-07-22T15:51:39.708Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
       }
     ],
     "stream_url_1080p": null,
@@ -229200,37 +229216,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "c1a2eeb7-8b52-4a57-b6cc-650a332fd347",
-    "title": "10,000 Saints",
-    "slug": "10-000-saints",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zZpQfrdXhNq5sqMMzDQkpqZQxXq.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "French",
-    "release_year": 2015,
-    "duration": 113,
-    "rating": 5.943,
-    "description": "A sweeping multigenerational story set against the backdrop of the raw, roaring New York City of the late 1980s; adoption, teen pregnancy, drugs, hardcore punk rock, the unbridled optimism and reckless stupidity of the young—and old—are all major elements in this heart-aching tale of the son of diehard hippies and his strange odyssey through the extremes of late 20th century youth culture.",
-    "created_at": "2026-07-22T15:51:19.494Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Music",
-        "slug": "music"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "50665e33-7884-4dbb-aa55-5f7fd2d53595",
     "title": "Fantastic Four",
     "slug": "fantastic-four",
@@ -229255,6 +229240,37 @@
       {
         "name": "Science Fiction",
         "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "c1a2eeb7-8b52-4a57-b6cc-650a332fd347",
+    "title": "10,000 Saints",
+    "slug": "10-000-saints",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zZpQfrdXhNq5sqMMzDQkpqZQxXq.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "French",
+    "release_year": 2015,
+    "duration": 113,
+    "rating": 5.943,
+    "description": "A sweeping multigenerational story set against the backdrop of the raw, roaring New York City of the late 1980s; adoption, teen pregnancy, drugs, hardcore punk rock, the unbridled optimism and reckless stupidity of the young—and old—are all major elements in this heart-aching tale of the son of diehard hippies and his strange odyssey through the extremes of late 20th century youth culture.",
+    "created_at": "2026-07-22T15:51:19.494Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Music",
+        "slug": "music"
       }
     ],
     "stream_url_1080p": null,
@@ -229645,37 +229661,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "067e4b10-41a6-46c8-a262-c8f13d5ec502",
-    "title": "Rudra Tandava",
-    "slug": "rudra-tandava",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cfolFtWDJzQUH2QGVpkVaSYmw8n.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2015,
-    "duration": 153,
-    "rating": null,
-    "description": "Rudra Tandava follows a timid young man who has a loving family. When his brother, a government official, is murdered, the protagonist and his father plans to take revenge in their own separate ways.",
-    "created_at": "2026-07-31T07:17:15.468Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "45755280-dac0-4401-8b0a-5dfa078628d8",
     "title": "The Unspoken",
     "slug": "the-unspoken",
@@ -229700,6 +229685,37 @@
       {
         "name": "Mystery",
         "slug": "mystery"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "067e4b10-41a6-46c8-a262-c8f13d5ec502",
+    "title": "Rudra Tandava",
+    "slug": "rudra-tandava",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cfolFtWDJzQUH2QGVpkVaSYmw8n.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2015,
+    "duration": 153,
+    "rating": null,
+    "description": "Rudra Tandava follows a timid young man who has a loving family. When his brother, a government official, is murdered, the protagonist and his father plans to take revenge in their own separate ways.",
+    "created_at": "2026-07-31T07:17:15.468Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -229761,33 +229777,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "29bdb1a3-8158-44f6-892d-bd7a4d878f3a",
-    "title": "Superfast!",
-    "slug": "superfast",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Italian",
-    "release_year": 2015,
-    "duration": 99,
-    "rating": 5.095,
-    "description": "Undercover cop Lucas White joins Vin Serento's gang of illegal street racers. They are fast and they are furious and they plan to double cross Los Angeles kingpin Juan Carlos de la Sol, who hides his cash in a downtown Taco Bell.",
-    "created_at": "2026-07-22T15:51:43.056Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Action",
-        "slug": "action"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "cc6e25c6-de55-49ca-91f6-1ad510fd683b",
     "title": "Blackway",
     "slug": "blackway",
@@ -229808,6 +229797,33 @@
       {
         "name": "Mystery",
         "slug": "mystery"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "29bdb1a3-8158-44f6-892d-bd7a4d878f3a",
+    "title": "Superfast!",
+    "slug": "superfast",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Italian",
+    "release_year": 2015,
+    "duration": 99,
+    "rating": 5.095,
+    "description": "Undercover cop Lucas White joins Vin Serento's gang of illegal street racers. They are fast and they are furious and they plan to double cross Los Angeles kingpin Juan Carlos de la Sol, who hides his cash in a downtown Taco Bell.",
+    "created_at": "2026-07-22T15:51:43.056Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Action",
+        "slug": "action"
       }
     ],
     "stream_url_1080p": null,
@@ -229842,6 +229858,33 @@
     "stream_url_480p": null
   },
   {
+    "id": "7250c974-8784-40cc-bea9-f3cc78c471b5",
+    "title": "4th Man Out",
+    "slug": "4th-man-out",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yeDDUCQ7VUjvwsjDBFtoYDrXyvS.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 87,
+    "rating": 6.857,
+    "description": "After a night of drinking, Adam Hutcherson stumbles out of the closet to his three straight buddies.  A disruption to their dynamic which they now must try and overcome through alcohol, Tinder dates and forgiveness.",
+    "created_at": "2026-07-22T15:48:40.186Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "fe104c35-c1fa-46e0-a9d6-bae945c1c708",
     "title": "Furious 7",
     "slug": "furious-7",
@@ -229866,33 +229909,6 @@
       {
         "name": "Thriller",
         "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "7250c974-8784-40cc-bea9-f3cc78c471b5",
-    "title": "4th Man Out",
-    "slug": "4th-man-out",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yeDDUCQ7VUjvwsjDBFtoYDrXyvS.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 87,
-    "rating": 6.857,
-    "description": "After a night of drinking, Adam Hutcherson stumbles out of the closet to his three straight buddies.  A disruption to their dynamic which they now must try and overcome through alcohol, Tinder dates and forgiveness.",
-    "created_at": "2026-07-22T15:48:40.186Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -230153,6 +230169,29 @@
     "stream_url_480p": null
   },
   {
+    "id": "2833cd13-e995-4d5f-beb4-3dce1925b17f",
+    "title": "Taskara",
+    "slug": "taskara",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/t75CnBLg8DUPCuX9OGNSHkhbsbx.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2015,
+    "duration": 104,
+    "rating": null,
+    "description": "A mysterious hacker steals 10 trillion rupees from the central bank of his country.",
+    "created_at": "2026-07-31T07:18:07.395Z",
+    "genres": [
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "5e155519-e256-421b-8d63-6c378c4fd012",
     "title": "The Gunman",
     "slug": "the-gunman",
@@ -230177,29 +230216,6 @@
       {
         "name": "Crime",
         "slug": "crime"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "2833cd13-e995-4d5f-beb4-3dce1925b17f",
-    "title": "Taskara",
-    "slug": "taskara",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/t75CnBLg8DUPCuX9OGNSHkhbsbx.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2015,
-    "duration": 104,
-    "rating": null,
-    "description": "A mysterious hacker steals 10 trillion rupees from the central bank of his country.",
-    "created_at": "2026-07-31T07:18:07.395Z",
-    "genres": [
-      {
-        "name": "Thriller",
-        "slug": "thriller"
       }
     ],
     "stream_url_1080p": null,
@@ -230858,29 +230874,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "40685019-10ed-4ee8-8893-7c873ecb37a0",
-    "title": "Paranormal Extremes: Text Messages from the Dead",
-    "slug": "paranormal-extremes-text-messages-from-the-dead",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/o7AsKKxQq1KS8h2rXFv2dzOwapt.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 102,
-    "rating": 4.2,
-    "description": "Two loves are separated by a tragic accident but death cannot keep them apart. This is a haunting tale of love, life, death, and the intervention of the dead.",
-    "created_at": "2026-07-22T15:51:34.323Z",
-    "genres": [
-      {
-        "name": "Horror",
-        "slug": "horror"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "8a2fe80f-5412-451b-88f6-ff2987ca2dc1",
     "title": "Urumeen",
     "slug": "urumeen",
@@ -230905,6 +230898,29 @@
       {
         "name": "Thriller",
         "slug": "thriller"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "40685019-10ed-4ee8-8893-7c873ecb37a0",
+    "title": "Paranormal Extremes: Text Messages from the Dead",
+    "slug": "paranormal-extremes-text-messages-from-the-dead",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/o7AsKKxQq1KS8h2rXFv2dzOwapt.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 102,
+    "rating": 4.2,
+    "description": "Two loves are separated by a tragic accident but death cannot keep them apart. This is a haunting tale of love, life, death, and the intervention of the dead.",
+    "created_at": "2026-07-22T15:51:34.323Z",
+    "genres": [
+      {
+        "name": "Horror",
+        "slug": "horror"
       }
     ],
     "stream_url_1080p": null,
@@ -231163,29 +231179,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "c87ed698-fcc4-4c2b-82c1-e38919f5db3f",
-    "title": "Daddy's Home",
-    "slug": "daddy-s-home",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fB9lALk9zKsMYWvf0bJSkJN219Z.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2015,
-    "duration": 96,
-    "rating": 6.294,
-    "description": "The story of a mild-mannered radio executive who strives to become the best stepdad ever to his wife's two children, but complications ensue when their freewheeling, freeloading real father arrives, forcing stepdad to compete for the affection of the kids.",
-    "created_at": "2026-07-22T15:50:50.802Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "e2ae19fa-0c5a-4689-a2df-d72a01a91432",
     "title": "Entourage",
     "slug": "entourage",
@@ -231206,6 +231199,29 @@
       {
         "name": "Drama",
         "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "c87ed698-fcc4-4c2b-82c1-e38919f5db3f",
+    "title": "Daddy's Home",
+    "slug": "daddy-s-home",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fB9lALk9zKsMYWvf0bJSkJN219Z.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 96,
+    "rating": 6.294,
+    "description": "The story of a mild-mannered radio executive who strives to become the best stepdad ever to his wife's two children, but complications ensue when their freewheeling, freeloading real father arrives, forcing stepdad to compete for the affection of the kids.",
+    "created_at": "2026-07-22T15:50:50.802Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -231244,45 +231260,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "ada61410-a570-444a-8f15-ea038e5ae75a",
-    "title": "Kidnapping Mr. Heineken",
-    "slug": "kidnapping-mr-heineken",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6JAb9jQa4sONkutfqfR3I7LFpGd.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "German",
-    "release_year": 2015,
-    "duration": 95,
-    "rating": 6.015,
-    "description": "The true story of the kidnapping of Freddy Heineken, the grandson of the founder of the Heineken brewery, and his driver. They were released after a ransom of 35 million Dutch guilders was paid.",
-    "created_at": "2026-07-22T15:51:35.832Z",
-    "genres": [
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Crime",
-        "slug": "crime"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      },
-      {
-        "name": "Mystery",
-        "slug": "mystery"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "9cfbaa45-7972-4008-89ab-5d7800db133b",
     "title": "Far from the Madding Crowd",
     "slug": "far-from-the-madding-crowd",
@@ -231303,6 +231280,29 @@
       {
         "name": "Romance",
         "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "eed6e6d3-f811-4a3d-9a24-8883f0803548",
+    "title": "Hot Tub Time Machine 2",
+    "slug": "hot-tub-time-machine-2",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lBroHetSm8RMI8zp7ThpFJsw9E1.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2015,
+    "duration": 93,
+    "rating": 5.188,
+    "description": "After their first adventure with the Hot Tub Time Machine, Lou and Nick are living very well off their ill-gotten gains, while Jacob still cannot rely on Lou to be a positive role model. When an unknown assailant breaks into Lou's mansion and shoots him, Nick and Jacob take him for another trip in the hot tub. They emerge in the year 2025, where they must figure out who shot Lou and prevent it from happening again.",
+    "created_at": "2026-07-22T15:44:38.345Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -234177,57 +234177,26 @@
     "stream_url_480p": null
   },
   {
-    "id": "6a998812-675e-45dd-a202-4984b8de604a",
-    "title": "Ohm Shanthi Oshaana",
-    "slug": "ohm-shanthi-oshaana",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9LmzSER1JP1dTqBf0eUnaeOE4Wb.jpg",
+    "id": "05b39b74-6986-4e6b-8675-43feec57172b",
+    "title": "Aaha Kalyanam",
+    "slug": "aaha-kalyanam",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/goLTOX7DwyQ3dyVQGaTSFpV8enm.jpg",
     "is_premium": false,
     "country": null,
-    "language": "Malayalam",
+    "language": "Telugu",
     "release_year": 2014,
-    "duration": 130,
+    "duration": 142,
     "rating": null,
-    "description": "Pooja Mathew, a spirited young girl, wants to have a love marriage in her life. Thus, she stops at nothing to impress Giri, who saved her once from a group of unruly men.",
-    "created_at": "2026-07-31T07:35:58.842Z",
+    "description": "Shruthi, an enterprising 20-year-old girl, partners with Sakthi, a happy-go-lucky youngster to set up her dream business — wedding planning. They decide to not mix finance and romance but a night's revelry changes their equation and they part ways. Will they be able to admit their actual feelings?",
+    "created_at": "2026-07-31T07:34:10.513Z",
     "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
       {
         "name": "Romance",
         "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "17a3817b-248e-41b1-8e7a-671434b6f17d",
-    "title": "Lingaa",
-    "slug": "lingaa",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/595P2VmfbSOegsfAWK9A5j9MFoG.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2014,
-    "duration": 174,
-    "rating": null,
-    "description": "After being turned down by the ruling Britons, the rightful heir to a famous dynasty inspires local villagers to build a dam themselves. A small-time thief reforms after learning about the role played by his grandfather in building a dam.",
-    "created_at": "2026-07-31T07:41:53.813Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
       },
       {
         "name": "Comedy",
         "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -234266,6 +234235,37 @@
     "stream_url_480p": null
   },
   {
+    "id": "d77c4120-e6f4-44b5-a5c5-466d4354278f",
+    "title": "Autonagar Surya",
+    "slug": "autonagar-surya",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2kWVeggF90wEYfktwCNwTD5gfuD.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi Telugu",
+    "release_year": 2014,
+    "duration": 157,
+    "rating": null,
+    "description": "Surya, a juvenile offender, completes his education in prison and upon release embarks on his dream project. However, he has to overcome numerous obstacles to turn his dream into a reality.",
+    "created_at": "2026-07-31T07:37:54.984Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Crime",
+        "slug": "crime"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "8e000c8a-d1f7-40b3-a40b-69b7218ae891",
     "title": "The Loft",
     "slug": "the-loft",
@@ -234289,22 +234289,107 @@
     "stream_url_480p": null
   },
   {
-    "id": "7c298375-246c-41f5-918b-79679daa6daf",
-    "title": "Odum Raja Aadum Rani",
-    "slug": "odum-raja-aadum-rani",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/c2xKdLZjC9MaEmLOygVu0iPpFGA.jpg",
+    "id": "0149235b-cdeb-4a28-a61a-e6cbd94dc2b2",
+    "title": "Extraction Day",
+    "slug": "extraction-day",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zwnvpZvGkh9n7jvOn1MAxU31vHM.jpg",
     "is_premium": false,
     "country": null,
-    "language": "Telugu",
+    "language": "English",
     "release_year": 2014,
-    "duration": 90,
-    "rating": null,
-    "description": "The film tells the story of Thamburu, a homosexual man who struggles to fit in an insensitive society.",
-    "created_at": "2026-07-31T07:41:06.299Z",
+    "duration": 106,
+    "rating": 5.1,
+    "description": "Jacob Bradley wakes up in a warehouse in the midst of a tactical raid, with no memory and no idea who he is. He is found by a young woman who helps him escape, and tells him that no matter what happens, he must survive. A terrorist organization is on the cusp of releasing a virus. They have provided the antidote to only a select few, to ensure the recreation of a utopian world and before he lost his memory, Jacob was one of the few people who had discovered the details. If they are to survive, he needs to rebuild the pieces of his past. They find themselves in a race for survival, for themselves and the rest of mankind, that will demand everything they have, and reveal that Jacob has always been closer to the truth then anyone ever thought.",
+    "created_at": "2026-07-22T15:51:45.621Z",
     "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "7608fe56-da9c-40b7-9703-b7bb55a71ae8",
+    "title": "Vaayai Moodi Pesavum",
+    "slug": "vaayai-moodi-pesavum",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yMT4jyvnhvl1ZxN3g9hV0uXV5r9.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Tamil",
+    "release_year": 2014,
+    "duration": 140,
+    "rating": null,
+    "description": "A mysterious illness declared as dumb flu spreads in a quaint hill station forcing the town's residents from speaking. Will the problems in the place increase due to this or will it lead to better communication?",
+    "created_at": "2026-07-31T07:35:54.200Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
       {
         "name": "Comedy",
         "slug": "comedy"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "49fb5581-1ff6-4a62-850f-851d2e97b3d4",
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2014,
+    "duration": 169,
+    "rating": 8.481,
+    "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "created_at": "2026-07-22T15:51:07.088Z",
+    "genres": [
+      {
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Science Fiction",
+        "slug": "science-fiction"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "189ca609-b5b7-4ec4-b0e2-44c90cc2d669",
+    "title": "A LEGO Brickumentary",
+    "slug": "a-lego-brickumentary",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ojBg3yJfsqzi1maypHV7sW7COcn.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2014,
+    "duration": 93,
+    "rating": 5.88,
+    "description": "A look at the global culture and appeal of the LEGO building-block toys.",
+    "created_at": "2026-07-22T15:51:00.436Z",
+    "genres": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      },
+      {
+        "name": "Family",
+        "slug": "family"
       }
     ],
     "stream_url_1080p": null,
@@ -234362,85 +234447,19 @@
     "stream_url_480p": null
   },
   {
-    "id": "49fb5581-1ff6-4a62-850f-851d2e97b3d4",
-    "title": "Interstellar",
-    "slug": "interstellar",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2014,
-    "duration": 169,
-    "rating": 8.481,
-    "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "created_at": "2026-07-22T15:51:07.088Z",
-    "genres": [
-      {
-        "name": "Adventure",
-        "slug": "adventure"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Science Fiction",
-        "slug": "science-fiction"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "05b39b74-6986-4e6b-8675-43feec57172b",
-    "title": "Aaha Kalyanam",
-    "slug": "aaha-kalyanam",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/goLTOX7DwyQ3dyVQGaTSFpV8enm.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Telugu",
-    "release_year": 2014,
-    "duration": 142,
-    "rating": null,
-    "description": "Shruthi, an enterprising 20-year-old girl, partners with Sakthi, a happy-go-lucky youngster to set up her dream business — wedding planning. They decide to not mix finance and romance but a night's revelry changes their equation and they part ways. Will they be able to admit their actual feelings?",
-    "created_at": "2026-07-31T07:34:10.513Z",
-    "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "62720a16-154b-4f22-9769-90300c02c6d2",
-    "title": "Oka Laila Kosam",
-    "slug": "oka-laila-kosam",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2R7f9UNDO1eeViLfkK5rXcCMh3L.jpg",
+    "id": "2bf682f3-3e1c-4410-9d90-439233eb147d",
+    "title": "Basanti",
+    "slug": "basanti",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/f13ZhaARvmjY4OjPHAI5m8Iu1NL.jpg",
     "is_premium": false,
     "country": null,
     "language": "Hindi",
     "release_year": 2014,
-    "duration": 150,
+    "duration": null,
     "rating": null,
-    "description": "A carefree young man leading an aimless life falls in love with a cultured and simple woman, but she does not reciprocate his emotion. However, when circumstances force her to marry him, he embarks upon a journey to make his wife fall in love with him. Will he succeed in his mission?",
-    "created_at": "2026-07-31T07:30:49.220Z",
+    "description": "A group of students are taken as hostages in their own 'Basanti College' by a gang of terrorists.",
+    "created_at": "2026-07-31T07:22:17.404Z",
     "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
       {
         "name": "Drama",
         "slug": "drama"
@@ -234478,19 +234497,62 @@
     "stream_url_480p": null
   },
   {
-    "id": "2bf682f3-3e1c-4410-9d90-439233eb147d",
-    "title": "Basanti",
-    "slug": "basanti",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/f13ZhaARvmjY4OjPHAI5m8Iu1NL.jpg",
+    "id": "f6bb5915-6132-496b-b42f-d0d946d2e34a",
+    "title": "Manam",
+    "slug": "manam",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pas4iupGgxk0UuhiILiWHDSkMBC.jpg",
     "is_premium": false,
     "country": null,
     "language": "Hindi",
     "release_year": 2014,
-    "duration": null,
+    "duration": 163,
     "rating": null,
-    "description": "A group of students are taken as hostages in their own 'Basanti College' by a gang of terrorists.",
-    "created_at": "2026-07-31T07:22:17.404Z",
+    "description": "A married couple die in an accident, leaving behind a son. As he grows up and becomes successful, he comes across reincarnations of his father and mother as youngsters, and vows to bring them back together.",
+    "created_at": "2026-07-31T07:12:49.424Z",
     "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Fantasy",
+        "slug": "fantasy"
+      },
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "62720a16-154b-4f22-9769-90300c02c6d2",
+    "title": "Oka Laila Kosam",
+    "slug": "oka-laila-kosam",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2R7f9UNDO1eeViLfkK5rXcCMh3L.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2014,
+    "duration": 150,
+    "rating": null,
+    "description": "A carefree young man leading an aimless life falls in love with a cultured and simple woman, but she does not reciprocate his emotion. However, when circumstances force her to marry him, he embarks upon a journey to make his wife fall in love with him. Will he succeed in his mission?",
+    "created_at": "2026-07-31T07:30:49.220Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
       {
         "name": "Drama",
         "slug": "drama"
@@ -234567,72 +234629,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "f6bb5915-6132-496b-b42f-d0d946d2e34a",
-    "title": "Manam",
-    "slug": "manam",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pas4iupGgxk0UuhiILiWHDSkMBC.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2014,
-    "duration": 163,
-    "rating": null,
-    "description": "A married couple die in an accident, leaving behind a son. As he grows up and becomes successful, he comes across reincarnations of his father and mother as youngsters, and vows to bring them back together.",
-    "created_at": "2026-07-31T07:12:49.424Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Fantasy",
-        "slug": "fantasy"
-      },
-      {
-        "name": "Family",
-        "slug": "family"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "2d42e98e-5357-4625-a96a-09aa775290a5",
-    "title": "Paandavulu Paandavulu Thummeda",
-    "slug": "paandavulu-paandavulu-thummeda",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pA89gXMTfP0pikfFTNCgzuIzAhd.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Telugu",
-    "release_year": 2014,
-    "duration": 150,
-    "rating": null,
-    "description": "When Naidu confronts his son's rival group to end their squabbles, he encounters their mother Satya, his long lost love, separated by the twist of fate. As Honey learns the secret between Naidu and Satya, she is kidnapped by her father's arch rival Suyodhana Goud, who sees an opportunity to unwillingly ensnare her into a marriage with his son. Although these unfortunate turn of events bring Naidu, Satya and their sons together, they must devise a clever escape plan for Honey in this comedy-action journey.",
-    "created_at": "2026-07-31T07:22:47.885Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Family",
-        "slug": "family"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "eea67b5e-a32b-4dc9-aec8-9ada16a47b6c",
     "title": "Galipatam",
     "slug": "galipatam",
@@ -234695,33 +234691,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "d0dc5a32-06d3-47ed-be9d-9e1705dd33fd",
-    "title": "Chinnadana Nee Kosam",
-    "slug": "chinnadana-nee-kosam",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/aU8JNpWSNj9SVPLfSbInM5zhU5f.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Telugu",
-    "release_year": 2014,
-    "duration": 155,
-    "rating": null,
-    "description": "Nithin falls in love with Nandini and tries to woo her while their friendship blooms. However, Nandini leaves for a Europe trip with Reddy Garu without informing him which causes him to tail them.",
-    "created_at": "2026-07-31T07:24:08.847Z",
-    "genres": [
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "84d2e200-f357-4954-933e-8be0406f5ec7",
     "title": "Ra Ra Krishnayya",
     "slug": "ra-ra-krishnayya",
@@ -234753,80 +234722,26 @@
     "stream_url_480p": null
   },
   {
-    "id": "189ca609-b5b7-4ec4-b0e2-44c90cc2d669",
-    "title": "A LEGO Brickumentary",
-    "slug": "a-lego-brickumentary",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ojBg3yJfsqzi1maypHV7sW7COcn.jpg",
+    "id": "6a998812-675e-45dd-a202-4984b8de604a",
+    "title": "Ohm Shanthi Oshaana",
+    "slug": "ohm-shanthi-oshaana",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9LmzSER1JP1dTqBf0eUnaeOE4Wb.jpg",
     "is_premium": false,
     "country": null,
-    "language": "English",
+    "language": "Malayalam",
     "release_year": 2014,
-    "duration": 93,
-    "rating": 5.88,
-    "description": "A look at the global culture and appeal of the LEGO building-block toys.",
-    "created_at": "2026-07-22T15:51:00.436Z",
-    "genres": [
-      {
-        "name": "Documentary",
-        "slug": "documentary"
-      },
-      {
-        "name": "Family",
-        "slug": "family"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "0149235b-cdeb-4a28-a61a-e6cbd94dc2b2",
-    "title": "Extraction Day",
-    "slug": "extraction-day",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zwnvpZvGkh9n7jvOn1MAxU31vHM.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2014,
-    "duration": 106,
-    "rating": 5.1,
-    "description": "Jacob Bradley wakes up in a warehouse in the midst of a tactical raid, with no memory and no idea who he is. He is found by a young woman who helps him escape, and tells him that no matter what happens, he must survive. A terrorist organization is on the cusp of releasing a virus. They have provided the antidote to only a select few, to ensure the recreation of a utopian world and before he lost his memory, Jacob was one of the few people who had discovered the details. If they are to survive, he needs to rebuild the pieces of his past. They find themselves in a race for survival, for themselves and the rest of mankind, that will demand everything they have, and reveal that Jacob has always been closer to the truth then anyone ever thought.",
-    "created_at": "2026-07-22T15:51:45.621Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "0d1314ee-db95-4e69-894c-9b82d472c3c9",
-    "title": "Paper Planes",
-    "slug": "paper-planes",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wpcAApL7oydxKeU2TR5y2RwNQ78.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2014,
-    "duration": 96,
-    "rating": 6,
-    "description": "Dylan discovers he has a talent for making paper planes. He has a chance to compete in a world championship, but he'll have to face bullies and self-doubt to do so.",
-    "created_at": "2026-07-22T15:51:34.741Z",
+    "duration": 130,
+    "rating": null,
+    "description": "Pooja Mathew, a spirited young girl, wants to have a love marriage in her life. Thus, she stops at nothing to impress Giri, who saved her once from a group of unruly men.",
+    "created_at": "2026-07-31T07:35:58.842Z",
     "genres": [
       {
         "name": "Comedy",
         "slug": "comedy"
       },
       {
-        "name": "Family",
-        "slug": "family"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
+        "name": "Romance",
+        "slug": "romance"
       }
     ],
     "stream_url_1080p": null,
@@ -234865,30 +234780,30 @@
     "stream_url_480p": null
   },
   {
-    "id": "d77c4120-e6f4-44b5-a5c5-466d4354278f",
-    "title": "Autonagar Surya",
-    "slug": "autonagar-surya",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2kWVeggF90wEYfktwCNwTD5gfuD.jpg",
+    "id": "2d42e98e-5357-4625-a96a-09aa775290a5",
+    "title": "Paandavulu Paandavulu Thummeda",
+    "slug": "paandavulu-paandavulu-thummeda",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pA89gXMTfP0pikfFTNCgzuIzAhd.jpg",
     "is_premium": false,
     "country": null,
     "language": "Hindi Telugu",
     "release_year": 2014,
-    "duration": 157,
+    "duration": 150,
     "rating": null,
-    "description": "Surya, a juvenile offender, completes his education in prison and upon release embarks on his dream project. However, he has to overcome numerous obstacles to turn his dream into a reality.",
-    "created_at": "2026-07-31T07:37:54.984Z",
+    "description": "When Naidu confronts his son's rival group to end their squabbles, he encounters their mother Satya, his long lost love, separated by the twist of fate. As Honey learns the secret between Naidu and Satya, she is kidnapped by her father's arch rival Suyodhana Goud, who sees an opportunity to unwillingly ensnare her into a marriage with his son. Although these unfortunate turn of events bring Naidu, Satya and their sons together, they must devise a clever escape plan for Honey in this comedy-action journey.",
+    "created_at": "2026-07-31T07:22:47.885Z",
     "genres": [
       {
-        "name": "Action",
-        "slug": "action"
+        "name": "Comedy",
+        "slug": "comedy"
       },
       {
-        "name": "Crime",
-        "slug": "crime"
+        "name": "Family",
+        "slug": "family"
       },
       {
-        "name": "Thriller",
-        "slug": "thriller"
+        "name": "Drama",
+        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -234896,23 +234811,19 @@
     "stream_url_480p": null
   },
   {
-    "id": "7608fe56-da9c-40b7-9703-b7bb55a71ae8",
-    "title": "Vaayai Moodi Pesavum",
-    "slug": "vaayai-moodi-pesavum",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yMT4jyvnhvl1ZxN3g9hV0uXV5r9.jpg",
+    "id": "7c298375-246c-41f5-918b-79679daa6daf",
+    "title": "Odum Raja Aadum Rani",
+    "slug": "odum-raja-aadum-rani",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/c2xKdLZjC9MaEmLOygVu0iPpFGA.jpg",
     "is_premium": false,
     "country": null,
-    "language": "Tamil",
+    "language": "Telugu",
     "release_year": 2014,
-    "duration": 140,
+    "duration": 90,
     "rating": null,
-    "description": "A mysterious illness declared as dumb flu spreads in a quaint hill station forcing the town's residents from speaking. Will the problems in the place increase due to this or will it lead to better communication?",
-    "created_at": "2026-07-31T07:35:54.200Z",
+    "description": "The film tells the story of Thamburu, a homosexual man who struggles to fit in an insensitive society.",
+    "created_at": "2026-07-31T07:41:06.299Z",
     "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
       {
         "name": "Comedy",
         "slug": "comedy"
@@ -234923,99 +234834,18 @@
     "stream_url_480p": null
   },
   {
-    "id": "501e74d2-0a26-42a6-bc1c-55cefffbb4cc",
-    "title": "Amen",
-    "slug": "amen",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rJRm8lE1JHSoUgkPRu0CQRaYdne.jpg",
+    "id": "d0dc5a32-06d3-47ed-be9d-9e1705dd33fd",
+    "title": "Chinnadana Nee Kosam",
+    "slug": "chinnadana-nee-kosam",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/aU8JNpWSNj9SVPLfSbInM5zhU5f.jpg",
     "is_premium": false,
     "country": null,
-    "language": "Malayalam",
-    "release_year": 2013,
-    "duration": 165,
+    "language": "Hindi Telugu",
+    "release_year": 2014,
+    "duration": 155,
     "rating": null,
-    "description": "Solomon, who belongs to a band, is in love with Soshanna, who hails from an upper class family. The story spells how Solomon manages to win over all the obstacles to marry Soshanna.",
-    "created_at": "2026-07-31T07:26:14.719Z",
-    "genres": [
-      {
-        "name": "Fantasy",
-        "slug": "fantasy"
-      },
-      {
-        "name": "Music",
-        "slug": "music"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "0b8e08fa-c90e-470c-ac78-88890401ab96",
-    "title": "Pattam Pole",
-    "slug": "pattam-pole",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vTXaE8chc6dMNoqaM9qO8ihWB6V.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Malayalam",
-    "release_year": 2013,
-    "duration": 120,
-    "rating": null,
-    "description": "Karthi and Riya elope one early morning to Ooty, fearing that the elders in the family will not accept their inter-religious relationship. They return to their respective homes after a couple of days after having a fight. They convince their loved ones that they hate each other and vow never to see each other again. The film would then trace the eventual course of their lives.",
-    "created_at": "2026-07-31T07:26:09.531Z",
-    "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "cd0b4aad-0659-4fcb-8574-f5317d6a4e4f",
-    "title": "Alex Pandian",
-    "slug": "alex-pandian",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pi5nekESuNU7wAf28IeOUyvj1ms.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2013,
-    "duration": 162,
-    "rating": null,
-    "description": "Alex Pandian (Tamil: அலெக்ஸ் பாண்டியன்) is a Tamil action-masala film directed by Suraj that features Karthi and Anushka Shetty in the lead roles, while Santhanam plays a pivotal supporting role. Devi Sri Prasad composed the music. The film will also be dubbed and simultaneously released in Telugu as Bad Boy.",
-    "created_at": "2026-07-31T07:41:55.073Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "d4352c67-2168-4b96-b01c-700cd14128da",
-    "title": "Annayum Rasoolum",
-    "slug": "annayum-rasoolum",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cLsxjLL5TurnjMFTvuuKw469wRA.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Malayalam",
-    "release_year": 2013,
-    "duration": 167,
-    "rating": null,
-    "description": "A taxi driver, Rasool and a salesgirl, Anna fall in love with each other. But soon their union is put to question when Anna persuades Rasool to convert to Christianity.",
-    "created_at": "2026-07-31T06:41:53.924Z",
+    "description": "Nithin falls in love with Nandini and tries to woo her while their friendship blooms. However, Nandini leaves for a Europe trip with Reddy Garu without informing him which causes him to tail them.",
+    "created_at": "2026-07-31T07:24:08.847Z",
     "genres": [
       {
         "name": "Drama",
@@ -235024,6 +234854,68 @@
       {
         "name": "Romance",
         "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "0d1314ee-db95-4e69-894c-9b82d472c3c9",
+    "title": "Paper Planes",
+    "slug": "paper-planes",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wpcAApL7oydxKeU2TR5y2RwNQ78.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2014,
+    "duration": 96,
+    "rating": 6,
+    "description": "Dylan discovers he has a talent for making paper planes. He has a chance to compete in a world championship, but he'll have to face bullies and self-doubt to do so.",
+    "created_at": "2026-07-22T15:51:34.741Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Family",
+        "slug": "family"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "17a3817b-248e-41b1-8e7a-671434b6f17d",
+    "title": "Lingaa",
+    "slug": "lingaa",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/595P2VmfbSOegsfAWK9A5j9MFoG.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2014,
+    "duration": 174,
+    "rating": null,
+    "description": "After being turned down by the ruling Britons, the rightful heir to a famous dynasty inspires local villagers to build a dam themselves. A small-time thief reforms after learning about the role played by his grandfather in building a dam.",
+    "created_at": "2026-07-31T07:41:53.813Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -235051,423 +234943,6 @@
       {
         "name": "Romance",
         "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "932a2df6-4683-40fd-b645-948277097e33",
-    "title": "One Small Hitch",
-    "slug": "one-small-hitch",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/quw2cNXialcL4PIirf38w98d7Si.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2013,
-    "duration": 100,
-    "rating": 6.621,
-    "description": "On a flight home to Chicago for a family wedding, childhood friends Josh and Molly innocently agree to fake a wedding engagement to make Josh's dying father happy. Things quickly get out of hand with their two boisterous families, and a series of events causes them to pretend to be a couple and start planning a phony wedding. When the playacting begins to foster real feelings, the two must make some serious decisions: Split up and return to their lives in LA, or make a life as a couple back in Chicago?",
-    "created_at": "2026-07-22T15:50:56.800Z",
-    "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "4bdf6db1-3044-4bcb-ba44-7a876990f23a",
-    "title": "Aadu Magaadra Bujji",
-    "slug": "aadu-magaadra-bujji",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qvPL2fNq2ehouUlqulxkYfQ74HB.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Telugu",
-    "release_year": 2013,
-    "duration": null,
-    "rating": null,
-    "description": "Siddhu (Sudheer), a naughty easy going guy falls in love with Indu (Asmita Sood). But Indu is the sister of Cherry (Ranadheer) who keeps on protecting his sister from others’ eyes. But on the other hand Cherry he loves Anjali (Poonam Kaur), the sister-in-law of a dangerous man Bujji aka Shankar (Ajay). How things move among these people, how Siddhu plays with Shankar forms the main story.",
-    "created_at": "2026-07-31T07:40:55.462Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "283631b6-e531-4fdd-99b6-86e8dd27d35b",
-    "title": "Neram",
-    "slug": "neram",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cA5OgwysDaFmMGeEjUEG59aVoMs.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Malayalam",
-    "release_year": 2013,
-    "duration": 116,
-    "rating": null,
-    "description": "Mathew is a graduate in software engineering, but is now jobless. He is waiting for his good time to get a good job. Mathew has borrowed some money as loan. Now he cannot give it back as he has no job.  Mathew's childhood friend Jeena Johnykkutty is ready to help him as she could. She has a job. Her father Johnykkutty does not like Mathew and he always tries to trouble Mathew whenever he gets a chance.  At this time Mathew's good time arrives; but along with it many problems too. The gripping events that follow plot the rest of 'Neram'.",
-    "created_at": "2026-07-31T07:38:00.138Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Action",
-        "slug": "action"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "710b7c21-1ffb-410c-9574-14c2a8ac9277",
-    "title": "Lucia",
-    "slug": "lucia",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1b0pkG5fKRXbgxQrk3AVwXSNo7e.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Kannada",
-    "release_year": 2013,
-    "duration": 136,
-    "rating": null,
-    "description": "A man suffering from insomnia is tricked into buying a drug, Lucia, that makes his desires come true in his dreams, blurring the line between fantasy and reality.",
-    "created_at": "2026-07-31T07:02:35.567Z",
-    "genres": [
-      {
-        "name": "Fantasy",
-        "slug": "fantasy"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "d7724d3b-bf7e-4895-8f09-6487f7626699",
-    "title": "Naiyaandi",
-    "slug": "naiyaandi",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/r4WSqKkC9UXi9WKi9EZofpmznHG.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Tamil",
-    "release_year": 2013,
-    "duration": 158,
-    "rating": null,
-    "description": "Chinna Vandu, the youngest of three brothers, falls in love with Vana Roja when she visits her grandmother, coinciding with the village carnival. After a few hiccups, their romance becomes mutual. Chinna Vandu has to then handle his family members, particularly his lovesick elder brothers, and also a dreaded goon who sets his eagle eyes on Roja.",
-    "created_at": "2026-07-31T07:35:57.187Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "8ad5211e-d69a-45f8-b474-b4446856576f",
-    "title": "Punyalan Agarbattis",
-    "slug": "punyalan-agarbattis",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bNFycwoBG0KjpcZJsrWqhprDDCR.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Malayalam",
-    "release_year": 2013,
-    "duration": 137,
-    "rating": null,
-    "description": "Punyalan Agarbattis is the story of Joy Thakkolkaran, a young entrepreuner from Thrissur. His new business venture 'Punyalan Agarbattis' involves manufacturing agarbattis from elephant dung. Fragrance and quality of his incense sticks aside, its mosquito repellant capabilities too have pleased those who tried the samples. However, Joy suddenly has a new set of people and problems as 'Punyalan Agarbattis' comes to a halt.",
-    "created_at": "2026-07-31T07:28:30.438Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "160918e0-3da1-41a4-a687-c26be0556d5b",
-    "title": "The Green Inferno",
-    "slug": "the-green-inferno",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nh2EAkJEWaOFdzK2DMaITrdmM2a.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2013,
-    "duration": 100,
-    "rating": 5.743,
-    "description": "A group of student activists travel from New York City to the Amazon to save the rainforest.  However, once they arrive in this vast green landscape, they soon discover that they are not alone… and that no good deed goes unpunished.",
-    "created_at": "2026-07-22T15:50:54.845Z",
-    "genres": [
-      {
-        "name": "Adventure",
-        "slug": "adventure"
-      },
-      {
-        "name": "Horror",
-        "slug": "horror"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "e0e22ad2-d3d6-4e29-9f9a-416814d0f439",
-    "title": "Ainthu Ainthu Ainthu",
-    "slug": "ainthu-ainthu-ainthu",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/84SC1Z51pBjCjG75It3KV95L3Ts.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2013,
-    "duration": 146,
-    "rating": null,
-    "description": "Aravind suffers a serious brain damage from a car accident. He is somehow convinced that he lost his lover Liyana  in the unfortunate accident, but his brother swears that the girl did not even exist.",
-    "created_at": "2026-07-31T07:26:34.898Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "d6633aeb-87a3-44e8-9dd8-4dbc16dcf313",
-    "title": "Magadheera",
-    "slug": "magadheera",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xK7MEV56GF291VG0U5XnVJuvNv3.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Sanskrit",
-    "release_year": 2013,
-    "duration": null,
-    "rating": 7.234,
-    "description": "A street-bike racer chances upon a woman and is struck by visions of a past life where they were both star-crossed lovers in a war-ridden kingdom 400 years ago, while the reincarnation of his romantic rival emerges with murderous intent.",
-    "created_at": "2026-08-06T05:02:18.041Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "6af5b7e1-176b-4626-a5f1-ad2acc477e51",
-    "title": "All in All Azhagu Raja",
-    "slug": "all-in-all-azhagu-raja",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtQfcMghGPr3ptEXDbwgbMwdI3T.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2013,
-    "duration": 150,
-    "rating": null,
-    "description": "The film is centered around Azhaguraja (Karthi), his friend and adviser Kalyanam (Santhanam) who runs a little known TV channel. He falls head over heels for at first sight with Devi Priya (Kajal Aggarwal) daughter of a rich businessman and the rest of the story is how he wins her in the end.",
-    "created_at": "2026-07-31T07:26:07.611Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "927c1654-2f5e-4744-b7dc-27b9b55d0238",
-    "title": "Raja Huli",
-    "slug": "raja-huli",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mke7B7LGsSE5r29FYdU6N5TRkMu.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2013,
-    "duration": 158,
-    "rating": null,
-    "description": "Raja Huli is a 2013 Indian Kannada-language comedy-drama film directed by Guru Deshpande and written by S. R. Prabhakaran. Produced by K. Manju's home production, the film is a remake of the Tamil film Sundarapandian (2012) which was produced and enacted by M. Sasikumar. The film stars Yash and Meghana Raj in the lead roles. The soundtrack and score for the film is composed by Hamsalekha. The film, which made its theatrical release on 1 November 2013, co-inciding with the Kannada Rajyotsava festival",
-    "created_at": "2026-07-31T07:24:53.165Z",
-    "genres": [
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Action",
-        "slug": "action"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "037cfcde-6c1a-4fea-9c43-83497bb9c20a",
-    "title": "Sample This",
-    "slug": "sample-this",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nqyvHb62i0mv7aP3pFOyO2R6iDh.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Malayalam",
-    "release_year": 2013,
-    "duration": 85,
-    "rating": null,
-    "description": "A documentary that reveals how a forgotten record by the Incredible Bongo Band helped cement the foundation of hip hop when DJ Herc extended its percussion by playing them back to back, creating an anthem on the streets of the Bronx.",
-    "created_at": "2026-07-31T07:23:42.021Z",
-    "genres": [
-      {
-        "name": "Documentary",
-        "slug": "documentary"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "c98f6cc6-38fd-4409-904a-4191efa9dc46",
-    "title": "Shadow",
-    "slug": "shadow",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gIeoVF5fys8kS9WOelsh7dVJmGW.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Telugu",
-    "release_year": 2013,
-    "duration": 160,
-    "rating": null,
-    "description": "Raghurman infiltrates Nana Bhai's criminal organisation to find evidence of his wrongdoings. When Nana learns of his plans, he massacres Raghurman's family and only his son Rajaram escapes. When he grows up, Rajaram sets out to destroy Nana Bhai.",
-    "created_at": "2026-07-31T07:41:52.531Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Romance",
-        "slug": "romance"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "8e68181f-d191-4a4c-a07f-e30503db4dbc",
-    "title": "Seethamma Vakitlo Sirimalle Chettu",
-    "slug": "seethamma-vakitlo-sirimalle-chettu",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sP0U5uHuLdc0m8pDqHhofyCqvL4.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Telugu",
-    "release_year": 2013,
-    "duration": 159,
-    "rating": null,
-    "description": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
-    "created_at": "2026-07-31T07:41:53.204Z",
-    "genres": [
-      {
-        "name": "Family",
-        "slug": "family"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "b996b9ef-98b0-480d-b785-da4a18d00029",
-    "title": "Aadhalal Kadhal Seiveer",
-    "slug": "aadhalal-kadhal-seiveer",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qp32CanmgJXVzrdOvne32qta5o.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Tamil",
-    "release_year": 2013,
-    "duration": 106,
-    "rating": null,
-    "description": "Collegemates Karthik and Shweta fall in love and take it to the next level but the girl soon discovers that she is pregnant. And, when the parents find out, the consequences are startling.",
-    "created_at": "2026-07-31T07:34:25.261Z",
-    "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -235525,24 +235000,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "2d2af4a7-ed6e-4d6d-af42-4bac49998006",
-    "title": "Galaate",
-    "slug": "galaate",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8AMebkNbkbLdXK1eTdNXbumRl0B.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Kannada",
-    "release_year": 2013,
-    "duration": null,
-    "rating": null,
-    "description": "A classic college love triangle story. Ankitha is in love with her college mate Abhi but Abhi falls for her friend Shalini. Who will Abhi eventually choose?",
-    "created_at": "2026-07-31T07:30:59.017Z",
-    "genres": [],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "58855791-925b-4094-9c64-ece7a43e392c",
     "title": "Vishwaroopam",
     "slug": "vishwaroopam",
@@ -235563,6 +235020,549 @@
       {
         "name": "Thriller",
         "slug": "thriller"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "d4352c67-2168-4b96-b01c-700cd14128da",
+    "title": "Annayum Rasoolum",
+    "slug": "annayum-rasoolum",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cLsxjLL5TurnjMFTvuuKw469wRA.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Malayalam",
+    "release_year": 2013,
+    "duration": 167,
+    "rating": null,
+    "description": "A taxi driver, Rasool and a salesgirl, Anna fall in love with each other. But soon their union is put to question when Anna persuades Rasool to convert to Christianity.",
+    "created_at": "2026-07-31T06:41:53.924Z",
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "cd0b4aad-0659-4fcb-8574-f5317d6a4e4f",
+    "title": "Alex Pandian",
+    "slug": "alex-pandian",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pi5nekESuNU7wAf28IeOUyvj1ms.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2013,
+    "duration": 162,
+    "rating": null,
+    "description": "Alex Pandian (Tamil: அலெக்ஸ் பாண்டியன்) is a Tamil action-masala film directed by Suraj that features Karthi and Anushka Shetty in the lead roles, while Santhanam plays a pivotal supporting role. Devi Sri Prasad composed the music. The film will also be dubbed and simultaneously released in Telugu as Bad Boy.",
+    "created_at": "2026-07-31T07:41:55.073Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "6af5b7e1-176b-4626-a5f1-ad2acc477e51",
+    "title": "All in All Azhagu Raja",
+    "slug": "all-in-all-azhagu-raja",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtQfcMghGPr3ptEXDbwgbMwdI3T.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2013,
+    "duration": 150,
+    "rating": null,
+    "description": "The film is centered around Azhaguraja (Karthi), his friend and adviser Kalyanam (Santhanam) who runs a little known TV channel. He falls head over heels for at first sight with Devi Priya (Kajal Aggarwal) daughter of a rich businessman and the rest of the story is how he wins her in the end.",
+    "created_at": "2026-07-31T07:26:07.611Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "4bdf6db1-3044-4bcb-ba44-7a876990f23a",
+    "title": "Aadu Magaadra Bujji",
+    "slug": "aadu-magaadra-bujji",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qvPL2fNq2ehouUlqulxkYfQ74HB.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Telugu",
+    "release_year": 2013,
+    "duration": null,
+    "rating": null,
+    "description": "Siddhu (Sudheer), a naughty easy going guy falls in love with Indu (Asmita Sood). But Indu is the sister of Cherry (Ranadheer) who keeps on protecting his sister from others’ eyes. But on the other hand Cherry he loves Anjali (Poonam Kaur), the sister-in-law of a dangerous man Bujji aka Shankar (Ajay). How things move among these people, how Siddhu plays with Shankar forms the main story.",
+    "created_at": "2026-07-31T07:40:55.462Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "0b8e08fa-c90e-470c-ac78-88890401ab96",
+    "title": "Pattam Pole",
+    "slug": "pattam-pole",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vTXaE8chc6dMNoqaM9qO8ihWB6V.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Malayalam",
+    "release_year": 2013,
+    "duration": 120,
+    "rating": null,
+    "description": "Karthi and Riya elope one early morning to Ooty, fearing that the elders in the family will not accept their inter-religious relationship. They return to their respective homes after a couple of days after having a fight. They convince their loved ones that they hate each other and vow never to see each other again. The film would then trace the eventual course of their lives.",
+    "created_at": "2026-07-31T07:26:09.531Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "710b7c21-1ffb-410c-9574-14c2a8ac9277",
+    "title": "Lucia",
+    "slug": "lucia",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1b0pkG5fKRXbgxQrk3AVwXSNo7e.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Kannada",
+    "release_year": 2013,
+    "duration": 136,
+    "rating": null,
+    "description": "A man suffering from insomnia is tricked into buying a drug, Lucia, that makes his desires come true in his dreams, blurring the line between fantasy and reality.",
+    "created_at": "2026-07-31T07:02:35.567Z",
+    "genres": [
+      {
+        "name": "Fantasy",
+        "slug": "fantasy"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "283631b6-e531-4fdd-99b6-86e8dd27d35b",
+    "title": "Neram",
+    "slug": "neram",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cA5OgwysDaFmMGeEjUEG59aVoMs.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Malayalam",
+    "release_year": 2013,
+    "duration": 116,
+    "rating": null,
+    "description": "Mathew is a graduate in software engineering, but is now jobless. He is waiting for his good time to get a good job. Mathew has borrowed some money as loan. Now he cannot give it back as he has no job.  Mathew's childhood friend Jeena Johnykkutty is ready to help him as she could. She has a job. Her father Johnykkutty does not like Mathew and he always tries to trouble Mathew whenever he gets a chance.  At this time Mathew's good time arrives; but along with it many problems too. The gripping events that follow plot the rest of 'Neram'.",
+    "created_at": "2026-07-31T07:38:00.138Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Action",
+        "slug": "action"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "8ad5211e-d69a-45f8-b474-b4446856576f",
+    "title": "Punyalan Agarbattis",
+    "slug": "punyalan-agarbattis",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bNFycwoBG0KjpcZJsrWqhprDDCR.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Malayalam",
+    "release_year": 2013,
+    "duration": 137,
+    "rating": null,
+    "description": "Punyalan Agarbattis is the story of Joy Thakkolkaran, a young entrepreuner from Thrissur. His new business venture 'Punyalan Agarbattis' involves manufacturing agarbattis from elephant dung. Fragrance and quality of his incense sticks aside, its mosquito repellant capabilities too have pleased those who tried the samples. However, Joy suddenly has a new set of people and problems as 'Punyalan Agarbattis' comes to a halt.",
+    "created_at": "2026-07-31T07:28:30.438Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "d7724d3b-bf7e-4895-8f09-6487f7626699",
+    "title": "Naiyaandi",
+    "slug": "naiyaandi",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/r4WSqKkC9UXi9WKi9EZofpmznHG.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Tamil",
+    "release_year": 2013,
+    "duration": 158,
+    "rating": null,
+    "description": "Chinna Vandu, the youngest of three brothers, falls in love with Vana Roja when she visits her grandmother, coinciding with the village carnival. After a few hiccups, their romance becomes mutual. Chinna Vandu has to then handle his family members, particularly his lovesick elder brothers, and also a dreaded goon who sets his eagle eyes on Roja.",
+    "created_at": "2026-07-31T07:35:57.187Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "160918e0-3da1-41a4-a687-c26be0556d5b",
+    "title": "The Green Inferno",
+    "slug": "the-green-inferno",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nh2EAkJEWaOFdzK2DMaITrdmM2a.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2013,
+    "duration": 100,
+    "rating": 5.743,
+    "description": "A group of student activists travel from New York City to the Amazon to save the rainforest.  However, once they arrive in this vast green landscape, they soon discover that they are not alone… and that no good deed goes unpunished.",
+    "created_at": "2026-07-22T15:50:54.845Z",
+    "genres": [
+      {
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "name": "Horror",
+        "slug": "horror"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "d6633aeb-87a3-44e8-9dd8-4dbc16dcf313",
+    "title": "Magadheera",
+    "slug": "magadheera",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xK7MEV56GF291VG0U5XnVJuvNv3.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Sanskrit",
+    "release_year": 2013,
+    "duration": null,
+    "rating": 7.234,
+    "description": "A street-bike racer chances upon a woman and is struck by visions of a past life where they were both star-crossed lovers in a war-ridden kingdom 400 years ago, while the reincarnation of his romantic rival emerges with murderous intent.",
+    "created_at": "2026-08-06T05:02:18.041Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "501e74d2-0a26-42a6-bc1c-55cefffbb4cc",
+    "title": "Amen",
+    "slug": "amen",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rJRm8lE1JHSoUgkPRu0CQRaYdne.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Malayalam",
+    "release_year": 2013,
+    "duration": 165,
+    "rating": null,
+    "description": "Solomon, who belongs to a band, is in love with Soshanna, who hails from an upper class family. The story spells how Solomon manages to win over all the obstacles to marry Soshanna.",
+    "created_at": "2026-07-31T07:26:14.719Z",
+    "genres": [
+      {
+        "name": "Fantasy",
+        "slug": "fantasy"
+      },
+      {
+        "name": "Music",
+        "slug": "music"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "037cfcde-6c1a-4fea-9c43-83497bb9c20a",
+    "title": "Sample This",
+    "slug": "sample-this",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nqyvHb62i0mv7aP3pFOyO2R6iDh.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Malayalam",
+    "release_year": 2013,
+    "duration": 85,
+    "rating": null,
+    "description": "A documentary that reveals how a forgotten record by the Incredible Bongo Band helped cement the foundation of hip hop when DJ Herc extended its percussion by playing them back to back, creating an anthem on the streets of the Bronx.",
+    "created_at": "2026-07-31T07:23:42.021Z",
+    "genres": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "927c1654-2f5e-4744-b7dc-27b9b55d0238",
+    "title": "Raja Huli",
+    "slug": "raja-huli",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mke7B7LGsSE5r29FYdU6N5TRkMu.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2013,
+    "duration": 158,
+    "rating": null,
+    "description": "Raja Huli is a 2013 Indian Kannada-language comedy-drama film directed by Guru Deshpande and written by S. R. Prabhakaran. Produced by K. Manju's home production, the film is a remake of the Tamil film Sundarapandian (2012) which was produced and enacted by M. Sasikumar. The film stars Yash and Meghana Raj in the lead roles. The soundtrack and score for the film is composed by Hamsalekha. The film, which made its theatrical release on 1 November 2013, co-inciding with the Kannada Rajyotsava festival",
+    "created_at": "2026-07-31T07:24:53.165Z",
+    "genres": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Action",
+        "slug": "action"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "932a2df6-4683-40fd-b645-948277097e33",
+    "title": "One Small Hitch",
+    "slug": "one-small-hitch",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/quw2cNXialcL4PIirf38w98d7Si.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2013,
+    "duration": 100,
+    "rating": 6.621,
+    "description": "On a flight home to Chicago for a family wedding, childhood friends Josh and Molly innocently agree to fake a wedding engagement to make Josh's dying father happy. Things quickly get out of hand with their two boisterous families, and a series of events causes them to pretend to be a couple and start planning a phony wedding. When the playacting begins to foster real feelings, the two must make some serious decisions: Split up and return to their lives in LA, or make a life as a couple back in Chicago?",
+    "created_at": "2026-07-22T15:50:56.800Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "e0e22ad2-d3d6-4e29-9f9a-416814d0f439",
+    "title": "Ainthu Ainthu Ainthu",
+    "slug": "ainthu-ainthu-ainthu",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/84SC1Z51pBjCjG75It3KV95L3Ts.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2013,
+    "duration": 146,
+    "rating": null,
+    "description": "Aravind suffers a serious brain damage from a car accident. He is somehow convinced that he lost his lover Liyana  in the unfortunate accident, but his brother swears that the girl did not even exist.",
+    "created_at": "2026-07-31T07:26:34.898Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "b996b9ef-98b0-480d-b785-da4a18d00029",
+    "title": "Aadhalal Kadhal Seiveer",
+    "slug": "aadhalal-kadhal-seiveer",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qp32CanmgJXVzrdOvne32qta5o.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Tamil",
+    "release_year": 2013,
+    "duration": 106,
+    "rating": null,
+    "description": "Collegemates Karthik and Shweta fall in love and take it to the next level but the girl soon discovers that she is pregnant. And, when the parents find out, the consequences are startling.",
+    "created_at": "2026-07-31T07:34:25.261Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "c98f6cc6-38fd-4409-904a-4191efa9dc46",
+    "title": "Shadow",
+    "slug": "shadow",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gIeoVF5fys8kS9WOelsh7dVJmGW.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Telugu",
+    "release_year": 2013,
+    "duration": 160,
+    "rating": null,
+    "description": "Raghurman infiltrates Nana Bhai's criminal organisation to find evidence of his wrongdoings. When Nana learns of his plans, he massacres Raghurman's family and only his son Rajaram escapes. When he grows up, Rajaram sets out to destroy Nana Bhai.",
+    "created_at": "2026-07-31T07:41:52.531Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "2d2af4a7-ed6e-4d6d-af42-4bac49998006",
+    "title": "Galaate",
+    "slug": "galaate",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8AMebkNbkbLdXK1eTdNXbumRl0B.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Kannada",
+    "release_year": 2013,
+    "duration": null,
+    "rating": null,
+    "description": "A classic college love triangle story. Ankitha is in love with her college mate Abhi but Abhi falls for her friend Shalini. Who will Abhi eventually choose?",
+    "created_at": "2026-07-31T07:30:59.017Z",
+    "genres": [],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "8e68181f-d191-4a4c-a07f-e30503db4dbc",
+    "title": "Seethamma Vakitlo Sirimalle Chettu",
+    "slug": "seethamma-vakitlo-sirimalle-chettu",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sP0U5uHuLdc0m8pDqHhofyCqvL4.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Telugu",
+    "release_year": 2013,
+    "duration": 159,
+    "rating": null,
+    "description": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+    "created_at": "2026-07-31T07:41:53.204Z",
+    "genres": [
+      {
+        "name": "Family",
+        "slug": "family"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
       }
     ],
     "stream_url_1080p": null,
@@ -235821,6 +235821,33 @@
     "stream_url_480p": null
   },
   {
+    "id": "32d4f928-de3e-450d-a86d-22ca736fdcfb",
+    "title": "Yeto Vellipoyindhi Manasu",
+    "slug": "yeto-vellipoyindhi-manasu",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oIwMIEsRK4sisfoaSHCdATMjiVg.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Telugu",
+    "release_year": 2012,
+    "duration": 153,
+    "rating": null,
+    "description": "The romantic lives of two people – Varun and Nithya, are chronicled in this film from their school days until their adult lives. They fall in love multiple times and keep breaking up over minor issues. But deep down, they are so madly in love with each other that they keep giving themselves another chance.",
+    "created_at": "2026-07-31T07:27:35.689Z",
+    "genres": [
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "579695f0-c14b-40ba-b26e-e70adb48d55e",
     "title": "Sundarapandian",
     "slug": "sundarapandian",
@@ -235852,56 +235879,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "294885c4-561c-49b4-baa0-821589e66c04",
-    "title": "Run Baby Run",
-    "slug": "run-baby-run",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3n50OtsviGm5BzUt51kaUi34seI.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": 2012,
-    "duration": 142,
-    "rating": null,
-    "description": "Venu, a cameraman working for Reuters, happens to meet Renuka, his old lover, while trying to cover a case involving a politician. Together they go to investigate a murder planned by Bharatan Pillai.",
-    "created_at": "2026-07-31T07:15:03.506Z",
-    "genres": [
-      {
-        "name": "Thriller",
-        "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "32d4f928-de3e-450d-a86d-22ca736fdcfb",
-    "title": "Yeto Vellipoyindhi Manasu",
-    "slug": "yeto-vellipoyindhi-manasu",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oIwMIEsRK4sisfoaSHCdATMjiVg.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Telugu",
-    "release_year": 2012,
-    "duration": 153,
-    "rating": null,
-    "description": "The romantic lives of two people – Varun and Nithya, are chronicled in this film from their school days until their adult lives. They fall in love multiple times and keep breaking up over minor issues. But deep down, they are so madly in love with each other that they keep giving themselves another chance.",
-    "created_at": "2026-07-31T07:27:35.689Z",
-    "genres": [
-      {
-        "name": "Romance",
-        "slug": "romance"
-      },
-      {
-        "name": "Drama",
-        "slug": "drama"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "de283007-e939-4669-94ec-870b9ed1b6aa",
     "title": "Naan",
     "slug": "naan",
@@ -235926,6 +235903,29 @@
       {
         "name": "Drama",
         "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "294885c4-561c-49b4-baa0-821589e66c04",
+    "title": "Run Baby Run",
+    "slug": "run-baby-run",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3n50OtsviGm5BzUt51kaUi34seI.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2012,
+    "duration": 142,
+    "rating": null,
+    "description": "Venu, a cameraman working for Reuters, happens to meet Renuka, his old lover, while trying to cover a case involving a politician. Together they go to investigate a murder planned by Bharatan Pillai.",
+    "created_at": "2026-07-31T07:15:03.506Z",
+    "genres": [
+      {
+        "name": "Thriller",
+        "slug": "thriller"
       }
     ],
     "stream_url_1080p": null,
@@ -235987,6 +235987,37 @@
     "stream_url_480p": null
   },
   {
+    "id": "48ac59e1-b582-492a-80e8-e227cd354da3",
+    "title": "Dookudu",
+    "slug": "dookudu",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/e9uffrN9z22uuiBF9B0bTDDvbjz.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi Telugu",
+    "release_year": 2011,
+    "duration": 174,
+    "rating": null,
+    "description": "To protect his father recovering from a coma, a relentless cop must pose as the political leader his father always envisioned while hunting the men who tried to kill him.",
+    "created_at": "2026-07-31T07:21:39.200Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "196518f8-0f38-4c55-aa36-52d66e099688",
     "title": "Panjaa",
     "slug": "panjaa",
@@ -236034,37 +236065,6 @@
       {
         "name": "History",
         "slug": "history"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "48ac59e1-b582-492a-80e8-e227cd354da3",
-    "title": "Dookudu",
-    "slug": "dookudu",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/e9uffrN9z22uuiBF9B0bTDDvbjz.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Telugu",
-    "release_year": 2011,
-    "duration": 174,
-    "rating": null,
-    "description": "To protect his father recovering from a coma, a relentless cop must pose as the political leader his father always envisioned while hunting the men who tried to kill him.",
-    "created_at": "2026-07-31T07:21:39.200Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      },
-      {
-        "name": "Thriller",
-        "slug": "thriller"
       }
     ],
     "stream_url_1080p": null,
@@ -236227,6 +236227,33 @@
     "stream_url_480p": null
   },
   {
+    "id": "f62a227d-ab78-40d0-bf32-ae1b0e53788a",
+    "title": "Aayirathil Oruvan",
+    "slug": "aayirathil-oruvan",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9lrbtKE8vKIpYXxjj0hSwhnC81o.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi",
+    "release_year": 2010,
+    "duration": 181,
+    "rating": null,
+    "description": "An expedition sets out to uncover the long-lost traces of the Chola dynasty, venturing into uncharted lands filled with ancient traps, hostile forces, and forgotten secrets. What begins as a search for history soon becomes a perilous struggle for survival, where myths and reality collide and the fate of an entire legacy hangs in the balance.",
+    "created_at": "2026-07-31T07:27:40.217Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "527d5bbd-abf4-4269-9a9d-22795031de7b",
     "title": "Orange",
     "slug": "orange",
@@ -236285,37 +236312,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "3a4480ac-fb4c-407d-9eec-d5eb35dacac9",
-    "title": "Khaleja",
-    "slug": "khaleja",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rsQbJT4vjyQe6Mpry1i8Tnf86wp.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Telugu",
-    "release_year": 2010,
-    "duration": 163,
-    "rating": null,
-    "description": "A village is hounded by an unknown disease, decimating its population. The village priest prophesies that God's avatar will save them. Siddha goes in search of this supernatural potential and finds it in Seetarama Raju, a cab driver.",
-    "created_at": "2026-07-31T07:21:38.628Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Fantasy",
-        "slug": "fantasy"
-      },
-      {
-        "name": "Comedy",
-        "slug": "comedy"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "bfadee62-a3c0-4f3d-8e83-1702641b7be9",
     "title": "Singam",
     "slug": "singam",
@@ -236343,26 +236339,30 @@
     "stream_url_480p": null
   },
   {
-    "id": "f62a227d-ab78-40d0-bf32-ae1b0e53788a",
-    "title": "Aayirathil Oruvan",
-    "slug": "aayirathil-oruvan",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9lrbtKE8vKIpYXxjj0hSwhnC81o.jpg",
+    "id": "3a4480ac-fb4c-407d-9eec-d5eb35dacac9",
+    "title": "Khaleja",
+    "slug": "khaleja",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rsQbJT4vjyQe6Mpry1i8Tnf86wp.jpg",
     "is_premium": false,
     "country": null,
-    "language": "Hindi",
+    "language": "Hindi Telugu",
     "release_year": 2010,
-    "duration": 181,
+    "duration": 163,
     "rating": null,
-    "description": "An expedition sets out to uncover the long-lost traces of the Chola dynasty, venturing into uncharted lands filled with ancient traps, hostile forces, and forgotten secrets. What begins as a search for history soon becomes a perilous struggle for survival, where myths and reality collide and the fate of an entire legacy hangs in the balance.",
-    "created_at": "2026-07-31T07:27:40.217Z",
+    "description": "A village is hounded by an unknown disease, decimating its population. The village priest prophesies that God's avatar will save them. Siddha goes in search of this supernatural potential and finds it in Seetarama Raju, a cab driver.",
+    "created_at": "2026-07-31T07:21:38.628Z",
     "genres": [
       {
         "name": "Action",
         "slug": "action"
       },
       {
-        "name": "Adventure",
-        "slug": "adventure"
+        "name": "Fantasy",
+        "slug": "fantasy"
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
       }
     ],
     "stream_url_1080p": null,
@@ -236428,60 +236428,6 @@
     "stream_url_480p": null
   },
   {
-    "id": "147fab96-0f43-495e-9bac-00c2d4d3d9a6",
-    "title": "Hachi: A Dog's Tale",
-    "slug": "hachi-a-dog-s-tale",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "English",
-    "release_year": 2009,
-    "duration": 93,
-    "rating": 8.007,
-    "description": "Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker's loyal companion. As their bond grows deeper, a beautiful relationship unfolds.",
-    "created_at": "2026-07-22T15:51:42.131Z",
-    "genres": [
-      {
-        "name": "Drama",
-        "slug": "drama"
-      },
-      {
-        "name": "Family",
-        "slug": "family"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "c31a5890-f2d7-474a-8c18-6afd93e7fc02",
-    "title": "Peranmai",
-    "slug": "peranmai",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gP2CMKlkiIociCaP3MwsXA3Fm0S.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi Tamil",
-    "release_year": 2009,
-    "duration": 154,
-    "rating": null,
-    "description": "A communist forest ranger from a tribal community is tasked with whipping five spoiled female cadets into shape. Their bonding trip into the woods turns deadly when they come across foreign mercenaries plotting to sabotage a government satellite launch.",
-    "created_at": "2026-07-31T07:31:45.867Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "name": "Adventure",
-        "slug": "adventure"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
     "id": "317d18a1-d767-45e1-817e-6c0dde2f0026",
     "title": "Kick",
     "slug": "kick",
@@ -236513,6 +236459,33 @@
     "stream_url_480p": null
   },
   {
+    "id": "147fab96-0f43-495e-9bac-00c2d4d3d9a6",
+    "title": "Hachi: A Dog's Tale",
+    "slug": "hachi-a-dog-s-tale",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "English",
+    "release_year": 2009,
+    "duration": 93,
+    "rating": 8.007,
+    "description": "Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker's loyal companion. As their bond grows deeper, a beautiful relationship unfolds.",
+    "created_at": "2026-07-22T15:51:42.131Z",
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
     "id": "2679b4ee-4dbe-4308-ba42-2c3e93da6465",
     "title": "Robin Hood Prince of Thieves",
     "slug": "robin-hood-prince-of-thieves",
@@ -236537,6 +236510,33 @@
       {
         "name": "Drama",
         "slug": "drama"
+      }
+    ],
+    "stream_url_1080p": null,
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "c31a5890-f2d7-474a-8c18-6afd93e7fc02",
+    "title": "Peranmai",
+    "slug": "peranmai",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gP2CMKlkiIociCaP3MwsXA3Fm0S.jpg",
+    "is_premium": false,
+    "country": null,
+    "language": "Hindi Tamil",
+    "release_year": 2009,
+    "duration": 154,
+    "rating": null,
+    "description": "A communist forest ranger from a tribal community is tasked with whipping five spoiled female cadets into shape. Their bonding trip into the woods turns deadly when they come across foreign mercenaries plotting to sabotage a government satellite launch.",
+    "created_at": "2026-07-31T07:31:45.867Z",
+    "genres": [
+      {
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "name": "Adventure",
+        "slug": "adventure"
       }
     ],
     "stream_url_1080p": null,
@@ -236865,29 +236865,6 @@
       {
         "name": "Thriller",
         "slug": "thriller"
-      }
-    ],
-    "stream_url_1080p": null,
-    "stream_url_720p": null,
-    "stream_url_480p": null
-  },
-  {
-    "id": "f798604e-0fa0-4cad-8b7a-ca5065ab9d59",
-    "title": "The Return Of The Rebel 2",
-    "slug": "the-return-of-the-rebel-2",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8hKBaSW51HOc7pkGpYd2BWQCDaI.jpg",
-    "is_premium": false,
-    "country": null,
-    "language": "Hindi",
-    "release_year": null,
-    "duration": null,
-    "rating": null,
-    "description": "Telugu actor Prabhas, who has been riding high on the unprecedented success of Baahubali 2, is coming back with Billa, the 2009  Telugu action thriller. The makers of the film have decided to release the Anushka Shetty and Prabhas starrer in Hindi now.",
-    "created_at": "2026-07-31T07:41:50.240Z",
-    "genres": [
-      {
-        "name": "Action",
-        "slug": "action"
       }
     ],
     "stream_url_1080p": null,
