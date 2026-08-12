@@ -1,0 +1,32 @@
+{
+  "id": "da649f2b-9b0a-47ee-9dd1-5d8b9243ef47",
+  "title": "Do Aur Do Pyaar",
+  "slug": "do-aur-do-pyaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2eDWmo69uPMKPzxVY5KKkf8vOMi.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 5.4,
+  "description": "Kavya and Ani are a married couple. They live together, but are estranged from one another. They are both having long-standing extramarital affairs—she with Vikram and he with Nora.",
+  "created_at": "2026-07-22T15:10:31.362Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1653,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

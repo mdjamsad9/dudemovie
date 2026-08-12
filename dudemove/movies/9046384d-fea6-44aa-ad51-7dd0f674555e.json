@@ -1,0 +1,24 @@
+{
+  "id": "9046384d-fea6-44aa-ad51-7dd0f674555e",
+  "title": "Thattumpurath Achuthan",
+  "slug": "thattumpurath-achuthan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m5Eq13HRKrc7otg8Y66gHaYpEfU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 142,
+  "rating": null,
+  "description": "Achuthan is a jovial man who loves helping his fellow villagers. However, his life turns on its head after he receives a letter that is addressed to Lord Krishna.",
+  "created_at": "2026-07-31T07:17:25.028Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6476,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

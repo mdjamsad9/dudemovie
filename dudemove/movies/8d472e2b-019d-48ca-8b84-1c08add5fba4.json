@@ -1,0 +1,28 @@
+{
+  "id": "8d472e2b-019d-48ca-8b84-1c08add5fba4",
+  "title": "Needi Naadi Oke Katha",
+  "slug": "needi-naadi-oke-katha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LiYn8OsfHMCXAnIniXr0E9T8jV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": 122,
+  "rating": null,
+  "description": "Sagar  is a happy-go-lucky student who has no interest in his studies at all. Son of a teacher, he feels the pressure put on him by his father and the society both. But what happens when he fails to live up to their expectations?",
+  "created_at": "2026-07-31T07:16:11.644Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6423,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

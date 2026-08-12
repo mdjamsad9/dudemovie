@@ -1,0 +1,28 @@
+{
+  "id": "f1febd69-3148-4b96-973d-169c258bc9f8",
+  "title": "Dedh Bigha Zameen",
+  "slug": "dedh-bigha-zameen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lo6S9EWMbNetnTXGOajUCLl8Owo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 100,
+  "rating": 7.3,
+  "description": "Anil, a 28-year-old wheat seller, lives with his wife, mother, and sister. Excited for his sister Neha's marriage to Ajay, a soon-to-be civil servant, Anil agrees to a dowry. To fund it, he plans to sell his late father's land, only to find it's under litigation by MLA Amar Singh.",
+  "created_at": "2026-07-22T15:10:34.741Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1633,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

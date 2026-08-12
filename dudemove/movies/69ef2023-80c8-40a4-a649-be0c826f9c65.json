@@ -1,0 +1,32 @@
+{
+  "id": "69ef2023-80c8-40a4-a649-be0c826f9c65",
+  "title": "36 Farmhouse",
+  "slug": "36-farmhouse",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/itXjzkcJcG6lgWAhOzUrKiW9HTS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 107,
+  "rating": 4.7,
+  "description": "A father and son duo enter a farmhouse with ulterior motives. However, they soon learn of a bigger plot brewing within the farmhouse orchestrated by their rich masters.",
+  "created_at": "2026-07-22T15:15:46.071Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3380,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

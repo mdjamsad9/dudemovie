@@ -1,0 +1,28 @@
+{
+  "id": "03f2111b-724b-4da4-8a46-2fe3d736fea0",
+  "title": "Danger One",
+  "slug": "danger-one",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mG6MNa9fR6LIOaJhkJONflpGPvB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 101,
+  "rating": 6.1,
+  "description": "While transporting a dying man to the hospital, two paramedics find a million dollars in cash sewn into his clothing. When the man dies, they decide to keep it, setting them on a path for a hellish night of violence and mayhem.",
+  "created_at": "2026-07-22T15:35:46.021Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5589,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

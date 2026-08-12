@@ -1,0 +1,24 @@
+{
+  "id": "95619fe0-fdf7-46fb-b7ff-e92ff0d8303d",
+  "title": "Ambition",
+  "slug": "ambition",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3NfOYiJspBptcSeTg7x5OOWAc8I.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5,
+  "description": "A young aspiring musician preparing for a competition, is incredibly confidant and gets herself involved in a frightening trap that she has to find her way out of. It raises the question: If an insane person is telling a story, is it real?",
+  "created_at": "2026-07-22T15:28:38.544Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5141,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2b6e3dc3-0c54-48c1-b047-7620333550cd",
+  "title": "Vikadakumaran",
+  "slug": "vikadakumaran",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rYHV218pmcf0actOaMc54UVyxrI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 131,
+  "rating": null,
+  "description": "Binu Sebastian, a small-time advocate, makes his living by taking up petty cases and leads a simple life. His life takes a drastic turn when he stumbles upon a sensational case and decides to take it up.",
+  "created_at": "2026-07-31T07:24:28.323Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6253,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

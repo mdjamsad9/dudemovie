@@ -1,0 +1,28 @@
+{
+  "id": "fff26471-65c5-4617-99d8-47e7d547d5a3",
+  "title": "Gehraiyaan",
+  "slug": "gehraiyaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AqqMoV3o83oiPZSUrBBeujKnk1n.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 148,
+  "rating": 5.625,
+  "description": "Alisha Khanna, 30, ambitious, now finds herself at crossroads in life. Her six year long relationship has grown monotonous, her career seems to be going nowhere. But just when she had begun to accept this reality as unchangeable, her life is usurped by the arrival of her cousin, Tia and her fiancé, Zain, with whom she bonds over a troubled past and a common wish to break from its confines.",
+  "created_at": "2026-07-22T15:15:30.351Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3362,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

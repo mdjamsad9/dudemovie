@@ -1,0 +1,24 @@
+{
+  "id": "ba0a540d-e36d-4baa-8d21-d4427a5afd33",
+  "title": "She's in Portland",
+  "slug": "she-s-in-portland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3aAZMnZNu4npuENJzxLeQ2hVO19.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 100,
+  "rating": 5.4,
+  "description": "Two college friends, now in their thirties, admire each others' lives and feel trapped in their own. Wes, tied to a demanding career and responsibilities to family, extends a work trip to drag his dispirited artist friend Luke to find Luke's \"one that got away.\"",
+  "created_at": "2026-07-22T15:22:27.611Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4268,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

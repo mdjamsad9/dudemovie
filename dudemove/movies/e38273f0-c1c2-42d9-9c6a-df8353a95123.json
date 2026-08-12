@@ -1,0 +1,24 @@
+{
+  "id": "e38273f0-c1c2-42d9-9c6a-df8353a95123",
+  "title": "Lucky Man",
+  "slug": "lucky-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nrOvhbm8F7zVmjqKsPjhDY0rwMK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6,
+  "description": "Arjun and Anu, best friends who are married, are on the verge getting a divorce. Arjun happens to meet God, who inquires about what went wrong with this couple. If Arjun gets a second chance to live his life without making the same mistakes, can he get a happily ever after?",
+  "created_at": "2026-08-06T04:57:43.128Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3383,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

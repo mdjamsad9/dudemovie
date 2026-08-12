@@ -1,0 +1,24 @@
+{
+  "id": "ee972abf-f7f5-45bd-8cc9-1cfb6c64b714",
+  "title": "A Million Little Pieces",
+  "slug": "a-million-little-pieces",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/loC9ptPrTT1e09frmddn6LU612d.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 113,
+  "rating": 6.2,
+  "description": "A young drug-addled writer approaching the bottom of his descent submits to two months of agonizing detox at a treatment center in Minnesota.",
+  "created_at": "2026-07-22T15:26:41.530Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4904,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

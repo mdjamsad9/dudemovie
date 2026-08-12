@@ -1,0 +1,24 @@
+{
+  "id": "02ab5db2-667d-45c4-ad35-3e72e8bec29f",
+  "title": "X",
+  "slug": "x",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 106,
+  "rating": 6.714,
+  "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+  "created_at": "2026-07-22T15:14:47.528Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 3332,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

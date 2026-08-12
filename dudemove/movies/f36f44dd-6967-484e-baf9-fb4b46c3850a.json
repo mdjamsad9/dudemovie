@@ -1,0 +1,32 @@
+{
+  "id": "f36f44dd-6967-484e-baf9-fb4b46c3850a",
+  "title": "Rautu ka Raaz",
+  "slug": "rautu-ka-raaz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/asKw9WwRPFpuAwiGuarPCelE9Yx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 135,
+  "rating": 7.222,
+  "description": "Rautu ki Beli, an idyllic town in hilly north India, has been virtually crime-free for over 30 years. The inhabitants are bewildered when a school warden is found dead and the police begin investigating – under the leadership of Inspector Negi. Nothing is as easy as it seems when societal stigma, small-town laziness and ‘locals in denial’ get in the way of a seemingly straightforward case.",
+  "created_at": "2026-07-22T15:10:27.475Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 1661,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

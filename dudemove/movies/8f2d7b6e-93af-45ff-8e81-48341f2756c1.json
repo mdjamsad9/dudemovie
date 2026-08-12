@@ -1,0 +1,28 @@
+{
+  "id": "8f2d7b6e-93af-45ff-8e81-48341f2756c1",
+  "title": "A Werewolf in England",
+  "slug": "a-werewolf-in-england",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tkCUc5l4vPrW09D0ipdnTQusC68.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 85,
+  "rating": 5.689,
+  "description": "In Victorian-Era England, a Parish Councillor and criminal take refuge from a storm, at a remote countryside Inn. Forced to stay the night, they soon uncover a deadly pact between the strange Innkeepers and the flesh-hungry werewolves that inhabit the surrounding woodlands... now, as the werewolves close in, the guests must band together and fight tooth and nail to survive the night!",
+  "created_at": "2026-07-22T15:22:25.310Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4340,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

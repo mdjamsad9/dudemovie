@@ -1,0 +1,32 @@
+{
+  "id": "c3b2a1bb-f4b2-499e-8630-5254e86aa450",
+  "title": "Superman: Red Son",
+  "slug": "superman-red-son",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 84,
+  "rating": 7.069,
+  "description": "Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.",
+  "created_at": "2026-07-22T15:25:52.266Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4513,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

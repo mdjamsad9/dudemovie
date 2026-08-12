@@ -1,0 +1,24 @@
+{
+  "id": "bfd7f8cd-c3dd-4584-8236-c65347039c8b",
+  "title": "Mrs Lowry & Son",
+  "slug": "mrs-lowry-son",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sVDzIqZL4uF8XFilc0txc2vcT9T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 91,
+  "rating": 6.4,
+  "description": "An intimate portrayal of the relationship between one of greatest artists of the 20th century, L.S. Lowry and his unhappy and controlling mother, Elizabeth, whom he lived with all his life.",
+  "created_at": "2026-07-22T15:26:29.110Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4834,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

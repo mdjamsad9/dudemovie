@@ -1,0 +1,28 @@
+{
+  "id": "c6ee9d0f-13f7-4f0a-90c9-4f7b82d3713b",
+  "title": "Robert the Bruce",
+  "slug": "robert-the-bruce",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 124,
+  "rating": 5.525,
+  "description": "In 1306, Scottish King Robert the Bruce turns a defeated outlaw when his country is invaded. But before to free his sacred land, he must manage to regain his will to fight back and survive the persecution of those who want take his head and the English gold.",
+  "created_at": "2026-07-22T15:27:34.709Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5053,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

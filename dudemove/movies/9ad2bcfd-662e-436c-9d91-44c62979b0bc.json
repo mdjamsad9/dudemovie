@@ -1,0 +1,32 @@
+{
+  "id": "9ad2bcfd-662e-436c-9d91-44c62979b0bc",
+  "title": "Wastelander",
+  "slug": "wastelander",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c7ZrgKwiwZPI7Qr1Ztu99pBmPS3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 3.8,
+  "description": "In a post-apocalyptic landscape, an ex-soldier wanders in search of his lost home and family. Along the way, he joins a makeshift group of survivors who convince him to lead them through the wasteland. But when a band of pillaging raiders comes after them, they must fight to survive in this cruel dystopia.",
+  "created_at": "2026-07-22T15:40:13.039Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6127,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

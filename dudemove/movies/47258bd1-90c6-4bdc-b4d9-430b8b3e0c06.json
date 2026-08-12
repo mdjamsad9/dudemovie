@@ -1,0 +1,28 @@
+{
+  "id": "47258bd1-90c6-4bdc-b4d9-430b8b3e0c06",
+  "title": "An Affair to Die For",
+  "slug": "an-affair-to-die-for",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Vo4vUGaE081biscSRiacl9agmE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 83,
+  "rating": 5.817,
+  "description": "A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.",
+  "created_at": "2026-07-22T15:33:48.069Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5223,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

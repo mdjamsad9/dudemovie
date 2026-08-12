@@ -1,0 +1,28 @@
+{
+  "id": "29e35430-fd63-438b-a344-74c055021552",
+  "title": "Ponmagal Vandhal",
+  "slug": "ponmagal-vandhal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/61Tv9lyhcvgmOIJ1vD4PI1tabI3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": null,
+  "description": "A resident in Ooty named ‘Petition’ Pethuraj reopens a case from 2004 that involved a serial killer ‘Psycho Jyoti’ who was convicted for the kidnapping and murder. Venba, his daughter and a passionate lawyer, seeks to unveil the truth.",
+  "created_at": "2026-07-31T07:02:41.854Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4519,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

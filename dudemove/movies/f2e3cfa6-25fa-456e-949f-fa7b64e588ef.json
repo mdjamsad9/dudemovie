@@ -1,0 +1,36 @@
+{
+  "id": "f2e3cfa6-25fa-456e-949f-fa7b64e588ef",
+  "title": "Wunderland",
+  "slug": "wunderland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/WRTtEKVKkCKBJBVGQart22fXap.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 5.5,
+  "description": "Christmas 1944, The Germans make one final push against the attacking allied armies in the West. Lt. Robert Cappa and his platoon of 2nd Infantry Division soldiers have been ordered to hold a vital road junction against the German aggressors. Cappa and his men must find their faith and strength to stand against their enemy in the epic fight know as \"The Battle of The Bulge.\"",
+  "created_at": "2026-07-22T15:39:30.333Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5909,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

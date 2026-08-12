@@ -1,0 +1,36 @@
+{
+  "id": "f9b3eb13-3f3a-44aa-a2d8-afd65d084543",
+  "title": "Glossary of Broken Dreams",
+  "slug": "glossary-of-broken-dreams",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iDI7V7Djubtti5bJ08s3W4Reh6P.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2018,
+  "duration": 98,
+  "rating": 6.8,
+  "description": "Puppets! Pixels! Anime! Live action! Stock footage!\r Lumpennerd Johannes Grenzfurthner gives an ideotaining cinematic revue about important political concepts. Everyone is talking about freedom! Privacy! Identity! Resistance! The Market! The Left! But, yikes, Johannes can't tolerate ignorant and topically abusive comments on the \"Internet\" anymore! Supported by writer Ishan Raval, in this film, Johannes explains, re-evaluates, and sometimes sacrifices political golden calves of discourse.\r Not to be used with false consciousness or silicone-based lubricant.",
+  "created_at": "2026-07-22T15:37:52.247Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

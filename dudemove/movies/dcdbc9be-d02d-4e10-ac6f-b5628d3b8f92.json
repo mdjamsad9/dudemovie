@@ -1,0 +1,24 @@
+{
+  "id": "dcdbc9be-d02d-4e10-ac6f-b5628d3b8f92",
+  "title": "Doorbeen",
+  "slug": "doorbeen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jAfXdTKYGZRjROHd4hbcuHOaGWV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2019,
+  "duration": 126,
+  "rating": null,
+  "description": "Shinda is a young man from Punjab who masterminds in the liquor smuggling business. When the new Deputy Superintendent of Police moves into town and a large order for liquor comes in, Shinda must find a smarter way to evade the law and smuggle the items while trying to woo the woman that he loves during this problem.",
+  "created_at": "2026-07-31T07:07:33.505Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5259,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

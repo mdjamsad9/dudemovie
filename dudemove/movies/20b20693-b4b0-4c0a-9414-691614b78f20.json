@@ -1,0 +1,24 @@
+{
+  "id": "20b20693-b4b0-4c0a-9414-691614b78f20",
+  "title": "The Lumber Baron",
+  "slug": "the-lumber-baron",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3vLpHlLrDYWMzSm1qmMAjih9L3z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 120,
+  "rating": 6,
+  "description": "Upon the unexpected death of his father, Daniel Rimsdale leaves medical school and returns home to the Chippewa Valley to try to salvage the floundering family lumber business and save his family from financial ruin. However, he meets heavy resistance from an old friend of his father's, Silas Lynch, who will stop at nothing to secure the Rimsdale mansion and rumored treasure it contains.",
+  "created_at": "2026-07-22T15:31:04.147Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5054,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2ae89c94-8dbb-4d88-8e5a-3799d196a774",
+  "title": "Robot Riot",
+  "slug": "robot-riot",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pXv4qbWyj6ycMaWkK2LzlizZQjf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2020,
+  "duration": 85,
+  "rating": 5.676,
+  "description": "Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.",
+  "created_at": "2026-07-22T15:23:07.934Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4363,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5b72a1b8-7c78-4613-a0d7-34251e777499",
+  "title": "Dirty Dead Con Men",
+  "slug": "dirty-dead-con-men",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r70GGoZ5PqqokDDRnVfTN7PPDtJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 3.5,
+  "description": "A cool and dangerous neo-noir crime film that revolves around the disturbed lives of two unlikely partners: Mickey Rady, a rogue undercover cop and Kook Packard, a smooth and charismatic con man. Together they rip off those operating outside of the law...for their own personal gain. But things go awry when one heist suck them deep into a city-wide conspiracy...",
+  "created_at": "2026-07-22T15:38:41.238Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6046,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

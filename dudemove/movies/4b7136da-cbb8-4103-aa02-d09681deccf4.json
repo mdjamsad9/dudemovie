@@ -1,0 +1,32 @@
+{
+  "id": "4b7136da-cbb8-4103-aa02-d09681deccf4",
+  "title": "A Crooked Somebody",
+  "slug": "a-crooked-somebody",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sMi0sz3qnj2xBdT0tfHlqnw5zIh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 102,
+  "rating": 6.346,
+  "description": "An attention-seeking psychic is kidnapped and tries to use the situation to boost his popularity.",
+  "created_at": "2026-07-22T15:35:10.901Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5594,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

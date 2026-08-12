@@ -1,0 +1,28 @@
+{
+  "id": "7b935cd1-76cb-4249-ba6d-c34c782de85f",
+  "title": "Vasco Da Gama",
+  "slug": "vasco-da-gama",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qYOdDztFRDumlUObHyv4csKytXT.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 125,
+  "rating": 4,
+  "description": "In a dystopian world where good is bad and bad is good, an honest man is sent to a bizarre prison.",
+  "created_at": "2026-07-09T17:13:46.937Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1453,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/VascoDaGama%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/VascoDaGama%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

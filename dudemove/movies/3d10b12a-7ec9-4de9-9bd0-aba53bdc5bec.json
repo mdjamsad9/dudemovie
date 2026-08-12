@@ -1,0 +1,28 @@
+{
+  "id": "3d10b12a-7ec9-4de9-9bd0-aba53bdc5bec",
+  "title": "Setters",
+  "slug": "setters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/GtvvTDi3KCGf30k4LLzWZLn5J7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 126,
+  "rating": 4.4,
+  "description": "A thriller set in Benares, Jaipur, Mumbai and Delhi, Setters is about a racket profiteering from academic scams. The film follows a cat-and-mouse game between two good friends: one a cop, and the other a \"setter\" who arranges brilliant students in place of weak students to appear in examinations.",
+  "created_at": "2026-07-22T15:28:30.931Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5161,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

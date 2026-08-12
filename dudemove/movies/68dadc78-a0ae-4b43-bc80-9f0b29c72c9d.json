@@ -1,0 +1,24 @@
+{
+  "id": "68dadc78-a0ae-4b43-bc80-9f0b29c72c9d",
+  "title": "The Beyond",
+  "slug": "the-beyond",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wuezKxgZReQmqIrI9QOJZ23Z0y4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.507,
+  "description": "Set in 2019, The Beyond chronicles the groundbreaking mission which sent astronauts - modified with advanced robotics, through a newly discovered wormhole known as the Void. When the mission returns unexpectedly, the space agency races to discover what the astronauts encountered on their first of its kind interstellar space journey.",
+  "created_at": "2026-08-06T05:00:58.598Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6479,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
