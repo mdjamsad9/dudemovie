@@ -1,0 +1,28 @@
+{
+  "id": "8fc14fe3-b547-4745-b9fa-c57ca7e1ae1c",
+  "title": "Love Is Blind",
+  "slug": "love-is-blind",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z6AJP63GQCt0EIiDOm4H5sYLInv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 89,
+  "rating": 4.8,
+  "description": "A funny and irresistible story of a young girl who literally cannot see or hear her mother, even though she is living with her under the same roof. With the help of an eccentric psychiatrist, and a local, accidental hero, our heroine has to grow up, but falls in love and eventually takes hold of her future - despite not being able to see what's right in front of her.",
+  "created_at": "2026-07-22T15:27:58.441Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4986,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

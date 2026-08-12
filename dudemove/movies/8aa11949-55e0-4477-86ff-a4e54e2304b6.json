@@ -1,0 +1,24 @@
+{
+  "id": "8aa11949-55e0-4477-86ff-a4e54e2304b6",
+  "title": "Ezhumin",
+  "slug": "ezhumin",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6CMjj7Ec6laAd9ESbmhfP1MzmKM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 109,
+  "rating": null,
+  "description": "A few children who are adept in martial arts are kidnapped by a bunch of goons to stop them from participating in a sports competition. The kids use all their ability to save their lives",
+  "created_at": "2026-07-31T07:17:33.314Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6482,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

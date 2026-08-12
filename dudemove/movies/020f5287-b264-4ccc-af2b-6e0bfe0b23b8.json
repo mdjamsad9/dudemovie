@@ -1,0 +1,36 @@
+{
+  "id": "020f5287-b264-4ccc-af2b-6e0bfe0b23b8",
+  "title": "3 from Hell",
+  "slug": "3-from-hell",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iaURDnsqwTpFdg7RuizUp0nI2I4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 5.8,
+  "description": "After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Winslow, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.",
+  "created_at": "2026-08-06T04:58:55.363Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 5489,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

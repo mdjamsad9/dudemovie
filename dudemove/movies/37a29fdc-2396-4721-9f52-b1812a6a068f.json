@@ -1,0 +1,32 @@
+{
+  "id": "37a29fdc-2396-4721-9f52-b1812a6a068f",
+  "title": "Sudani from Nigeria",
+  "slug": "sudani-from-nigeria",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/53yLPoLX8c9nAGLfmnNdF01zrNc.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 123,
+  "rating": null,
+  "description": "When a soccer club manager brings one of his injured foreign players home to recuperate, they form an unlikely bond despite their cultural differences.",
+  "created_at": "2026-07-31T07:22:46.627Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 6229,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

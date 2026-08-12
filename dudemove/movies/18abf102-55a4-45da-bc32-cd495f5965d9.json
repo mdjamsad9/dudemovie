@@ -1,0 +1,32 @@
+{
+  "id": "18abf102-55a4-45da-bc32-cd495f5965d9",
+  "title": "Attack of the Unknown",
+  "slug": "attack-of-the-unknown",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c5wDSjzstchAAN3cnVEhAlo10eC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 103,
+  "rating": 4.333,
+  "description": "A SWAT team transporting a vicious crime syndicate boss must fight their way out of a county detention center during a catastrophic alien invasion.",
+  "created_at": "2026-07-22T15:22:51.924Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4336,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

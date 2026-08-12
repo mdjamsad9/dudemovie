@@ -1,0 +1,32 @@
+{
+  "id": "9e664df9-3159-41e0-ad2e-adff3d2a1322",
+  "title": "E-Demon",
+  "slug": "e-demon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yU7TxtCeLvKZXEpf7chenNB2byo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 4.958,
+  "description": "The e-DEMON recording is a wakeup call to understand the truth of what’s happening to our world ever since the e-DEMON was released from its prison. Witness that first night of demonic possession as it turns a group of friends against each other.  As growing numbers of people get possessed, knowing who to trust is the key to survival.",
+  "created_at": "2026-07-22T15:35:44.639Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5725,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dbed397d-74d0-483c-83c1-7cdbaddb2899",
+  "title": "Saina",
+  "slug": "saina",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fdZZDmeO0lybBrxdudwdQmbmxJq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 133,
+  "rating": 6.4,
+  "description": "Champion. Olympic Medallist. The Doyen of Indian Badminton. Saina Nehwal is all of this and much more. This biopic chronicles the inspiring story of a gifted youngster's ascendance to the pinnacle of the Badminton World through sheer passion and perseverance.",
+  "created_at": "2026-07-22T15:19:08.057Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3875,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

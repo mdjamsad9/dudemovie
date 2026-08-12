@@ -1,0 +1,32 @@
+{
+  "id": "cbc39826-db34-41f2-8171-5ba9c0874e7b",
+  "title": "Batman Ninja",
+  "slug": "batman-ninja",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Japanese",
+  "release_year": 2018,
+  "duration": 85,
+  "rating": 5.867,
+  "description": "Batman, along with many of his allies and adversaries, finds himself transported to feudal Japan by Gorilla Grodd's time displacement machine.",
+  "created_at": "2026-07-22T15:38:19.123Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6013,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7e6a0dd6-e030-4e2c-b7c7-3c0f675bce5b",
+  "title": "Sicario: Day of the Soldado",
+  "slug": "sicario-day-of-the-soldado",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 122,
+  "rating": 6.946,
+  "description": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+  "created_at": "2026-07-22T15:35:38.540Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5562,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

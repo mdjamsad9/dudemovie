@@ -1,0 +1,24 @@
+{
+  "id": "9f5e8a88-64f1-4030-a748-1707b64dcb14",
+  "title": "Sketch",
+  "slug": "sketch",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/meJjODI5tTJAvyxhmnDyW8qLPRj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2018,
+  "duration": 135,
+  "rating": null,
+  "description": "The fate of four friends, who work at a garage, witness drastic changes after they lock horns with a dreaded gangster in town",
+  "created_at": "2026-07-31T07:21:48.028Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6478,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

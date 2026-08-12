@@ -1,0 +1,28 @@
+{
+  "id": "933c27d0-29dc-416c-a3f0-371344e0374d",
+  "title": "Brothers by Blood",
+  "slug": "brothers-by-blood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kKSs1Ce4wOJSwqlqFdi4BuQ9Q9T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 90,
+  "rating": 5.714,
+  "description": "Peter and Michael, raised on the streets of Philadelphia, are the children of Irish mob members, forever linked by the crimes of their fathers. 30 years later, Michael now runs the criminal organization and lusts for more power, his dangerous antics frequently held in check by his cautious cousin Peter. Haunted by the death of his sister, whose passing destroyed both his parents, Peter is caught between the dreams of childhood and the realities of his life as an enforcer. His only reprieve is a local boxing gym, a sanctuary that is quickly threatened as Michael’s desire for control escalates.",
+  "created_at": "2026-07-22T15:19:59.796Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3876,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

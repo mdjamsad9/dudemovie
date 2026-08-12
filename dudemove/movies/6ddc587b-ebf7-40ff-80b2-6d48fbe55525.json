@@ -1,0 +1,32 @@
+{
+  "id": "6ddc587b-ebf7-40ff-80b2-6d48fbe55525",
+  "title": "Project Power",
+  "slug": "project-power",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 113,
+  "rating": 6.429,
+  "description": "An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.",
+  "created_at": "2026-07-22T15:23:06.270Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4368,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

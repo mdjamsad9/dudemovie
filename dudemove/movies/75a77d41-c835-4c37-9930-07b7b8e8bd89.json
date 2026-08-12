@@ -1,0 +1,32 @@
+{
+  "id": "75a77d41-c835-4c37-9930-07b7b8e8bd89",
+  "title": "Wonder Woman 1984",
+  "slug": "wonder-woman-1984",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 6.362,
+  "description": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+  "created_at": "2026-08-06T04:58:14.263Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 4499,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4867465c-40f5-4e7b-9b30-245c5755540b",
+  "title": "Rogue",
+  "slug": "rogue",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 106,
+  "rating": 5.592,
+  "description": "Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.",
+  "created_at": "2026-07-22T15:22:56.987Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 4347,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

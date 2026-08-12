@@ -1,0 +1,28 @@
+{
+  "id": "667d7ad3-ee7d-409b-aa2a-51a3f561d510",
+  "title": "Night Drive",
+  "slug": "night-drive",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pAEsTjr406MziPXntxRw86jovin.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7.6,
+  "description": "A young couple working are out on a drive where they meet with an accident. It leaves them in a triangle between a cop who investigates the accident and the corrupt political hegemony who are in pursuit of them.",
+  "created_at": "2026-08-06T04:57:28.410Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3365,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

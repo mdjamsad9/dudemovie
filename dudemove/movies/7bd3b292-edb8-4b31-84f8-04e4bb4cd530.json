@@ -1,0 +1,24 @@
+{
+  "id": "7bd3b292-edb8-4b31-84f8-04e4bb4cd530",
+  "title": "The 2nd",
+  "slug": "the-2nd",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o1WvNhoackad1QiAGRgjJCQ1Trj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 5.199,
+  "description": "Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son's friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.",
+  "created_at": "2026-07-22T15:22:48.112Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4310,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

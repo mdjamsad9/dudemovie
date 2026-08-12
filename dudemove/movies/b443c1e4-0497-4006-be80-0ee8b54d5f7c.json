@@ -1,0 +1,32 @@
+{
+  "id": "b443c1e4-0497-4006-be80-0ee8b54d5f7c",
+  "title": "Uri: The Surgical Strike",
+  "slug": "uri-the-surgical-strike",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 138,
+  "rating": 7.052,
+  "description": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+  "created_at": "2026-07-22T15:32:55.924Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 5401,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

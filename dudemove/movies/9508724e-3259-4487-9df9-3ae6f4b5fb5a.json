@@ -1,0 +1,36 @@
+{
+  "id": "9508724e-3259-4487-9df9-3ae6f4b5fb5a",
+  "title": "A Score to Settle",
+  "slug": "a-score-to-settle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7LwB71jzfmbweqYvNGCHNXnwedo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 103,
+  "rating": 5.8,
+  "description": "A former mob enforcer who is released from prison after serving 22 years for a crime he didn't commit sets out on a path for revenge against the people who wronged him.",
+  "created_at": "2026-07-22T15:28:40.811Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5181,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

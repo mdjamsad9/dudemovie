@@ -1,0 +1,28 @@
+{
+  "id": "30599098-c0fe-4349-b428-d462739f2a8a",
+  "title": "Bhoot: Part One - The Haunted Ship",
+  "slug": "bhoot-part-one-the-haunted-ship",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5rSRVvlIlelgKM58MAnnk4FId86.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 114,
+  "rating": 5.628,
+  "description": "When an abandoned haunted ship called 'Sea Bird' washes up on the shores of Mumbai, surveying officer Prithvi is assigned to solve the mystery and close the case",
+  "created_at": "2026-07-22T15:25:53.597Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4514,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

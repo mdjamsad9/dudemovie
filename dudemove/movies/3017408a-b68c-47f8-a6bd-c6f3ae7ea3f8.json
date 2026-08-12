@@ -1,0 +1,24 @@
+{
+  "id": "3017408a-b68c-47f8-a6bd-c6f3ae7ea3f8",
+  "title": "Heartbeat",
+  "slug": "heartbeat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ppbMpesLraB3mWVwkBmRGFbsGgf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 3.2,
+  "description": "A reporter finds her life in danger when the story she has published results in several murders that come closer to her.",
+  "created_at": "2026-07-22T15:23:21.700Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4403,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

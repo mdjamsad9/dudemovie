@@ -1,0 +1,24 @@
+{
+  "id": "a8019654-5cf1-4101-ae26-de0953b64487",
+  "title": "Pet Sematary",
+  "slug": "pet-sematary",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 101,
+  "rating": 5.744,
+  "description": "Dr. Louis Creed and his wife, Rachel, move from Boston to Ludlow, in rural Maine, with their two young children. Hidden in the woods near the new family home, Ellie, their eldest daughter, discovers a mysterious cemetery where the pets of community members are buried.",
+  "created_at": "2026-07-22T15:30:38.435Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4898,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

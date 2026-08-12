@@ -1,0 +1,28 @@
+{
+  "id": "882a2261-df1d-4ddf-9b1d-88aba0ac437c",
+  "title": "Yeh Saali Aashiqui",
+  "slug": "yeh-saali-aashiqui",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/z83KrUMwgXPZM442lhl0Mth0pPk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 127,
+  "rating": 8.5,
+  "description": "When Sahil met Mittee in a hotel management school, it was love at first sight for both of them. Their love was everything - picture perfect and flawless. But an unlikely event at school turns their dream-come-true romance into a nightmare and makes them realize how important it is to know your partner thoroughly before getting into any kind of romantic relationship.",
+  "created_at": "2026-07-22T15:25:22.069Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4626,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

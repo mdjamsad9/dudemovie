@@ -1,0 +1,36 @@
+{
+  "id": "dfb8e105-de2f-4e85-bf98-f320815aea45",
+  "title": "Early Man",
+  "slug": "early-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 89,
+  "rating": 6.144,
+  "description": "Dug, along with his sidekick Hognob, unite a cavemen tribe to save their hidden valley from being spoiled and, all together as a team, to face the menace of a mysterious and mighty enemy, on the turf of an ancient and sacred sport.",
+  "created_at": "2026-07-22T15:37:57.514Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5977,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

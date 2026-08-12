@@ -1,0 +1,28 @@
+{
+  "id": "e5702925-5ae1-46e0-8ea7-4affd02b935e",
+  "title": "King Lear",
+  "slug": "king-lear",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 115,
+  "rating": 6.07,
+  "description": "An aging King invites disaster, when he abdicates to his corrupt, toadying daughters, and rejects his loving and honest one.",
+  "created_at": "2026-07-22T15:35:29.819Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 5689,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

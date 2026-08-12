@@ -1,0 +1,24 @@
+{
+  "id": "f2a1b3d5-13f2-4201-9b13-89d4b98e58f1",
+  "title": "My Dear Prime Minister",
+  "slug": "my-dear-prime-minister",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9BHkQB7MgU9iqoRtZXyTFuqqbNq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 104,
+  "rating": 6.3,
+  "description": "A story about four children living in a Mumbai slum in India. An eight-year old Kanhu writes a letter to the Prime Minister after a dramatic incident with his mother.",
+  "created_at": "2026-07-22T15:31:25.912Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5130,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

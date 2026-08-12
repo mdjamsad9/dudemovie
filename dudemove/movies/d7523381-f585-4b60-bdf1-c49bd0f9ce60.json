@@ -1,0 +1,24 @@
+{
+  "id": "d7523381-f585-4b60-bdf1-c49bd0f9ce60",
+  "title": "Beyond the Law",
+  "slug": "beyond-the-law",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3yIhZPJuoo0LATK9TxVhxmQWGy3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 90,
+  "rating": 5.2,
+  "description": "When a former detective learns of the murder of his estranged son, he ventures back to the darkened streets he once knew so well. Armed, dangerous and with nothing to lose, he must take on the ruthless local mob in his mission for revenge.",
+  "created_at": "2026-07-22T15:26:45.239Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4861,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

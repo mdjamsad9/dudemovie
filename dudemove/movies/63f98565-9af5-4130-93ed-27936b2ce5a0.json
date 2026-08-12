@@ -1,0 +1,28 @@
+{
+  "id": "63f98565-9af5-4130-93ed-27936b2ce5a0",
+  "title": "Come Play",
+  "slug": "come-play",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9jy9OzZi0Oy8Hdv603QWujbfCwx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 97,
+  "rating": 6.412,
+  "description": "Oliver, a lonely autistic boy, seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy's devices against him, his parents must fight to save their son from the monster beyond the screen.",
+  "created_at": "2026-07-22T15:21:04.065Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4293,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1c75e447-17a9-41e2-86ef-d8e1963b9109",
+  "title": "Jojo Rabbit",
+  "slug": "jojo-rabbit",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 108,
+  "rating": 7.982,
+  "description": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
+  "created_at": "2026-07-22T15:26:13.594Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4893,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

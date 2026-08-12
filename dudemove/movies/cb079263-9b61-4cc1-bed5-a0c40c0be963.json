@@ -1,0 +1,24 @@
+{
+  "id": "cb079263-9b61-4cc1-bed5-a0c40c0be963",
+  "title": "The Day Shall Come",
+  "slug": "the-day-shall-come",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rk3Z0X5SnkwimBZj2AQjb5DHHI1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 87,
+  "rating": 5.776,
+  "description": "An impoverished leader of a small religious commune in Miami is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.",
+  "created_at": "2026-07-22T15:28:29.935Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5161,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

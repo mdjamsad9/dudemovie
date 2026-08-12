@@ -1,0 +1,24 @@
+{
+  "id": "ef922c01-fe5f-412f-9a27-e0eb2e626a2e",
+  "title": "Johaar",
+  "slug": "johaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/46hWv4UGnQrKD7aYywsnpZI6NEe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 122,
+  "rating": null,
+  "description": "An anthology of 4 stories of people struggling to make their lives better and how those plans are thrown into disarray when a politician decides to divert welfare funds to satiate his ego.",
+  "created_at": "2026-07-31T07:00:43.640Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4515,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

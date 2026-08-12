@@ -1,0 +1,32 @@
+{
+  "id": "ce4ac0cd-4304-41d3-b4ce-8e456a6a56b2",
+  "title": "Lotawana",
+  "slug": "lotawana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wSV8DF6NmN0Sxmx2K8P46zLcXQ6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 97,
+  "rating": 6.9,
+  "description": "A monotonous life has pushed the unfulfilled Forrest (Todd Blubaugh) to a voyage of self-discovery by living aboard his sailboat on an alluring, Missouri lake. Soon he catches wind of the rebellious and free-spirited Everly (Nicola Collie) and their idealistic dreams align for a thrilling and thought-provoking, romantic adventure. Can they survive, reconnect with nature and rewrite their own rules of modern existence, or will they discover that society operates the way it does for a reason?",
+  "created_at": "2026-07-22T15:15:38.463Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3378,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

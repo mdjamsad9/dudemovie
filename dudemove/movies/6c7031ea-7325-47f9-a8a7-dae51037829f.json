@@ -1,0 +1,28 @@
+{
+  "id": "6c7031ea-7325-47f9-a8a7-dae51037829f",
+  "title": "Bhaiyya Ji",
+  "slug": "bhaiyya-ji",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nEMp5Nidr97gpuBlyEh1TMCmRaz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 135,
+  "rating": 6.286,
+  "description": "After his younger brother is tragically killed over a petty argument, a feared and retired criminal Bhaiyya Ji, sets out to seek justice against the powerful Gujjar responsible, mobilizing his loyal comrades and igniting a wave of vengeance that threatens to shake the criminal underworld.",
+  "created_at": "2026-07-22T15:10:20.247Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1657,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

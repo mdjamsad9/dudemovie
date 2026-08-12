@@ -1,0 +1,32 @@
+{
+  "id": "6d2f55f4-03df-43db-8468-d73fe5567fab",
+  "title": "A Quiet Place",
+  "slug": "a-quiet-place",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 91,
+  "rating": 7.395,
+  "description": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+  "created_at": "2026-07-22T15:37:13.942Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5877,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

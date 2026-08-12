@@ -1,0 +1,28 @@
+{
+  "id": "b57c9b29-5758-419c-bc62-713957196d52",
+  "title": "Kuchh Bheege Alfaaz",
+  "slug": "kuchh-bheege-alfaaz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/25cv2bdc4IIIcMWdFiHC0uEy0eI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 116,
+  "rating": 7.222,
+  "description": "Every night at 10, Kolkata tunes into radio to listen to 'Kuchh Bheege Alfaaz' - an episodic series of unrequited love stories hosted by RJ Alfaz who, despite his tremendous following, prefers staying detached and anonymous. Among his many fans is the boisterous Archana, a girl working at a creative agency – which designs branded memes. She is leukodermic but lives life to the fullest. They meet; or rather talk, for the first time over a misplaced call, when Archana accidentally dials Alfaaz's number, while trying to connect with her latest blind date. Thus begins an interesting relationship between two unlikely characters, one overly compensating, but in denial of her present, and the other buried under a dark secret of his past.",
+  "created_at": "2026-07-22T15:36:01.408Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5661,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4fe33c0f-2371-4e1c-b6a2-4735c0fe4ae9",
+  "title": "Bigil",
+  "slug": "bigil",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s4Yi1RbMyyN3hH2hElwvluP2rOG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 177,
+  "rating": null,
+  "description": "A do-gooder don wants his footballer son to uplift the life of his people by becoming a champion, but fate draws the youngster into a life of violence. Will he be able to fulfill his father’s dream when an opportunity comes his way seven years later?",
+  "created_at": "2026-07-31T07:06:41.396Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4678,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "47e0d5f3-6dd6-4bfa-a3d0-75c0137f4d4a",
+  "title": "Insidious: The Last Key",
+  "slug": "insidious-the-last-key",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 103,
+  "rating": 6.261,
+  "description": "Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+  "created_at": "2026-07-22T15:38:58.188Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6055,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

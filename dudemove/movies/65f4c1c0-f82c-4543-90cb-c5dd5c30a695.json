@@ -1,0 +1,28 @@
+{
+  "id": "65f4c1c0-f82c-4543-90cb-c5dd5c30a695",
+  "title": "Karakkam",
+  "slug": "karakkam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xCc5K9hy7Nkmkag1yS3HC75j9e2.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Malayalam",
+  "release_year": 2026,
+  "duration": 104,
+  "rating": null,
+  "description": "A drunken New Year's prank goes horribly wrong when two young men remove sacred crosses from graves. Five restless ghosts emerge to haunt their every move, driving them to seek redemption and release.",
+  "created_at": "2026-07-09T16:32:16.038Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 233,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Karakkam%20(2026)%20Malayalam%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Karakkam%20%282026%29%20Malayalam%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

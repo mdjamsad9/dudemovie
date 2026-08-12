@@ -1,0 +1,32 @@
+{
+  "id": "00561d39-89ef-4efb-84b0-2e55744efa63",
+  "title": "Deadpool 2",
+  "slug": "deadpool-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cantonese",
+  "release_year": 2018,
+  "duration": 120,
+  "rating": 7.491,
+  "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+  "created_at": "2026-07-22T15:36:32.192Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5829,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

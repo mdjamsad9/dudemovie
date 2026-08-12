@@ -1,0 +1,24 @@
+{
+  "id": "dc3f0f71-b783-4df5-9d8b-d486285682f5",
+  "title": "Maaya Ka Moh",
+  "slug": "maaya-ka-moh",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/isW0sXbnqoTV050OX3LoLRr7i78.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "hi",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "Maaya and Mohit chose each other for love but life chose something else entirely different for them! Soulmates at heart but destined to stay apart, will they come together or is love just an illusion?",
+  "created_at": "2026-07-22T15:10:01.690Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1641,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "59b69655-7bb0-4e8a-a175-965811f56269",
+  "title": "The Hollow Child",
+  "slug": "the-hollow-child",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lHeNY6zvR9yA2JWF9FrIOldsc2j.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 92,
+  "rating": 6.321,
+  "description": "Samantha has lived her whole life in different foster homes. Now living in a small town, she never feels like she quite fits in, even with her own current foster family who might adopt her, or the boy who follows her around doing her classwork. So, it’s perhaps natural that she doesn’t know what to do with a curious tagalong little sister named Olivia. One day, Sam callously ditches Olivia, who wanders off into the woods on her own and disappears.",
+  "created_at": "2026-07-22T15:37:51.169Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5965,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

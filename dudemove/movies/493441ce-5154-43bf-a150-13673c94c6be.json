@@ -1,0 +1,28 @@
+{
+  "id": "493441ce-5154-43bf-a150-13673c94c6be",
+  "title": "Ghost Stories",
+  "slug": "ghost-stories",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 98,
+  "rating": 6.447,
+  "description": "Professor Philip Goodman devotes his life to exposing phony psychics and fraudulent supernatural shenanigans. His skepticism soon gets put to the test when he receives news of three chilling and inexplicable cases -- disturbing visions in an abandoned asylum, a car accident deep in the woods and the spirit of an unborn child. Even scarier -- each of the macabre stories seems to have a sinister connection to the professor's own life.",
+  "created_at": "2026-07-22T15:36:55.623Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5853,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

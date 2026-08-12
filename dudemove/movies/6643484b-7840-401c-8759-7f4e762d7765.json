@@ -1,0 +1,24 @@
+{
+  "id": "6643484b-7840-401c-8759-7f4e762d7765",
+  "title": "The Gallows Act II",
+  "slug": "the-gallows-act-ii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hObV2CtJll0wJjn1I9WjT6O8dw1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 100,
+  "rating": 4.917,
+  "description": "When Auna Rue transfers to a prestigious new acting school, she encounters a malevolent spirit after participating in a viral challenge.",
+  "created_at": "2026-07-22T15:26:32.906Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4937,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

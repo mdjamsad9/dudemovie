@@ -1,0 +1,28 @@
+{
+  "id": "240e15eb-6a89-4939-8d34-fd03d5f67923",
+  "title": "The Debt Collector",
+  "slug": "the-debt-collector",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6psiAxHQ7dojUTzf34CqMYkzNns.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 96,
+  "rating": 5.803,
+  "description": "A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.",
+  "created_at": "2026-07-22T15:38:26.777Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6025,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

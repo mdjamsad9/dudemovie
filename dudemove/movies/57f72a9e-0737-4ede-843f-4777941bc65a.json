@@ -1,0 +1,24 @@
+{
+  "id": "57f72a9e-0737-4ede-843f-4777941bc65a",
+  "title": "Ghostland",
+  "slug": "ghostland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2018,
+  "duration": 91,
+  "rating": 7.4,
+  "description": "A mother of two inherits a home from her aunt. On the first night in the new home she is confronted with murderous intruders and fights for her daughters’ lives. Sixteen years later the daughters reunite at the house, and that is when things get strange...",
+  "created_at": "2026-07-22T15:37:19.513Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5917,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

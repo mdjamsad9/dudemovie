@@ -1,0 +1,32 @@
+{
+  "id": "fd6d81b7-20d3-4d08-bf18-ba9c5f71e47e",
+  "title": "Gold",
+  "slug": "gold-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/c0r75XaNHA4QMlDcitEscQW2Fn6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 97,
+  "rating": 6.176,
+  "description": "In the not-too-distant future, two drifters traveling through the desert stumble across the biggest gold nugget ever found and the dream of immense wealth and greed takes hold. They hatch a plan to excavate their bounty, with one man leaving to secure the necessary tools while the other remains with the gold. The man who remains must endure harsh desert elements, ravenous wild dogs, and mysterious intruders, while battling the sinking suspicion that he has been abandoned to his fate.",
+  "created_at": "2026-07-22T15:15:44.149Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3380,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "867e1fee-0949-4fec-8ec1-087ffc874154",
+  "title": "Soulm8te",
+  "slug": "soulm8te",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2026,
+  "duration": 99,
+  "rating": 6.3,
+  "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+  "created_at": "2026-08-06T04:56:33.076Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 253,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

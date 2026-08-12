@@ -1,0 +1,24 @@
+{
+  "id": "d2d61989-6ffe-4030-91bf-0073ddae81cb",
+  "title": "On the Ropes",
+  "slug": "on-the-ropes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vaqNize5xphjgShpdYRc9ezO5z5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 93,
+  "rating": 4.667,
+  "description": "Following the sudden death of their father, two brothers realize the greatest threat to their criminal empire might just be each other. A no-holds-barred battle for power ensues that threatens to destroy everything their old man built.",
+  "created_at": "2026-07-22T15:37:07.144Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5893,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

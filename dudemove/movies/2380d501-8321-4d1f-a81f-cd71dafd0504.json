@@ -1,0 +1,32 @@
+{
+  "id": "2380d501-8321-4d1f-a81f-cd71dafd0504",
+  "title": "LSD 2: Love, Sex aur Dhokha 2",
+  "slug": "lsd-2-love-sex-aur-dhokha-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ywUtbLJngSqykpxiIHIqJNA06EX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 119,
+  "rating": 5.9,
+  "description": "In a high-tech world, three intertwined stories discuss identity, online intimacy and the allure of social networks.",
+  "created_at": "2026-07-22T15:10:30.993Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 1653,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

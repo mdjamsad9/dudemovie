@@ -1,0 +1,32 @@
+{
+  "id": "4d9943f6-bd9c-4462-8044-525815f1f5bf",
+  "title": "The Commando",
+  "slug": "the-commando",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mn1GYIQ1tvFuuu0YBNZBvrHyrkO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 93,
+  "rating": 5.689,
+  "description": "An elite DEA agent returns home after a failed mission when his family makes an unexpected discovery in their house – a stash of money worth $3 million. They soon face the danger and threat of a newly released criminal and his crew, who will do whatever it takes to retrieve the money, including kidnap the agent’s daughters. Stakes are high and lives are at risk in this head-to-head battle as the agent stops at nothing to protect his family against the money-hungry criminals.",
+  "created_at": "2026-07-22T15:16:02.708Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3384,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

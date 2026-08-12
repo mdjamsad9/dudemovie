@@ -1,0 +1,28 @@
+{
+  "id": "42813861-cdf0-41b7-9caa-4b2f0ac39251",
+  "title": "Tadap",
+  "slug": "tadap",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nj0cMoZjLRrqN9SFW3wCXlSTYxd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 126,
+  "rating": 6.4,
+  "description": "Passionate Ishana falls madly in love with Ramisa. As their love grows stronger by the day, fate plays the villain and throws one hurdle after another.",
+  "created_at": "2026-07-22T15:16:35.242Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3490,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "461ffba1-e937-47d7-b1ac-1b514d222f20",
+  "title": "The Babysitter: Killer Queen",
+  "slug": "the-babysitter-killer-queen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/imy1OoT1xddt2kqw6hhc4v01e8i.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 101,
+  "rating": 6.3,
+  "description": "Two years after defeating a satanic cult led by his babysitter Bee, Cole's trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.",
+  "created_at": "2026-07-22T15:22:44.378Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4441,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

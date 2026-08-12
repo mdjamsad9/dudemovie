@@ -1,0 +1,32 @@
+{
+  "id": "6b1e1445-82f9-4379-860a-0a676e77e47f",
+  "title": "Dead",
+  "slug": "dead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eu40V59ULl92GIWfRGLAuzu5EYb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 6.1,
+  "description": "Dane ‘Marbles’ Marbeck can see ghosts, thanks to a homemade drug: his late father’s neurological medication mixed with marijuana.  Officer Jayson Tagg, a wannabe super-cop on the trail of a serial killer, ends up murdered.  So when Marbles’ mum plans to sell the family farm, and the only way of buying the house off her is taking the money offered by Tagg in exchange for his help, Marbles accepts.  The unlikely duo of stoner medium and ghost cop struggle to reconcile their differences while they navigate their way through ghouls, perverts, a mysterious hooded figure, and an unexpected shot at love.  It becomes clear the only way Marbles and Tagg will solve the case with their souls intact is to confront their deepest regrets and overcome their prejudices.",
+  "created_at": "2026-07-22T15:22:24.877Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4437,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
