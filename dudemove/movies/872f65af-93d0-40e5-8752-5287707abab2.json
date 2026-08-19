@@ -1,0 +1,40 @@
+{
+  "id": "872f65af-93d0-40e5-8752-5287707abab2",
+  "title": "The House with a Clock in Its Walls",
+  "slug": "the-house-with-a-clock-in-its-walls",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qM66Hv4ByAxnilr0jaqCA9uOD4Y.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.252,
+  "description": "When ten-year-old Lewis is suddenly orphaned, he is sent to live with his Uncle Jonathan in a creaky (and creepy) old mansion with a mysterious ticking noise that emanates from the walls. Upon discovering that his uncle is a warlock, Lewis begins learning magic, but when he rebelliously resurrects an evil warlock he must find the secret of the house and save the world from destruction.",
+  "created_at": "2026-08-06T04:59:53.524Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6457,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

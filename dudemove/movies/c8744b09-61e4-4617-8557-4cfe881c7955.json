@@ -1,0 +1,36 @@
+{
+  "id": "c8744b09-61e4-4617-8557-4cfe881c7955",
+  "title": "Bookworm",
+  "slug": "bookworm",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 104,
+  "rating": 6.529,
+  "description": "Eleven-year-old Mildred’s life is turned upside down when her mother lands in hospital and estranged, American magician father, Strawn Wise, comes to look after her.  Hoping to entertain the bookish tween, Strawn takes Mildred camping in the notoriously rugged New Zealand wilderness, and the pair embark on the ultimate test of family bonding – a quest to find the mythological beast known as the Canterbury Panther.",
+  "created_at": "2026-07-09T17:12:06.783Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1325,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Bookworm.2024.1080p.WEBRip.x264%20%5BDDN%5D/Bookworm.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

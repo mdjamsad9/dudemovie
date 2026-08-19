@@ -1,0 +1,36 @@
+{
+  "id": "1fd7fabb-cb94-4832-8329-5454d9a5905a",
+  "title": "Ne Zha 2",
+  "slug": "ne-zha-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2025,
+  "duration": 144,
+  "rating": 8.152,
+  "description": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+  "created_at": "2026-07-09T16:53:36.659Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 717,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Ne%20Zha%202%20(2025)%20Hindi%20Chinese%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ne%20Zha%202%20%282025%29%20Hindi%20Chinese%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

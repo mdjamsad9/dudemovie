@@ -1,0 +1,28 @@
+{
+  "id": "be7d531d-25d1-49ce-ade8-83b8c9a631a1",
+  "title": "Paddleton",
+  "slug": "paddleton",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtssTSvNgY8132hPRtp1DbciYJ6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 89,
+  "rating": 6.961,
+  "description": "An unlikely friendship between two neighbors becomes an unexpectedly emotional journey when the younger man is diagnosed with terminal cancer.",
+  "created_at": "2026-07-22T15:33:24.639Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5376,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

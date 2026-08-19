@@ -1,0 +1,24 @@
+{
+  "id": "84b40d95-152f-4d82-aea2-39efebf29f7d",
+  "title": "Paranormal Attraction",
+  "slug": "paranormal-attraction",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8FYmHZlwdw8npMAatnYbTtgPRhV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 4.5,
+  "description": "Paranormal Attraction tells the dark and sinister tale of a young woman, Sara Myer, who moves into an abandoned house with a tragic and mysterious past.",
+  "created_at": "2026-07-22T15:22:43.644Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4292,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

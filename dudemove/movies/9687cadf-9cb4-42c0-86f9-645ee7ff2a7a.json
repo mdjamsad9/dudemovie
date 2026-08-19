@@ -1,0 +1,36 @@
+{
+  "id": "9687cadf-9cb4-42c0-86f9-645ee7ff2a7a",
+  "title": "The Rajasaab",
+  "slug": "the-rajasaab",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2026,
+  "duration": 186,
+  "rating": 5.3,
+  "description": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
+  "created_at": "2026-07-09T16:40:25.251Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 181,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/The%20Raja%20Saab%20(2026)%20Hindi%201080p%20HDTS%20x264%20%5BDDN%5D/The%20Raja%20Saab%20(2026)%20Hindi%201080p%20HDTS%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9b593c50-49fe-4191-8556-e1019f53d70c",
+  "title": "Mithra Mandali",
+  "slug": "mithra-mandali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A1nFTGWgoP1FAiDsE0NJXTVjORk.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 4,
+  "description": "The lives of a group of misfit friends become chaotic after one of them falls for a politician's daughter.",
+  "created_at": "2026-07-09T16:49:50.003Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 761,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mithra%20Mandali%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mithra%20Mandali%20(2025)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

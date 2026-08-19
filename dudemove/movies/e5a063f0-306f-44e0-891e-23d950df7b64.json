@@ -1,0 +1,28 @@
+{
+  "id": "e5a063f0-306f-44e0-891e-23d950df7b64",
+  "title": "The Devil Below",
+  "slug": "the-devil-below",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bKpkB86oJ2IyIlpGLTF66zBPSDp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 89,
+  "rating": 4.588,
+  "description": "A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.",
+  "created_at": "2026-07-22T15:19:36.869Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3762,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

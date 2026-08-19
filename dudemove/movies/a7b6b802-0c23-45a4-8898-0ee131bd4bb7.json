@@ -1,0 +1,24 @@
+{
+  "id": "a7b6b802-0c23-45a4-8898-0ee131bd4bb7",
+  "title": "Logout",
+  "slug": "logout",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iBM6DqjVbuY5y44d96mb9QVcAqr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2025,
+  "duration": null,
+  "rating": 6.5,
+  "description": "Pratyush, a social media influencer who is about to reach his biggest milestone in terms of followers to land a deal with a brand, loses his phone to a fan obsessed with him. Trapped in his own house without his phone, Pratyush must find a way to reclaim his identity and his career.",
+  "created_at": "2026-07-22T15:09:48.563Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 661,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

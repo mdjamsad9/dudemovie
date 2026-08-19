@@ -1,0 +1,28 @@
+{
+  "id": "8154dd0a-85eb-4aec-ac87-7dc6169bf1f0",
+  "title": "Love on the Rise",
+  "slug": "love-on-the-rise",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7Twoq37KJudpNuXh5Zbp91IhsSq.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 86,
+  "rating": 5.8,
+  "description": "A baker mistakes a wealthy bachelor for a waiter and the two quickly fall in love, not realizing his company is trying to evict her bakery.",
+  "created_at": "2026-07-22T15:24:18.159Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 4486,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "af31c1b7-6703-49a9-afaf-e35f89615fad",
+  "title": "She Walks in Darkness",
+  "slug": "she-walks-in-darkness",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lR7TH2IlUJWh92HuiYrlb8rNuCp.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2025,
+  "duration": 105,
+  "rating": 6.7,
+  "description": "A young agent leaves everything behind to pose as a member of ETA, risking her life to uncover the terrorists' hideouts in the south of France.",
+  "created_at": "2026-07-09T16:51:11.228Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 749,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/She%20Walks%20in%20Darkness%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/She%20Walks%20in%20Darkness%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

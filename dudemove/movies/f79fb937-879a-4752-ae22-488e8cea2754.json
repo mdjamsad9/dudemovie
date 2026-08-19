@@ -1,0 +1,32 @@
+{
+  "id": "f79fb937-879a-4752-ae22-488e8cea2754",
+  "title": "The Legend of Ochi",
+  "slug": "the-legend-of-ochi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 95,
+  "rating": 6.165,
+  "description": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+  "created_at": "2026-07-09T16:58:30.122Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 673,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Legend.Of.Ochi.2025.1080p.WEBRip.x264%20%5BDDN%5D/The.Legend.Of.Ochi.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

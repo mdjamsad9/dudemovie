@@ -1,0 +1,28 @@
+{
+  "id": "7c52958b-1e8b-4943-ac0e-7603ace826ae",
+  "title": "Yuva",
+  "slug": "yuva",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8cMCIsULa0IrZq0KkCLejMINWmq.jpg",
+  "is_premium": false,
+  "country": "Bangladesh",
+  "language": "Bengali",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.567,
+  "description": "An accident on a bridge ties together three young men from different social classes, sparking a course of events that will forever alter their lives.",
+  "created_at": "2026-07-09T17:23:55.700Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 1005,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Yuva%20(2024)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Yuva%20(2024)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

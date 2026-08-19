@@ -1,0 +1,32 @@
+{
+  "id": "2a19b175-c8f0-4e5b-8dcb-2f31a71c2adc",
+  "title": "Ballerina",
+  "slug": "ballerina",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 125,
+  "rating": 7.255,
+  "description": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+  "created_at": "2026-07-09T16:56:19.999Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 689,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Ballerina.2025.1080p.WEBRip.x264%20%5BDDN%5D/Ballerina.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

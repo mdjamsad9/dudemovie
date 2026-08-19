@@ -1,0 +1,28 @@
+{
+  "id": "e4cb6d98-1d97-4994-8396-65c016b7084a",
+  "title": "Relic",
+  "slug": "relic",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 89,
+  "rating": 6.105,
+  "description": "When elderly mother Edna inexplicably vanishes, her daughter rushes to the family's decaying home, finding clues of her increasing dementia scattered around the house in her absence.",
+  "created_at": "2026-07-22T15:23:53.015Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4503,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

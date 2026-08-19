@@ -1,0 +1,32 @@
+{
+  "id": "c68506b9-89d6-455c-ba04-70e85942cd08",
+  "title": "Book Club",
+  "slug": "book-club",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ORGBbOA45pfKQXvntPf46NoFGO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 104,
+  "rating": 6.226,
+  "description": "Four lifelong friends decide that their lives could change by becoming nasty and reading Fifty Shades of Grey in their monthly book club to get inspiration on how to handle sexual pleasure at an elderly age.",
+  "created_at": "2026-07-22T15:36:29.434Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5821,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

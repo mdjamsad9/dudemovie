@@ -1,0 +1,24 @@
+{
+  "id": "8feb4f36-ec03-486f-b2c7-1c158e081431",
+  "title": "Ip Man: Kung Fu Legend",
+  "slug": "ip-man-kung-fu-legend",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+  "is_premium": false,
+  "country": "China",
+  "language": "Chinese",
+  "release_year": 2026,
+  "duration": 98,
+  "rating": null,
+  "description": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+  "created_at": "2026-07-09T16:31:59.446Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 241,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Ip%20Man%20Kung%20Fu%20Legend%20(2026)%20Chinese%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Ip%20Man%20Kung%20Fu%20Legend%20%282026%29%20Chinese%201080p%20BluRay%20x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "39eafa4a-7638-4f5c-8988-64ee43be7dd2",
+  "title": "Tòkunbọ̀",
+  "slug": "t-kunb",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d3xGOKXBXDux0cKOwjUT96hI8AP.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 113,
+  "rating": 6.7,
+  "description": "An ex-car smuggler is given three hours to deliver a government official's daughter to her captor — or else his family will suffer the consequences.",
+  "created_at": "2026-07-09T17:14:03.190Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 861,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Tokunbo.2024.1080p.WEBRip.x264%20%5BDDN%5D/Tokunbo.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

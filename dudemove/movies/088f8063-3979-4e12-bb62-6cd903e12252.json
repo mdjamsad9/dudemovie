@@ -1,0 +1,40 @@
+{
+  "id": "088f8063-3979-4e12-bb62-6cd903e12252",
+  "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+  "slug": "scooby-doo-batman-the-brave-and-the-bold",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uImdPC9V5L4uSWA6HV6Q6nxc8Ib.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 76,
+  "rating": 7.2,
+  "description": "Scooby-Doo and the Mystery Inc. gang meet up with Batman and other friends to defeat evil villains and save the day.",
+  "created_at": "2026-07-22T15:40:34.143Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6201,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

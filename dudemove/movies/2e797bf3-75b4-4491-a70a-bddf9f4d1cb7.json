@@ -1,0 +1,36 @@
+{
+  "id": "2e797bf3-75b4-4491-a70a-bddf9f4d1cb7",
+  "title": "Maalik",
+  "slug": "maalik-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/etb6zsDB8SmIWBKXIUI2U73gfUH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 152,
+  "rating": 5.813,
+  "description": "Set in the rural, rusty and politically charged Allahabad of the 1980s, Maalik is a peek into the making of a dreaded gangster from a humble background with intoxication of power to rule the world.",
+  "created_at": "2026-07-09T16:53:52.281Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 713,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Maalik%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/Maalik%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

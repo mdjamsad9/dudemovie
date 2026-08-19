@@ -1,0 +1,28 @@
+{
+  "id": "270c92eb-3418-481d-a111-d8f684848d8a",
+  "title": "Vicious",
+  "slug": "vicious",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 98,
+  "rating": 5.932,
+  "description": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
+  "created_at": "2026-07-09T16:51:32.462Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 745,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Vicious.2025.1080p.WEBRip.x264%20%5BDDN%5D/Vicious.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

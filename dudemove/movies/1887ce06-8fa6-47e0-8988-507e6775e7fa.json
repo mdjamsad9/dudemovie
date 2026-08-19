@@ -1,0 +1,24 @@
+{
+  "id": "1887ce06-8fa6-47e0-8988-507e6775e7fa",
+  "title": "The First Omen",
+  "slug": "the-first-omen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tnsDyNNkOxYUyjD8CNJoAla6YvY.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 119,
+  "rating": 6.813,
+  "description": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+  "created_at": "2026-07-09T17:19:50.130Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 997,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.First.Omen.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.First.Omen.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

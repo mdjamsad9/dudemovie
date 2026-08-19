@@ -1,0 +1,32 @@
+{
+  "id": "72d84cfe-c728-4cdb-a07e-32ff40c00fe8",
+  "title": "Return to Silent Hill",
+  "slug": "return-to-silent-hill",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "Spanish",
+  "release_year": 2026,
+  "duration": 106,
+  "rating": 5.4,
+  "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+  "created_at": "2026-07-09T16:40:56.406Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 161,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Return.To.Silent.Hill.2026.1080p.WEBRip.x264%20%5BDDN%5D/Return.To.Silent.Hill.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6bd8fedc-8b97-494f-b8e6-e77515633be7",
+  "title": "Mohini",
+  "slug": "mohini",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fFTbwRo3vYvewwMDEalgDJcx5F8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 142,
+  "rating": null,
+  "description": "A spirit takes revenge on a few people by entering into the body of its lookalike.",
+  "created_at": "2026-07-31T07:10:44.117Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6216,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

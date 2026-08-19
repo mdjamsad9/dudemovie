@@ -1,0 +1,36 @@
+{
+  "id": "e486df92-4c38-418d-aa4e-d46c52941e87",
+  "title": "Prisoner of War",
+  "slug": "prisoner-of-war",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4T4yRG6iskDcfMeoLuUZEJYCrjL.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "German",
+  "release_year": 2025,
+  "duration": 113,
+  "rating": 7.1,
+  "description": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
+  "created_at": "2026-07-09T16:52:34.783Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 729,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Prisoner.Of.War.2025.1080p.WEBRip.x264%20%5BDDN%5D/Prisoner.Of.War.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

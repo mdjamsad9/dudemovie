@@ -1,0 +1,32 @@
+{
+  "id": "6234f5b0-c6ec-44bc-94c0-cb2795d177f5",
+  "title": "The Silencing",
+  "slug": "the-silencing",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 93,
+  "rating": 6.4,
+  "description": "A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+  "created_at": "2026-07-22T15:22:02.188Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 4220,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

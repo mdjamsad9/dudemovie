@@ -1,0 +1,28 @@
+{
+  "id": "f401f298-0ccf-4f0a-b655-1e242e30ab5d",
+  "title": "Force of Nature: The Dry 2",
+  "slug": "force-of-nature-the-dry-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sw4M0jLT04FM1p3C2XQ3il50wgV.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 112,
+  "rating": 6.317,
+  "description": "When five women take part in a corporate hiking retreat and only four come out on the other side, Federal Agents Aaron Falk and Carmen Cooper head deep into the Victorian mountain ranges to investigate in the hopes of finding their whistle-blowing informant, Alice Russell, alive.",
+  "created_at": "2026-07-09T17:23:50.436Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1009,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Force.Of.Nature.The.Dry.2.2024.1080p.BluRay.x264%20%5BDDN%5D/Force.Of.Nature.The.Dry.2.2024.1080p.BluRay.x264%20%5bDDN%5d.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

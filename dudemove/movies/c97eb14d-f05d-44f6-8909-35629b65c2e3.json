@@ -1,0 +1,28 @@
+{
+  "id": "c97eb14d-f05d-44f6-8909-35629b65c2e3",
+  "title": "Aaragan",
+  "slug": "aaragan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e35XoiTtuLSpL6We5kx9GmvX4o4.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 90,
+  "rating": null,
+  "description": "Saravanan and Magizhnila, deeply in love, are looking to secure their future together but need more financial stability. When Magizhnila lands a higher-paying job in a new town, it seems like a promising opportunity. However, she soon faces a series of harrowing challenges. How she navigate this turbulent phase forms the heart of the story.",
+  "created_at": "2026-07-09T17:12:31.736Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1317,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aaragan%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aaragan%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

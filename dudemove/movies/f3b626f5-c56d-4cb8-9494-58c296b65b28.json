@@ -1,0 +1,28 @@
+{
+  "id": "f3b626f5-c56d-4cb8-9494-58c296b65b28",
+  "title": "Dha Dha 87",
+  "slug": "dha-dha-87",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4UXXajMNEdjXg3BborS0s7DnZxx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 142,
+  "rating": null,
+  "description": "A happy-go-lucky guy, who falls in love in his locality, gets the shock of his life when she reveals her real identity to him.",
+  "created_at": "2026-07-31T07:07:00.629Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4981,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

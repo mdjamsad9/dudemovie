@@ -1,0 +1,28 @@
+{
+  "id": "6e355c61-e038-45eb-a143-99bceed21787",
+  "title": "Tinsel Town",
+  "slug": "tinsel-town",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 94,
+  "rating": 5.8,
+  "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+  "created_at": "2026-07-09T16:47:49.380Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 844,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Tinsel.Town.2025.1080p.WEBRip.x264%20%5BDDN%5D/Tinsel.Town.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1320d45d-46b4-4305-ac6a-72faa69fa998",
+  "title": "The Grudge",
+  "slug": "the-grudge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 94,
+  "rating": 5.417,
+  "description": "After a young mother murders her family in her own house, a detective attempts to investigate the mysterious case, only to discover that the house is cursed by a vengeful ghost. Now targeted by the demonic spirits, the detective must do anything to protect herself and her family from harm.",
+  "created_at": "2026-07-22T15:25:41.913Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4651,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

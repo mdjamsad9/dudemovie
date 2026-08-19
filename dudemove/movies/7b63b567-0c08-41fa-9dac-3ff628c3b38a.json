@@ -1,0 +1,24 @@
+{
+  "id": "7b63b567-0c08-41fa-9dac-3ff628c3b38a",
+  "title": "Chhapaak",
+  "slug": "chhapaak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cr5KqiolMMRUEJxrNLWESxyVVeU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 123,
+  "rating": 7.229,
+  "description": "A true story based on acid attack survivor Malti's grueling and glorious journey from her medical treatment, court proceedings leading to her emotional healing.",
+  "created_at": "2026-07-22T15:25:45.251Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4515,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
