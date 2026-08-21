@@ -1,0 +1,24 @@
+{
+  "id": "f373dd34-d8d1-4d12-9441-e948d2d28100",
+  "title": "Aaro",
+  "slug": "aaro",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/barURdKpH7SFOhjZnKjLaQX2MK6.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 22,
+  "rating": null,
+  "description": "Someone explores the quiet spaces between memory, longing and silence. Crafted with restraint and emotional depth, the film reflects on the moments we hold close and the words that remain unspoken.",
+  "created_at": "2026-07-09T17:24:05.382Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 614,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Aaro%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Aaro%20(2024)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

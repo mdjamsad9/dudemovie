@@ -1,0 +1,32 @@
+{
+  "id": "cf451ff7-6af7-491f-ba6b-f2482cb7175a",
+  "title": "Saheb, Biwi Aur Gangster 3",
+  "slug": "saheb-biwi-aur-gangster-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/92mhRkrhOiQmtwDXGSkC0ULDS3Q.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 134,
+  "rating": 6,
+  "description": "It’s the third edition of Saheb, Biwi Aur Gangster series where it’s survival of the wittiest and the wealthiest. Will the royal couple Madhavi Devi and Aditya Pratap Singh live to tell the tale of relentless plotting, scheming and backstabbing?",
+  "created_at": "2026-07-22T15:35:39.414Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5562,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Srinivasa%20Mangapuram%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Srinivasa%20Mangapuram%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
