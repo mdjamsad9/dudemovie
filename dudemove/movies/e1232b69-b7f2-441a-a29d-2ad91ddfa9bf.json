@@ -1,0 +1,36 @@
+{
+  "id": "e1232b69-b7f2-441a-a29d-2ad91ddfa9bf",
+  "title": "LEGO DC: Shazam! Magic and Monsters",
+  "slug": "lego-dc-shazam-magic-and-monsters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ziIyuNNNwYqv0qbOpV9VvvdnRBb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 81,
+  "rating": 7.103,
+  "description": "It’s high time the Justice League took notice of Shazam, but joining the world’s greatest team of superheroes is a lot harder when they’ve all been turned into kids.",
+  "created_at": "2026-07-22T15:24:21.406Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4446,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
