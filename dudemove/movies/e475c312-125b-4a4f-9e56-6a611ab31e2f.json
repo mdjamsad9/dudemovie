@@ -1,0 +1,32 @@
+{
+  "id": "e475c312-125b-4a4f-9e56-6a611ab31e2f",
+  "title": "LAW",
+  "slug": "law-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xm4cf3v0AXh1jT7zlybKjgXDaYl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": null,
+  "description": "Nandhini, a law student who is caught in a precarious situation, fights for justice for a gruesome crime involving herself.",
+  "created_at": "2026-07-31T07:01:28.647Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4490,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

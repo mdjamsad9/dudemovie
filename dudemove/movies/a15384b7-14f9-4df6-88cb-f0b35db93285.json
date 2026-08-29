@@ -1,0 +1,32 @@
+{
+  "id": "a15384b7-14f9-4df6-88cb-f0b35db93285",
+  "title": "Amar",
+  "slug": "amar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fswwE4dxT5t1fSajZv8aHue6Z9M.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 132,
+  "rating": null,
+  "description": "A romantic drama inspired by certain real life incidents from the 1990s, the film follows the story of two youngsters who meet and fall in love during a bike rally. Directed by Nagshekar, Amar stars Abhishek Ambareesh and Tanya Hope in the lead roles",
+  "created_at": "2026-07-31T07:10:53.733Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5324,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3a708cf1-4f20-4117-938b-130b3bf23c97",
+  "title": "Kaake Da Viyah",
+  "slug": "kaake-da-viyah",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3a6VOHuMeNLtTSVsOmpFmnVy9Ux.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2019,
+  "duration": 133,
+  "rating": null,
+  "description": "A guy's family wants him to get married but it is harder than he thought. On one hand, his grandmother wants him to get married to a girl of her choice, and on the other, his mother is eager to select a girl for him. On top of that, he is already in love with a girl. His dilemma of being stuck between three women forms the crux of the story.",
+  "created_at": "2026-07-31T07:10:50.574Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5325,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

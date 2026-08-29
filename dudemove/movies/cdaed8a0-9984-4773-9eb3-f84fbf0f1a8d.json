@@ -1,0 +1,32 @@
+{
+  "id": "cdaed8a0-9984-4773-9eb3-f84fbf0f1a8d",
+  "title": "Memoir of a Snail",
+  "slug": "memoir-of-a-snail",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 94,
+  "rating": 8.035,
+  "description": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+  "created_at": "2026-07-09T17:08:51.434Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 869,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Memoir.Of.A.Snail.2024.1080p.WEBRip.x264%20%5BDDN%5D/Memoir.Of.A.Snail.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c4bb3b8a-38e7-48ae-9a94-6e7a8a2ba4f6",
+  "title": "The Wrong Missy",
+  "slug": "the-wrong-missy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A2YlIrzypvhS3vTFMcDkG3xLvac.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 90,
+  "rating": 6.124,
+  "description": "A guy meets the woman of his dreams and invites her to his company's corporate retreat, but realizes he sent the invite to the wrong person.",
+  "created_at": "2026-07-22T15:24:39.701Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4159,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

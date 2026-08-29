@@ -1,0 +1,28 @@
+{
+  "id": "88648df6-d513-493b-b5e0-6e93a2dddfe5",
+  "title": "Brothers Nest",
+  "slug": "brothers-nest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b2k7IdRHHuD2HZPZMWsZzRFUHoA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.592,
+  "description": "With their Mother dying of cancer, intent on changing her will to benefit her new husband before she dies, two brothers go to extreme and deadly lengths to protect their inheritance from being signed away before it’s too late.",
+  "created_at": "2026-08-06T04:59:33.952Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5742,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

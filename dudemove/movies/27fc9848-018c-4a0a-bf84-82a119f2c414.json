@@ -1,0 +1,28 @@
+{
+  "id": "27fc9848-018c-4a0a-bf84-82a119f2c414",
+  "title": "First Lady",
+  "slug": "first-lady",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nih7tOnkBP65LWtKbitPXvunbxk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 101,
+  "rating": 6.4,
+  "description": "A woman not married to the President runs for First Lady, but she winds up getting a better proposal than she ever expected. First Lady is a classic romantic comedy with the backdrop of Presidential Politics and Royal Charm.",
+  "created_at": "2026-07-22T15:25:58.733Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4093,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

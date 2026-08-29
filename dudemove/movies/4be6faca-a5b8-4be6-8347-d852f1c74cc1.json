@@ -1,0 +1,36 @@
+{
+  "id": "4be6faca-a5b8-4be6-8347-d852f1c74cc1",
+  "title": "Hearts Beat Loud",
+  "slug": "hearts-beat-loud",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 6.8,
+  "description": "In the hip Brooklyn neighborhood of Red Hook, single dad and record store owner Frank is preparing to send his hard-working daughter Sam off to college while being forced to close his vintage shop. Hoping to stay connected through their shared musical passions, Frank urges Sam to turn their weekly jam sessions into a father-daughter live act. After their first song becomes an internet breakout, the two embark on a journey of love, growing up and musical discovery.",
+  "created_at": "2026-07-22T15:35:46.396Z",
+  "genres": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5682,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4661a6e8-abed-49fb-a38e-8cb553c64907",
+  "title": "Saints Rest",
+  "slug": "saints-rest",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8gNHJ3iLIcne4RWqG5t6eUBfz19.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hebrew",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.8,
+  "description": "A musical drama set in small-town Iowa, SAINTS REST tells the story of two estranged sisters, who over the course of one summer, form a connection through their shared love of music, as they grieve the recent death of their mother.",
+  "created_at": "2026-08-06T04:59:17.791Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 5679,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

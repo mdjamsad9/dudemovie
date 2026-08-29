@@ -1,0 +1,28 @@
+{
+  "id": "3949dbc8-1995-44d9-b978-b62e529599c8",
+  "title": "Kaathadi",
+  "slug": "kaathadi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tUYaeEc73TxTXBBPJGRe3LxSe0G.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 119,
+  "rating": null,
+  "description": "Two criminals try to kidnap a child from a rich family and ask for a hefty ransom in order to live a happy life. However, things do not go as planned for the kidnappers.",
+  "created_at": "2026-07-31T07:25:24.108Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 6292,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

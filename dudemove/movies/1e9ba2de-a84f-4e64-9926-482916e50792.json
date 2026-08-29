@@ -1,0 +1,24 @@
+{
+  "id": "1e9ba2de-a84f-4e64-9926-482916e50792",
+  "title": "Zero Se Restart",
+  "slug": "zero-se-restart",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uNE1XVm9G1O4Xw4DpyPsHzXCUSz.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 88,
+  "rating": null,
+  "description": "Offers an exclusive behind-the-scenes look at the making of the critically acclaimed film 12th Fail. Featuring Vikrant Massey and visionary director Vidhu Vinod Chopra, the documentary reveals the untold challenges, meticulous efforts, and sheer determination that shaped the movie's success. From Massey's commitment to authenticity-aging his costumes himself-to Chopra's relentless pursuit of excellence, Zero Se Restart captures the resilience and teamwork essential to creating cinematic magic.",
+  "created_at": "2026-07-09T16:55:42.994Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 1673,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Zero%20Se%20Restart%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Zero%20Se%20Restart%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

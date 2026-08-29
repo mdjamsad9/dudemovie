@@ -1,0 +1,28 @@
+{
+  "id": "776e3635-6bd5-46e2-8a81-ec19e0dd4140",
+  "title": "Kodathi Samaksham Balan Vakeel",
+  "slug": "kodathi-samaksham-balan-vakeel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dgQMP75S0YQDNHIi8k4xRo6ymlg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 155,
+  "rating": null,
+  "description": "Balakrishnan is a lawyer who hasn't been able to achieve much in his professional life due to his stammer. His life takes an interesting turn when his brother-in-law entrusts him with a complex case involving a rich businessman.",
+  "created_at": "2026-07-31T07:15:01.288Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5278,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

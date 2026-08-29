@@ -1,0 +1,28 @@
+{
+  "id": "7f07e4f3-79bf-413d-b2da-2cd73c5747a4",
+  "title": "Kaamyaab",
+  "slug": "kaamyaab",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b2VeikFx112olsivPPzA8D3cTUL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 109,
+  "rating": 6.632,
+  "description": "The human drama is based on an interesting premise of a seasoned character actor who decides to come out of retirement and begin a quest for a record of some sorts, that elusive 500th role, the one for which he shall be remembered forever.",
+  "created_at": "2026-07-22T15:25:08.668Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4044,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

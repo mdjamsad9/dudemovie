@@ -1,0 +1,28 @@
+{
+  "id": "86bc506f-a04a-4a29-8a40-4213d577b6b9",
+  "title": "Mumbaikar",
+  "slug": "mumbaikar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/we0j8oUGcUEHXBTfjo1M6EnBNc0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 123,
+  "rating": 3.2,
+  "description": "Set in the bustling streets of Mumbai, four lives get unknowingly intertwined after a kidnapping goes wrong as the child abducted happens to be the son of Mumbai’s don.",
+  "created_at": "2026-07-22T15:12:11.964Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2390,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b84e0028-309d-4445-859b-7dd8684ba76e",
+  "title": "Naukar Vahuti Da",
+  "slug": "naukar-vahuti-da",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gLQ56L0XZOpYfDW0OTD4LXqtk55.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2019,
+  "duration": 120,
+  "rating": null,
+  "description": "Shivinder, a family man and an aspiring song writer, is estranged by his wife due to his inability to perform either roles well and chooses to become his in-laws’ driver to be able to stay close to his wife and daughter",
+  "created_at": "2026-07-31T07:02:44.639Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5478,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

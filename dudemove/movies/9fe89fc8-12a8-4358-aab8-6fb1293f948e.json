@@ -1,0 +1,32 @@
+{
+  "id": "9fe89fc8-12a8-4358-aab8-6fb1293f948e",
+  "title": "Glass",
+  "slug": "glass",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 6.665,
+  "description": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+  "created_at": "2026-08-06T04:59:33.051Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4727,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

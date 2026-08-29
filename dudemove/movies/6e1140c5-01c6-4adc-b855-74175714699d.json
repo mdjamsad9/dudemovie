@@ -1,0 +1,24 @@
+{
+  "id": "6e1140c5-01c6-4adc-b855-74175714699d",
+  "title": "Terrifier 2",
+  "slug": "terrifier-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6.674,
+  "description": "A year after the Miles County massacre, Art the Clown is resurrected by a sinister entity. Art returns home, where he must hunt down and destroy teenage Sienna and her younger brother Jonathan on Halloween. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+  "created_at": "2026-08-06T04:57:36.025Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 2849,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

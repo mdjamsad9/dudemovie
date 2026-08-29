@@ -1,0 +1,32 @@
+{
+  "id": "d49c5e21-f964-47ec-a805-fbb2c04ef01f",
+  "title": "The King's Daughter",
+  "slug": "the-king-s-daughter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 94,
+  "rating": 6.981,
+  "description": "King Louis XIV's quest for immortality leads him to capture and steal a mermaid's life force, a move that is further complicated by his illegitimate daughter's discovery of the creature.",
+  "created_at": "2026-07-22T15:15:49.032Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 2774,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

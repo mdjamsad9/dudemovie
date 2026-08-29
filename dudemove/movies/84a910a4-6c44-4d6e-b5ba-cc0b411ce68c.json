@@ -1,0 +1,24 @@
+{
+  "id": "84a910a4-6c44-4d6e-b5ba-cc0b411ce68c",
+  "title": "Children of the Corn Runaway",
+  "slug": "children-of-the-corn-runaway",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6PHzwnvTYLMdIHzJaMx9jUJlWXh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 4.582,
+  "description": "The plot of Children of the Corn: Runaway follows a young pregnant Ruth who escapes a murderous child cult in a small Midwestern town. She spends the next decade living anonymously in an attempt to spare her son the horrors that she experienced as a child. She lands in the small Oklahoma town, but something is following her. Now, she must confront this evil or lose her child.",
+  "created_at": "2026-08-06T05:00:47.309Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6199,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

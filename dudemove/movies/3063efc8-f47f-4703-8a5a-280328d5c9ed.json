@@ -1,0 +1,32 @@
+{
+  "id": "3063efc8-f47f-4703-8a5a-280328d5c9ed",
+  "title": "Weekenders",
+  "slug": "weekenders",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qvbadnugNf4BQQP2JKXlgpMDGQJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 76,
+  "rating": 5.2,
+  "description": "A scheduling mix-up at an Airbnb brings four twenty-somethings together, each navigating the open waters of where, how, and with whom they're supposed to be.",
+  "created_at": "2026-07-22T15:19:46.452Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3786,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

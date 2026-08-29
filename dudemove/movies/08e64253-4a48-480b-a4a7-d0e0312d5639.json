@@ -1,0 +1,32 @@
+{
+  "id": "08e64253-4a48-480b-a4a7-d0e0312d5639",
+  "title": "Captain Marvel",
+  "slug": "captain-marvel",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 6.778,
+  "description": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+  "created_at": "2026-08-06T04:59:16.416Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 4695,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

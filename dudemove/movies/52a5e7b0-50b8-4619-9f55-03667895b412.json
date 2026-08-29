@@ -1,0 +1,32 @@
+{
+  "id": "52a5e7b0-50b8-4619-9f55-03667895b412",
+  "title": "Evvarikee Cheppoddu",
+  "slug": "evvarikee-cheppoddu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zFfylEA0CD27sRwRIW7tzCY3K4D.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 134,
+  "rating": null,
+  "description": "Hari and Harathi are in love, but Harathi's father won't agree to their relationship because of their caste differences.",
+  "created_at": "2026-07-31T07:07:25.796Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5396,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

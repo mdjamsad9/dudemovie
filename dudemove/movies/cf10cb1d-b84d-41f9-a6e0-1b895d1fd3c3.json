@@ -1,0 +1,32 @@
+{
+  "id": "cf10cb1d-b84d-41f9-a6e0-1b895d1fd3c3",
+  "title": "The First Purge",
+  "slug": "the-first-purge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 97,
+  "rating": 6.001,
+  "description": "To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.",
+  "created_at": "2026-07-22T15:35:36.426Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5912,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ffc1e268-1ea6-47b4-ac89-f1eb9b2faf66",
+  "title": "Best F(r)iends Volume 1",
+  "slug": "best-f-r-iends-volume-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uwd4qZ6hr13m3txjqyQtPJZKbyd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.4,
+  "description": "When a drifter befriends a quirky mortician, an unlikely business partnership is formed. Paranoia soon develops, however, and both men are forced to come to terms with the fragility of friendship and loyalty.",
+  "created_at": "2026-08-06T05:00:05.127Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6068,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c0edf915-0d49-4e31-a0b4-a88ce5613138",
+  "title": "Dasvi",
+  "slug": "dasvi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zL40soH0AYoBD5BVNu9U2B98ejD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 127,
+  "rating": 6.125,
+  "description": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school while his scheming wife has plans of her own.",
+  "created_at": "2026-07-22T15:14:51.966Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 2990,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

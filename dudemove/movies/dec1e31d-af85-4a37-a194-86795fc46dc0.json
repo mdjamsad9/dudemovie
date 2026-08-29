@@ -1,0 +1,28 @@
+{
+  "id": "dec1e31d-af85-4a37-a194-86795fc46dc0",
+  "title": "Selfiee",
+  "slug": "selfiee",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1QU1MCj0gFEZzIKl6pbfLsfClbJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 143,
+  "rating": 5.96,
+  "description": "RTO officer Om Prakash strikes a golden opportunity to meet his icon, Vijay Kumar. Bhut when his love gets spurned by the superstar, a clash of egos ensues.",
+  "created_at": "2026-07-22T15:12:23.748Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2122,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cea1d82e-bc94-4a1d-893b-47d60f218af1",
+  "title": "The Watchers",
+  "slug": "the-watchers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 102,
+  "rating": 6.349,
+  "description": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+  "created_at": "2026-07-09T17:17:50.648Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 1156,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Watchers.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Watchers.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

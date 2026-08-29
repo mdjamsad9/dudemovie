@@ -1,0 +1,32 @@
+{
+  "id": "b2c8afeb-ec4d-46e3-8a92-f4b424ec62d0",
+  "title": "Vedaa",
+  "slug": "vedaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wK0p210TWMH4P3isT1bI0FVEuZ9.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 151,
+  "rating": 5.8,
+  "description": "A court-marshalled soldier with a traumatic past helps a young girl from 'lower' caste and an aspiring boxer work towards her dreams despite her hostile environment.",
+  "created_at": "2026-07-09T17:00:33.089Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1286,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Vedaa%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vedaa%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

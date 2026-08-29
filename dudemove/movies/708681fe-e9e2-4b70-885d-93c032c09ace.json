@@ -1,0 +1,32 @@
+{
+  "id": "708681fe-e9e2-4b70-885d-93c032c09ace",
+  "title": "Shakuntala Devi",
+  "slug": "shakuntala-devi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8KBmoMHfdrjednxWAvkh7ARhrRJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 6.526,
+  "description": "Based on the life of Shakuntala Devi who is a well-known mathematical genius and calculating progidy from India. She has been nicknamed 'Human Computer' because of her extraordinary talent and skill in solving complex mathematical problems without any mechanical aid.",
+  "created_at": "2026-08-06T04:58:29.914Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4069,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

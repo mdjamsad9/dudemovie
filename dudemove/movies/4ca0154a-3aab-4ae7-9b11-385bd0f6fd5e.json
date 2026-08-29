@@ -1,0 +1,32 @@
+{
+  "id": "4ca0154a-3aab-4ae7-9b11-385bd0f6fd5e",
+  "title": "Ramprasad Ki Tehrvi",
+  "slug": "ramprasad-ki-tehrvi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/isiZRJmqQ0Wu7ELJrBdqD8P2HI6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 106,
+  "rating": 6.56,
+  "description": "Ramprasad's entire family gathers under one roof for 13 days after his death, to perform and observe the Hindu traditions and rituals called the tehrvi. During the course, the family’s dynamics, politics, and insecurities come out, and then they realise that the importance of people and things are only evident in retrospect.",
+  "created_at": "2026-07-22T15:20:20.475Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3593,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

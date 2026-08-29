@@ -1,0 +1,28 @@
+{
+  "id": "ca716551-cbd5-473b-a846-0ce0107551b6",
+  "title": "Jhamkudi",
+  "slug": "jhamkudi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/WV1qNsQFUKdP4bdUIyWkUVAV8W.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Gujarati",
+  "release_year": 2024,
+  "duration": 152,
+  "rating": 3.5,
+  "description": "When the Gujarat is celebrating Navratri, the village of Raniwada dwells in the darkness since ages as celebrating garba is forbidden due to a witch's curse. But the rules are broken and the haunting starts again. A real estate agent with tricks up his sleeve is called back from the city and an NRI heir of the royal family returns to face the wrath of the witch. Will they be able to solve the mystery and save Raniwada from the curse of Jhamkudi?",
+  "created_at": "2026-07-09T16:52:41.587Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 1426,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Jhamkudi%20(2024)%20Hindi%20Gujarati%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jhamkudi%20%282024%29%20Hindi%20Gujarati%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

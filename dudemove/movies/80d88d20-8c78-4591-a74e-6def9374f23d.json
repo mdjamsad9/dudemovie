@@ -1,0 +1,28 @@
+{
+  "id": "80d88d20-8c78-4591-a74e-6def9374f23d",
+  "title": "Ana",
+  "slug": "ana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bYHxq8yNLTr7LZP2wBjpMPkW6EV.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2020,
+  "duration": 105,
+  "rating": 6.3,
+  "description": "Ana meets Rafa in a chance encounter and they embark on a road trip to try and save him from bankruptcy, or worse.",
+  "created_at": "2026-07-22T15:25:37.868Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4118,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

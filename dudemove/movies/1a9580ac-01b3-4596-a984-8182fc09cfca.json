@@ -1,0 +1,40 @@
+{
+  "id": "1a9580ac-01b3-4596-a984-8182fc09cfca",
+  "title": "Hotel Artemis",
+  "slug": "hotel-artemis",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.071,
+  "description": "Los Angeles, June 21st, 2028. While the streets are being torn apart by riots, the Nurse, who runs a clandestine hospital for criminals in the penthouse of the Artemis, a closed old hotel, has a rough night dealing with troublemaker clients: thieves, assassins, someone from the past and the one who owns the place and the whole city.",
+  "created_at": "2026-08-06T05:00:04.679Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5899,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

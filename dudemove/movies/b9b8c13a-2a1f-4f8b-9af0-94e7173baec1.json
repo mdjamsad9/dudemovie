@@ -1,0 +1,28 @@
+{
+  "id": "b9b8c13a-2a1f-4f8b-9af0-94e7173baec1",
+  "title": "The Hidden Strike",
+  "slug": "the-hidden-strike",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7QjUlCH4gaTSpacDYChVT0kvy83.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": null,
+  "rating": null,
+  "description": "The Hidden Strike is a fictional movie about a ground mission where a team of thirteen Indian Army officers and soldiers went across POK and destroyed the terrorist camp with a planned sub tactical strike. The film is dedicated to India soldiers and their families. The film shows what price our freedom fighters pay for the safety of our country. The Hidden Strike also highlights issues that the Indian Army faces from certain groups of people from the valley.  —Suzad Iqbal Khan",
+  "created_at": "2026-08-06T04:58:28.162Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4420,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

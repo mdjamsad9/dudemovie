@@ -1,0 +1,32 @@
+{
+  "id": "ecbf56d6-c33d-48d9-962a-417d917e4cd9",
+  "title": "Alma & the Wolf",
+  "slug": "alma-the-wolf",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t4SUgmGGhMS4t9g0DJzAjRS5Hcj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 89,
+  "rating": 5.274,
+  "description": "After a violent animal attack, paranoia spreads through Spiral Creek. But when Deputy Ren Accord gets too close, his son vanishes, and reality begins to fracture.",
+  "created_at": "2026-07-09T16:56:31.301Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 719,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Alma.And.The.Wolf.2025.1080p.WEBRip.x264%20%5BDDN%5D/Alma.And.The.Wolf.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d93fb426-739b-465e-8e60-42624966e9a3",
+  "title": "Bombay Rose",
+  "slug": "bombay-rose",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6dXPo495OANEEtzCk9u4wJVpfqw.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 6.641,
+  "description": "Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested by duty and religious divides.",
+  "created_at": "2026-08-06T04:58:11.176Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3566,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

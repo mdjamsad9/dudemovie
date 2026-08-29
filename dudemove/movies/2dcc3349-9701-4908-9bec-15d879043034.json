@@ -1,0 +1,24 @@
+{
+  "id": "2dcc3349-9701-4908-9bec-15d879043034",
+  "title": "Boy",
+  "slug": "boy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hCBR4EPalfoOuMV7m9z9iLQESnX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2019,
+  "duration": 129,
+  "rating": null,
+  "description": "15 year old 'Mahi teja' is studying his 10th. His simple world revolves around his home, school, his best friend 'Vayu Nandan' and his first crush 'Varna' who is also in 10th but in different school. Mahi realizes that Varna has taken pre-admission in National College. So his mission is now to join the same college. But he is devastated to know that the college is considered a Gateway to the IITs and to get an admission the cut off mark in Mathematics is 95%. Mathematics. It's his worst nightmare. He does well in all the other subjects except Maths as he is scared of Mr. Nagendra kumar, his very strict Maths teacher. How he is able to overcome the maths phobia and achieves his goal is the rest of story.",
+  "created_at": "2026-07-31T07:02:51.421Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5475,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

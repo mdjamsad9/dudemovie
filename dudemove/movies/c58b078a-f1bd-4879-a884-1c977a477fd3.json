@@ -1,0 +1,28 @@
+{
+  "id": "c58b078a-f1bd-4879-a884-1c977a477fd3",
+  "title": "Alien Outbreak",
+  "slug": "alien-outbreak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uSf3oRbf9j6XPqp15Wk5VsAce37.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 84,
+  "rating": 4,
+  "description": "In a small rural community, local police officers Zoe and Patrick begin their shift as normal but soon, strange events unfold. Residents begin behaving erratically, and suicidal panic spreads amongst the township they are trying to protect. Zoe and Patrick realise alien machines are taking hold, cutting their small group of survivors off from the outside world. Can the determined humans band together to save their community, and all mankind, from extinction?",
+  "created_at": "2026-07-22T15:26:05.874Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4385,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

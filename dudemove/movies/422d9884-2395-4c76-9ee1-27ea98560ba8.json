@@ -1,0 +1,28 @@
+{
+  "id": "422d9884-2395-4c76-9ee1-27ea98560ba8",
+  "title": "The Diplomat",
+  "slug": "the-diplomat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 130,
+  "rating": 6.535,
+  "description": "The Deputy High Commissioner, J.P. Singh, faces an unusual crisis when a mysterious woman rushes inside the Indian High Commission in Islamabad, claiming forced marriage in Pakistan and seeking a return to India.",
+  "created_at": "2026-07-22T15:09:49.602Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 492,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

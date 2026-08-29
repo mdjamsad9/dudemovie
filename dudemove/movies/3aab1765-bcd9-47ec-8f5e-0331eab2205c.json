@@ -1,0 +1,24 @@
+{
+  "id": "3aab1765-bcd9-47ec-8f5e-0331eab2205c",
+  "title": "Pati Patni Aur Woh Do",
+  "slug": "pati-patni-aur-woh-do",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 117,
+  "rating": 6.2,
+  "description": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+  "created_at": "2026-07-09T16:35:11.048Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 141,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Pati%20Patni%20Aur%20Woh%20Do%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

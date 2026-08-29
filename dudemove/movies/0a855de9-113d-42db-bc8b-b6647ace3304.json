@@ -1,0 +1,28 @@
+{
+  "id": "0a855de9-113d-42db-bc8b-b6647ace3304",
+  "title": "Mounam",
+  "slug": "mounam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/v3KYipBzfiNIFG5P2EH9pBloYI4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2020,
+  "duration": 147,
+  "rating": null,
+  "description": "When a person is alone, there are many emotions that start running off in his mind. This film is a psychological thriller that captures these emotions of a different kind. When a person is silent, the mind is making a lot of sound.",
+  "created_at": "2026-07-31T07:02:46.570Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4477,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ac6cd4f0-c556-4ce8-a38a-8d7b4860b089",
+  "title": "Sumathi Valavu",
+  "slug": "sumathi-valavu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3xIDlnwjMf7kCOpFq8GMmW8on95.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 135,
+  "rating": 5,
+  "description": "A haunted curve in 1990s Kerala, named after Sumathis tragic death, draws various people into supernatural encounters. As they experience strange events, the mystery of Sumathi and the roads dark history begins to unfold.",
+  "created_at": "2026-07-09T16:52:12.161Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 734,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sumathi%20Valavu%20(2025)%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sumathi%20Valavu%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

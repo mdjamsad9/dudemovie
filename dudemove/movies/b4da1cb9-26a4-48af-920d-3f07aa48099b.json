@@ -1,0 +1,32 @@
+{
+  "id": "b4da1cb9-26a4-48af-920d-3f07aa48099b",
+  "title": "Nazi Overlord",
+  "slug": "nazi-overlord",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lLL6Uy6QUskX7NgZOq4XAFQcuog.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "German",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 4.3,
+  "description": "A D-Day rescue mission turns ugly when a band of Allied soldiers battle with horrific experiments created by the Nazis.",
+  "created_at": "2026-08-06T04:59:21.095Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6222,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

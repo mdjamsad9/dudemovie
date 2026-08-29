@@ -1,0 +1,32 @@
+{
+  "id": "99b30424-c134-4806-b20c-df7fa73b285f",
+  "title": "Another Simple Favor",
+  "slug": "another-simple-favor",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": 5.76,
+  "description": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
+  "created_at": "2026-07-09T16:59:31.607Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 663,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Another.Simple.Favor.2025.1080p.WEBRip.x264%20%5BDDN%5D/Another.Simple.Favor.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

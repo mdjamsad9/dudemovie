@@ -1,0 +1,28 @@
+{
+  "id": "4f13167f-bb90-44ab-b6ad-81d6ae55e294",
+  "title": "Desire",
+  "slug": "desire",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English Hindi",
+  "release_year": 2026,
+  "duration": 97,
+  "rating": 6,
+  "description": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+  "created_at": "2026-07-22T15:09:15.718Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 156,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "52748980-7d22-4f7d-b7c4-6f10e55a3c87",
+  "title": "Pinky Beauty Parlour",
+  "slug": "pinky-beauty-parlour",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hsPvwNyBupTa1JlVEYUWvIVNl7p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 116,
+  "rating": null,
+  "description": "Two sisters named Pinky and Bulbul own and operate a beauty salon in Banaras. One morning, a dead body is discovered in their parlour, sparking an investigation. As the case develops, the vibrant world of beauty salons and our society's deep-seated obsession with fair skin begin to come to light.",
+  "created_at": "2026-07-22T15:12:24.269Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2442,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

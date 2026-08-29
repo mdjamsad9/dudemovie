@@ -1,0 +1,32 @@
+{
+  "id": "43986b8d-213a-4d1f-93d7-50dcef1eb64d",
+  "title": "Jurassic World Rebirth",
+  "slug": "jurassic-world-rebirth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 134,
+  "rating": 6.27,
+  "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+  "created_at": "2026-07-09T16:54:35.482Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 560,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Jurassic.World.Rebirth.2025.1080p.WEBRip.x264%20%5BDDN%5D/Jurassic.World.Rebirth.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

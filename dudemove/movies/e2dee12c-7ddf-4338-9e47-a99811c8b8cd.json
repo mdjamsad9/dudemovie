@@ -1,0 +1,36 @@
+{
+  "id": "e2dee12c-7ddf-4338-9e47-a99811c8b8cd",
+  "title": "Artemis Fowl",
+  "slug": "artemis-fowl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 94,
+  "rating": 5.517,
+  "description": "Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father's disappearance.",
+  "created_at": "2026-07-22T15:24:13.741Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 4282,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

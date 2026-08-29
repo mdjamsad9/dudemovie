@@ -1,0 +1,32 @@
+{
+  "id": "cabd1034-81a2-4339-8955-30de15554fe6",
+  "title": "Dybbuk",
+  "slug": "dybbuk",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sy0u4UEzMxrj7G79LMQWcuO15kt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hebrew",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 5.088,
+  "description": "Mahi, a newly married woman, brings an antique Jewish box into her home. When Mahi and her husband Sam begin to have paranormal experiences, they soon learn that the box is a dybbuk containing an evil spirit. The couple then seeks the help of a rabbi to unravel its mystery. Will they survive this ordeal before their child is born?",
+  "created_at": "2026-08-06T04:58:00.506Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3792,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

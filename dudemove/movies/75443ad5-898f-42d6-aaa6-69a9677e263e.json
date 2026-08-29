@@ -1,0 +1,28 @@
+{
+  "id": "75443ad5-898f-42d6-aaa6-69a9677e263e",
+  "title": "Uyir",
+  "slug": "uyir",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Malayalam",
+  "release_year": 2026,
+  "duration": 136,
+  "rating": null,
+  "description": "Follows Ajeeb, a sub-inspector serving his probationary period at the Dharmadam Police Station in Kannur district, based on real incidents.",
+  "created_at": "2026-08-06T04:56:31.739Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 215,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

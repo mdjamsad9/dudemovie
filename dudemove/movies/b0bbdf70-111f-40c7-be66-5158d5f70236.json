@@ -1,0 +1,24 @@
+{
+  "id": "b0bbdf70-111f-40c7-be66-5158d5f70236",
+  "title": "Chandu Champion",
+  "slug": "chandu-champion",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AprEYzaWgMuSQtJXMxz1P5Z3e3P.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 143,
+  "rating": 7.197,
+  "description": "9 bullet wounds (one still in the body), three different sports and an unshakable determination to fulfill the dream of an Olympic Gold later, Muralikant Petkar, India's first Paralympian to finish at the top of the podium, got the recognition by his own country 45 years after he achieved what no athlete from his country could.",
+  "created_at": "2026-07-22T15:10:18.230Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 945,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

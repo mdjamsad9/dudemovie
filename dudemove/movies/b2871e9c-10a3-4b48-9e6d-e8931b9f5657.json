@@ -1,0 +1,28 @@
+{
+  "id": "b2871e9c-10a3-4b48-9e6d-e8931b9f5657",
+  "title": "O2",
+  "slug": "o2-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n9rH9of4930TAHgpQXlrENuAFU5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "A brilliant doctor battles her childhood trauma, to revive the dead with an illegal intravenous oxygen drug. Her quest challenges the boundaries of science, spirituality, and love. Will she succeed or lose everything!",
+  "created_at": "2026-07-31T06:39:37.297Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 1478,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

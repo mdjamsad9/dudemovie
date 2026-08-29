@@ -1,0 +1,24 @@
+{
+  "id": "50b25713-093c-4755-8a69-9d4f16d071e4",
+  "title": "The Hole in the Ground",
+  "slug": "the-hole-in-the-ground",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7DMRJzH9AwpSN5D19cExAB9vDZW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 5.65,
+  "description": "Trying to escape her broken past, Sarah O’Neill is building a new life on the fringes of a backwood rural town with her young son Chris. A terrifying encounter with a mysterious neighbour shatters her fragile security, throwing Sarah into a spiralling nightmare of paranoia and mistrust, as she tries to uncover if the disturbing changes in her little boy are connected to an ominous sinkhole buried deep in the forest that borders their home.",
+  "created_at": "2026-08-06T04:59:07.471Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4976,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

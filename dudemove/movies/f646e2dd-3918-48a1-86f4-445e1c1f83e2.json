@@ -1,0 +1,24 @@
+{
+  "id": "f646e2dd-3918-48a1-86f4-445e1c1f83e2",
+  "title": "Mixture Potlam",
+  "slug": "mixture-potlam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/AexS0khAnahRwXHiN8i0pZAmBaB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": null,
+  "rating": null,
+  "description": "Comedy entertainer",
+  "created_at": "2026-08-06T04:58:27.736Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4421,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

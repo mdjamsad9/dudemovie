@@ -1,0 +1,32 @@
+{
+  "id": "71ff880e-d426-4110-ad50-2762065eca24",
+  "title": "Bloody Daddy",
+  "slug": "bloody-daddy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 122,
+  "rating": 5.857,
+  "description": "Sumair Azad, a dirty cop and his friend, Jaggi, steal Sikandar Chowdhary's cocaine bag. As a result, Sikandar kidnaps Sumair's son, but things take a turn when he loses the cocaine bag as he faces off Gurugram’s drug lords, a crime boss, murderous narcs and straight cops on one fateful night.",
+  "created_at": "2026-07-22T15:12:10.024Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2148,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

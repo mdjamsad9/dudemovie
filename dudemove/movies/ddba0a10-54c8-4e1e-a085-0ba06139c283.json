@@ -1,0 +1,32 @@
+{
+  "id": "ddba0a10-54c8-4e1e-a085-0ba06139c283",
+  "title": "Bheeshma",
+  "slug": "bheeshma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pE0ECn6buZNigSDFlpoIngDNAuD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 151,
+  "rating": null,
+  "description": "Bheeshma Prasad, a simple meme creator has his life turned around when he wages a war against a powerful agro company that creates harmful chemicals to increase the crop yield and make more money.",
+  "created_at": "2026-07-31T07:03:18.039Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4469,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

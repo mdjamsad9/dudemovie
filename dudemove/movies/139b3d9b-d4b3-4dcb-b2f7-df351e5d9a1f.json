@@ -1,0 +1,24 @@
+{
+  "id": "139b3d9b-d4b3-4dcb-b2f7-df351e5d9a1f",
+  "title": "Jersey",
+  "slug": "jersey-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bU9q9yVtxeBiC0Do27CekHXNE6D.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 160,
+  "rating": null,
+  "description": "After his career fails to take off, a gifted cricketer in his mid-thirties decides that he’s not ready to give up quite yet.",
+  "created_at": "2026-07-31T07:13:43.677Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5299,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

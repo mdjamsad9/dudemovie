@@ -1,0 +1,32 @@
+{
+  "id": "585ddf39-976d-4fd7-8e9b-079c7457c368",
+  "title": "The Night Eats the World",
+  "slug": "the-night-eats-the-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2rR2PxT0clt1Hhw5Cv0YGk5DD2H.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 94,
+  "rating": 6.052,
+  "description": "After waking up to find himself all alone in an apartment where a massive party was being held the night before, Sam is immediately forced to face a terrifying reality: the living dead have invaded the streets of Paris.",
+  "created_at": "2026-07-22T15:37:25.737Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 5901,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

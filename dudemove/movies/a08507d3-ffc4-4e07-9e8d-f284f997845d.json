@@ -1,0 +1,28 @@
+{
+  "id": "a08507d3-ffc4-4e07-9e8d-f284f997845d",
+  "title": "Mauli",
+  "slug": "mauli",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nz6ecOmTt1CAKLBFIhjb3w1z0gd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Marathi",
+  "release_year": 2018,
+  "duration": 134,
+  "rating": null,
+  "description": "Mauli is a tough cop whose in control when in uniform.But a big terror to criminals without uniform he gets transferred to Kapur village which has no respect for cops and it's temple is closed since last 15 years due to terror of Nana Londhe.Mauli beats his men black and blue where he finds admire in Renuka.Its soon reveled that Mauli is a simple man but the actual terror cop is his twin brother with the same name.Mauli's brother dies while trying to save Mauli from Nana leaving Mauli helpless in the village and face humiliation in front of Nana's terror.",
+  "created_at": "2026-07-31T06:59:50.174Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6466,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

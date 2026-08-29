@@ -1,0 +1,28 @@
+{
+  "id": "bfa59de3-78d9-4a4a-9087-da6864ed9000",
+  "title": "Project Hail Mary",
+  "slug": "project-hail-mary",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2026,
+  "duration": 157,
+  "rating": 8.691,
+  "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+  "created_at": "2026-07-09T16:35:01.786Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 6,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Project.Hail.Mary.2026.1080p.WEBRip.x264%20%5BDDN%5D/Project.Hail.Mary.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

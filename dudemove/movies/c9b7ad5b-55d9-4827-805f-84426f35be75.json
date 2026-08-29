@@ -1,0 +1,32 @@
+{
+  "id": "c9b7ad5b-55d9-4827-805f-84426f35be75",
+  "title": "Avatar: Fire and Ash",
+  "slug": "avatar-fire-and-ash",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 198,
+  "rating": 7.602,
+  "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+  "created_at": "2026-07-09T16:59:50.028Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 315,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Ash.2025.1080p.WEBRip.x264%20%5BDDN%5D/Ash.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ed7c600b-49cd-423c-9ba1-0ce7a96e9d59",
+  "title": "Shubh Raatri",
+  "slug": "shubh-raatri",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ap7hhenlyzNalc9hwe5kGtZENKz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": null,
+  "rating": null,
+  "description": "It is a story about the finding of the truth of a witch which is only heard in tales by people living near village. Some friends find this tale interesting and try to enter the village but are stopped by the villagers. Are they able to enter the village? Are they able to find the truth? Is the tale of the witch true? Shubh Raatri is all about finding the truth.",
+  "created_at": "2026-08-06T04:58:19.701Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 4424,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

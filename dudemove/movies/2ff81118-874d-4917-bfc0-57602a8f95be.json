@@ -1,0 +1,24 @@
+{
+  "id": "2ff81118-874d-4917-bfc0-57602a8f95be",
+  "title": "Minmini",
+  "slug": "minmini",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/haY7lrwLHN3Nai2BdUy0JLsknvX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2024,
+  "duration": 143,
+  "rating": 6,
+  "description": "When Praveenah arrives at a boarding school in Ooty, she discovers that her classmate Sabari is haunted by the crushing weight of survivor's guilt. Years later, their paths converge again on a thrilling Himalayan biking adventure, where Praveenah sets out to help Sabari confront his demons and find redemption from the suffocating grip of guilt.",
+  "created_at": "2026-07-09T17:12:39.235Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1242,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Minmini%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Minmini%20(2024)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

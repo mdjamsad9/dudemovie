@@ -1,0 +1,28 @@
+{
+  "id": "a28c3be8-de4f-46b2-849c-8bba8ee9e852",
+  "title": "Aatakkuntu Lekkakkilla",
+  "slug": "aatakkuntu-lekkakkilla",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4yfNpDwbC6QMccLuiOJnRQJgKA6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 124,
+  "rating": null,
+  "description": "This is a story of two couples, one of which is the newly-married Purushotham (Sanchari Vijay) and Meghana (Mayuri), both of whom are orphans, who lead a happy life, until a certain tragedy strikes and Purushotham's behaviour changes drastically. The other is also newly-wed couple, Sangeetha and Shyam, who happen to be in a haunted house and are then troubled by supernatural elements. As it turns out, Purushotham suffers from a paranoid schizophrenia and suspects that his wife has an extra-marital affair with the spirit of her former boyfriend, which, in turn, leaves their family in tatters.",
+  "created_at": "2026-07-31T07:04:00.739Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 5460,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

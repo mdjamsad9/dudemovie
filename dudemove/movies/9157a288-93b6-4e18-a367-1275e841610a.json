@@ -1,0 +1,36 @@
+{
+  "id": "9157a288-93b6-4e18-a367-1275e841610a",
+  "title": "Walter",
+  "slug": "walter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9sbshZnFkQrJ9QfFZA1rjnPm2hE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 133,
+  "rating": null,
+  "description": "ASP Walter IPS, who plays the titular role as a cop, gets the mandatory, yet routine hero introduction scene when a protest turns violent in Kumbakonam. Later, he takes up the case of a couple who seeks his help to find their newborn baby. Walter suspects foul play when he comes across similar cases, and sets out to investigate the crimes, accompanied by his subordinate Paneerselvam. Meanwhile, the ego clash between Eshwaramoorthi, a leading politician in the town, and Bala, who is considered to be his successor, intensifies. Their ego clash brings Balu's friend Arjun, who is linked to the kids who have gone missing, into the picture. How Walter faces several odds in his attempt to nab a criminal syndicate forms the rest of the story.",
+  "created_at": "2026-07-31T07:04:33.088Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4448,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

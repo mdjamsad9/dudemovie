@@ -1,0 +1,28 @@
+{
+  "id": "2b7e9da9-c8f9-4da0-b026-a564ad276280",
+  "title": "Dangerous Animals",
+  "slug": "dangerous-animals",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l2grFOMAaBNDJNR1cmJiyojHmaP.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 98,
+  "rating": 6.464,
+  "description": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+  "created_at": "2026-07-09T16:55:09.769Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 507,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Dangerous.Animals.2025.1080p.WEBRip.x264%20%5BDDN%5D/Dangerous.Animals.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

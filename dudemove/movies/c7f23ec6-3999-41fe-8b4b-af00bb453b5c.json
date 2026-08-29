@@ -1,0 +1,32 @@
+{
+  "id": "c7f23ec6-3999-41fe-8b4b-af00bb453b5c",
+  "title": "Masters of the Universe",
+  "slug": "masters-of-the-universe",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "English Hindi",
+  "release_year": 2026,
+  "duration": 141,
+  "rating": 7.365,
+  "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+  "created_at": "2026-07-09T16:32:52.296Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 45,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2026/Masters%20of%20the%20Universe%20(2026)%20Hindi%20English%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Masters%20of%20the%20Universe%20(2026)%20Hindi%20English%201080p%20HDRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

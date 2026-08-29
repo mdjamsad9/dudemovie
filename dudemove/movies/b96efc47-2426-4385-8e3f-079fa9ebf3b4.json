@@ -1,0 +1,28 @@
+{
+  "id": "b96efc47-2426-4385-8e3f-079fa9ebf3b4",
+  "title": "Love",
+  "slug": "love",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hS2eFigVGchssBaRlbt4hkRs09e.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2020,
+  "duration": 91,
+  "rating": null,
+  "description": "Love Hotel. The best place to spend your holiday on February 14th. So this time the doors of the hotel are open for everyone who wants to make Valentine's Day special, wants to believe in love again, or at least not be alone on this day. Former classmates meet at a restaurant in honor of the 40th anniversary of graduation and old feelings flare up with renewed vigor. A jealous man tries to enter all the rooms on the floor to find his missing wife. A private detective and his attractive client arrange a spy show with wiretaps to bring out the scoundrel husband. An immigrant maid from Uzbekistan chooses between love for her young boy and money from his mother, given for her immediate flight home. And the life of a humble student who dreams of becoming a man in just one hour will never be the same after meeting the most talkative night butterfly in the city ...",
+  "created_at": "2026-07-31T06:41:35.456Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4504,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

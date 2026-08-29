@@ -1,0 +1,32 @@
+{
+  "id": "ce7137ab-348e-44fb-93c5-fc3533df71a7",
+  "title": "Karma Strikes",
+  "slug": "karma-strikes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qKw7thGAiGsn6jw9gqR5FbPxWFC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 135,
+  "rating": null,
+  "description": "Every Love story faces its Karma and so did theirs. Anil and Divya fell in love but their love's foundation was laid on the betrayal that ended up destroying the entire family of Anil; especially that of his loving daughter Sonam. Can Anil save his daughter from the wrath of his Karma?- watch the movie to find more. A family drama, a romantic love story, an intense thriller; Karma Strikes promises to be a roller coaster ride with 5 beautiful songs and a tight narrative on a running length of 132 mins.",
+  "created_at": "2026-07-22T15:12:33.818Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2440,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

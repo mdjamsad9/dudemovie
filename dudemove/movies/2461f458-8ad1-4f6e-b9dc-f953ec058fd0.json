@@ -1,0 +1,28 @@
+{
+  "id": "2461f458-8ad1-4f6e-b9dc-f953ec058fd0",
+  "title": "Shivan",
+  "slug": "shivan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/thLur3AEYY9nc4tzqpfJ4G0KEld.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 119,
+  "rating": null,
+  "description": "Shivan revolves around a couple who are very much in love but one day the woman is found dead and the man is found guilty and imprisoned. But once he is in jail he recollects certain memories that change everything.",
+  "created_at": "2026-07-31T07:04:33.673Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4447,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

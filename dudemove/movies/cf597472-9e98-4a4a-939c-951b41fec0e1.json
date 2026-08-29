@@ -1,0 +1,28 @@
+{
+  "id": "cf597472-9e98-4a4a-939c-951b41fec0e1",
+  "title": "Written & Directed by God",
+  "slug": "written-directed-by-god",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Malayalam",
+  "release_year": 2025,
+  "duration": 123,
+  "rating": 3,
+  "description": "A frustrated filmmaker meets God in person and goes on a transformative journey. When the deity appears to Jijo, they embark on an extraordinary road trip together.",
+  "created_at": "2026-07-22T15:09:28.113Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 777,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6abee72a-1b86-4407-8d41-5fe5e15fc741",
+  "title": "Alone",
+  "slug": "alone-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lkXD1W3pC64KXfZjHhHydd7DvNy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 5.794,
+  "description": "When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.",
+  "created_at": "2026-08-06T04:58:25.102Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4235,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

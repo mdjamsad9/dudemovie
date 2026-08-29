@@ -1,0 +1,24 @@
+{
+  "id": "da896aaa-ee88-4344-bd27-2165ec141f33",
+  "title": "The Son",
+  "slug": "the-son",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6.75,
+  "description": "A successful lawyer, with a new wife and infant, agrees to care for his teenage son from a previous marriage after his ex-wife becomes concerned about the boy's wayward behavior.",
+  "created_at": "2026-08-06T04:57:24.818Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2831,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

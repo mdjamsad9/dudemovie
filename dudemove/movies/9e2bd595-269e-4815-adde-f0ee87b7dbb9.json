@@ -1,0 +1,36 @@
+{
+  "id": "9e2bd595-269e-4815-adde-f0ee87b7dbb9",
+  "title": "The Death of Superman",
+  "slug": "the-death-of-superman",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 81,
+  "rating": 7.447,
+  "description": "When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.",
+  "created_at": "2026-07-22T15:36:28.660Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4580,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

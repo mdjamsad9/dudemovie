@@ -1,0 +1,28 @@
+{
+  "id": "a77bbadf-a308-40f7-9ff7-260a1d795c38",
+  "title": "Bloody Ishq",
+  "slug": "bloody-ishq",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zChgjonb0YySrGCxdlWGp5ctrFm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 138,
+  "rating": 7.5,
+  "description": "﻿A secluded Scottish island becomes Neha's refuge after a memory loss in an accident. With her husband hiding a scary truth, how will she live in a house of lies?",
+  "created_at": "2026-07-22T15:10:19.014Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 908,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

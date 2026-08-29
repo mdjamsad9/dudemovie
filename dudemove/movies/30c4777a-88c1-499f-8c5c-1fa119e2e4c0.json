@@ -1,0 +1,32 @@
+{
+  "id": "30c4777a-88c1-499f-8c5c-1fa119e2e4c0",
+  "title": "Ice Road: Vengeance",
+  "slug": "ice-road-vengeance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 113,
+  "rating": 6.244,
+  "description": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
+  "created_at": "2026-07-09T16:56:10.508Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 568,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Ice.Road.Vengeance.2025.1080p.WEBRip.x264%20%5BDDN%5D/Ice.Road.Vengeance.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

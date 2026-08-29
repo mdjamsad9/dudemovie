@@ -1,0 +1,28 @@
+{
+  "id": "b9181274-5042-4fba-bbb4-d0a4b30d6ddc",
+  "title": "The Long Game",
+  "slug": "the-long-game",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hYurVjFXAl3CxaWiVrYjSGIlhuW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 5.2,
+  "description": "Ambitious young actress Holly Sloan agrees to help her boyfriend Richard Metzger scam Hollywood legend Mariah McKay, but the two women strike up an unlikely friendship instead. Soon Holly must decide where her true loyalties lie.  Based on a short story by New York Times bestselling author Janet Fitch.",
+  "created_at": "2026-07-22T15:10:23.450Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2250,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

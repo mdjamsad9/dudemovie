@@ -1,0 +1,28 @@
+{
+  "id": "23ee55c3-6c42-4bf3-b2c9-8c341182df55",
+  "title": "Waiting for the Barbarians",
+  "slug": "waiting-for-the-barbarians",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k50gYFDfpAyxcIGjWjnXAaOM81e.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 112,
+  "rating": 5.922,
+  "description": "At an isolated frontier outpost, a colonial magistrate suffers a crisis of conscience when an army colonel arrives looking to interrogate the locals about an impending uprising, using cruel tactics that horrify the magistrate.",
+  "created_at": "2026-07-22T15:22:50.844Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 4211,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

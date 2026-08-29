@@ -1,0 +1,32 @@
+{
+  "id": "972d7feb-a1d9-4132-ad77-fc0d54cbeca4",
+  "title": "Misbehaviour",
+  "slug": "misbehaviour",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/o1SoYYvxG4bWTXp4wNWt5sKQf1E.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 107,
+  "rating": 6.376,
+  "description": "A group of women involved in the Women's Liberation Movement hatched a plan to invade the stage and disrupt the live broadcast at the 1970 Miss World competition in London, resulting in overnight fame for the newly-formed organization. When the show resumed, the results caused an uproar and turned the Western ideal of beauty on its head.",
+  "created_at": "2026-07-22T15:25:00.819Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4104,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

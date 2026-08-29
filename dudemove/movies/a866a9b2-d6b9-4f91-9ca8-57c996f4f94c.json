@@ -1,0 +1,32 @@
+{
+  "id": "a866a9b2-d6b9-4f91-9ca8-57c996f4f94c",
+  "title": "Get Fast",
+  "slug": "get-fast",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 88,
+  "rating": 5.976,
+  "description": "When The Thief’s partner is kidnapped after stealing millions in cash from a merciless drug lord named Nushi, he reluctantly teams up with an angst-ridden orphan to rescue him. Nushi enlists her most trusted hitman, The Cowboy, a lovable charmer who’s quick with his guns, to track down the Thief. Guns, cars, and explosions will give the newfound partners a head start, but how long will they be able to keep it up?",
+  "created_at": "2026-07-09T17:09:18.771Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1255,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Get.Fast.2024.1080p.WEBRip.x264%20%5BDDN%5D/Get.Fast.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

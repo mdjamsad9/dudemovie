@@ -1,0 +1,24 @@
+{
+  "id": "50dfc664-3f10-466d-b615-9eaa6ec8e8b7",
+  "title": "Shimla Mirchi",
+  "slug": "shimla-mirchi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4dqnJvZpTB1YvuLbgEvBSjxo7BS.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": null,
+  "rating": null,
+  "description": "While on holiday, Avi meets Naina and falls in love with her. Smitten, he decides to stay and work in her cafe. He confesses his love in a letter, however it's Naina's mother who mistakenly reads it.",
+  "created_at": "2026-08-06T04:58:43.200Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 4418,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

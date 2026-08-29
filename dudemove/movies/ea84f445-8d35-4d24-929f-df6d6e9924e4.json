@@ -1,0 +1,32 @@
+{
+  "id": "ea84f445-8d35-4d24-929f-df6d6e9924e4",
+  "title": "Arangetram",
+  "slug": "arangetram",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2o1Cn8x2d4Wi78YAdr2eCTxEj4t.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 5,
+  "description": "Lalitha is the eldest daughter of a pious and conservative Brahmin family. She has eight siblings and poverty rules reign. She decides to take up the family mantle and goes to work. Due to family needs and ill fate, she ends up as a prostitute but manages to settle all her brothers and sisters. Her family ditches her when they come to know about her dark side. Thangavelu, a man who was once rejected by her marries her. She loses her sanity in the end.",
+  "created_at": "2026-08-06T04:57:48.970Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3192,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

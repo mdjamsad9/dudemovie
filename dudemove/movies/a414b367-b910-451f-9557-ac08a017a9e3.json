@@ -1,0 +1,28 @@
+{
+  "id": "a414b367-b910-451f-9557-ac08a017a9e3",
+  "title": "White Boy Rick",
+  "slug": "white-boy-rick",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 111,
+  "rating": 6.349,
+  "description": "The story of Richard Wershe Jr., a teenager who became an undercover informant for the police during the 1980s, and was ultimately arrested for drug trafficking and sentenced to life in prison.",
+  "created_at": "2026-07-22T15:35:40.979Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5814,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

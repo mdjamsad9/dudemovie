@@ -1,0 +1,24 @@
+{
+  "id": "49caa768-e1bd-4033-bca7-12faf7a2dedd",
+  "title": "Not Found 55",
+  "slug": "not-found-55",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a0wWidwYtGn0silAgo1VoL5Atc9.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 59,
+  "rating": null,
+  "description": "This is the 55st volume of a collection of forbidden videos that were released on the Internet but were deleted due to their excessiveness, horror, or personal privacy issues.",
+  "created_at": "2026-07-09T16:51:53.278Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 833,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/55%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/55%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

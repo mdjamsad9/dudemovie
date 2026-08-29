@@ -1,0 +1,32 @@
+{
+  "id": "a7b6350c-066c-4feb-b2d6-c760f4f261ac",
+  "title": "Razor (2026)",
+  "slug": "razor",
+  "thumbnail_url": "https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2Fla5XLMTI7HpzEdrWAZe5vMtyGqt.jpg&w=256&q=75",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 121,
+  "rating": 7.3,
+  "description": "When a young girl becomes the target of a powerful politician and his ruthless criminal network after witnessing a dangerous secret, she finds herself caught in a deadly chase. An unassuming dog groomer steps in as her unlikely protector. As danger closes in from all sides, he must do everything in his power to keep her safe and help her survive against impossible odds and relentless threats.",
+  "created_at": "2026-07-11T20:03:38.968Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 50,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Razor%20(2026)%20Telugu%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Razor%20%282026%29%20Telugu%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

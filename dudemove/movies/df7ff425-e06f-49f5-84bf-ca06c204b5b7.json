@@ -1,0 +1,24 @@
+{
+  "id": "df7ff425-e06f-49f5-84bf-ca06c204b5b7",
+  "title": "Zindagi Shatranj Hai",
+  "slug": "zindagi-shatranj-hai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8JTSyqOWnUSUZLj6Ybw2oq8G9oj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "A couple gets married, but the wife refuses to accept the man as her husband. Meanwhile, murders are being committed in the city. Is the couple safe? Maybe or Maybe not!",
+  "created_at": "2026-07-22T15:12:41.149Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2438,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

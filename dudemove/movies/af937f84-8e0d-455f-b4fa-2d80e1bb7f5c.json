@@ -1,0 +1,28 @@
+{
+  "id": "af937f84-8e0d-455f-b4fa-2d80e1bb7f5c",
+  "title": "Sajini Shinde Ka Viral Video",
+  "slug": "sajini-shinde-ka-viral-video",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xkDtXIlQBtkaHSjL6NyUsZREZTe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 114,
+  "rating": 6.4,
+  "description": "While facing backlash after a video of her at a nightclub goes viral, a teacher disappears suddenly — and a tenacious cop begins a thorny investigation.",
+  "created_at": "2026-07-22T15:11:21.452Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2001,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

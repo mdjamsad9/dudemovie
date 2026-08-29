@@ -1,0 +1,28 @@
+{
+  "id": "36f4ea6e-d0fd-4048-a4e5-bfdc0371d1f0",
+  "title": "Apex",
+  "slug": "apex",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 96,
+  "rating": 6.819,
+  "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+  "created_at": "2026-07-09T16:35:38.978Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 91,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Apex.2026.1080p.WEBRip.x264%20%5BDDN%5D/Apex.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

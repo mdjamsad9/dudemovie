@@ -1,0 +1,32 @@
+{
+  "id": "ea63675c-6fd4-4987-b626-9b2f3fecabb1",
+  "title": "Lazarat",
+  "slug": "lazarat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bTS9VUJamgIDgiJPk9p4rqKUSkJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 5.14,
+  "description": "In an Albanian town known for drug production and trafficking an elite group of cops set out to end the war waged against the local police.",
+  "created_at": "2026-08-06T04:59:33.503Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5082,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

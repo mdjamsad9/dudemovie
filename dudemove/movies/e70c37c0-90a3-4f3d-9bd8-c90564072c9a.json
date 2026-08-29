@@ -1,0 +1,24 @@
+{
+  "id": "e70c37c0-90a3-4f3d-9bd8-c90564072c9a",
+  "title": "Podhu Nalan Karudhi",
+  "slug": "podhu-nalan-karudhi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t5fF396JW2dWUvmOxCnbFmESL18.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 145,
+  "rating": null,
+  "description": "The lives of a few people get affected when ego clash erupts between a few cut-throat loan sharks",
+  "created_at": "2026-07-31T07:16:48.963Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5262,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

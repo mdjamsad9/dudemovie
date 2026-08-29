@@ -1,0 +1,28 @@
+{
+  "id": "324713c8-adf3-47a4-aab2-f6ff308b0b75",
+  "title": "The Christophers",
+  "slug": "the-christophers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2026,
+  "duration": 100,
+  "rating": null,
+  "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+  "created_at": "2026-07-31T06:38:19.226Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 217,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

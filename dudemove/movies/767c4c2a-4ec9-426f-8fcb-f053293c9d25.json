@@ -1,0 +1,28 @@
+{
+  "id": "767c4c2a-4ec9-426f-8fcb-f053293c9d25",
+  "title": "Wardriver",
+  "slug": "wardriver",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 93,
+  "rating": 7.3,
+  "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
+  "created_at": "2026-07-09T16:36:43.698Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 52,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Wardriver.2026.1080p.WEBRip.x264%20%5BDDN%5D/Wardriver.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

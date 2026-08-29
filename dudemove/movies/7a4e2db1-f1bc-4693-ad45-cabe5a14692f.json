@@ -1,0 +1,32 @@
+{
+  "id": "7a4e2db1-f1bc-4693-ad45-cabe5a14692f",
+  "title": "The Iron Orchard",
+  "slug": "the-iron-orchard",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eNiRMYEFPLqTQFT7uPXikBgz3t7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.3,
+  "description": "Jim McNeely thrust into the vibrant and brutal West Texas oilfields in 1939 and works his way through the ranks to ultimately become a formidable wildcatter.",
+  "created_at": "2026-08-06T04:59:05.272Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6087,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

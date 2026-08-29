@@ -1,0 +1,32 @@
+{
+  "id": "54cad4ad-09ec-401f-912c-50e8c708f213",
+  "title": "Birbal Trilogy: Case 1 – Finding Vajramuni",
+  "slug": "birbal-trilogy-case-1-finding-vajramuni",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pE7S2pQT8OgKSNUO7zjNSezL37z.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 142,
+  "rating": null,
+  "description": "A man wrongly accused of murder is helped by Advocate Mahesh Das, despite the increasing threats they face during the investigation.",
+  "created_at": "2026-07-31T07:03:22.776Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5470,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7ee2471c-da1b-4bc4-b0ac-e4f93ed78f51",
+  "title": "The System",
+  "slug": "the-system",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uj6BjK7OXSCDhg0AjC2duL34vwQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7.1,
+  "description": "When a young soldier, newly returned from war, gets caught up in a drug bust, he is recruited by the authorities to go undercover in a notoriously dangerous prison in order to figure out what is really going on.",
+  "created_at": "2026-08-06T04:57:34.231Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2696,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

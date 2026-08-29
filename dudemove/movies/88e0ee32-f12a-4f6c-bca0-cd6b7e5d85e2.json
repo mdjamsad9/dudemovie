@@ -1,0 +1,28 @@
+{
+  "id": "88e0ee32-f12a-4f6c-bca0-cd6b7e5d85e2",
+  "title": "Dono",
+  "slug": "dono",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ewDBUMMrCSwm5r4pTCaYlIkIuXM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 156,
+  "rating": 4.7,
+  "description": "The film explores modern relationships and is set against the backdrop of a lavish destination wedding.",
+  "created_at": "2026-07-22T15:11:17.036Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 2318,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5e2a70e1-e832-4241-ae90-cb06b1c0b883",
+  "title": "Mike",
+  "slug": "mike",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w17rBgFEONsX3j5XAKqQBunRX30.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 5.333,
+  "description": "Sarah, a free spirited young girl looking to surgically reassign her gender and Antony, a once exuberant but now a dejected and dispirited young man. What will happen when they meet?",
+  "created_at": "2026-08-06T04:57:36.900Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3147,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

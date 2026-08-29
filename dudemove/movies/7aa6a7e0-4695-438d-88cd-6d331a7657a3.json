@@ -1,0 +1,28 @@
+{
+  "id": "7aa6a7e0-4695-438d-88cd-6d331a7657a3",
+  "title": "His Three Daughters",
+  "slug": "his-three-daughters",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yTIHBPLQyzhgz1c2spak3btJxsg.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 104,
+  "rating": 6.8,
+  "description": "Emotions run high when three estranged sisters reunite in a cramped New York City apartment to watch over their ailing father during his final days.",
+  "created_at": "2026-07-09T17:13:14.058Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1043,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/His.Three.Daughters.2023.1080p.WEBRip.x264%20%5BDDN%5D/His.Three.Daughters.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

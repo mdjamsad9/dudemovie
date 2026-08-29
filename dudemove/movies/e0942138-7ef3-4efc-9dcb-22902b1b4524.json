@@ -1,0 +1,28 @@
+{
+  "id": "e0942138-7ef3-4efc-9dcb-22902b1b4524",
+  "title": "Pranaya Meenukalude Kadal",
+  "slug": "pranaya-meenukalude-kadal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rhXJCGOihd2hTor48ex6ruOJPLP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 135,
+  "rating": null,
+  "description": "Ajmal, who is a part of the group of people who come together to repair a large boat, falls in love with the boat owner's granddaughter, Jasmine. Things take a turn when a family member finds out the love story.",
+  "created_at": "2026-07-31T07:03:56.011Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5463,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "28cb2e43-119c-4298-a626-b48489fd13c2",
+  "title": "Dhurandhar",
+  "slug": "dhurandhar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 212,
+  "rating": 7.2,
+  "description": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+  "created_at": "2026-07-09T16:35:30.943Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 366,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Dhurandhar%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhurandhar%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

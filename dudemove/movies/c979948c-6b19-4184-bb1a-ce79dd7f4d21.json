@@ -1,0 +1,32 @@
+{
+  "id": "c979948c-6b19-4184-bb1a-ce79dd7f4d21",
+  "title": "Operation Nakshatra",
+  "slug": "operation-nakshatra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/P1IKf6P4u7JfLKiw2C255uAHY0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2019,
+  "duration": 119,
+  "rating": null,
+  "description": "It is an edge-of the seat suspense thriller that keeps the audience guessing. It tells the story of a rich businessman Srikanta, his daughter Roshni, his wife Smitha, Roshni's boyfriend Ajay and police inspector Ramana. The film unveils different shades of these characters as the film progresses through twists and turns, making one suspect the very motives of the people and uncovering the masks they wear.",
+  "created_at": "2026-07-31T07:09:37.805Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5348,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

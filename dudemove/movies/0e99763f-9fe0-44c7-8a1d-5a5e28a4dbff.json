@@ -1,0 +1,24 @@
+{
+  "id": "0e99763f-9fe0-44c7-8a1d-5a5e28a4dbff",
+  "title": "Srikanth",
+  "slug": "srikanth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nkWF1jIMQqWZSShNTAdBUqrdFsZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 134,
+  "rating": 7.638,
+  "description": "In a world with odds stacked against him in every step of the way, Srikanth defies norms, blazing a trail from rural India to becoming the first visually impaired student at MIT. As he builds Bollant Industries, his success brings challenges for which he would not only chase personal dreams but safeguard a shared future for the ones just like him. This is the tale of an entrepreneur's triumph and sacrifice, both which he welcomed with open arms and a smile.",
+  "created_at": "2026-07-22T15:10:24.261Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 898,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

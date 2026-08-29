@@ -1,0 +1,28 @@
+{
+  "id": "ee9324fd-501e-40e1-a593-7273ea81fb6c",
+  "title": "Dose",
+  "slug": "dose",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Malayalam",
+  "release_year": 2026,
+  "duration": 140,
+  "rating": null,
+  "description": "A doctor uncovers a suspicious death at his hospital, unraveling secrets and lies. Joined by a haunted investigator, their search for truth becomes a deadly fight for survival.",
+  "created_at": "2026-07-22T15:09:23.805Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 237,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

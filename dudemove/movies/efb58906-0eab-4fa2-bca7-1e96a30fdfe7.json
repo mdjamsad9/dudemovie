@@ -1,0 +1,28 @@
+{
+  "id": "efb58906-0eab-4fa2-bca7-1e96a30fdfe7",
+  "title": "The Pet Detective",
+  "slug": "the-pet-detective",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 118,
+  "rating": 3.5,
+  "description": "A couple of amateur sleuths attempt to solve the mystery behind disappearing pets, but become embroiled in far more sinister crimes.",
+  "created_at": "2026-07-09T16:48:44.107Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 775,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/The%20Pet%20Detective%20(2025)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Pet%20Detective%20(2025)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

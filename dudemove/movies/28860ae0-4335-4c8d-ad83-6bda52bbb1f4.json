@@ -1,0 +1,28 @@
+{
+  "id": "28860ae0-4335-4c8d-ad83-6bda52bbb1f4",
+  "title": "Mazhayathu",
+  "slug": "mazhayathu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tFSw3dvfqCLJQBCF8kBupY86cD6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 122,
+  "rating": null,
+  "description": "One day, a bizarre incident shakes the whole family and ruins their happiness. Venugopal finds himself being the victim of people's angry reactions and to make matters worse, he is shocked to find the reason behind the reactions.",
+  "created_at": "2026-07-31T07:00:01.481Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6465,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "38dcdb38-28f8-48a7-8699-0b44057b49d3",
+  "title": "Son of Sardaar 2",
+  "slug": "son-of-sardaar-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/k47tmhqiUsmD6UoyoimHVQAjHx9.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 145,
+  "rating": 4.577,
+  "description": "Years after settling an epic family feud and surviving house arrest in Punjab, Jassi Singh Randhawa returns this time chasing love, not trouble. But when he lands in Scotland to win back his estranged wife, he stumbles into a hostage crisis, a mafia war and the most bizarre Sardaar wedding of the century.",
+  "created_at": "2026-07-09T16:52:20.384Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 751,
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Son%20of%20Sardaar%202%202025%20HDTS%201080p%20Hindi%20x264%20%5BDDN%5D/Son%20of%20Sardaar%202%202025%20HDTS%201080p%20Hindi%20x264%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d7b44353-e8e8-486e-a87f-611bca9b5585",
+  "title": "July Kaatril",
+  "slug": "july-kaatril",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ixXzDWYp1PBAR5xTHOHgzjYdnWt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 162,
+  "rating": null,
+  "description": "A happy-go-lucky youngster’s approach towards romance changes after he becomes close with three women in different phases of his life.",
+  "created_at": "2026-07-31T07:11:19.421Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5319,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

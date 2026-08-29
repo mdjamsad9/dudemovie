@@ -1,0 +1,32 @@
+{
+  "id": "8a4a6c9e-16ba-4ff6-9285-49ad7a438c2d",
+  "title": "Adipurush",
+  "slug": "adipurush",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 179,
+  "rating": 4.6,
+  "description": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+  "created_at": "2026-07-22T15:11:54.821Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 2328,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

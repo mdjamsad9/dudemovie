@@ -1,0 +1,28 @@
+{
+  "id": "4e386b54-d377-45a1-a7a1-e5d7b6e42b2e",
+  "title": "Chambal",
+  "slug": "chambal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xxRtjnSOPAtt4oZDkptXy2g7pI9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 109,
+  "rating": null,
+  "description": "Subhash is a young and dynamic IAS officer, His relentless and uncompromising way of working sends shivers across the corridors of power, cutting across political and business circles. Being incorruptible and principled, his idealism and righteousness soon become a threat to the entire system.",
+  "created_at": "2026-07-31T07:15:47.779Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5275,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

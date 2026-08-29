@@ -1,0 +1,28 @@
+{
+  "id": "08ccdf90-d1a1-4d7a-9b06-012176be3849",
+  "title": "Drop",
+  "slug": "drop",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 95,
+  "rating": 6.321,
+  "description": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
+  "created_at": "2026-07-09T16:59:45.140Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 546,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Drop.2025.1080p.WEBRip.x264%20%5BDDN%5D/Drop.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

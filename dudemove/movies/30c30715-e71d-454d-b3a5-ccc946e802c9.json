@@ -1,0 +1,28 @@
+{
+  "id": "30c30715-e71d-454d-b3a5-ccc946e802c9",
+  "title": "Blackout",
+  "slug": "blackout-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3na9yLIz6j2Q44dzMEHWeSDg4Ef.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": null,
+  "rating": null,
+  "description": "Lenny, a crime reporter, makes a life-altering choice to pocket a case of stolen jewels to transform his mundane life. However, his good fortune takes a turn for the worse when he gets entangled with a big gangster. How will he get out of this mess?",
+  "created_at": "2026-07-31T06:39:34.277Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1479,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

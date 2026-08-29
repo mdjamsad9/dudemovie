@@ -1,0 +1,40 @@
+{
+  "id": "73b2b444-3e29-4a86-8ce8-8002495abaac",
+  "title": "Malang",
+  "slug": "malang",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2COzaii4BnT1O6bbXfAxtoTmADm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 135,
+  "rating": 7,
+  "description": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.",
+  "created_at": "2026-07-22T15:26:11.853Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3983,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "51c69fdf-295b-47c3-aa84-85d921b162ce",
+  "title": "Farrey",
+  "slug": "farrey",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4ihdqS2PvRcjN1i9ozQxtyoKvBX.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 114,
+  "rating": 3.3,
+  "description": "An orphan genius, Niyati, gets a scholarship to attend an elite school. But she soon gets entangled in a cheating racket after she helps a rich but academically weak classmate during the exams.",
+  "created_at": "2026-07-22T15:11:28.715Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2387,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

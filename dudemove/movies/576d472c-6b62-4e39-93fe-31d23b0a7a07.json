@@ -1,0 +1,28 @@
+{
+  "id": "576d472c-6b62-4e39-93fe-31d23b0a7a07",
+  "title": "Aadhi",
+  "slug": "aadhi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ljmKr1ClEdWCPHIrS48AQyThIZr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 158,
+  "rating": null,
+  "description": "Aadhi, an aspiring musician, travels to another state in hopes of making it big. While there, an unexpected event leaves him trapped, unable to return to his family and running for his life.",
+  "created_at": "2026-07-31T07:24:21.948Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6302,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

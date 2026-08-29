@@ -1,0 +1,32 @@
+{
+  "id": "66623d17-ea03-4cbf-8b4e-9cb20b076811",
+  "title": "Nagabandham: The Secret Treasure",
+  "slug": "nagabandham-the-secret-treasure",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Telugu",
+  "release_year": 2026,
+  "duration": 196,
+  "rating": null,
+  "description": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+  "created_at": "2026-07-31T06:38:13.828Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 224,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

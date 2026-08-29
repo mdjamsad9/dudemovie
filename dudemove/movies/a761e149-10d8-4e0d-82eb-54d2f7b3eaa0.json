@@ -1,0 +1,28 @@
+{
+  "id": "a761e149-10d8-4e0d-82eb-54d2f7b3eaa0",
+  "title": "Trance",
+  "slug": "trance",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jur8vAsFMtwxqyAngXeXKZnqMSe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2020,
+  "duration": 170,
+  "rating": null,
+  "description": "A disheartened motivational speaker gets hired by a corporate to become a preacher until his live stint on television puts him and his service under the scanner.",
+  "created_at": "2026-07-31T07:04:04.546Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4458,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

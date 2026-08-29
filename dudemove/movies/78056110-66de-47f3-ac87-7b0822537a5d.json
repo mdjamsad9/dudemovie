@@ -1,0 +1,24 @@
+{
+  "id": "78056110-66de-47f3-ac87-7b0822537a5d",
+  "title": "Fackham Hall",
+  "slug": "fackham-hall",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 97,
+  "rating": 6.725,
+  "description": "A new servant embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
+  "created_at": "2026-07-09T16:44:16.618Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 453,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

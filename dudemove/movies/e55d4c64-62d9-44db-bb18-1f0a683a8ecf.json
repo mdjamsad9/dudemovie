@@ -1,0 +1,32 @@
+{
+  "id": "e55d4c64-62d9-44db-bb18-1f0a683a8ecf",
+  "title": "Slayers",
+  "slug": "slayers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ymb6GhQy1rQuKvPXyitNdr6hoKl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 3.954,
+  "description": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+  "created_at": "2026-08-06T04:57:36.454Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3275,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "107ee309-ae0f-481a-a3ce-d96c0cbd8510",
+  "title": "Rakshak",
+  "slug": "rakshak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tdkunwE0Q2yU5mVCHkttklbSpbk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.833,
+  "description": "ASP Raj Sinha is assigned to nab the criminal responsible for printing and circulating fake currency notes. However, he is in for a rude shock when he learns that the criminal is his childhood friend",
+  "created_at": "2026-08-06T05:00:24.641Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5956,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

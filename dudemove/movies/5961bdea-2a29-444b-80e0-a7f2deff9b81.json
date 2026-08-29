@@ -1,0 +1,28 @@
+{
+  "id": "5961bdea-2a29-444b-80e0-a7f2deff9b81",
+  "title": "Shukranu",
+  "slug": "shukranu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1nw90Kv4jZ0z0mBcEDUs8M9vXVD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 96,
+  "rating": 6.688,
+  "description": "Set in Delhi/UP/Haryana, SHUKRANU is a comic take on the darkest phases of Indian democracy through the encounters of a would-be groom who is forcefully sterilized just days before his much-awaited marriage.",
+  "created_at": "2026-07-22T15:26:01.051Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4034,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

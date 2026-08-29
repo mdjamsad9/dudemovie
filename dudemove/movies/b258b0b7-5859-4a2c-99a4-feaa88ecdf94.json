@@ -1,0 +1,40 @@
+{
+  "id": "b258b0b7-5859-4a2c-99a4-feaa88ecdf94",
+  "title": "In Your Dreams",
+  "slug": "in-your-dreams",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 87,
+  "rating": 6.96,
+  "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+  "created_at": "2026-07-09T16:49:13.208Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 408,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/In.Your.Dreams.2025.1080p.WEBRip.x264%20%5BDDN%5D/In.Your.Dreams.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

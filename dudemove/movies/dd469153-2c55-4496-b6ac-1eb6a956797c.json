@@ -1,0 +1,32 @@
+{
+  "id": "dd469153-2c55-4496-b6ac-1eb6a956797c",
+  "title": "Kill Chain",
+  "slug": "kill-chain",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bFfUDQkCh6Zxgs4qyVgVTuS2PXN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 92,
+  "rating": 5.143,
+  "description": "A hotel room shootout between two assassins kicks off a long night where bodies fall like dominoes, as we follow a chain of crooked cops, gangsters, hitmen, a femme Fatale and an ex-mercenary through a relay of murder, betrayal, revenge and redemption.",
+  "created_at": "2026-07-22T15:28:04.252Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4327,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

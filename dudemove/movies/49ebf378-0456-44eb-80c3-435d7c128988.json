@@ -1,0 +1,24 @@
+{
+  "id": "49ebf378-0456-44eb-80c3-435d7c128988",
+  "title": "Patna Shuklla",
+  "slug": "patna-shuklla",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/A2rFSihwKXEp6kxdxHJPaLaCw39.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 125,
+  "rating": 7.214,
+  "description": "When a helpless student has nowhere to turn to except a housewife who's also a small-time lawyer, what they uncover is a quagmire of an educational scam.",
+  "created_at": "2026-07-22T15:10:58.125Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 941,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "302f2776-19f9-423b-b7a8-80ab246393e8",
+  "title": "Flora & Ulysses",
+  "slug": "flora-ulysses",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/syobJCxZcIJl0OpjNroZSQKa1kW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 91,
+  "rating": 6.463,
+  "description": "When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora's life--and her outlook--forever.",
+  "created_at": "2026-07-22T15:19:43.628Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3615,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

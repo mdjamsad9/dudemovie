@@ -1,0 +1,28 @@
+{
+  "id": "4899d219-40e4-4f85-8896-bec8d55d9944",
+  "title": "Pithala Maathi",
+  "slug": "pithala-maathi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a0eEun5XYwxlZiuT0i5knTGNZkr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 144,
+  "rating": null,
+  "description": "Two friends working as water suppliers find their reckless lives turned upside down when one of them mistakenly clashes with a newly appointed District Revenue Officer, who is a nymphomaniac leading a salacious secret lifestyle.",
+  "created_at": "2026-07-09T17:18:26.160Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 1560,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pithala%20Maathi%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Pithala%20Maathi%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

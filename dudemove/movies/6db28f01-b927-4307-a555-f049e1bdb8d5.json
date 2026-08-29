@@ -1,0 +1,24 @@
+{
+  "id": "6db28f01-b927-4307-a555-f049e1bdb8d5",
+  "title": "The Children Act",
+  "slug": "the-children-act",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uWwmYzdLReu3Yn4YKuX9idDReaz.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.585,
+  "description": "In the midst of a marital crisis, a High Court judge must decide if she should order a life-saving blood transfusion for a teen with cancer despite his family's refusal to accept medical treatment for religious reasons.",
+  "created_at": "2026-08-06T05:00:12.116Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5744,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

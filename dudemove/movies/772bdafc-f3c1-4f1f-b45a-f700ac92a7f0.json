@@ -1,0 +1,28 @@
+{
+  "id": "772bdafc-f3c1-4f1f-b45a-f700ac92a7f0",
+  "title": "The Dig",
+  "slug": "the-dig",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qZPm81QwEBvx0bObh22QFZc6AaR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 3,
+  "rating": null,
+  "description": "A meeting between two men is interrupted when one of them tries to murder the other.",
+  "created_at": "2026-07-31T06:55:49.222Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4503,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

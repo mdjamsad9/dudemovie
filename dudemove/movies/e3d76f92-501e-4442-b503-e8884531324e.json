@@ -1,0 +1,24 @@
+{
+  "id": "e3d76f92-501e-4442-b503-e8884531324e",
+  "title": "Am I Next",
+  "slug": "am-i-next",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/f8Dl1lJabciNUlJxnjrkDpW1eya.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 86,
+  "rating": 5,
+  "description": "A 14-year-old girl's life turns upside down when she finds herself pregnant after being sexually abused. With the support of her family, she begins a battle in court for the right to abortion.",
+  "created_at": "2026-07-22T15:12:31.216Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 2284,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

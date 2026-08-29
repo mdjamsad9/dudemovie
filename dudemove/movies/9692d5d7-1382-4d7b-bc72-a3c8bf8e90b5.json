@@ -1,0 +1,32 @@
+{
+  "id": "9692d5d7-1382-4d7b-bc72-a3c8bf8e90b5",
+  "title": "Madha Gaja Raja",
+  "slug": "madha-gaja-raja",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/hrOnr0eIdBI2Zpeh4EMLmWe58XA.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 142,
+  "rating": 4,
+  "description": "Raja, a witty and fearless young man, becomes entangled in a conflict with a corrupt industrialist while trying to protect his family, friends and the woman he loves.",
+  "created_at": "2026-07-09T17:04:15.438Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 763,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Madha%20Gaja%20Raja%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Madha%20Gaja%20Raja%20(2025)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

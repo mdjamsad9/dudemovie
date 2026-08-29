@@ -1,0 +1,32 @@
+{
+  "id": "413dd75b-a4eb-4428-a2b7-9c4d0c717005",
+  "title": "Adanga Maru",
+  "slug": "adanga-maru",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/favl3yUhjCC5BkR86IGtBR52TnH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 146,
+  "rating": null,
+  "description": "A sincere cop, who's suspended from the department for locking horns with a few influential people in the society, starts taking revenge against those who finished off his dear ones.",
+  "created_at": "2026-07-31T07:10:46.457Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 6437,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

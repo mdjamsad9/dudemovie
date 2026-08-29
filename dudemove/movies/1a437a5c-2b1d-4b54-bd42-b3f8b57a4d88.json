@@ -1,0 +1,28 @@
+{
+  "id": "1a437a5c-2b1d-4b54-bd42-b3f8b57a4d88",
+  "title": "Mrs. Chatterjee Vs Norway",
+  "slug": "mrs-chatterjee-vs-norway",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7hh1cvrrryYd3IHQFX8HnslWOkZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 135,
+  "rating": 5.782,
+  "description": "An immigrant Indian mother fights the Norwegian foster care system and legal machinery to win back custody of her children.",
+  "created_at": "2026-07-22T15:12:20.371Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2170,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

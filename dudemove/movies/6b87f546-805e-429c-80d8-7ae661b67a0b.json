@@ -1,0 +1,36 @@
+{
+  "id": "6b87f546-805e-429c-80d8-7ae661b67a0b",
+  "title": "Marcel the Shell with Shoes On",
+  "slug": "marcel-the-shell-with-shoes-on",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 7.622,
+  "description": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+  "created_at": "2026-08-06T04:57:43.587Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 3427,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

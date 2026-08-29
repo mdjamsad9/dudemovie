@@ -1,0 +1,32 @@
+{
+  "id": "27d401a2-e064-4e04-8287-26542158edc2",
+  "title": "Luv You Shankar",
+  "slug": "luv-you-shankar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1526J8qCvVi71SIzHIk1GSXU9Wh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 117,
+  "rating": null,
+  "description": "An eight year old boy contemplates his relationship with Lord Shiva (the incarnation of Lord Vishnu) in the sacred city of Banaras.",
+  "created_at": "2026-07-22T15:10:47.270Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 1489,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

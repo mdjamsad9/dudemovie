@@ -1,0 +1,24 @@
+{
+  "id": "61174fc3-882f-4f27-a7a2-7b085075286c",
+  "title": "Haq",
+  "slug": "haq",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tO7OI5MyzPSiVmlXXnlBKlAJH92.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 136,
+  "rating": 7.464,
+  "description": "In 1980s India, Shazia Bano takes her husband to court after he abandons her and their children, sparking a national battle over faith, women’s rights, and justice.",
+  "created_at": "2026-07-22T15:09:35.085Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 326,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "057ac595-22ff-4ded-be56-c6f5b11fda11",
+  "title": "Kaam Chalu Hai",
+  "slug": "kaam-chalu-hai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Fw5log9OJLSCKdbZDpeyLNUSgM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 82,
+  "rating": 6,
+  "description": "Manoj Patil's happy life takes a tragic turn when he loses his daughter in an accident caused by a pothole. When the authorities refuse to hear his complaints, he takes matters into his own hands.",
+  "created_at": "2026-07-22T15:10:48.967Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1224,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

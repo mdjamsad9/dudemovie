@@ -1,0 +1,24 @@
+{
+  "id": "36ec1c13-cbfe-44fa-af2a-5c9fef7cc505",
+  "title": "Vinara Sodara Veera Kumara",
+  "slug": "vinara-sodara-veera-kumara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pnDYLlUVaJIIAwclqPDUoBiYILt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 145,
+  "rating": null,
+  "description": "Ramana falls in love with Sulochana but their relationship fails to materialize due to which he decides to end his life. He then meets a soul that communicates with him to make him realize the importance of life over love.",
+  "created_at": "2026-07-31T07:15:51.039Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5272,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

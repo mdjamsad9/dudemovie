@@ -1,0 +1,32 @@
+{
+  "id": "2c4dc831-43f7-4dc4-8a16-35cc0eaf5d7c",
+  "title": "Ae Watan Mere Watan",
+  "slug": "ae-watan-mere-watan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gOFBpQBRcPFZWEkzRWnQgQHku4T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 133,
+  "rating": 6.3,
+  "description": "In the midst of India's struggle for freedom in 1942, a brave young girl starts an underground radio station to spread the message of unity, setting off a thrilling chase with the British authorities during the Quit India movement.",
+  "created_at": "2026-07-22T15:10:59.308Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 1167,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

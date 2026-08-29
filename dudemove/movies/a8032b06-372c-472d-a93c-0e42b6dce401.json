@@ -1,0 +1,32 @@
+{
+  "id": "a8032b06-372c-472d-a93c-0e42b6dce401",
+  "title": "Eagle",
+  "slug": "eagle",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/dwF5S5Vbk2gZC3MPNxn9O5eBJSa.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "No Language",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.318,
+  "description": "Vladimir Dubrouvsky, a lieutenant in the Russian army, catches the eye of Czarina Catherine II. He spurns her advances and flees, and she puts out a warrant for his arrest, dead or alive. Vladimir learns that his father's lands have been taken by the evil Kyrilla Troekouroff, and his father dies. He dons a black mask, and becomes the outlaw The Black Eagle. He enters the Troekouroff household disguised as a French instructor for Kyrilla's daughter Mascha. He is after vengeance, but instead falls in love with Mascha.",
+  "created_at": "2026-07-09T17:03:34.259Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1161,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Eagle%20(2024)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Eagle%20(2024)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

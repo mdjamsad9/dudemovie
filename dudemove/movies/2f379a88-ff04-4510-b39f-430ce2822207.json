@@ -1,0 +1,24 @@
+{
+  "id": "2f379a88-ff04-4510-b39f-430ce2822207",
+  "title": "Lavaste",
+  "slug": "lavaste",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bTXJTmMn37imtkvSVO09t5UQ4mU.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "A man who has done B.Tech, gets the job of lifting unclaimed dead bodies in the name of job.A unique tale depicting the untold tragedy of unclaimed dead bodies in our society.",
+  "created_at": "2026-07-22T15:12:12.699Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2448,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

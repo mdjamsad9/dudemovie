@@ -1,0 +1,32 @@
+{
+  "id": "2590b7e1-1a43-40a7-adf2-6a09eb84be95",
+  "title": "Freedom",
+  "slug": "freedom",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b2YL2kncIqlcDcqly78AsOPJi6r.jpg",
+  "is_premium": false,
+  "country": "United Kingdom",
+  "language": "French",
+  "release_year": 2024,
+  "duration": 110,
+  "rating": 6.3,
+  "description": "Inspired by the true events of one of France's most notorious non-violent robbers, Bruno Sulak, in the 1980s. He led multiple heists, then captured public attention for his many daring escapes from police custody...always to reunite with his beloved lover and accomplice Annie, becoming both France's Public Enemy #1 and an icon of Freedom.",
+  "created_at": "2026-07-09T17:10:20.205Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1175,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/European%20Movies/Libre%20-%20Freedom%20(2024)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Libre%20-%20Freedom%20%282024%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "caca0e11-e747-4793-8360-203f2752155c",
+  "title": "Bholaa",
+  "slug": "bholaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/chmbRa3tKFq1KNMoyuU8Vf5hlke.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 144,
+  "rating": 5.903,
+  "description": "An ex-convict must undertake a perilous, violent journey in order to meet his daughter after ten years of imprisonment.",
+  "created_at": "2026-07-22T15:12:21.353Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2132,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

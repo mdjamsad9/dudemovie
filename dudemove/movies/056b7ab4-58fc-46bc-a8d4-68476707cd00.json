@@ -1,0 +1,28 @@
+{
+  "id": "056b7ab4-58fc-46bc-a8d4-68476707cd00",
+  "title": "Yemaali",
+  "slug": "yemaali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/as7p2QsjFVwctc7ShxtqxTsY6UA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 147,
+  "rating": null,
+  "description": "Yemaali is the story of Maali and his brother-from-another-mother, Aravind, and how they plan on killing Maali’s ex-girlfriend. They even call the ‘project’ Yemaali, a wordplay on both their names. But why do they want to kill this girl? Because she broke up with him, of course.",
+  "created_at": "2026-07-31T07:26:44.663Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6279,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

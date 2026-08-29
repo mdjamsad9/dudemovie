@@ -1,0 +1,28 @@
+{
+  "id": "21cb8556-73ba-4de1-849e-68eaee834be3",
+  "title": "Girlfriend",
+  "slug": "girlfriend",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b7m5JXFnZnCVQWjmugvwpxu5amR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Marathi",
+  "release_year": 2019,
+  "duration": 137,
+  "rating": null,
+  "description": "Nachiket is single and peer pressure to be in a relationship drives him to do something risky. But, does it land him in trouble or does it change his life for good?",
+  "created_at": "2026-07-31T07:03:53.461Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5465,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

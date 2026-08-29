@@ -1,0 +1,32 @@
+{
+  "id": "2942315a-93d6-481d-9da1-cef0fdaf4b1c",
+  "title": "Murder Mubarak",
+  "slug": "murder-mubarak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/joU5VihgUvkhyPnhzxfjmWk32rd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": null,
+  "rating": 6.5,
+  "description": "When a gym trainer is murdered at an elite Delhi club, a wily investigator unravels the sordid secrets of its ultrarich members to find the killer.",
+  "created_at": "2026-07-22T15:10:58.575Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1120,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

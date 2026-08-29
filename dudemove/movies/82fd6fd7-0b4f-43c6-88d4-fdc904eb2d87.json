@@ -1,0 +1,28 @@
+{
+  "id": "82fd6fd7-0b4f-43c6-88d4-fdc904eb2d87",
+  "title": "Ghost",
+  "slug": "ghost",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2PTQtA9kue9qDO0Wi11DsyVEIWF.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "When a deadly religious cult begins weaponizing demonic entities, it's up to a band of church funded mercenaries to take them down before they unleash Hell on Earth. When word of a Fallen Angel reaches the team, the stakes are raised and the fate of humanity rests on the shoulders of one man: Ghost.",
+  "created_at": "2026-07-22T15:11:31.147Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 2459,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

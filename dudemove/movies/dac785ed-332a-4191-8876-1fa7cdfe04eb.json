@@ -1,0 +1,24 @@
+{
+  "id": "dac785ed-332a-4191-8876-1fa7cdfe04eb",
+  "title": "GAME OVER",
+  "slug": "game-over-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s9CBRn5vWf8frqt0xHo1LUzbVr8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 6,
+  "rating": null,
+  "description": "Angelo, an introvert guy, decides to invite his bestfriend Luciano to a gamers afternoon, hoping to told him he has a crush on him, but Luciano decides to take his new girlfriend, Helena, turning the Angelo's plan into disaster.",
+  "created_at": "2026-07-22T15:11:12.266Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1481,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "569dc876-862c-4d47-9f01-be265e5f091c",
+  "title": "The Greatest Beer Run Ever",
+  "slug": "the-greatest-beer-run-ever",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 7.497,
+  "description": "Chickie wants to support his friends fighting in Vietnam, so he does something wild—personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie's life and perspective.",
+  "created_at": "2026-08-06T04:57:40.469Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 2644,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

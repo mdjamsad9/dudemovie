@@ -1,0 +1,28 @@
+{
+  "id": "ef5a5b7a-e5a8-4cb6-8c74-a12211834da6",
+  "title": "Mannar Vagaiyara",
+  "slug": "mannar-vagaiyara",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4eBgux5FnA3CmnvuOGgZLOLHXEJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 160,
+  "rating": null,
+  "description": "A care-free youngster lands in trouble when he helps his brother to win the lady of his life.",
+  "created_at": "2026-07-31T07:26:41.410Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6280,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9d08b0b9-6abc-45ed-95fe-b1fc9bf09a8b",
+  "title": "Monster",
+  "slug": "monster",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tQu0KzbFJY2DcHIx4DolFrogEGK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 81,
+  "rating": null,
+  "description": "After losing his innocence, his best friend, and the love of his adolescence, this coming-of-age gangster drama follows Harman in an hour of his night within a new life of violence.",
+  "created_at": "2026-07-31T07:13:40.521Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5300,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

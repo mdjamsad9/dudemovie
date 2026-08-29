@@ -1,0 +1,28 @@
+{
+  "id": "1fa0aa7b-b23b-4cea-b21b-3b36181399a9",
+  "title": "The Assassin's Code",
+  "slug": "the-assassin-s-code",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sszxkPZ3BvyDx2ohKRNMAtGts2T.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.3,
+  "description": "A rookie detective, son of a dead disgraced cop, works to solve his first major case while under the watchful eye of a ghost-like assassin.",
+  "created_at": "2026-08-06T05:00:36.772Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6084,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

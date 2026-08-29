@@ -1,0 +1,44 @@
+{
+  "id": "d10cb8bd-3b70-4f27-ba98-8b238f1ed6fa",
+  "title": "Terminal",
+  "slug": "terminal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.529,
+  "description": "In the dark heart of a sprawling, anonymous city, two assassins carry out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress lead dangerous double lives.  Murderous consequences unravel in the dead of night, as their lives intertwine at the hands of a mysterious criminal mastermind who is hell-bent on revenge.",
+  "created_at": "2026-08-06T05:00:28.425Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 6029,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

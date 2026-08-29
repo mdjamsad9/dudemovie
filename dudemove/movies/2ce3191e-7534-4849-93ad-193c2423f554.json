@@ -1,0 +1,28 @@
+{
+  "id": "2ce3191e-7534-4849-93ad-193c2423f554",
+  "title": "Sharmaji Namkeen",
+  "slug": "sharmaji-namkeen",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xve92SlbFCl4eEESx78eutq6rjo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 119,
+  "rating": 6.903,
+  "description": "Late Rishi Kapoor in his swansong plays B. G. Sharma, a 58-year old middle-class widower living in West Delhi. After being laid off from the company he has worked for his entire life, Sharmaji struggles to deal with the beast called retirement. His struggle to stay relevant in front of his two sons finally ends when he rekindles his love for cooking through a kitty party. A bunch of merry women rekindle in Sharma, a passion for cooking and chutzpah in general, that help him find his true calling.",
+  "created_at": "2026-07-22T15:14:58.457Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2787,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

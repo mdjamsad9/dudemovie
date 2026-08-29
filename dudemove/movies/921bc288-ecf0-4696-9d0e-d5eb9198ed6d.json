@@ -1,0 +1,28 @@
+{
+  "id": "921bc288-ecf0-4696-9d0e-d5eb9198ed6d",
+  "title": "Bad Boy",
+  "slug": "bad-boy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1GW9dRhoy7ahG4rIFbZkPPwFae0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 122,
+  "rating": 5,
+  "description": "A light comedy about a good-for-nothing boy who falls in love with a studious girl from a conservative family. Thus the funny conflict and situations that pop up.",
+  "created_at": "2026-07-22T15:11:35.781Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 2286,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

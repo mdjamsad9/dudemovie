@@ -1,0 +1,28 @@
+{
+  "id": "664a36cf-1070-4c21-b825-2eda99c65dc7",
+  "title": "The Siege of Robin Hood",
+  "slug": "the-siege-of-robin-hood",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zetKhTVOuScOavtqi2sQT14vcyR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 4.4,
+  "description": "In a time of chaos and tyranny, the once great nation of England teeters perilously on the brink of mass revolution. After the merciless Sheriff of Nottingham orders a brutal attack on his family, a young man named Robin swears bloody revenge on the men responsible, vowing to restore freedom to those trapped under the realm’s oppressive rule. Advised and mentored by the reclusive magician Merlin, Robin and his right-hand man Lancelot recruit a deadly team of exiled fighters and skilled mavericks to rally the villagers for an explosive all-out assault on the Crown’s castle.",
+  "created_at": "2026-08-06T04:57:50.736Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 3255,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

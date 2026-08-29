@@ -1,0 +1,28 @@
+{
+  "id": "9512988a-7e81-408d-b0d3-05e1d2d05639",
+  "title": "Fukrey 3",
+  "slug": "fukrey-3",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1E5qIvLBNrv4onx5SxnNz5Monac.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 147,
+  "rating": 5.333,
+  "description": "In the third installment, the Fukras plan to take over Delhi, and run for city elections. However, they have no money and so they take on an international job to make a quick buck, which changes their lives forever. In the first two films, we saw them using dreams, then premonitions to make money but now they’ve been gifted with a new & unique talent which is going to make them millionaires.",
+  "created_at": "2026-07-22T15:11:34.545Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2240,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

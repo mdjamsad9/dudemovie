@@ -1,0 +1,24 @@
+{
+  "id": "bb17d4a9-9d01-4c16-b439-5c3e53b7b755",
+  "title": "800",
+  "slug": "800",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8IhUIXCoKobODeq3FbTet9gMAfx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": 158,
+  "rating": 6.556,
+  "description": "Muttiah Muralitharan's inspirational journey shedding light on the challenges and triumphs that defined his illustrious cricket career is brought together here.",
+  "created_at": "2026-07-22T15:11:26.608Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1953,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

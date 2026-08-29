@@ -1,0 +1,24 @@
+{
+  "id": "55b673d3-d39d-46e3-9e23-61294529f781",
+  "title": "Crew",
+  "slug": "crew",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8mnCtQngfhYt0W0BmkrCePutmvy.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 124,
+  "rating": 6.734,
+  "description": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+  "created_at": "2026-07-22T15:10:35.993Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1060,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

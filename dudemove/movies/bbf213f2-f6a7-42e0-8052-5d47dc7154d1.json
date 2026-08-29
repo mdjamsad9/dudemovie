@@ -1,0 +1,32 @@
+{
+  "id": "bbf213f2-f6a7-42e0-8052-5d47dc7154d1",
+  "title": "Sister Wife Murder",
+  "slug": "sister-wife-murder",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/q73vxIOQdnj4DURUJRedDf8cenz.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 86,
+  "rating": 6.9,
+  "description": "Chloe attends church and is immediately drawn to the pastor, Caleb. She falls in love with him, only to discover that he is married to two other women. When one of the wives mysteriously disappears, Chloe fears that she may be next.",
+  "created_at": "2026-07-09T17:13:39.015Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    }
+  ],
+  "_index": 1017,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Sister.Wife.Murder.2024.1080p.WEBRip.x264%20%5BDDN%5D/Sister.Wife.Murder.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

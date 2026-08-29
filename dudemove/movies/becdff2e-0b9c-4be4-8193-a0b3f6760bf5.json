@@ -1,0 +1,32 @@
+{
+  "id": "becdff2e-0b9c-4be4-8193-a0b3f6760bf5",
+  "title": "Anamika",
+  "slug": "anamika",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/rY3iXVIRZUre4PfZ1BS8pfA0kNA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 7,
+  "description": "A self proclaimed misogynistic writer rescues an injured woman who suffers from amnesia but claims to be his wife. In the process of finding out her real identity, he falls in love with her.",
+  "created_at": "2026-08-06T04:58:27.302Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3982,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

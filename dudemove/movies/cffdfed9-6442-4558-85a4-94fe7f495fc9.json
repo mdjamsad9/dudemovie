@@ -1,0 +1,32 @@
+{
+  "id": "cffdfed9-6442-4558-85a4-94fe7f495fc9",
+  "title": "Agenda: Payback",
+  "slug": "agenda-payback",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qBbHZ5HoWANMkVIJF9BnBGuVUj6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 95,
+  "rating": 5.273,
+  "description": "Steve Walsh is living the high life but it's a life built on the ruin of other people's dreams. Peter Farrell is a man with nothing left to lose and there is nothing more dangerous than a man seeking retribution.",
+  "created_at": "2026-07-22T15:39:23.287Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6095,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

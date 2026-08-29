@@ -1,0 +1,32 @@
+{
+  "id": "66c694a7-e3b5-4599-8416-81a672bf30fc",
+  "title": "Tu Jhoothi Main Makkaar",
+  "slug": "tu-jhoothi-main-makkaar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zHLtNP4KP0GMi6p1ACf2QvVnBvI.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 164,
+  "rating": 6.3,
+  "description": "To earn extra cash, Mickey helps couples break up — but life gets complicated when he falls for Tinni, a career woman with an independent streak.",
+  "created_at": "2026-07-22T15:12:22.089Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 2022,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

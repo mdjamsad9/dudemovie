@@ -1,0 +1,24 @@
+{
+  "id": "d1d99e06-3580-47bb-b74c-f508b16d766c",
+  "title": "The Outrun",
+  "slug": "the-outrun",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 118,
+  "rating": 6.8,
+  "description": "Fresh out of rehab, Rona returns to the Orkney Islands—a place both wild and beautiful, right off the Scottish coast. Now 29 and after more than a decade of living life on the edge in London, where she both found and lost love, Rona attempts to come to terms with her troubled past. As she reconnects with the dramatic landscape where she grew up, memories of her traumatic childhood merge with more recent challenging events that have set her on the path to recovery.",
+  "created_at": "2026-07-09T17:09:57.251Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1047,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Outrun.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Outrun.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

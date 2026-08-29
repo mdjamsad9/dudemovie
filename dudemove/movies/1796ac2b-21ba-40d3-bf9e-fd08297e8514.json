@@ -1,0 +1,28 @@
+{
+  "id": "1796ac2b-21ba-40d3-bf9e-fd08297e8514",
+  "title": "The Rhythm Section",
+  "slug": "the-rhythm-section",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Arabic",
+  "release_year": 2020,
+  "duration": 109,
+  "rating": 5.509,
+  "description": "When she discovers the plane crash that claimed the lives of her family was no accident, Stephanie Patrick enters the dark, complex world of international espionage seeking vengeance. With nothing left to lose, Stephanie transforms from victim to assassin and discovers that neither revenge nor the truth are what they appear.",
+  "created_at": "2026-07-22T15:24:57.585Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4283,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8627db72-9246-4403-89a0-def18783c144",
+  "title": "Tholu Bommalata",
+  "slug": "tholu-bommalata",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gA0Hv9Cs66PUI2OTtVWkjMmOBkH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 140,
+  "rating": null,
+  "description": "A family film directed by Viswanath Maganti, starring Harshitha Chowdary and Viswant Duddumpudi in the lead roles.",
+  "created_at": "2026-07-31T07:00:36.524Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5492,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

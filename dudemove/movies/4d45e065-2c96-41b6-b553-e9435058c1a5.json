@@ -1,0 +1,32 @@
+{
+  "id": "4d45e065-2c96-41b6-b553-e9435058c1a5",
+  "title": "Yaariyan 2",
+  "slug": "yaariyan-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zcy8ZFwnzMhB32RaPArpj2XASP4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 150,
+  "rating": 4.4,
+  "description": "As three cousins embrace the warmth of a new city, they also face challenges that transform their lives.",
+  "created_at": "2026-07-22T15:10:45.484Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 2350,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d520e8da-b359-4030-9e8e-5041a5195a98",
+  "title": "The Breadwinner",
+  "slug": "the-breadwinner-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2026,
+  "duration": 100,
+  "rating": 7.263,
+  "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+  "created_at": "2026-07-22T15:09:18.058Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 56,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6a8b914f-b815-41e8-8ee9-1014eea75f89",
+  "title": "The Stranger",
+  "slug": "the-stranger",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 6.175,
+  "description": "Two strangers strike up a conversation on a long journey. However, neither is who they appear to be, each carry secrets that threaten to ruin them — and in the background, one of the nation's largest police operations is closing in.",
+  "created_at": "2026-08-06T04:57:37.769Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2984,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a9dc9f6d-9e8e-43a9-ba44-081e62eee474",
+  "title": "War 2",
+  "slug": "war-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fxxVbjhIOl8ZPS69dH8xeeuxvmh.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 173,
+  "rating": 6,
+  "description": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+  "created_at": "2026-07-09T16:51:42.914Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 620,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/War%202%20(2025)%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D/War%202%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

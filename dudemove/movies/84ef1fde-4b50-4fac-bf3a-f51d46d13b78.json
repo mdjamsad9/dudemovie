@@ -1,0 +1,32 @@
+{
+  "id": "84ef1fde-4b50-4fac-bf3a-f51d46d13b78",
+  "title": "Mr Bachchan",
+  "slug": "mr-bachchan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/55TWpe9GvJEx2dq8fWoroIbJRvI.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2024,
+  "duration": 160,
+  "rating": 3,
+  "description": "Just four days before wedding, a fiercely honest Income Tax officer Bachchan’s life takes a dramatic turn when he is reinstated from suspension and tasked with raiding the home of the powerful and ruthless politician Mutyam Jaggaiah.",
+  "created_at": "2026-07-09T17:13:23.849Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 1442,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mr.%20Bachchan%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mr.%20Bachchan%20(2024)%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

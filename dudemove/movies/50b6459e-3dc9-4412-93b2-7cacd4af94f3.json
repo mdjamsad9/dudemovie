@@ -1,0 +1,28 @@
+{
+  "id": "50b6459e-3dc9-4412-93b2-7cacd4af94f3",
+  "title": "October",
+  "slug": "october",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHUBPUwXkHinq2rIXnnCHsPylD1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2018,
+  "duration": 109,
+  "rating": 6.935,
+  "description": "Dan, a 21-year-old carefree boy is always surrounded by a bunch of friends and fellow hotel interns who feed off each other's everyday moments, their ups and downs. Shiuli is also an intern working in the same hotel, who at times is at a receiving end of Dan's audaciousness. Everything was normal in their life until a sudden turn of events smashes Dan and Shiuli's lives together, into a bond.",
+  "created_at": "2026-07-22T15:35:50.415Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 5642,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

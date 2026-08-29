@@ -1,0 +1,28 @@
+{
+  "id": "6f9d17d8-1ccc-4be8-b534-3449564b9a3e",
+  "title": "Wendy",
+  "slug": "wendy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 111,
+  "rating": 5.7,
+  "description": "A re-imagining of \"Peter Pan\" from the point of view of Wendy Darling, who finds herself lost on a mysterious island where aging and time have come unglued. She must fight to save her family, her freedom and the joyous spirit of youth.",
+  "created_at": "2026-07-22T15:25:00.229Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4249,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

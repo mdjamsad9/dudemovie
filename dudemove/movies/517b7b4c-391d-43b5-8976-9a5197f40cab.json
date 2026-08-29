@@ -1,0 +1,28 @@
+{
+  "id": "517b7b4c-391d-43b5-8976-9a5197f40cab",
+  "title": "Bison Kaalamaadan",
+  "slug": "bison-kaalamaadan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5IPFJ2XFbYjdIw4912ZufCMolX.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 169,
+  "rating": 7.3,
+  "description": "A young man fights to overcome violence plaguing his village and succeed as a professional kabaddi player.",
+  "created_at": "2026-07-09T16:49:09.814Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 352,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Bison%20Kaalamaadan%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bison%20Kaalamaadan%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

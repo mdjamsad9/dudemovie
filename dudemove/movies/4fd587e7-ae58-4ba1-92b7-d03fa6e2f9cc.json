@@ -1,0 +1,28 @@
+{
+  "id": "4fd587e7-ae58-4ba1-92b7-d03fa6e2f9cc",
+  "title": "Fly Me to the Moon",
+  "slug": "fly-me-to-the-moon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lb0XDH6LbkYwzbHTqjsUNZTLXMS.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 6.807,
+  "description": "Sparks fly in all directions as marketing maven Kelly Jones, brought in to fix NASA's public image, wreaks havoc on Apollo 11 launch director Cole Davis' already difficult task of putting a man on the moon. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as backup, and the countdown truly begins.",
+  "created_at": "2026-07-09T17:15:08.117Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1036,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Fly.Me.To.The.Moon.2024.1080p.WEBRip.x264%20%5BDDN%5D/Fly.Me.To.The.Moon.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

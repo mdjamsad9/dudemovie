@@ -1,0 +1,24 @@
+{
+  "id": "d3b625a5-3db3-4e39-b8e0-5065b68ec762",
+  "title": "Non Stop Dhamaal",
+  "slug": "non-stop-dhamaal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gxDjPPJsa6u5Cs0V4WDj11iqMsj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 100,
+  "rating": null,
+  "description": "Satinder (Annu Kapoor), a film director with big dreams of working with famous stars, teams up with his friend Amar (Manoj Joshi), a struggling film writer, to find someone who can invest in their new film project. As the story unfolds, it takes us through a whirlwind of confusion, emotional moments, and loads of comedy.",
+  "created_at": "2026-07-22T15:11:53.589Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 2451,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

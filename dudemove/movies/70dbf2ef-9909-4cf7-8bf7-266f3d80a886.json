@@ -1,0 +1,32 @@
+{
+  "id": "70dbf2ef-9909-4cf7-8bf7-266f3d80a886",
+  "title": "Ennu Swantham Punyalan",
+  "slug": "ennu-swantham-punyalan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/w6pvJOS8aItPlig6lFEUQXPFy7w.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Malayalam",
+  "release_year": 2025,
+  "duration": 127,
+  "rating": null,
+  "description": "Thomas, a reluctant priest is forced into ordination to fulfill his mother's vow. His peaceful existence at the church mansion is disrupted when a young woman, seeking refuge from her troubles, unexpectedly arrives. To complicate matters, a mischievous thief sneaks into the same room, setting the stage for a series of chaotic and humorous encounters. As the unlikely trio navigates misunderstandings and dilemmas, they uncover heartfelt connections and unexpected revelations in this entertaining tale of faith, humanity, and redemption.",
+  "created_at": "2026-07-09T17:04:01.304Z",
+  "genres": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 806,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Ennu%20Swantham%20Punyalan%20(2025)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Ennu%20Swantham%20Punyalan%20(2025)%20Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3e34fd72-0587-4df7-8938-b4b772fe4a92",
+  "title": "Court Martial",
+  "slug": "court-martial",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/98Fv3MSWeIPI2lbC16OxE2tHUYh.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": null,
+  "description": "Court Martial is a Hindi play starring Rajeev Khandelwal, Govind Pandey, Bhagwaan Tiwari, Saksham Dayma and Swapnil Kotriwar. When army officer Ramchander shoots his two senior officers, the jury orders for his court martial. Captain Bikash Roy steps in as the defence lawyer and tries to expose the ugly and shocking truth.",
+  "created_at": "2026-07-22T15:24:43.277Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4510,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

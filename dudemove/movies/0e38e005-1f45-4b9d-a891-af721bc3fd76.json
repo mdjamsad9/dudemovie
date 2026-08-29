@@ -1,0 +1,28 @@
+{
+  "id": "0e38e005-1f45-4b9d-a891-af721bc3fd76",
+  "title": "Peranbu",
+  "slug": "peranbu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uogOObqRReG91niJ2X7WNMpRkH8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 147,
+  "rating": null,
+  "description": "A single father tries to raise his daughter, who has cerebral palsy, even as she is beginning to wake up to her sexuality.",
+  "created_at": "2026-07-31T07:16:29.704Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5266,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

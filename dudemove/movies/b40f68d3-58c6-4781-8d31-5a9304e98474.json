@@ -1,0 +1,32 @@
+{
+  "id": "b40f68d3-58c6-4781-8d31-5a9304e98474",
+  "title": "Neeyat",
+  "slug": "neeyat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yHLEle6lz50GH97D7bAcingUlxG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 132,
+  "rating": 5.1,
+  "description": "When an exiled billionaire mysteriously dies at his birthday party at a Scottish castle, the prime suspects are his close family and friends, each with a motive to kill him.​ CBI officer Mira Rao must use all her skill to unravel the mystery where nothing is what it seems and everyone hides a secret or two.",
+  "created_at": "2026-07-22T15:11:52.904Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 2273,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

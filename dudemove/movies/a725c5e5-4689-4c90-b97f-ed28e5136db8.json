@@ -1,0 +1,28 @@
+{
+  "id": "a725c5e5-4689-4c90-b97f-ed28e5136db8",
+  "title": "Before the Fire",
+  "slug": "before-the-fire",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bAwtbmCzhFwKf2wN6QQH301ylbO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 92,
+  "rating": 5.7,
+  "description": "Deep in the throes of a global pandemic, up and coming TV star, Ava Boone, is forced to flee the mounting chaos in Los Angeles and return to her rural hometown.  But as she struggles to acclimate to a way of life she left behind long ago, her homecoming attracts a dangerous figure from her past – threatening both her and the family that serves as her only sanctuary.",
+  "created_at": "2026-07-22T15:22:12.956Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4254,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

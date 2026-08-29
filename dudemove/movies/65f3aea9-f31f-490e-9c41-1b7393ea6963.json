@@ -1,0 +1,32 @@
+{
+  "id": "65f3aea9-f31f-490e-9c41-1b7393ea6963",
+  "title": "Kaantha",
+  "slug": "kaantha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2025,
+  "duration": 150,
+  "rating": 6.625,
+  "description": "Set in the backdrop of a film set, in the 1950’s in post colonial Madras, the film is centred around the professional rivalry between a film-maker trying to make his seminal film and the top reigning actor who the director once introduced. The rivalry spirals around the leading actress, a debutante and as the relationship between the three.",
+  "created_at": "2026-07-09T16:48:18.556Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 472,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Kaantha%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kaantha%20(2025)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

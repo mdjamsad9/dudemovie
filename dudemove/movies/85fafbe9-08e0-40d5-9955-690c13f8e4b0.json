@@ -1,0 +1,28 @@
+{
+  "id": "85fafbe9-08e0-40d5-9955-690c13f8e4b0",
+  "title": "Lust Stories 2",
+  "slug": "lust-stories-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p5x729JI6wZs9hCqX7tc7oH87ih.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 132,
+  "rating": 5.627,
+  "description": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
+  "created_at": "2026-07-22T15:12:06.372Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 2197,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

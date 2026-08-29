@@ -1,0 +1,28 @@
+{
+  "id": "5ec20c1a-47b6-4578-9ade-c08f3b69c059",
+  "title": "Hard Night Falling",
+  "slug": "hard-night-falling",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pux7s4pXUcTvxB1fAODSaEXeXRH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 86,
+  "rating": 5.107,
+  "description": "Goro, a criminal mastermind, plot to steal a massive cache of gold from the Rossini family. Unbeknownst to Goro and his soldiers of fortune, one of Rossini's guest is a highly trained foreign operative who fights to not only save the hostages and the gold, but his imperiled family.",
+  "created_at": "2026-07-22T15:26:38.732Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5084,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

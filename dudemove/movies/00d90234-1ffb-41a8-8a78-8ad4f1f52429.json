@@ -1,0 +1,24 @@
+{
+  "id": "00d90234-1ffb-41a8-8a78-8ad4f1f52429",
+  "title": "The Bubble",
+  "slug": "the-bubble",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 127,
+  "rating": 4.612,
+  "description": "Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.",
+  "created_at": "2026-07-22T15:14:56.358Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 3235,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

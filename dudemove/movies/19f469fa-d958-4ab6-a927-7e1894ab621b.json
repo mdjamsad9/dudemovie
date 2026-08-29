@@ -1,0 +1,28 @@
+{
+  "id": "19f469fa-d958-4ab6-a927-7e1894ab621b",
+  "title": "Argentina Fans Kaattoorkadavu",
+  "slug": "argentina-fans-kaattoorkadavu",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yQUnVGtPszT1XlDJ8Yavo1uVWAH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 122,
+  "rating": null,
+  "description": "Set on the background of an Argentina football team fan Vipinan between their reign from the 2010 to 2018 FIFA world cups.",
+  "created_at": "2026-07-31T07:14:19.023Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5291,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

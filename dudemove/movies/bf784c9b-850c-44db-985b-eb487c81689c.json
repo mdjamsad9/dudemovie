@@ -1,0 +1,32 @@
+{
+  "id": "bf784c9b-850c-44db-985b-eb487c81689c",
+  "title": "Auron Mein Kahan Dum Tha",
+  "slug": "auron-mein-kahan-dum-tha",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cKvom4C6fGIM1sOKINkBi7oCqok.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 145,
+  "rating": 5.05,
+  "description": "After 20 years in prison, a man reunites with his lost love and the truth behind his crimes is revealed.",
+  "created_at": "2026-07-22T15:10:05.524Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 1358,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

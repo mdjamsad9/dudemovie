@@ -1,0 +1,28 @@
+{
+  "id": "f47d11e2-1e0d-48de-9892-5da3d8399ac1",
+  "title": "Looking Glass",
+  "slug": "looking-glass",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "French",
+  "release_year": 2018,
+  "duration": 103,
+  "rating": 4.8,
+  "description": "A psycho- sexual thriller following a couple that buys an old motel in the desert looking for a new beginning, but what seemed at first as an escape is soon a thrilling ride through a mysterious world when Ray discovers a two way mirror and witnesses a horrifying murder. In a twisted game of cat and mouse, Ray must race to save his wife and himself from a gruesome secret connected to the motel and the strange people who visit there.",
+  "created_at": "2026-07-22T15:39:37.682Z",
+  "genres": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6166,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

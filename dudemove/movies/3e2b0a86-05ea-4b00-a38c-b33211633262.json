@@ -1,0 +1,24 @@
+{
+  "id": "3e2b0a86-05ea-4b00-a38c-b33211633262",
+  "title": "Ettu Thikkum Para",
+  "slug": "ettu-thikkum-para",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/irQzJqgrcNpb161aZuQXlbccQYJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 119,
+  "rating": null,
+  "description": "Ambedkar, a social activist, gets involved in the dark side of the government. As a result, his son and friends are killed. A lower caste individual desires to marry a girl from a higher caste. A woman leaves for Chennai to marry the man of her choice. A man is in need of Rs 20,000 to save his son's life. How these separate stories interact forms the rest of the story.",
+  "created_at": "2026-07-31T07:04:11.977Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4455,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

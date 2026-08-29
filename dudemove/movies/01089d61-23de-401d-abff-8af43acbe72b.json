@@ -1,0 +1,28 @@
+{
+  "id": "01089d61-23de-401d-abff-8af43acbe72b",
+  "title": "Faraaz",
+  "slug": "faraaz",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Dn3X97sTB15sBIdX8gkkhqCOyD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 112,
+  "rating": 4.3,
+  "description": "A terrifying hostage crisis unfolds over one fateful night in 2016 when heavily armed militants attack a popular cafe in Dhaka.",
+  "created_at": "2026-07-22T15:12:29.140Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2354,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

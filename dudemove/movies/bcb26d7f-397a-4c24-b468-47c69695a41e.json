@@ -1,0 +1,28 @@
+{
+  "id": "bcb26d7f-397a-4c24-b468-47c69695a41e",
+  "title": "Sharmajee Ki Beti",
+  "slug": "sharmajee-ki-beti",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vJc61J8aZvLz49BHQ7MXyjgQCzk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 115,
+  "rating": 5.5,
+  "description": "Sharmajee Ki Beti intricately weaves the lives of Jyoti, Kiran, and Tanvi, all with the common surname of Sharma as they navigate urban loneliness, societal pressures, and gender expectations. Amidst their struggles, teenagers, Swati and Gurveen journey through puberty and maternal neglect, adding depth to this humorous and heart-warming tale of resilience, aspirations, and coming-of-age.",
+  "created_at": "2026-07-22T15:10:26.986Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2219,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

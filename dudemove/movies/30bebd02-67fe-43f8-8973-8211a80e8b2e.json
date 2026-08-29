@@ -1,0 +1,24 @@
+{
+  "id": "30bebd02-67fe-43f8-8973-8211a80e8b2e",
+  "title": "Faith Hope And Love",
+  "slug": "faith-hope-and-love",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zY0u4DXLTIQ7A43fQpTIHbILg45.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Russian",
+  "release_year": 2019,
+  "duration": null,
+  "rating": null,
+  "description": "About the great football player and ambitious coach Valeria Karpin.",
+  "created_at": "2026-08-06T04:58:38.724Z",
+  "genres": [
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5257,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a3574464-8743-42b7-8637-0c89859a1568",
+  "title": "The Banker",
+  "slug": "the-banker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/biXzsw22U6vSd0XktmZwAOc4uik.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 120,
+  "rating": 7.618,
+  "description": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration—and equal access to the American Dream.",
+  "created_at": "2026-07-22T15:25:35.020Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3915,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

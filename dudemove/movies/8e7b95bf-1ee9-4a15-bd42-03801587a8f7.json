@@ -1,0 +1,28 @@
+{
+  "id": "8e7b95bf-1ee9-4a15-bd42-03801587a8f7",
+  "title": "WWE King and Queen of the Ring",
+  "slug": "wwe-king-and-queen-of-the-ring",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wthcQM6OdsO8mAehmFmOoPiRT1O.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "en",
+  "release_year": 2024,
+  "duration": 175,
+  "rating": 6.8,
+  "description": "The 2024 King & Queen of the Ring was a professional wrestling event produced by the American company WWE. It was the 12th King of the Ring event and took place on May 25, 2024, at the Jeddah Super Dome in Jeddah, Saudi Arabia. It aired via pay-per-view (PPV) and live streaming and wrestlers from the Raw and SmackDown brand divisions. This was the first King of the Ring to livestream on the WWE Network since the 2015 event, the first to livestream on Peacock, and the first to air on PPV since the 2002 event.  It was the 11th event that WWE held in Saudi Arabia under a 10-year partnership supporting Saudi Vision 2030. The event will also see the finals of both the King of the Ring tournament and the second Queen's Crown tournament.",
+  "created_at": "2026-07-09T16:59:02.172Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1050,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Queen.Of.The.Ring.2024.1080p.WEBRip.x264%20%5BDDN%5D/Queen.Of.The.Ring.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

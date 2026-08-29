@@ -1,0 +1,32 @@
+{
+  "id": "b396f2cf-bcf7-47d2-a006-fde0a2c90add",
+  "title": "Kantara - A Legend: Chapter 1",
+  "slug": "kantara-a-legend-chapter-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3CP7crYcSBV0k8JP6fl0XaMPpDY.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Kannada",
+  "release_year": 2025,
+  "duration": 165,
+  "rating": 7.177,
+  "description": "During the Kadamba reign, King Vijayendra, the ruler of the fictional feudatory land of Bangra, meets his final fate while venturing into the mystical forest of Kantara. Witnessing this, his son Rajashekara seals the borders of their realm. Later, Prince Kulashekara reopens them through a brutal massacre. The protagonist, Berme, in search of prosperity, crosses the divide and ignites a conflict of faith, power, and destiny between the Kingdom and Nature.",
+  "created_at": "2026-07-09T16:51:57.880Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 367,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kantara%20A%20Legend%20Chapter%201%20(2025)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Kantara%20A%20Legend%20Chapter%201%20%282025%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

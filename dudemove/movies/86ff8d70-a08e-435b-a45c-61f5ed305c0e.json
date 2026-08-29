@@ -1,0 +1,24 @@
+{
+  "id": "86ff8d70-a08e-435b-a45c-61f5ed305c0e",
+  "title": "Love-All",
+  "slug": "love-all",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/qTLRHRJIQLRtsv9Q1rbUgRlE3A2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "A promising talent succumbs to sports politics and moves on to live a life far from the game he was once inseparable from. Once a darling to all, now an aloof and angry man, changed by conspiracies of people at mighty positions.  The hopelessness from being unable to play the game he was passionate about makes some noticeable scars on his psyche. He lives on to lead an ordinary life while blaming sports for everything wrong in his world.  His agony and perceived hatred for sports trickle down to his family, where his son is forbidden to pursue sports or any activity digressing him from the established path of studies.",
+  "created_at": "2026-07-22T15:11:50.640Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2452,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

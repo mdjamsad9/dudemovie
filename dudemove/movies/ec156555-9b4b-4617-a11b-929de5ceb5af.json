@@ -1,0 +1,24 @@
+{
+  "id": "ec156555-9b4b-4617-a11b-929de5ceb5af",
+  "title": "Roommates",
+  "slug": "roommates",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cTe6fbD97ZrVBFfhP874noVDlWC.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2026,
+  "duration": 108,
+  "rating": 6.5,
+  "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+  "created_at": "2026-07-09T16:35:37.873Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 119,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Roommates.2026.1080p.WEBRip.x264%20%5BDDN%5D/Roommates.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

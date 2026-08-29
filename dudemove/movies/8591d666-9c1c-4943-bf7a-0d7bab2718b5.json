@@ -1,0 +1,32 @@
+{
+  "id": "8591d666-9c1c-4943-bf7a-0d7bab2718b5",
+  "title": "Shadaa",
+  "slug": "shadaa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/saZ5hon73b7BgbRWNpUC0h6uQM6.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Punjabi",
+  "release_year": 2019,
+  "duration": 129,
+  "rating": null,
+  "description": "Amidst pressures from his parents to hurry up and wed, a young man seeks his perfect match. After many failed attempts with matchmakers, his parents are delighted when their son finally meets the woman of his dreams but things do not go as planned.",
+  "created_at": "2026-07-31T07:10:49.297Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "_index": 5326,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

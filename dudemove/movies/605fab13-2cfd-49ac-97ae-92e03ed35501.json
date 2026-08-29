@@ -1,0 +1,28 @@
+{
+  "id": "605fab13-2cfd-49ac-97ae-92e03ed35501",
+  "title": "Anali",
+  "slug": "anali",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/swU1gHR88apVPthor7RVv8AOa1j.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi Tamil",
+  "release_year": 2026,
+  "duration": 120,
+  "rating": null,
+  "description": "Entire Story takes place over a single night. It revolves around Jansi and her 8yr old child, who gets trapped between third world war tensions and dangereous men Lal Chetta, Khan Bhai & Ranga Reddy. These men far more dangerous than wild animals. The Note film thrillingly portraits by how Jansi uses her intelligence to escape and bring everything to an end.",
+  "created_at": "2026-07-09T16:33:03.954Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 264,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Anali%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anali%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

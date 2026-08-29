@@ -1,0 +1,28 @@
+{
+  "id": "41d7f0f6-3c31-46d0-9faf-d954b81aa4e4",
+  "title": "Garuda Purana",
+  "slug": "garuda-purana",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/45HpXzD5QT8vssVSqA5fJVQRSDB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "kn",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "The story centers on a string of rapes and murders across the state, perplexing authorities, as the bodies found, don't match the missing victims and hold on no clue about the missing victims. The Home Minister forms an SIT to investigate. Meanwhile, three happy-go-lucky friends - Mayuk, Roshan, and Kencha - encounter Nandini, sparking a romance between Mayuk and her. As the crimes persist, the friends and Nandini become unwittingly entangled in the investigation, leading to unexpected consequences.",
+  "created_at": "2026-07-22T15:10:37.240Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2463,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

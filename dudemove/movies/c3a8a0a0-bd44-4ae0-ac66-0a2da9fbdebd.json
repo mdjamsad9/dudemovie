@@ -1,0 +1,28 @@
+{
+  "id": "c3a8a0a0-bd44-4ae0-ac66-0a2da9fbdebd",
+  "title": "Lockup",
+  "slug": "lockup",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8nDMmpHdZOFqHNEPw5fvVqsotp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2020,
+  "duration": 106,
+  "rating": null,
+  "description": "The mysterious death of a cop becomes complex as investigation progresses because of fabricated evidences and indirect involvement of a few other cops in the case.",
+  "created_at": "2026-07-31T07:00:41.951Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4499,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

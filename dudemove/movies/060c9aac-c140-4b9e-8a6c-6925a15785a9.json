@@ -1,0 +1,24 @@
+{
+  "id": "060c9aac-c140-4b9e-8a6c-6925a15785a9",
+  "title": "Dhamaal 4",
+  "slug": "dhamaal-4",
+  "thumbnail_url": "https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F5d7hpbefNiuebl5eqP5cRrckVxs.jpg&w=1080&q=75",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 143,
+  "rating": 5.5,
+  "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+  "created_at": "2026-07-12T13:37:32.357Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 181,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Dhamaal-4%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Dhamaal-4%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

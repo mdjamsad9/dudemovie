@@ -1,0 +1,28 @@
+{
+  "id": "3ca52839-b28c-4c4b-a667-2b73d55ce9ad",
+  "title": "Ikka",
+  "slug": "ikka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": null,
+  "rating": null,
+  "description": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+  "created_at": "2026-07-22T15:09:25.479Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 235,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

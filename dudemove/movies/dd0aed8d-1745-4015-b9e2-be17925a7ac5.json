@@ -1,0 +1,24 @@
+{
+  "id": "dd0aed8d-1745-4015-b9e2-be17925a7ac5",
+  "title": "Mercury",
+  "slug": "mercury",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/sudBrVnR4WFdmO3lHPcWFrwjkPR.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 14,
+  "rating": null,
+  "description": "Bambi drives her very pregnant best-friend Al to hospital to have her baby. They've decided that she's not going to keep it. Al's mood darkens as the inevitable and irreversible reality sinks in.",
+  "created_at": "2026-07-31T07:24:01.430Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6306,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

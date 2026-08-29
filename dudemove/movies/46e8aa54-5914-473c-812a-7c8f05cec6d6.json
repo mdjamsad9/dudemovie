@@ -1,0 +1,32 @@
+{
+  "id": "46e8aa54-5914-473c-812a-7c8f05cec6d6",
+  "title": "Eureka",
+  "slug": "eureka",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uFzbPzqJ2uiPqUwws3NkSd8BAmp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 121,
+  "rating": null,
+  "description": "Yuva wants to complete his college course sooner and when he tries to put an end to the college festival lead by Revanth his life gets tossed when the latter ends up dead under mysterious circumstances.",
+  "created_at": "2026-07-31T07:02:52.018Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4475,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

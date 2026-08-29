@@ -1,0 +1,24 @@
+{
+  "id": "2b1b7af3-43e7-48da-8813-b2bea974a77a",
+  "title": "Gandhi Talks",
+  "slug": "gandhi-talks",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "No Language",
+  "release_year": 2026,
+  "duration": 133,
+  "rating": 7.333,
+  "description": "A silent black comedy, about the monetary needs of a character & how it impacts the others. A young, unemployed graduate Mahadev’s struggle to land a job through any means possible and crosses paths with a businessman and petty thief. A subject wherein silence speaks much louder than words. Although a work of fiction by the writer, all the characters in the film are sketched out to seem very real and relatable ensuring an enriching journey as well a laugh riot as the cat and mouse guffaws amongst them unfold. Gandhi Talks aims at telling a story by switching off the device of dialogue, which is not only scary but also interesting and challenging.",
+  "created_at": "2026-07-09T16:40:33.721Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 47,
+  "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Gandhi%20Talk%20(2026)%20Hindi%201080p%20HDTS%20x264%20%5BDDN%5D/Gandhi%20Talk%20%282026%29%20Hindi%201080p%20HDTS%20x264%20%5BDDN%5D.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

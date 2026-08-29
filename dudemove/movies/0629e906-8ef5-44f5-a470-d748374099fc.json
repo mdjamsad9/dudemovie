@@ -1,0 +1,28 @@
+{
+  "id": "0629e906-8ef5-44f5-a470-d748374099fc",
+  "title": "LX 2048",
+  "slug": "lx-2048",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/u5VqBL0TtNmV1kxwoQ2L2dWPLiM.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": null,
+  "rating": 5.076,
+  "description": "In the near future, the sun has become so toxic people can no longer leave their houses in daytime, and normal life is conducted mostly inside the virtual realm. Against this dystopian backdrop, a dying man seeks to ensure the future well-being of his family, while coping with what it means to be human in this new reality.",
+  "created_at": "2026-08-06T04:58:24.179Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4334,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

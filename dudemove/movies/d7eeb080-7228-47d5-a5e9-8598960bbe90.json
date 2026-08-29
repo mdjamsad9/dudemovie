@@ -1,0 +1,28 @@
+{
+  "id": "d7eeb080-7228-47d5-a5e9-8598960bbe90",
+  "title": "Joseph",
+  "slug": "joseph",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uwBm7hx6Exdb0KzLoPZzqieBlDO.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 138,
+  "rating": null,
+  "description": "Joseph is a retired police officer with adept investigative skills. He accidentally gets involved in a crime case after his ex-wife’s unexpected demise.",
+  "created_at": "2026-07-31T07:17:01.628Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6401,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

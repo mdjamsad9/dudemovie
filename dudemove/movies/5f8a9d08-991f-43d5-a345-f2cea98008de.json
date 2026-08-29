@@ -1,0 +1,28 @@
+{
+  "id": "5f8a9d08-991f-43d5-a345-f2cea98008de",
+  "title": "We Live in Time",
+  "slug": "we-live-in-time",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 108,
+  "rating": 7.208,
+  "description": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+  "created_at": "2026-07-09T17:09:13.549Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 942,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/We.Live.In.Time.2024.1080p.WEBRip.x264%20%5BDDN%5D/We.Live.In.Time.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

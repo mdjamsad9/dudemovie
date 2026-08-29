@@ -1,0 +1,28 @@
+{
+  "id": "aa1b885c-8599-4697-b333-7f7638cd5840",
+  "title": "Jalsa",
+  "slug": "jalsa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/h7lazOfbemCtX7ZZYnqmZx4IHxD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2022,
+  "duration": 127,
+  "rating": 6.155,
+  "description": "A hit and run of an 18-year-old girl becomes the hub of a wheel that sets into motion many a spoke - a journalist, a raging mother, a cop and a system all caught in an ethical dilemma. Questions are raised only to realize that the truth is rarely pure and never simple.",
+  "created_at": "2026-07-22T15:15:05.396Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2986,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

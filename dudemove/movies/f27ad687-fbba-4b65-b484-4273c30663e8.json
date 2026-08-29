@@ -1,0 +1,36 @@
+{
+  "id": "f27ad687-fbba-4b65-b484-4273c30663e8",
+  "title": "Voter",
+  "slug": "voter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/s7P5Pakp4A0A1oL4GR2kStPdzFx.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2019,
+  "duration": 117,
+  "rating": null,
+  "description": "Gautam is an NRI who returns to India to cast his vote. When challenged by the woman he loves, Bhavana, to make a politician fulfil his campaign promises if he wants to win her over, Gautam sets off on a path to change the system.",
+  "created_at": "2026-07-31T07:13:30.184Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5302,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7c31ff71-ff0c-4f64-8aa6-c942d73d414e",
+  "title": "Dream Girl 2",
+  "slug": "dream-girl-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gvNeqDNwZ8isym8CeHZsZk1QiSJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": 5.5,
+  "description": "Karam, a small-town boy from Mathura, is struggling every day to pay his father's debt, who has borrowed money from nearly everyone on the planet. On the other hand, he is deeply in love with Pari, whose father has kept the conditions to marry her. To make ends meet, Karam dons as Pooja, which creates wild chaos and a comedy of errors.",
+  "created_at": "2026-07-22T15:11:37.865Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 2218,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "80a91455-d3da-42c6-91e6-8eda7eb7baef",
+  "title": "Maidaan",
+  "slug": "maidaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eKbAVKQf6choCfasNWuYoSTOPBP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 181,
+  "rating": 7.841,
+  "description": "Inspired by the Indian national football team coach and manager Syed Abdul Rahim, who is regarded as the architect of Indian football, encapsulating the golden era from 1952 to 1962.",
+  "created_at": "2026-07-22T15:10:36.382Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 882,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

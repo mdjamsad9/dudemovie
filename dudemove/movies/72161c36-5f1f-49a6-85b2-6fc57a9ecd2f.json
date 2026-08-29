@@ -1,0 +1,32 @@
+{
+  "id": "72161c36-5f1f-49a6-85b2-6fc57a9ecd2f",
+  "title": "Bad Man",
+  "slug": "bad-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/opjyy6Qp5n3QnuMgFeAxx55e7B8.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 98,
+  "rating": 5.511,
+  "description": "In Colt Lake, Tennessee, Sam Evans tackles a meth epidemic. He is side-lined on arrival of Bobby Gaines, an undercover agent. Despite Evans' local ties, Gaines is hailed as hero. Suspicions arise on Gaines which unravels a complex narrative.",
+  "created_at": "2026-07-09T16:50:46.982Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 692,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Bad.Man.2025.1080p.WEBRip.x264%20%5BDDN%5D/Bad.Man.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

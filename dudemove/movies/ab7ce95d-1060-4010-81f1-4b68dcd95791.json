@@ -1,0 +1,32 @@
+{
+  "id": "ab7ce95d-1060-4010-81f1-4b68dcd95791",
+  "title": "Together Together",
+  "slug": "together-together",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7cFawQz0urWvzsTbxTojbq11JJE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 6.368,
+  "description": "When young loner Anna is hired as the surrogate for Matt, a single man in his 40s, the two strangers come to realize this unexpected relationship will quickly challenge their perceptions of connection, boundaries and the particulars of love.",
+  "created_at": "2026-08-06T04:58:07.681Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 3631,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "49d237fe-a3ff-447d-808b-011b8341559d",
+  "title": "Pippa",
+  "slug": "pippa",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7bD664CWGigcjlT8wf2VR3KZCtK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 140,
+  "rating": 4.8,
+  "description": "The story of Captain Balram Singh Mehta of India’s 45 Cavalry regiment who, along with his siblings, fought on the eastern front during the Indo-Pakistani war of 1971. Named after the Russian amphibious war tank “PT-76”, which floats on water like an empty ‘pippa’ (tin) of ghee, the film traces Mehta's coming-of-age as he steps up to prove himself in a war to liberate Bangladesh.",
+  "created_at": "2026-07-22T15:11:34.216Z",
+  "genres": [
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2312,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

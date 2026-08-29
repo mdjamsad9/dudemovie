@@ -1,0 +1,36 @@
+{
+  "id": "35607b8b-fef1-418c-bfcc-622bc9626511",
+  "title": "Hume Toh Loot Liya",
+  "slug": "hume-toh-loot-liya",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-22T15:12:15.446Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2445,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

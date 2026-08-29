@@ -1,0 +1,28 @@
+{
+  "id": "9d285b4f-f344-4382-b454-3b22c22869d1",
+  "title": "Fighter",
+  "slug": "fighter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 166,
+  "rating": 6.2,
+  "description": "As India faces a militant attack in Kashmir, the country’s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
+  "created_at": "2026-07-22T15:10:59.655Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1194,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

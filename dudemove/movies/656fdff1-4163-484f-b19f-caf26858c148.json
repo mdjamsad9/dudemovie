@@ -1,0 +1,28 @@
+{
+  "id": "656fdff1-4163-484f-b19f-caf26858c148",
+  "title": "Who Am I?",
+  "slug": "who-am-i",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/185ag4JOB1fYL5ixnzRGWtuVoKY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 119,
+  "rating": 9,
+  "description": "Bhavitavya, a philosophy student, is full of questions about life. When his favourite professor passes away, Bhavitavya embarks on a journey of self-discovery, wondering who he is and what his life means.",
+  "created_at": "2026-07-22T15:11:30.621Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 1685,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

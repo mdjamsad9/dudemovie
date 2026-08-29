@@ -1,0 +1,32 @@
+{
+  "id": "c0de3490-04ab-47d5-9cac-e037ed988ad3",
+  "title": "Operation Nutcracker",
+  "slug": "operation-nutcracker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGBFhErxbevFK6fw1IC8xfsId87.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 84,
+  "rating": 6.7,
+  "description": "When an antique nutcracker set to be auctioned at the Warby family Christmas charity goes missing, a demanding event planner and the heir to the Warby dynasty try to track it down.",
+  "created_at": "2026-07-09T17:16:43.248Z",
+  "genres": [
+    {
+      "name": "TV Movie",
+      "slug": "tv-movie"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 1069,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Operation.Nutcracker.2024.1080p.WEBRip.x264%20%5BDDN%5D/Operation.Nutcracker.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e8e537aa-4b89-4c29-b6e1-191d3aab422e",
+  "title": "Rosh",
+  "slug": "rosh",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ai67XN2SjgLKXIGECT3RXQ2bjqf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 113,
+  "rating": null,
+  "description": "Rajat Ronika and Alina hits a delivery boy on road and he dies on the spot. After some time door bell rings and an injured delivery boy enters in house stating he is late because someone hit him on road by a car and thrill starts.",
+  "created_at": "2026-07-22T15:12:17.947Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2443,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

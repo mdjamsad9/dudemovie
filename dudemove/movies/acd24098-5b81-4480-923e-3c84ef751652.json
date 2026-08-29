@@ -1,0 +1,28 @@
+{
+  "id": "acd24098-5b81-4480-923e-3c84ef751652",
+  "title": "Forensic",
+  "slug": "forensic-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5nnOFdY23oTr1f8NjsebvREjJdf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2020,
+  "duration": 134,
+  "rating": null,
+  "description": "A forensic analyst and an investigation officer are on a chase to hunt down a gruesome serial killer and crack one of the most famous cold cases in the history of their departments.",
+  "created_at": "2026-07-31T07:03:01.912Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4473,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

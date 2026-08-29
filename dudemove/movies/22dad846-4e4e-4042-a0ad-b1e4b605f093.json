@@ -1,0 +1,28 @@
+{
+  "id": "22dad846-4e4e-4042-a0ad-b1e4b605f093",
+  "title": "Interactive Introverts",
+  "slug": "interactive-introverts",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d52hSmAm7UgZKgpVkpUlfMQn9Qf.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.2,
+  "description": "Dan and Phil put the audience in control and stand under the spotlight to give the people what they want: an epic interactive experience of rants, roasts, battles, stories, and surprises that will make you laugh, cry, and cringe..",
+  "created_at": "2026-08-06T04:59:48.845Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  ],
+  "_index": 5854,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

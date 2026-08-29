@@ -1,0 +1,32 @@
+{
+  "id": "2ac5d7a7-c6f4-458a-ab26-10c1cc49c078",
+  "title": "Heartin",
+  "slug": "heartin",
+  "thumbnail_url": "https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F7xvMocNLZov64aOU1X3BRWawjD7.jpg&w=1920&q=75",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 119,
+  "rating": 6.1,
+  "description": "A man loses his memory of his current love after an accident, but mysteriously only remembers a past heartbreak from six years ago",
+  "created_at": "2026-08-19T09:27:11.536Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 146,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Heartin%20(2026)%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartin%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

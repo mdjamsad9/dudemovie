@@ -1,0 +1,32 @@
+{
+  "id": "08dc133d-498e-4c21-8cc7-adb4b84051cf",
+  "title": "Con City",
+  "slug": "con-city",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2026,
+  "duration": 150,
+  "rating": null,
+  "description": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+  "created_at": "2026-07-31T06:38:16.200Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 220,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

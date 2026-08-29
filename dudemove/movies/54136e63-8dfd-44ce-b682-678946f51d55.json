@@ -1,0 +1,32 @@
+{
+  "id": "54136e63-8dfd-44ce-b682-678946f51d55",
+  "title": "Escape from Pretoria",
+  "slug": "escape-from-pretoria",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 102,
+  "rating": 7.172,
+  "description": "South Africa, 1978. Tim Jenkin and Stephen Lee, two white political activists from the African National Congress imprisoned by the apartheid regime, put a plan in motion to escape from the infamous Pretoria Prison.",
+  "created_at": "2026-07-22T15:25:10.195Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 3958,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

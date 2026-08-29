@@ -1,0 +1,28 @@
+{
+  "id": "7b72c3d2-df2f-4de8-8e55-6cf7f3865a23",
+  "title": "The Krays: Dead Man Walking",
+  "slug": "the-krays-dead-man-walking",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/33wnQwgNSQVHf8gyDDxuMFAdVRJ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 79,
+  "rating": 3,
+  "description": "Inspired by true events, the shocking story of London's most feared and notorious brothers Reggie and Ronnie Kray as they break Frank 'The Mad Axeman' Mitchell from Dartmoor Prison in December 1966.",
+  "created_at": "2026-07-22T15:35:47.176Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 6271,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

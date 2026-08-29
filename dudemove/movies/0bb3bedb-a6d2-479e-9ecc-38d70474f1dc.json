@@ -1,0 +1,32 @@
+{
+  "id": "0bb3bedb-a6d2-479e-9ecc-38d70474f1dc",
+  "title": "Bridget Jones: Mad About the Boy",
+  "slug": "bridget-jones-mad-about-the-boy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e5VR3nhLYG60znxaqU84wv4VSCb.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 124,
+  "rating": 6.363,
+  "description": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+  "created_at": "2026-07-09T17:02:41.867Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 537,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Bridget.Jones.Mad.About.The.Boy.2025.1080p.WEBRip.x264%20%5BDDN%5D/Bridget.Jones.Mad.About.The.Boy.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

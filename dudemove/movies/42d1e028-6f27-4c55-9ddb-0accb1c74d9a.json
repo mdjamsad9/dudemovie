@@ -1,0 +1,32 @@
+{
+  "id": "42d1e028-6f27-4c55-9ddb-0accb1c74d9a",
+  "title": "Double Occupancy",
+  "slug": "double-occupancy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/afwvI8D1SLSMqINJbq0Wi9eCBWt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2026,
+  "duration": 132,
+  "rating": null,
+  "description": "Rajini transforms between woman by day and man by night, hiding this gender swap from partners creating tangled complications.",
+  "created_at": "2026-07-22T15:09:14.715Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 241,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "83e41ef3-4c4f-432d-a4a7-156e775bf406",
+  "title": "Message Man",
+  "slug": "message-man",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eB5QkQkDt9UTXG23ChR9yzdXq3c.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.176,
+  "description": "A retired assassin's past catches up with him and his brutality surfaces as he goes on a final killing spree to make things right.",
+  "created_at": "2026-08-06T04:59:40.866Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6112,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

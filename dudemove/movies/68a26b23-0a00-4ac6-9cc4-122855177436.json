@@ -1,0 +1,32 @@
+{
+  "id": "68a26b23-0a00-4ac6-9cc4-122855177436",
+  "title": "Akelli",
+  "slug": "akelli",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4eBiqmlak6K5nipdayoGRYH2ON5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 127,
+  "rating": 6.8,
+  "description": "An Indian woman fights to survive in war-torn Iraq.",
+  "created_at": "2026-07-22T15:10:41.381Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1890,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

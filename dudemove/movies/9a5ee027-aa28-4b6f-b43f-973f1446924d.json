@@ -1,0 +1,28 @@
+{
+  "id": "9a5ee027-aa28-4b6f-b43f-973f1446924d",
+  "title": "The Dustwalker",
+  "slug": "the-dustwalker",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/mkG0xsFoony3JhCPmP7V4JkN9hB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 92,
+  "rating": 4,
+  "description": "An alien spaceship crash-lands in an isolated town in the middle of the Australian desert, releasing an insidious parasite that attacks the brain of all creatures including humans, making them disorientated, unnaturally strong and violent. Sargeant Jo Sharp, readying for a return to the big city beat, wakes to find the township, her family and friends falling victim to an evil that is spreading faster than it can be contained.",
+  "created_at": "2026-07-22T15:25:24.497Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4386,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

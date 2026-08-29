@@ -1,0 +1,28 @@
+{
+  "id": "cd51d08e-22f4-43a0-857e-2d6847522ff6",
+  "title": "American Dresser",
+  "slug": "american-dresser",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2pMa2JE77EoSgSvya3ifHTOu9wv.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 4.9,
+  "description": "When a recent widower consumed with regret seeks absolution in riding his motorcycle cross-country to confront the mistakes of his past, he unexpectedly discovers that life is about moving forward, one mile at a time.",
+  "created_at": "2026-08-06T04:59:23.619Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6149,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

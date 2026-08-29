@@ -1,0 +1,28 @@
+{
+  "id": "d0340b76-7664-4870-89ac-4ce15d3af84b",
+  "title": "Ready or Not",
+  "slug": "ready-or-not",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 7.095,
+  "description": "A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
+  "created_at": "2026-08-06T04:58:49.635Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4629,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

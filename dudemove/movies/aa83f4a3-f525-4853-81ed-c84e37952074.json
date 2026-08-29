@@ -1,0 +1,24 @@
+{
+  "id": "aa83f4a3-f525-4853-81ed-c84e37952074",
+  "title": "Yatra",
+  "slug": "yatra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/glQx23PN3btfziiIMb7AT4B9uE0.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 126,
+  "rating": null,
+  "description": "The film focus especially on the period from 1999-2004 when YSR undertook his famous Padayatra which ultimately proved instrumental in catapulting him to a comprehensive victory in the 2004 polls.",
+  "created_at": "2026-07-31T07:16:29.126Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    }
+  ],
+  "_index": 5267,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

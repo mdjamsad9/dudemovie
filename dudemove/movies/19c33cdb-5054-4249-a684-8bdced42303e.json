@@ -1,0 +1,28 @@
+{
+  "id": "19c33cdb-5054-4249-a684-8bdced42303e",
+  "title": "The Kerala Story",
+  "slug": "the-kerala-story",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/g70f3hwn5jPaNzqPssoa9unlawo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 138,
+  "rating": 4.545,
+  "description": "A converted Muslim woman narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail.",
+  "created_at": "2026-07-22T15:11:07.783Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2336,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

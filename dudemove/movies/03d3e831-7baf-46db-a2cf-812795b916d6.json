@@ -1,0 +1,28 @@
+{
+  "id": "03d3e831-7baf-46db-a2cf-812795b916d6",
+  "title": "CTRL",
+  "slug": "ctrl",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/eCaaJkJqRA6unsVe5hvtgJq301H.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 99,
+  "rating": 5.985,
+  "description": "Nella and Joe are the perfect influencer couple. But when he cheats on her, she turns to an AI app to erase him from her life — until it takes control.",
+  "created_at": "2026-07-22T15:10:00.407Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1253,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

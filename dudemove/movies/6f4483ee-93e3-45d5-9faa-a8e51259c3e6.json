@@ -1,0 +1,32 @@
+{
+  "id": "6f4483ee-93e3-45d5-9faa-a8e51259c3e6",
+  "title": "Mortal Kombat Legends: Scorpion's Revenge",
+  "slug": "mortal-kombat-legends-scorpion-s-revenge",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 80,
+  "rating": 8.104,
+  "description": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade, and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung's horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+  "created_at": "2026-07-22T15:24:58.015Z",
+  "genres": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 3896,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

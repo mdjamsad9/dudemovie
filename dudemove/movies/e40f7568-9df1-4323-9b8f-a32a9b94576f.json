@@ -1,0 +1,32 @@
+{
+  "id": "e40f7568-9df1-4323-9b8f-a32a9b94576f",
+  "title": "Distorted",
+  "slug": "distorted",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/e26QQxiD9glX34qU9Lfj98nMCTA.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 90,
+  "rating": 4.83,
+  "description": "A married couple suspect that the 'smart apartments' in their high tech residence are being used by its owner for sinister reasons.",
+  "created_at": "2026-07-22T15:35:35.918Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6163,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

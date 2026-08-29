@@ -1,0 +1,32 @@
+{
+  "id": "491c1689-d19f-478a-86d1-5a4febdf4a59",
+  "title": "The Mehta Boys",
+  "slug": "the-mehta-boys",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4fDGHQLhauxRAzProug4AspfYwQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Gujarati",
+  "release_year": 2024,
+  "duration": 116,
+  "rating": 6.7,
+  "description": "After the loss of his mother, Amay, a struggling young architect is forced to live for 48 hours with the one person he cannot stand, his father. It seems like a recipe for disaster. Wrong! It's much worse. Will the young architect crumble or will this bumpy ride help him rebuild his relationship with his crabby old man?",
+  "created_at": "2026-07-09T17:00:14.877Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 1073,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/The%20Mehta%20Boys%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Mehta%20Boys%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e8e80b53-7529-42fc-beee-d7158190429a",
+  "title": "Impractical Jokers: The Movie",
+  "slug": "impractical-jokers-the-movie",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kTHzM6pPIjs4LHX33thyZpnKiOP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 92,
+  "rating": 6.556,
+  "description": "The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.",
+  "created_at": "2026-07-22T15:24:12.475Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4061,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

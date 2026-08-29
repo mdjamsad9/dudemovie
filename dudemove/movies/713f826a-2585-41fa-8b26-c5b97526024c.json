@@ -1,0 +1,28 @@
+{
+  "id": "713f826a-2585-41fa-8b26-c5b97526024c",
+  "title": "RIWAJ",
+  "slug": "riwaj",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gjMsJM64RHVpZ0MWHJmLB8Gcv1T.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "hi",
+  "release_year": 2025,
+  "duration": null,
+  "rating": null,
+  "description": "Riwaj is a powerful and thought-provoking drama that highlights the struggles of women caught in the grip of oppressive traditions. At its core is Zainab (Myraa Sareen), a courageous woman who refuses to be a victim of triple talaq. Stripped of her dignity and abandoned by the law, she is left to fend for herself in a society that seeks to silence her. But instead of succumbing to despair, she rises-challenging deep-rooted injustices and fighting for her rights, freedom, and identity.",
+  "created_at": "2026-07-09T16:48:40.132Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 837,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Riwaj%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Riwaj%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

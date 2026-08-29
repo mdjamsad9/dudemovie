@@ -1,0 +1,28 @@
+{
+  "id": "e48d47c2-1319-426b-be63-f6439cbccc67",
+  "title": "The Last Thing He Wanted",
+  "slug": "the-last-thing-he-wanted",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4mDbGqi8mloDdxkviq13SKCfuFH.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 116,
+  "rating": 4.884,
+  "description": "At the turning point of the Iran-Contra affair, Elena McMahon, a fearless investigative journalist covering the 1984 US presidential campaign, puts herself in danger when she abandons her assigned task in order to fulfill the last wish of her ailing father, a mysterious man whose past activities she barely knows.",
+  "created_at": "2026-07-22T15:25:55.272Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4354,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

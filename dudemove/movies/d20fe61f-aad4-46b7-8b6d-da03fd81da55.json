@@ -1,0 +1,24 @@
+{
+  "id": "d20fe61f-aad4-46b7-8b6d-da03fd81da55",
+  "title": "Crazxy",
+  "slug": "crazxy",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nWxEtbryAPP7gI0TtNYejoAUJlr.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2025,
+  "duration": 94,
+  "rating": 5.5,
+  "description": "A renowned surgeon, Abhimanyu Sood is carrying ₹5 crores for a hush hush settlement that will save him from going to jail, when he gets a chilling phone call—his 16-year-old daughter, Vedica, has been kidnapped. The ransom? The exact amount he is carrying right now. Is this even a real kidnapping—or an elaborate trap?",
+  "created_at": "2026-07-09T17:00:24.092Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 697,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Crazxy%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Crazxy%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "23ceb623-e4d8-4dff-8513-cec8d9fc1d6e",
+  "title": "Gorilla",
+  "slug": "gorilla",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5IdVjGmsvufD5AqYPkG56WWtzA5.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 128,
+  "rating": null,
+  "description": "Three friends who need money to better their lives and a disillusioned farmer hatch a plan to rob a bank with a chimp as an accomplice.",
+  "created_at": "2026-07-31T07:11:11.345Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 5322,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

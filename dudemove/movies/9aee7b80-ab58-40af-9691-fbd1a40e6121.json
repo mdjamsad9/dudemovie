@@ -1,0 +1,28 @@
+{
+  "id": "9aee7b80-ab58-40af-9691-fbd1a40e6121",
+  "title": "Abigail",
+  "slug": "abigail",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 109,
+  "rating": 6.7,
+  "description": "A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.",
+  "created_at": "2026-07-09T17:24:17.794Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1067,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Abigail.2024.1080p.WEBRip.x264%20%5BDDN%5D/Abigail.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

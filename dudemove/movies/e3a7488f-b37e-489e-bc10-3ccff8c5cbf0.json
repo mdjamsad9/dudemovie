@@ -1,0 +1,28 @@
+{
+  "id": "e3a7488f-b37e-489e-bc10-3ccff8c5cbf0",
+  "title": "Gatta Kusthi 2",
+  "slug": "gatta-kusthi-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pF9lxwYiSORwKUOVm74i7IqtsnT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi Tamil",
+  "release_year": 2026,
+  "duration": 153,
+  "rating": null,
+  "description": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+  "created_at": "2026-07-31T06:38:09.042Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 231,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

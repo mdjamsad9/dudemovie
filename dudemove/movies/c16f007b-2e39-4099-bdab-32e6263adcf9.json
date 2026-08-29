@@ -1,0 +1,28 @@
+{
+  "id": "c16f007b-2e39-4099-bdab-32e6263adcf9",
+  "title": "Back Roads",
+  "slug": "back-roads",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gjEnwAqNADksJugIs2F7EgQ5ekp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 5.397,
+  "description": "A prostitute and a drifter find themselves bound together as they make their way through the rural South, doing what they have to do to survive.",
+  "created_at": "2026-08-06T04:59:42.567Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6073,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

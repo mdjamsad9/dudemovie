@@ -1,0 +1,28 @@
+{
+  "id": "a7509f42-ecdb-4f4d-9f02-b1c75f3b2c1d",
+  "title": "Sarkar",
+  "slug": "sarkar",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/plaMZ1r11u7D9JTd4vkmhQJlYfa.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 164,
+  "rating": null,
+  "description": "NRI corporate Sundar Ramasamy comes to India to vote, only to learn that his vote has already been cast. While he reclaims his right legally, it also sets in motion a chain of events that eventually lead to him entering the political fray, trying to change the system.",
+  "created_at": "2026-07-31T07:19:08.266Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 6370,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

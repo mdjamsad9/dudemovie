@@ -1,0 +1,32 @@
+{
+  "id": "81641efb-3ee7-4a6f-800e-844a53d34c66",
+  "title": "Everybody Loves Me When I'm Dead",
+  "slug": "everybody-loves-me-when-i-m-dead",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/p43EHgFFik8csqNlRDI9uVU1onx.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Thai",
+  "release_year": 2025,
+  "duration": 128,
+  "rating": 6.3,
+  "description": "Two bank employees steal from a dead woman's account and unwittingly entangle themselves in Pattaya's criminal underworld.",
+  "created_at": "2026-07-09T16:51:26.710Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 554,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Everybody%20Loves%20Me%20When%20Im%20Dead%20(2025)%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Everybody%20Loves%20Me%20When%20Im%20Dead%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

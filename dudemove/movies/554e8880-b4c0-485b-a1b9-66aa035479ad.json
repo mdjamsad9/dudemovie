@@ -1,0 +1,24 @@
+{
+  "id": "554e8880-b4c0-485b-a1b9-66aa035479ad",
+  "title": "Fan",
+  "slug": "fan-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wwMTHv9PTECdSgoAYE4vR6jVgk3.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 145,
+  "rating": null,
+  "description": "Protagonist Drushya (Aryan Gowda) is a popular TV actor. The small screen heartthrob stays in touch with fans through social media. When his team goes looking for a new location in and around coastal Karnataka, a fan of the actor from the region Shayari (Adhvithi Shetty) helps them find the ideal one. Turns out that this fan adores her idol so much that she wants to take this relationship to the next level.",
+  "created_at": "2026-07-31T07:02:18.664Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5481,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

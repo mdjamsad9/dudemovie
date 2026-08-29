@@ -1,0 +1,24 @@
+{
+  "id": "dc61b04b-8751-46b6-a8b0-9aed41ba3be9",
+  "title": "Sirf Ek Bandaa Kaafi Hai",
+  "slug": "sirf-ek-bandaa-kaafi-hai",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/i8wMjVoQOyo9XUOrQk60WCcklCj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 127,
+  "rating": 7.278,
+  "description": "An ordinary lawyer is out to fight an extraordinary case! But can he win against a powerful godman accused of assaulting a minor and deliver justice to the victim?",
+  "created_at": "2026-07-22T15:12:17.199Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1774,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

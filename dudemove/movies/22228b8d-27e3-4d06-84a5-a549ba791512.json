@@ -1,0 +1,32 @@
+{
+  "id": "22228b8d-27e3-4d06-84a5-a549ba791512",
+  "title": "Kavaludaari",
+  "slug": "kavaludaari",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gDA8IXXHzvDACfZHhmCV6uJSA0V.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 145,
+  "rating": null,
+  "description": "The story follows two Bangalore cops as they investigate an old case. Anant Nag plays Muthanna, a retired inspector while Rishi is Shyam, a sub-inspector working in the Traffic Police. Their search leads them across trails that will put their wit, resolve and morals to the test.",
+  "created_at": "2026-07-31T07:14:32.336Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5285,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

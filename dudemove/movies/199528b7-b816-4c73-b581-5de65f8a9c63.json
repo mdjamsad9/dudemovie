@@ -1,0 +1,28 @@
+{
+  "id": "199528b7-b816-4c73-b581-5de65f8a9c63",
+  "title": "Haddi",
+  "slug": "haddi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6GrbL3kAu9yhNcY0hK3qE3tuIf2.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 134,
+  "rating": 5.2,
+  "description": "A transgender woman, Haddi, moves to Delhi to join a gang of transpeople and cross-dressers headed by an influential man. But is this move aspirational or driven by revenge?",
+  "created_at": "2026-07-22T15:11:49.227Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 2249,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

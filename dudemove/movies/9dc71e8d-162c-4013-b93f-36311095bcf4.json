@@ -1,0 +1,28 @@
+{
+  "id": "9dc71e8d-162c-4013-b93f-36311095bcf4",
+  "title": "Dandupalayam",
+  "slug": "dandupalayam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lqQYv9hOeLWCjtvOtdLCGmN36Pn.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Tamil",
+  "release_year": 2024,
+  "duration": 142,
+  "rating": null,
+  "description": "Dandupalayam is a Tamil crime thriller based on true incidents involving the notorious Dandupalyam gang. With over 350 thefts, 150 murders, and 90 rape attempts, the story uncovers hidden truths.",
+  "created_at": "2026-07-09T17:19:19.523Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1556,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Dandupalayam%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Dandupalayam%20(2024)%20Tamil%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

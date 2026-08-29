@@ -1,0 +1,28 @@
+{
+  "id": "0e5e3f61-152a-4514-ad56-1b4d8a0498ad",
+  "title": "Shut In",
+  "slug": "shut-in-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Danish",
+  "release_year": 2022,
+  "duration": 90,
+  "rating": 6.8,
+  "description": "A young single mother is held captive along with her two children by a violent ex and must plot their escape before it’s too late.",
+  "created_at": "2026-07-22T15:15:23.843Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 2813,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

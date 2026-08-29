@@ -1,0 +1,24 @@
+{
+  "id": "65edb2cf-6932-43d2-a542-6c4e202f6272",
+  "title": "8 A.M. Metro",
+  "slug": "8-a-m-metro",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fRPfT9sQzMSbDMH8c1qxVWFy8zT.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 116,
+  "rating": 7.1,
+  "description": "Two strangers inadvertently bump into each other in the metro and strike up an unlikely friendship, and in the process find themselves and each other.",
+  "created_at": "2026-07-22T15:10:39.815Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1800,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

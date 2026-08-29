@@ -1,0 +1,24 @@
+{
+  "id": "8c196414-93ad-426e-8e6b-1817e2f386f1",
+  "title": "The Brutalist",
+  "slug": "the-brutalist",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Russian",
+  "release_year": 2024,
+  "duration": 215,
+  "rating": 6.953,
+  "description": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
+  "created_at": "2026-07-09T17:02:32.614Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1006,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Brutalist.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Brutalist.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

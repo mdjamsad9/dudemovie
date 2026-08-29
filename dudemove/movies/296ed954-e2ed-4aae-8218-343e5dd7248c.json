@@ -1,0 +1,32 @@
+{
+  "id": "296ed954-e2ed-4aae-8218-343e5dd7248c",
+  "title": "A Boy Called Sailboat",
+  "slug": "a-boy-called-sailboat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/31C9f9C2Xgil5ivD0FkONcalKT8.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.6,
+  "description": "A Hispanic family find hope in their extraordinary son named Sailboat when a personal gesture awakens a global desire. Armed with a \"little guitar\", Sailboat leads an offbeat cast into the miraculous story of the greatest secret never told.",
+  "created_at": "2026-08-06T04:59:26.771Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    }
+  ],
+  "_index": 5733,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "36801787-2355-4e8e-8ba4-58ae2423acda",
+  "title": "Dhak Dhak",
+  "slug": "dhak-dhak",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/l3VtG2LeHL0AGnDC8dsDwmPu5PK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 140,
+  "rating": 6,
+  "description": "Four women — a travel blogger, her friend's biker granny, a makeshift mechanic and a young girl set to be married — ride to the highest motorable pass in the world on an extraordinary journey of self-discovery.",
+  "created_at": "2026-07-22T15:11:23.768Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2098,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

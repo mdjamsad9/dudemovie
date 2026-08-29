@@ -1,0 +1,28 @@
+{
+  "id": "fb0ef3c1-120c-49c9-aa24-0bcf91dad4da",
+  "title": "The Family Plan 2",
+  "slug": "the-family-plan-2",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "Mandarin",
+  "release_year": 2025,
+  "duration": 106,
+  "rating": 6.533,
+  "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+  "created_at": "2026-07-09T16:32:37.685Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 493,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/The%20Family%20Plan%202%20(2025)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Family%20Plan%202%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

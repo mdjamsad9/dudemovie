@@ -1,0 +1,24 @@
+{
+  "id": "5ec9db6f-266a-4cf2-ad07-98a90eb7a93a",
+  "title": "Eelam",
+  "slug": "eelam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/uSail42EaZYPJNeih8ZPQzLESRu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": null,
+  "rating": null,
+  "description": "Shivan revolves around a couple who are very much in love but one day the woman is found dead and the man is found guilty and imprisoned. But once he is in jail he recollects certain memories that change everything.",
+  "created_at": "2026-07-31T07:01:14.014Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5487,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

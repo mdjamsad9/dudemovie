@@ -1,0 +1,32 @@
+{
+  "id": "ea577a76-0dc1-45dd-b4ab-9632609fdca9",
+  "title": "Brahms: The Boy II",
+  "slug": "brahms-the-boy-ii",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/swTC1DSZcvdxTOzmAKrtoUUPiDW.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 87,
+  "rating": 5.875,
+  "description": "After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.",
+  "created_at": "2026-07-22T15:25:09.784Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4219,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

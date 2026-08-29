@@ -1,0 +1,28 @@
+{
+  "id": "421e0d7c-ae36-4987-8409-1fe7966d3ec9",
+  "title": "The Allnighter",
+  "slug": "the-allnighter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wyXiYgMpV7gHmsWuness6Q1dRUb.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 4.7,
+  "description": "Molly, Val and Gina are graduating college, but on their final night, frustrations are aired. Molly is still looking for real love and Val is beginning to doubt if that is what she has found. Gina is too busy videotaping everything to really notice. When the final party at Pacifica College kicks off, things do not go exactly as planned.",
+  "created_at": "2026-07-22T15:11:43.467Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 2317,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

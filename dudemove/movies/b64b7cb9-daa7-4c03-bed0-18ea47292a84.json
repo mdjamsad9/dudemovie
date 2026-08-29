@@ -1,0 +1,32 @@
+{
+  "id": "b64b7cb9-daa7-4c03-bed0-18ea47292a84",
+  "title": "Palasa 1978",
+  "slug": "palasa-1978",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/2aDMeXkRCz7SngIvVcd42NhuLqj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2020,
+  "duration": 144,
+  "rating": null,
+  "description": "Mohan Rao and his elder brother face Pedda Shavukar and Chinna Shavukar, a political battle where low caste fights the high caste power.",
+  "created_at": "2026-07-31T07:03:54.053Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4461,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

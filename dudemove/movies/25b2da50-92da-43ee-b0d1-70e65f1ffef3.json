@@ -1,0 +1,28 @@
+{
+  "id": "25b2da50-92da-43ee-b0d1-70e65f1ffef3",
+  "title": "First Cow",
+  "slug": "first-cow",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 122,
+  "rating": 7.048,
+  "description": "In the 1820s, a taciturn loner and skilled cook travels west to Oregon Territory, where he meets a Chinese immigrant also seeking his fortune. Soon the two team up on a dangerous scheme to steal milk from the wealthy landowner’s prized Jersey cow—the first, and only, in the territory.",
+  "created_at": "2026-07-22T15:23:53.735Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ],
+  "_index": 3975,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

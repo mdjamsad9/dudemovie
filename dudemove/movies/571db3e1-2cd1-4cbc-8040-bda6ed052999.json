@@ -1,0 +1,28 @@
+{
+  "id": "571db3e1-2cd1-4cbc-8040-bda6ed052999",
+  "title": "Gimmick",
+  "slug": "gimmick",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tQsSonAP94WxyUxfmrOxNmRQNJe.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Kannada",
+  "release_year": 2019,
+  "duration": 153,
+  "rating": null,
+  "description": "A happy-go-lucky poor guy Gani falls in love with wrestler Raani, who hails from a rich family. Raani's father tries every trick in the book to separate Raani and Gani. When nothing works, he comes up with a plan that he is sure will not let him down.",
+  "created_at": "2026-07-31T07:03:40.090Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5468,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

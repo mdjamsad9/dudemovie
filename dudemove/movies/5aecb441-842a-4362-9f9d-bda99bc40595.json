@@ -1,0 +1,24 @@
+{
+  "id": "5aecb441-842a-4362-9f9d-bda99bc40595",
+  "title": "Fatal Heartbeat",
+  "slug": "fatal-heartbeat",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/enq3x1YKXxmdx62a8hwkCNC34uo.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2018,
+  "duration": null,
+  "rating": null,
+  "description": null,
+  "created_at": "2026-07-31T07:26:18.361Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 6283,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

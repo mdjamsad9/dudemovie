@@ -1,0 +1,32 @@
+{
+  "id": "b2c9faec-2fe4-47d4-80f8-1ebea0961994",
+  "title": "Wasp Network",
+  "slug": "wasp-network",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2020,
+  "duration": 128,
+  "rating": 6.056,
+  "description": "Havana, Cuba, 1990. René González, an airplane pilot, unexpectedly flees the country, leaving behind his wife Olga and his daughter Irma, and begins a new life in Miami, where he becomes a member of an anti-Castro organization.",
+  "created_at": "2026-07-22T15:24:09.019Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 4182,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

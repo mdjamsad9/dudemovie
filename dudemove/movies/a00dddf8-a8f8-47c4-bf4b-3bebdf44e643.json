@@ -1,0 +1,32 @@
+{
+  "id": "a00dddf8-a8f8-47c4-bf4b-3bebdf44e643",
+  "title": "Sam Bahadur",
+  "slug": "sam-bahadur",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nFYf3g3CObjx9ri3PMWkK1lWFhr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 150,
+  "rating": 6.905,
+  "description": "Based on the life of Sam Manekshaw, who was the Chief of the Army Staff of the Indian Army during the Indo-Pakistani War of 1971, and the first Indian Army officer to be promoted to the rank of Field Marshal.",
+  "created_at": "2026-07-22T15:11:11.438Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 1868,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

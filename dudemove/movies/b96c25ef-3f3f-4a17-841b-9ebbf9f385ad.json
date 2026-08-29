@@ -1,0 +1,24 @@
+{
+  "id": "b96c25ef-3f3f-4a17-841b-9ebbf9f385ad",
+  "title": "Future World",
+  "slug": "future-world",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kMA0IalnEEa0PaHRUzzjpTu5xXQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 4.294,
+  "description": "A young boy searches a future world wasteland for a rumored cure for his dying mother.",
+  "created_at": "2026-08-06T05:00:35.913Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    }
+  ],
+  "_index": 6229,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

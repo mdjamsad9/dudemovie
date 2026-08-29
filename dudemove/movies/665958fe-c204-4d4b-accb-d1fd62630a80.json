@@ -1,0 +1,32 @@
+{
+  "id": "665958fe-c204-4d4b-accb-d1fd62630a80",
+  "title": "Lost Ladies",
+  "slug": "lost-ladies",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 123,
+  "rating": 7.8,
+  "description": "In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.",
+  "created_at": "2026-07-22T15:10:43.994Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 883,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

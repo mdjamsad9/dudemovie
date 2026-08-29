@@ -1,0 +1,32 @@
+{
+  "id": "42f54f29-46e6-428a-b334-443f62e10e97",
+  "title": "Time Cut",
+  "slug": "time-cut",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 90,
+  "rating": 5.645,
+  "description": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?",
+  "created_at": "2026-07-09T17:10:07.673Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1303,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Time.Cut.2024.1080p.WEBRip.x264%20%5BDDN%5D/Time.Cut.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "daa31cd0-5dba-4be1-aec0-7550727d1f35",
+  "title": "Carbon",
+  "slug": "carbon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5haI0Pspo9ADssV5sigxQfKGneZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2018,
+  "duration": 146,
+  "rating": null,
+  "description": "Siby is unmindful of his duties towards his family, but is in the pursuit of making some easy money via various fraudulent means. To escape one of the troubles he courted, he goes on an assignment to an old palace in a forest-ridden Cheenkannippara, which has a never-before effect on him.",
+  "created_at": "2026-07-31T07:24:47.136Z",
+  "genres": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "_index": 6297,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

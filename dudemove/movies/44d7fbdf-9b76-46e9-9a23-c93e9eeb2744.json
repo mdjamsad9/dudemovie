@@ -1,0 +1,32 @@
+{
+  "id": "44d7fbdf-9b76-46e9-9a23-c93e9eeb2744",
+  "title": "Court: State vs. A Nobody",
+  "slug": "court-state-vs-a-nobody",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4pEX67LJd7ZIqYWtksBtOgQEGcQ.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 149,
+  "rating": 7.5,
+  "description": "A determined lawyer takes on a high-stakes case to defend a 19-year-old boy, challenging a system that has already branded him guilty.",
+  "created_at": "2026-07-09T17:00:27.887Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 321,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Court%20State%20Vs%20A%20Nobody%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Court%20State%20Vs%20A%20Nobody%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

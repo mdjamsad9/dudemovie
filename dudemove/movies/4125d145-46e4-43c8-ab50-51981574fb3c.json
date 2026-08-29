@@ -1,0 +1,28 @@
+{
+  "id": "4125d145-46e4-43c8-ab50-51981574fb3c",
+  "title": "Kisi Ka Bhai... Kisi Ki Jaan",
+  "slug": "kisi-ka-bhai-kisi-ki-jaan",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yJ2JqgfWniQLnXPM5WkM7f1rqaY.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 144,
+  "rating": 5.074,
+  "description": "Bhaijaan, a self-defense trainer lives happily as a bachelor with his three brothers Moh, Ishq and Luv and uses violence to settle disputes. When his brothers, who’ve already found partners, come together to fix a match for him, Bhagya Lakshmi, Bhaijaan decides to mend his ways for his lover's sake. All hell breaks loose when he learns about Bhagya's family facing threats from their haunting past.",
+  "created_at": "2026-07-22T15:12:06.694Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 2280,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

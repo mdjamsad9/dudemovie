@@ -1,0 +1,28 @@
+{
+  "id": "ed7e4e82-8054-492a-9f41-28d755dd7ce5",
+  "title": "Jerry & Marge Go Large",
+  "slug": "jerry-marge-go-large",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Turkish",
+  "release_year": 2022,
+  "duration": 96,
+  "rating": 7.389,
+  "description": "The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.",
+  "created_at": "2026-07-22T15:14:11.957Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2658,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

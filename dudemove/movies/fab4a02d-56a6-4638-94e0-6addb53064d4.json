@@ -1,0 +1,32 @@
+{
+  "id": "fab4a02d-56a6-4638-94e0-6addb53064d4",
+  "title": "Rakshak - India's Braves",
+  "slug": "rakshak-india-s-braves",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yVBVV9CjlcHGYBJy5LqJOfs1KTB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 76,
+  "rating": 6,
+  "description": "The bravery of Lieutenant Triveni Singh, a young soldier who gave his own life to protect over 300 people who were caught in the cross firing at the Jammu railway station in a terrorist attack in 2004.",
+  "created_at": "2026-07-22T15:11:53.946Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "_index": 2095,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

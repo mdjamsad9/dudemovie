@@ -1,0 +1,28 @@
+{
+  "id": "4e4a53ae-5d5f-4e34-886f-64c587a0d2d6",
+  "title": "The Kissing Booth",
+  "slug": "the-kissing-booth",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 7.159,
+  "description": "When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.",
+  "created_at": "2026-08-06T04:58:31.246Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5605,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

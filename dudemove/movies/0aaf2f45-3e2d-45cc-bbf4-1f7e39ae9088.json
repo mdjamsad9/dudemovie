@@ -1,0 +1,40 @@
+{
+  "id": "0aaf2f45-3e2d-45cc-bbf4-1f7e39ae9088",
+  "title": "Mega Time Squad",
+  "slug": "mega-time-squad",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/thHCbZVdA4DL0R8f84aUz83FSgg.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 6.214,
+  "description": "A small-town criminal finds an ancient Chinese time-travel device that can help him pull off a heist and start a new life-but he may not survive the consequences of tampering with time. The Castle meets Looper, Mega Time Squad is a study in high-meets-low, combining elements of the sci-fi, the crime thriller and the comedy to make a comedy heist film with a time-traveling twist.",
+  "created_at": "2026-08-06T04:59:27.536Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "_index": 5850,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "710db849-f152-4913-870e-51b140998b33",
+  "title": "Good Boys",
+  "slug": "good-boys",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tximyCXMEnWIIyOy9STkOduUprG.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": null,
+  "rating": 6.829,
+  "description": "A group of young boys on the cusp of becoming teenagers embark on an epic quest to fix their broken drone before their parents get home.",
+  "created_at": "2026-08-06T04:58:52.743Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 4680,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

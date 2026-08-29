@@ -1,0 +1,32 @@
+{
+  "id": "81634572-a62a-4a7e-9006-92df2128587a",
+  "title": "Saaree",
+  "slug": "saaree",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Q94u10VJF75uyctLmqw5CL2S1d.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Telugu",
+  "release_year": 2025,
+  "duration": 132,
+  "rating": 6,
+  "description": "A photographer's obsession with a young woman escalates to dangerous heights.",
+  "created_at": "2026-07-09T16:56:27.407Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 617,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Saaree%20(2025)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Saaree%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

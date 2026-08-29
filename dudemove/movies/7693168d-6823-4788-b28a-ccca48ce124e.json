@@ -1,0 +1,32 @@
+{
+  "id": "7693168d-6823-4788-b28a-ccca48ce124e",
+  "title": "Akaal: The Unconquered",
+  "slug": "akaal-the-unconquered",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pzf5rPLoE5DdYkcZlvYbrH554rE.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Punjabi",
+  "release_year": 2025,
+  "duration": 137,
+  "rating": 5.5,
+  "description": "Set in 1840s Punjab, Sardar Akaal Singh and his village as they face a vengeful assault by Jangi Jahan and his forces after the death of Maharaja Ranjeet Singh. Amid broken truces and escalating tensions, the fearless Sardars must rise against overwhelming odds to protect their land. Will they prevail against this formidable foe?",
+  "created_at": "2026-07-09T16:58:38.290Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 698,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Akaal%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Akaal%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

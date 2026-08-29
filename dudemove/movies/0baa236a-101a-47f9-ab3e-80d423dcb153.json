@@ -1,0 +1,32 @@
+{
+  "id": "0baa236a-101a-47f9-ab3e-80d423dcb153",
+  "title": "Meter",
+  "slug": "meter",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7Ov4b83BVRVVikifEhSYlAB80vp.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Telugu",
+  "release_year": 2023,
+  "duration": null,
+  "rating": 3,
+  "description": "Arjun Kalyan, son of Raghunath, a police constable, ends up becoming a Sub Inspector despite his disinterest in the department. The chain of events that evolve after assuming charge brings him into a face-to-face conflict with home minister Byre Reddy, a crony and criminal politician.",
+  "created_at": "2026-07-22T15:11:14.938Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 2397,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

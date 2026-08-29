@@ -1,0 +1,28 @@
+{
+  "id": "65c26aa9-70df-40e8-b9e2-6081dc3bde52",
+  "title": "The Signature",
+  "slug": "the-signature",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nXrwCSHkQNlfzpIZPyN9IlYmINa.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 100,
+  "rating": null,
+  "description": "Arvind’s life comes crashing down when his wife Madhu falls into a coma and is put on life support. Will situations hold him back, or will he be able to save his wife with the hope of a life together?",
+  "created_at": "2026-07-09T17:12:17.348Z",
+  "genres": [
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1608,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/The%20Signature%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Signature%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

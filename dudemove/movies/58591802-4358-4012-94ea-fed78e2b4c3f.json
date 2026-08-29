@@ -1,0 +1,28 @@
+{
+  "id": "58591802-4358-4012-94ea-fed78e2b4c3f",
+  "title": "Nimir",
+  "slug": "nimir",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pE8W10sjp1hPxpfRZaZcpYYz3d1.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2018,
+  "duration": 130,
+  "rating": null,
+  "description": "An amiable photographer in a small-town, who is nursing a breakup, unwittingly becomes embroiled in a street brawl that turns him into a man obsessed with revenge.",
+  "created_at": "2026-07-31T07:26:13.473Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 6284,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

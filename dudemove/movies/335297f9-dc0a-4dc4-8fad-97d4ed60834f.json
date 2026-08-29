@@ -1,0 +1,32 @@
+{
+  "id": "335297f9-dc0a-4dc4-8fad-97d4ed60834f",
+  "title": "WWE SummerSlam 2026: Saturday + Sunday",
+  "slug": "wwe-summerslam-2026-saturday-sunday",
+  "thumbnail_url": "https://image.tmdb.org/t/p/original/9inlSXE3kW5WEFyI5wnxDTf7aj4.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2026,
+  "duration": null,
+  "rating": null,
+  "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, was a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It was the 39th annual SummerSlam and took place as a two-night event on Saturday, August 1, and Sunday, August 2, 2026, at U.S. Bank Stadium in Minneapolis, Minnesota, held for wrestlers from the promotion's Raw and SmackDown brand divisions.",
+  "created_at": "2026-08-06T04:56:34.451Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 213,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

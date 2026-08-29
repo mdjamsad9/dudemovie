@@ -1,0 +1,24 @@
+{
+  "id": "dd6fdae5-8f58-49c2-9605-b0b0f6e69ec6",
+  "title": "Ormma",
+  "slug": "ormma",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/26VUUBTu1ScD6um2R6kTVPetC0d.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2019,
+  "duration": 127,
+  "rating": null,
+  "description": "Jayakrishnan, an activist who is relentlessly fighting for the cause of nature, marries an orphan girl Rajashree, against the will of his family. Things take a turn when he is killed. What follows is how Rajashree and her daughter Anamika survive in this harsh reality of the world.",
+  "created_at": "2026-07-31T07:09:38.923Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5347,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

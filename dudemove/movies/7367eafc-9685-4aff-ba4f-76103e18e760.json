@@ -1,0 +1,28 @@
+{
+  "id": "7367eafc-9685-4aff-ba4f-76103e18e760",
+  "title": "Project Y",
+  "slug": "project-y",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg",
+  "is_premium": false,
+  "country": "South Korea",
+  "language": "Korean",
+  "release_year": 2026,
+  "duration": 109,
+  "rating": 6,
+  "description": "Mi-sun and Do-kyung might be used to struggling in the most dangerous part of Seoul's Gangnam district, but that doesn't mean they've settled into it. With no one but each other to rely on, the two friends grind away to save the money needed to leave their dangerous lifestyles behind. But just as \"retirement\" comes within reach, the world betrays them, shattering their hopes. On the edge of a dead end, they discover a hidden fortune of dirty cash and gold in Gangnam – and place all their bets on one final high-stakes gamble of a lifetime.",
+  "created_at": "2026-07-09T16:35:25.622Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 160,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/Asian%20Movie/Project%20Y%20(2026)%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Project%20Y%20%282026%29%20Hindi%20Korean%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

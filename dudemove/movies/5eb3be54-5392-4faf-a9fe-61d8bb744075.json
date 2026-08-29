@@ -1,0 +1,32 @@
+{
+  "id": "5eb3be54-5392-4faf-a9fe-61d8bb744075",
+  "title": "Descendants of the Dark",
+  "slug": "descendants-of-the-dark",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1gO7cWSrzz8SiakzQpqjPXG44SK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2023,
+  "duration": 62,
+  "rating": null,
+  "description": "A group of friends meet at their friend's place for the night. Among those friends, there are two brothers who get their friends to play a game. The game is supposed to be really fun and they play it every 4 years on the 7th of November.",
+  "created_at": "2026-07-22T15:11:36.160Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 2457,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

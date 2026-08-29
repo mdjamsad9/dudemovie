@@ -1,0 +1,24 @@
+{
+  "id": "6f77b0ca-c80c-446f-bc37-933434b81d51",
+  "title": "Main Atal Hoon",
+  "slug": "main-atal-hoon",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tBiTGjPXGXHpdyPRKSVfAYqxz6R.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 137,
+  "rating": 5.824,
+  "description": "Statesman and poet Shri Atal Bihari Vajpayee's eloquence and vision shaped India's destiny. A look at his remarkable life as he led his country through a challenging period of change and development as the 10th Prime Minister of India.",
+  "created_at": "2026-07-22T15:11:03.418Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 1280,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9700966e-4492-456d-80be-2dd6277bbb9f",
+  "title": "If I Had Legs I'd Kick You",
+  "slug": "if-i-had-legs-i-d-kick-you",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2025,
+  "duration": 113,
+  "rating": 6.345,
+  "description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
+  "created_at": "2026-07-09T16:48:23.215Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 539,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/If.I.Had.Legs.Id.Kick.You.2025.720p.WEBRip.x264%20%5BDDN%5D/If.I.Had.Legs.Id.Kick.You.2025.720p.WEBRip.x264%20%5BDDN%5D.mp4.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

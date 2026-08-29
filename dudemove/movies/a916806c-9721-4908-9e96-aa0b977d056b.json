@@ -1,0 +1,36 @@
+{
+  "id": "a916806c-9721-4908-9e96-aa0b977d056b",
+  "title": "Toxic : A Fairy Tale for Grown-ups",
+  "slug": "toxic-a-fairy-tale-for-grown-ups",
+  "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHRRG9oAD0VHRz_TeH8TYbL7g6w2PkeGm38QxEkeZWyg&s=10",
+  "is_premium": false,
+  "country": "Bollywood",
+  "language": "Hindi",
+  "release_year": 2026,
+  "duration": 195,
+  "rating": 8.7,
+  "description": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+  "created_at": "2026-08-26T18:31:05.789Z",
+  "genres": [
+    {
+      "name": "All Genres",
+      "slug": "all-genres"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 4,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

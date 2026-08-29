@@ -1,0 +1,28 @@
+{
+  "id": "c276377b-6301-466f-914b-3ad24f583ef6",
+  "title": "Michael",
+  "slug": "michael-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1HChuuIpOungXAtotqVfhCBZUBK.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2023,
+  "duration": null,
+  "rating": null,
+  "description": "Set in the early 1990s, Michael, a simple yet daring boy from the south moves to Bombay with a personal strong motive, grow under the wings of Gurunath, a dreaded gangster. Michael is assigned with a task of killing the man involved in the attempted assassination of Gurunath. Things take a turn as he falls in love with the target's daughter, Theera, in Delhi.",
+  "created_at": "2026-07-31T06:41:36.717Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 2436,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

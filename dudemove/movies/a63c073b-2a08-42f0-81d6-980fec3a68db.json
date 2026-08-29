@@ -1,0 +1,24 @@
+{
+  "id": "a63c073b-2a08-42f0-81d6-980fec3a68db",
+  "title": "Trespassers",
+  "slug": "trespassers",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bGxb1aLWBy1IXemvI41FrKtbCCN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": null,
+  "rating": 4.217,
+  "description": "Tyler is a surfer who constantly searches for good surfing spots. When he's traveling through Mexico, he finds one of the best places he has ever seen. He invites his brother Colin to join him and his friends in surfing the wild Mexican waves. Colin gathers 4 friends and leaves for Mexico but is surprised that nor his brother nor his brother's friends are there. They start realizing that there's something wrong with the beach, a curse that says that no one will leave the beach alive...",
+  "created_at": "2026-08-06T04:59:08.813Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 6231,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

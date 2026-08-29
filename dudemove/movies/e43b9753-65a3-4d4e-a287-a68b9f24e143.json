@@ -1,0 +1,24 @@
+{
+  "id": "e43b9753-65a3-4d4e-a287-a68b9f24e143",
+  "title": "Pancharaaksharam",
+  "slug": "pancharaaksharam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lI8g6SZ2pXKSwOZwvIZPrKD4ZtZ.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 115,
+  "rating": null,
+  "description": "Five friends playfully read passages of doom from a book that can predict an individual’s future. Can they overcome the tragedies that fate has in store for them and rewrite their destinies?",
+  "created_at": "2026-07-31T07:04:05.186Z",
+  "genres": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 5457,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

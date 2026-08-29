@@ -1,0 +1,24 @@
+{
+  "id": "00638770-f5ee-4e12-be80-54ffb9d85046",
+  "title": "Hero",
+  "slug": "hero",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xh1j9iNSQK2ls28AvIyLQolTbrE.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Cantonese",
+  "release_year": 2022,
+  "duration": null,
+  "rating": 4.5,
+  "description": "The background of \"Hero\" is set in 2020: a sudden disaster that disrupted everyone's lives. When society face unemployment when families fall apart, when lovers are separated, when death is approaching quietly, and when a peaceful life suddenly undergoes unexpected changes, how will women respond? What are the vital and irreplaceable roles that men play in women’s lives and growth? The three female directors Zhang Aijia, Li Shaohong and Chen Chong used their unique female perspectives to explore and show people's plights and struggles in family, career, and love in special times.",
+  "created_at": "2026-08-06T04:57:33.802Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3238,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e260f9c0-afad-4caf-b7f6-f7e1175d444e",
+  "title": "Happy Anniversary",
+  "slug": "happy-anniversary",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nQYX248aotb6ma6QxJ14utYEYoD.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2018,
+  "duration": 78,
+  "rating": 5.744,
+  "description": "A quirky couple spends their three-year dating anniversary looking back at their relationship and contemplating whether they should break up.",
+  "created_at": "2026-07-22T15:38:48.747Z",
+  "genres": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "_index": 5980,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

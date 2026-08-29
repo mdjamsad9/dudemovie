@@ -1,0 +1,32 @@
+{
+  "id": "50562a3a-1b6b-4e41-be54-d6a3bb8f6836",
+  "title": "Kingdom of the Planet of the Apes",
+  "slug": "kingdom-of-the-planet-of-the-apes",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+  "is_premium": false,
+  "country": "United States",
+  "language": "English",
+  "release_year": 2024,
+  "duration": 145,
+  "rating": 7.054,
+  "description": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+  "created_at": "2026-07-09T17:16:41.501Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "_index": 966,
+  "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.WEBRip.x264%20%5BDDN%5D/Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

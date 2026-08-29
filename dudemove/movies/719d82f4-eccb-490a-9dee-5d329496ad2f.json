@@ -1,0 +1,36 @@
+{
+  "id": "719d82f4-eccb-490a-9dee-5d329496ad2f",
+  "title": "Accident or Conspiracy: Godhra",
+  "slug": "accident-or-conspiracy-godhra",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7qhCjhhUcoQg7gqB2Q5N5IAZh6J.jpg",
+  "is_premium": false,
+  "country": "India",
+  "language": "Gujarati",
+  "release_year": 2024,
+  "duration": 132,
+  "rating": 3.5,
+  "description": "A student whose parents died in the Gujarat pogrom receives an assignment on the same topic at his university. During his research, he meets everyone associated with the commission and tries to uncover various other aspects.",
+  "created_at": "2026-07-09T16:53:59.943Z",
+  "genres": [
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 1425,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Accident%20or%20Conspiracy%20Godhra%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Accident%20or%20Conspiracy%20Godhra%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

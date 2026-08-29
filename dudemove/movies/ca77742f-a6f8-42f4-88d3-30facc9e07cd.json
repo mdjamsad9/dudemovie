@@ -1,0 +1,32 @@
+{
+  "id": "ca77742f-a6f8-42f4-88d3-30facc9e07cd",
+  "title": "Vellai Pookal",
+  "slug": "vellai-pookal",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/luD1w7nim7jejDlOBYkX7ARBLhB.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2019,
+  "duration": 130,
+  "rating": null,
+  "description": "A retired cop goes to the US to live with his son and becomes involved with a kidnapping case. Even as he is trying to track down the kidnapper, the case becomes too personal.",
+  "created_at": "2026-07-31T07:14:06.699Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    }
+  ],
+  "_index": 5295,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "89957894-a0da-4ea0-84ce-addb60132645",
+  "title": "Hide and Seek",
+  "slug": "hide-and-seek-1",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8vGAAlgJL4BXQVYmwfyMt5nBfjC.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": null,
+  "rating": 4.824,
+  "description": "Noah is seeking to reconnect with his outcast brother after the death of their father. He hopes to make amends and share the family's fortune, but instead finds himself in a dark underworld that threatens to tear his family apart. As he struggles to maintain his sanity, Noah is led on a terrifying trail to the truth through a series of cryptic clues.",
+  "created_at": "2026-08-06T04:58:00.039Z",
+  "genres": [
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 3810,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Toxic%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
