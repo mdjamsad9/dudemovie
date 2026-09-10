@@ -1872,7 +1872,7 @@
     "description": "Watch The Neighbors online in HD on NongorPlay.",
     "created_at": "2026-09-03T12:39:43.891Z",
     "genres": [],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -1890,7 +1890,7 @@
     "description": "Watch Don T Say Good Luck online in HD on NongorPlay.",
     "created_at": "2026-09-03T12:39:43.885Z",
     "genres": [],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -1908,7 +1908,7 @@
     "description": "Watch 8 online in HD on NongorPlay.",
     "created_at": "2026-09-03T12:39:43.881Z",
     "genres": [],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -1926,7 +1926,7 @@
     "description": "Watch Hello Love Goodbye online in HD on NongorPlay.",
     "created_at": "2026-09-03T12:39:43.876Z",
     "genres": [],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -11391,6 +11391,41 @@
     "created_at": "2026-07-09T16:55:13.176Z",
     "genres": [],
     "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Sant%20Tukaram%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/Sant%20Tukaram%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_720p": null,
+    "stream_url_480p": null
+  },
+  {
+    "id": "f78c1ff9-fa5a-41fe-9779-01e82ab1bdf6",
+    "title": "Kingdom",
+    "slug": "kingdom-hindi",
+    "thumbnail_url": "https://ctgmovies.com/imgcache/06/06a55ac75ef54f71e44db4c7fb2fc80f906a203b.webp",
+    "is_premium": false,
+    "country": "Bollywood",
+    "language": "Hindi",
+    "release_year": 2025,
+    "duration": 160,
+    "rating": 8.6,
+    "description": "Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government. His journey is intimately linked to his estranged brother Siva, and the risks involved on their reunion.",
+    "created_at": "2026-09-10T09:23:21.541Z",
+    "genres": [
+      {
+        "name": "All Genres",
+        "slug": "all-genres"
+      },
+      {
+        "name": "Thriller",
+        "slug": "thriller"
+      },
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Action",
+        "slug": "action"
+      }
+    ],
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -25040,7 +25075,7 @@
         "slug": "horror"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nikita%20Roy%20(2025)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nikita%20Roy%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -116716,7 +116751,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -116739,7 +116774,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -116766,7 +116801,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -191030,7 +191065,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -191061,7 +191096,7 @@
         "slug": "fantasy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -191092,7 +191127,7 @@
         "slug": "fantasy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -191127,7 +191162,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -211836,7 +211871,7 @@
         "slug": "family"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -211871,7 +211906,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -211906,7 +211941,7 @@
         "slug": "adventure"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D/SaamRajya%202025%20HDTS%20720p%20Hindi%20x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
