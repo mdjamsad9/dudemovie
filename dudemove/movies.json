@@ -11143,7 +11143,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Main%20Vaapas%20Aaunga%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Main%20Vaapas%20Aaunga%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -11174,7 +11174,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/The.Dresden.Sun.2026.1080p.WEBRip.x264%20%5BDDN%5D/The.Dresden.Sun.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -11205,7 +11205,7 @@
         "slug": "fantasy"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Rahu%20Ketu%20(2026)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Rahu%20Ketu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -11244,7 +11244,7 @@
         "slug": "tv-movie"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Bhabiji%20Ghar%20Par%20Hain%20(2026)%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Bhabiji%20Ghar%20Par%20Hain%20%282026%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -11271,7 +11271,7 @@
         "slug": "action"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/DSP%20Dev%202%20(2026)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/DSP%20Dev%202%20(2026)%20Punjabi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -31072,7 +31072,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -31107,7 +31107,7 @@
         "slug": "family"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/English/Sonic.The.Hedgehog.3.2024.1080p.WEBRip.x264%20%5BDDN%5D/Sonic.The.Hedgehog.3.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -73060,7 +73060,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -73087,7 +73087,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Theru%20(2023)%C2%A0Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Theru%20(2023)%c2%a0Malayalam%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -73122,7 +73122,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Konaseema%20Thugs%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5BDDN%5D/Konaseema%20Thugs%20(2023)%20Telugu%20HQ%20PreDVD%20-%201080p%20-%20x264%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -91524,7 +91524,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -91563,7 +91563,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -91594,7 +91594,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Maha%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Maha%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -91617,7 +91617,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2022/Me.Time.2022.1080p.WEBRip.x264%20%5BDDN%5D/Me.Time.2022.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -124876,7 +124876,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -124903,7 +124903,7 @@
         "slug": "horror"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -124930,7 +124930,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -124957,7 +124957,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -124988,7 +124988,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -151851,7 +151851,7 @@
         "slug": "action"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -151874,7 +151874,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -151901,7 +151901,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Vinaya%20Vidheya%20Rama%20(2019)%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vinaya%20Vidheya%20Rama%20(2019)%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -151924,7 +151924,7 @@
         "slug": "horror"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -180627,7 +180627,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -180658,7 +180658,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -180689,7 +180689,7 @@
         "slug": "tv-movie"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -180716,7 +180716,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -180743,7 +180743,7 @@
         "slug": "adventure"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -212856,7 +212856,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -212887,7 +212887,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -212918,7 +212918,7 @@
         "slug": "science-fiction"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -212949,7 +212949,7 @@
         "slug": "fantasy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -241549,7 +241549,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -241572,7 +241572,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -241595,7 +241595,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -241622,7 +241622,7 @@
         "slug": "family"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Deiva%20Thirumagal%20(2011)%20Malayalam%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Deiva%20Thirumagal%20(2011)%20Malayalam%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -241645,7 +241645,7 @@
         "slug": "action"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Nayyi%20Navelli%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Nayyi%20Navelli%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
