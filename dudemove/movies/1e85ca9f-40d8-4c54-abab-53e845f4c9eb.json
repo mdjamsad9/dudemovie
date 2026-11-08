@@ -1,0 +1,19 @@
+{
+  "id": "1e85ca9f-40d8-4c54-abab-53e845f4c9eb",
+  "title": "Primetime",
+  "slug": "primetime",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+  "is_premium": false,
+  "country": "Hollywood",
+  "language": null,
+  "release_year": 2026,
+  "duration": null,
+  "rating": 6.785,
+  "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+  "created_at": "2026-11-08T09:32:03.627Z",
+  "genres": [],
+  "_index": 440,
+  "stream_url_1080p": "https://ftp.ctgfun.com/English/Primetime%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Primetime%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
