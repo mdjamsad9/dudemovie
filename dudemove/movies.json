@@ -9933,7 +9933,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Maa%20Behen%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Maa%20Behen%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -42474,7 +42474,7 @@
         "slug": "family"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Present.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Present.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -42497,7 +42497,7 @@
         "slug": "horror"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Never.Let.Go.2024.1080p.WEBRip.x264%20%5BDDN%5D/Never.Let.Go.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -42524,7 +42524,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/The.Union.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Union.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -42559,7 +42559,7 @@
         "slug": "science-fiction"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2024/Arcadian.2024.1080p.WEBRip.x264%20%5BDDN%5D/Arcadian.2024.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -42594,7 +42594,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Baby%20John%20(2024)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Baby%20John%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -70025,7 +70025,7 @@
         "slug": "horror"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -70052,7 +70052,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -70087,7 +70087,7 @@
         "slug": "fantasy"
       }
     ],
-    "stream_url_1080p": "https://movie.ctgfun.com/disk1/English%20Movies/2023/Robots.2023.1080p.WEBRip.x264%20%5BDDN%5D/Robots.2023.1080p.WEBRip.x264%20%5bDDN%5d.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -70110,7 +70110,7 @@
         "slug": "documentary"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -70141,7 +70141,7 @@
         "slug": "family"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -102207,7 +102207,7 @@
         "slug": "science-fiction"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Mr%20Tharak%20(2022)%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mr%20Tharak%20(2022)%20Hindi-Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -102234,7 +102234,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Route%20Map%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Route%20Map%20(2022)%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -102261,7 +102261,7 @@
         "slug": "fantasy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Garuda%20(2022)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Garuda%20(2022)%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -102292,7 +102292,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Naan%20Mirugamaai%20Maara%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Naan%20Mirugamaai%20Maara%20(2022)%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -128219,7 +128219,7 @@
         "slug": "action"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -128250,7 +128250,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -128281,7 +128281,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -128304,7 +128304,7 @@
         "slug": "western"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -128335,7 +128335,7 @@
         "slug": "horror"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -188043,7 +188043,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -188074,7 +188074,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -188105,7 +188105,7 @@
         "slug": "thriller"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -188123,7 +188123,7 @@
     "description": "Ego movie is a romantic action entertainer directed by RV Subramanyam and jointly produced by KR Anil Karan, KR Kaushal Karan and KR Vijay Karan while Sai Karthik scored music for this movie.",
     "created_at": "2026-07-31T07:10:21.448Z",
     "genres": [],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -188150,7 +188150,7 @@
         "slug": "romance"
       }
     ],
-    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "stream_url_1080p": null,
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -222914,7 +222914,7 @@
         "slug": "crime"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -222941,7 +222941,7 @@
         "slug": "drama"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -222964,7 +222964,7 @@
         "slug": "comedy"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
@@ -222995,7 +222995,7 @@
         "slug": "action"
       }
     ],
-    "stream_url_1080p": null,
+    "stream_url_1080p": "https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "stream_url_720p": null,
     "stream_url_480p": null
   },
